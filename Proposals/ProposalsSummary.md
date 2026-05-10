@@ -1,3 +1,3 @@
-# Further Implications
+# Proposals Summary
 
 [Back to README](../README.md)
