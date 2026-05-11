@@ -23,7 +23,8 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
 3. [Enablers](Enablers/EnablersSummary.md)
 4. [Blockers](Blockers/BlockersSummary.md)
 5. [Proposals](Proposals/ProposalsSummary.md)
-    1. [Taxation](Analysis/Taxation.md)
+   1. [Democracy](Proposals/ImprovingDemocracy.md) 
+   2. [Taxation](Analysis/Taxation.md)
 5. [FurtherImplications](FurtherImplications/FurtherImplications.md)
 6. Analysis
    1. [Overview](Analysis/Overview.md)
