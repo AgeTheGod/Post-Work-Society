@@ -1,3 +1,5 @@
+# Distributive
+
 The human rights that are defended in libertarian literature tend to be limited in scope, which entails that the duties that people can be compelled to fulfil are similarly minimal. 
 
 For this reason a commitment to libertarianism tends to be seen as incompatible with support for subsistence rights, enforceable positive duties, and redistributive taxation, since each one of these issues may require the infringement of libertarian property rights. 
@@ -17,3 +19,5 @@ I propose an egalitarian understanding of world ownership which comprises common
 Taking the injustice of radically inegalitarian appropriation in conjunction with a duty to rectify past injustices, there follows a libertarian argument for redistribution, but crucially this redistributive taxation is collected not on income but on natural resource use. 
 
 On a left-libertarian theory of rights, then, there is no right to appropriate unlimited resources, but there is a right to redistribution in the event of past injustices, including the misappropriation of worldly resources.
+
+[Back to README](../README.md)

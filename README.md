@@ -18,19 +18,29 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
 ##  Contents
 
 1. [Introduction](Preamble/Introduction.md)
-2. [Objectives](Objectives/ObjectivesSummary.md)
-2. [DefinitionOfTerms](Definitions/DefinitionsSummary.md)
-3. [Enablers](Enablers/EnablersSummary.md)
-4. [Blockers](Blockers/BlockersSummary.md)
-5. [Proposals](Proposals/ProposalsSummary.md)
-   1. [Democracy](Proposals/ImprovingDemocracy.md) 
-   2. [Taxation](Analysis/Taxation.md)
-5. [FurtherImplications](FurtherImplications/FurtherImplications.md)
-6. Analysis
+   2. [Objectives](Objectives/ObjectivesSummary.md)
+   4. [Enabling Technologies](Preamble/EnablingTechnology.md)
+   5. [Blockers To Progress](Preamble/BlockersToProgress.md)
+3. Definitions of Terms
+   1. [Concept Model](DefinitionOfTerms/ConceptModel.md)
+   2. [What Is Society?](DefinitionOfTerms/WhatISSociety.md)
+   3. [Politics + Government](DefinitionOfTerms/Politics+Government.md)
+6. [Proposals](Proposals/ProposalsSummary.md)
+   1. [Improving Democracy](Proposals/ImprovingDemocracy.md)
+   3. [Mational Identity Card](Proposals/NationalIdentityCard.md)
+   2. [Progressive Taxation](Proposals/ProgressiveTaxation.md)
+   3. [Ring Fenced Taxation](Proposals/RingFencedTaxation.md)
+   2. [Life Long Education](Proposals/LifeLongEducation.md)
+7. [Further Implications](FurtherImplications/FurtherImplications.md)
+8. Analysis
    1. [Overview](Analysis/Overview.md)
    2. [Distribution of Wealth](Analysis/DistributionOfWealth.md)
-   2. [Education](Analysis/Education.md)
-   3. [TypesOfEmployment](Analysis/TypesOfEmployment.md)
+   3. [Distributive](Analysis/Distributive.md)
+   4. [Education](Analysis/Education.md)
+   5. [Types of Employment](Analysis/TypesOfEmployment.md)
+   6. [Taxation](Analysis/Taxation.md)
+9. [References](References.md) 
+
 
 ##  Making Contributions
 

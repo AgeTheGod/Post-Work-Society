@@ -8,3 +8,5 @@ The bulk of this is written in GitHub Markdown with Mermaid used for technical d
 Where graphics are used, especially when used for statistical representation of data, then the underlying data is also included in the Analysis section of the repository, 
 Ideally the graphics are generated from that data and the generation code also included in this repository.
 Tables are simple Markdown tables - do not use HTML unless absolutely necessary.
+
+[Back to README](./README.md)
