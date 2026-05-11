@@ -1,4 +1,4 @@
-# Distributive
+# Distribution of Resources
 
 The human rights that are defended in libertarian literature tend to be limited in scope, which entails that the duties that people can be compelled to fulfil are similarly minimal. 
 
