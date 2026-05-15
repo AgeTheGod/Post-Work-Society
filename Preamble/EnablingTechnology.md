@@ -23,4 +23,4 @@ The **Internet** allows us to communicate and access information in ways that we
 
 **Predictive Analytics** allows us to make better decisions and to optimize our resources to create a more efficient and effective society.
 
-[Back to README](../README.md)
+[Back to Contents](../README.md)

@@ -1,3 +1,3 @@
 # Proposals Summary
 
-[Back to README](../README.md)
+[Back to Contents](../README.md)

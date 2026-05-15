@@ -37,4 +37,4 @@ classDiagram
     Person --> Address : resides at
 ```
 
-[Back to README](../README.md)
+[Back to Contents](../README.md)

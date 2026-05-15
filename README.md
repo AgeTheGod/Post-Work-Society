@@ -34,12 +34,13 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
       2. [National Identity Card](DemocraticReform/NationalIdentityCard.md)
       3. [Electronic Voting](DemocraticReform/ElectronicVoting.md)
       4. [Direct Democracy](DemocraticReform/DirectDemocracy.md)
-   2. Economic Reform
-      1. [Funding Public Services](DeliveringPublicServices/FundingPublicServices.md)
-      2. [Ring Fenced Taxation](DeliveringPublicServices/RingFencedTaxation.md)
-   3. Delivering Public Services
-      1. [Free To Use Internet](DeliveringPublicServices/FreeToUseInternet.md)
+   2. Delivering Public Services
+      1. [Essential Utilities](DeliveringPublicServices/EssentialUtilities.md)
+      2. [Free To Use Internet](DeliveringPublicServices/FreeToUseInternet.md)
       2. [Life-Long Education](DeliveringPublicServices/LifeLongEducation.md)
+   3. Economic Reform
+       1. [Funding Public Services](EconomicReform/FundingPublicServices.md)
+       2. [Ring Fenced Taxation](EconomicReform/RingFencedTaxation.md)
 5. [Further Implications](FurtherImplications/FurtherImplications.md)
 6. Analysis
    1. [Overview](Analysis/Overview.md)
@@ -48,12 +49,15 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
    4. [Education](Analysis/Education.md)
    5. [Types of Employment](Analysis/TypesOfEmployment.md)
    6. [Taxation](Analysis/Taxation.md)
-7. [References](References.md) 
+7. Postscripts
+   8. [References](Postscripts/References.md)
+   9. [Glossary](Postscripts/Glossary.md])
 
 
 ##  Making Contributions
 
-If you have any thoughts on this topic, or if you would like to contribute to this project, please feel free to reach out to me.
+This is intended to be a perpetual work in Progress (which is why it's version controlled on GitHub) and frequently updated as I work through various thoughts.
+
+If you have any thoughts on this subject and would like to contribute to this project, please feel free to reach out to me.
 You can also fork this repository and submit a pull request with your contributions.
 Please read [Contributing](CONTRIBUTING.md) for more details on how to contribute to this project.
-

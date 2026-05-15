@@ -75,4 +75,4 @@ Don't try to get everything right the first time, but instead iterate and improv
 
 Procrastination is the enemy of progress and can lead to a situation where nothing gets done because people are trying to get everything right before they start.
 
-[Back to README](../README.md)
+[Back to Contents](../README.md)

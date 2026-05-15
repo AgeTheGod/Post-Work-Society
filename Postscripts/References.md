@@ -33,6 +33,6 @@ US Current Employment Statistics https://www.bls.gov/ces/
 UK Current Employment Statistics https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/employmentbyoccupationemp13
 Eurastat Database https://ec.europa.eu/eurostat/databrowser/explore/all/t_popul?sort=category&lang=en&subtheme=t_demo&display=list
 
-[Back to README](./README.md)
+[Back to Contents](../README.md)
 
 https://davidgraeber.org/articles/a-practical-utopians-guide-to-the-coming-collapse/
