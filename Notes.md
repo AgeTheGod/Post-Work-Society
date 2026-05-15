@@ -115,3 +115,11 @@ To the point that nowadays we have a situation where the majority of people are 
 Their entire purpose is to extract value from a community rather than create sustainable communities that can thrive in the long term.
 
 This is something that needs to be rectified in a post-work society, where we need to have a system that is based on the idea of mutual benefit and cooperation rather than competition and profit.
+
+##  Not Everything is for Profit
+
+This is one of the surprising results of doing some research. The Voluntary Sector of Society is much, much bigger than most people assume it is.
+
+Food Banks
+Charity Shops
+Community Run Services

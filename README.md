@@ -1,4 +1,4 @@
-# Ramblings on the implementation and organization of a post-work society
+# Towards a Post-Work Society
 
 A "**Post-Work Society**", we would have a basic quality of life that would allow everyone to live comfortably without having to "work to live".
 This would allow people to pursue their passions and interests without worrying about how they will pay the bills.
@@ -17,30 +17,38 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
 
 ##  Contents
 
-1. [Introduction](Preamble/Introduction.md)
-   1. [Objectives](Objectives/ObjectivesSummary.md)
+1. Introduction
+   1. [Motivation](Introduction/Motivation.md)
+   2. [Scope](Introduction/Scope.md)
+2. Preamble
+   1. [Objectives](Preamble/ObjectivesSummary.md)
    2. [Enabling Technologies](Preamble/EnablingTechnology.md)
    3. [Blockers To Progress](Preamble/BlockersToProgress.md)
-2. Definitions of Terms
+3. Definitions of Terms
    1. [Concept Model](DefinitionOfTerms/ConceptModel.md)
    2. [What Is Society?](DefinitionOfTerms/WhatISSociety.md)
    3. [Politics + Government](DefinitionOfTerms/Politics+Government.md)
-3. [Proposals](Proposals/ProposalsSummary.md)
-   1.   [Free To Use Internet](Proposals/FreeToUseInternet.md) 
-   1. [Improving Democracy](Proposals/ImprovingDemocracy.md)
-   2. [National Identity Card](Proposals/NationalIdentityCard.md)
-   3. [Funding Public Services](Proposals/FundingPublicServices.md)
-   4. [Ring Fenced Taxation](Proposals/RingFencedTaxation.md)
-   5. [Life-Long Education](Proposals/LifeLongEducation.md)
-4. [Further Implications](FurtherImplications/FurtherImplications.md)
-5. Analysis
+4. [Proposals](DeliveringPublicServices/ProposalsSummary.md)
+   1. Democratic Reform
+      1. [Improving Democracy](DemocraticReform/DemocraticReformOverview.md)
+      2. [National Identity Card](DemocraticReform/NationalIdentityCard.md)
+      3. [Electronic Voting](DemocraticReform/ElectronicVoting.md)
+      4. [Direct Democracy](DemocraticReform/DirectDemocracy.md)
+   2. Economic Reform
+      1. [Funding Public Services](DeliveringPublicServices/FundingPublicServices.md)
+      2. [Ring Fenced Taxation](DeliveringPublicServices/RingFencedTaxation.md)
+   3. Delivering Public Services
+      1. [Free To Use Internet](DeliveringPublicServices/FreeToUseInternet.md)
+      2. [Life-Long Education](DeliveringPublicServices/LifeLongEducation.md)
+5. [Further Implications](FurtherImplications/FurtherImplications.md)
+6. Analysis
    1. [Overview](Analysis/Overview.md)
    2. [Distribution of Wealth](Analysis/DistributionOfWealth.md)
    3. [Distribution of Resources](Analysis/DistributionOfResources.md)
    4. [Education](Analysis/Education.md)
    5. [Types of Employment](Analysis/TypesOfEmployment.md)
    6. [Taxation](Analysis/Taxation.md)
-6. [References](References.md) 
+7. [References](References.md) 
 
 
 ##  Making Contributions
