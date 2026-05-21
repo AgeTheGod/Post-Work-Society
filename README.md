@@ -25,9 +25,14 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
    2. [Enabling Technologies](Preamble/EnablingTechnology.md)
    3. [Blockers To Progress](Preamble/BlockersToProgress.md)
 3. Definitions of Terms
-   1. [Concept Model](DefinitionOfTerms/ConceptModel.md)
+   1. [Overview](DefinitionOfTerms/DefinitionOfTermsOverview.md)
    2. [What Is Society?](DefinitionOfTerms/WhatISSociety.md)
-   3. [Politics + Government](DefinitionOfTerms/Politics+Government.md)
+   2. [What Is Money](DefinitionOfTerms/WhatIsMoney.md)
+   3. [How Do We Measure Wealth?](DefinitionOfTerms/HowDoWeMeasureWealth.md)
+   3. [What is Capitalism?](DefinitionOfTerms/WhatIsCapitalism.md)
+   4. [What Is Socialism?](DefinitionOfTerms/WhatIsSocialism.md)
+   5. [What Is Libertarianism?](DefinitionOfTerms/WhatIsLibertariansim.md)
+   6. [Politics + Government](DefinitionOfTerms/Politics+Government.md)
 4. [Proposals](DeliveringPublicServices/ProposalsSummary.md)
    1. Democratic Reform
       1. [Improving Democracy](DemocraticReform/DemocraticReformOverview.md)
@@ -40,6 +45,7 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
       2. [Life-Long Education](DeliveringPublicServices/LifeLongEducation.md)
    3. Economic Reform
        1. [Funding Public Services](EconomicReform/FundingPublicServices.md)
+       2. [State Owned Enterprises](EconomicReform/StateOwnedEnterprises.md) 
        2. [Ring Fenced Taxation](EconomicReform/RingFencedTaxation.md)
 5. [Further Implications](FurtherImplications/FurtherImplications.md)
 6. Analysis
@@ -51,7 +57,7 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
    6. [Taxation](Analysis/Taxation.md)
 7. Postscripts
    8. [References](Postscripts/References.md)
-   9. [Glossary](Postscripts/Glossary.md])
+   9. [Glossary](Postscripts/Glossary.md)
 
 
 ##  Making Contributions
