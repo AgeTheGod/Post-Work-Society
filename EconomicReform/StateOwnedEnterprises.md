@@ -4,30 +4,45 @@
 
 ### Nationalized Industries
 
-It's no secret in the UK that Nationalized Industries directly owned by the UK Government were a complete failure during the 20th century for many reasons.
+Although there were natioalized industries in the UK prior to 1945 (e.g. the Bank of England was nationalized in 1946) the real expansion of nationalized industries in the UK came after the Second World War when the Labour Government nationalized a number of key industries which was carried on by subsequent Governments (including Conservative ones) as part of the "**Post-War Consensus**". 
 
-- They were a drain on the public finances and that 
-- They were frequently the target of Political interference with unclear objectives being set by changing governments and that led to a lack of accountability and a lack of focus on delivering value to the public.
-- They were a source of inefficiency - most of the nationalized industries employed many more people than they needed as a means to hid the true national unemployment numbers.  
+Basically the country was in a mess and Nationalization basex on something called the "**Morrisonian Model**" was the solution.
 
-All of which resulting in a very poor service to the public and a very poor return on the investment of the public's money and obviously wew do not qwant to go back to that method of providing public services to Society.
+However, by the mid 1970's, it was obvious that the UK Government management of those Nationalized Industries were a complete failure for many reasons including inept political interference and a lack of accountability and, especially in the 1970's, susceptible to extreme union disruption with whole industries being shutdown over minor management disagreements. 
+(I'm a huge believer in Collective Bargaining but the Trade Unions really did not do themselves any favours at this time.)
+
+Without going into a lot of detail, this resulted in a very poor service to the public and a very poor return on the investment of the public's money.
 
 ### Privatization
 
-When Margaret Thatcher’s administration took office in 1979, the Morrisonian model was heavily criticized for creating inefficient monopolies that drained public funds. 
+Consequently, when Margaret Thatcher’s administration took office in 1979, the Morrisonian model was heavily criticized for creating inefficient monopolies that drained public funds. 
 It consequently became government policy throughout the 1980s to dismantle this structure, the government used a specific organizational playbook:
 
 1. Financial Tightening: The Treasury aggressively shrank EFLs, forcing industries to cut staff and close unprofitable facilities (such as coal pits and steel mills) to prepare them for commercial survival.
 2. Corporate Restructuring: Statutory corporations were stripped of their public legal status and transformed into public limited companies (PLCs) under normal company law.
 3. Flotation and Deregulation: The state’s shares in these newly formed PLCs were sold on the London Stock Exchange to institutional and retail investors, replacing ministerial control with independent sector regulators (such as Oftel for British Telecom in 1984 and Ofgas for British Gas in 1986).
 
+This was a multi-year activity that lasted well into the 1980's and resulted in the privatization of a number of key industries including British Telecom, British Gas, British Airways, British Steel, British Coal, and many others.
+
+At the time this was seen as beneficial because most of the shares were issued directly to British citizens at preferential prices well under the subsequent market prices for those shares (i.e. a typical IPO).
+
+Unfortunately, the long-term consequences of this policy were not good for the public because many of those industries were natural monopolies and so the privatization resulted in private monopolies that were able to charge high prices for their services and that were not incentivized to invest in improving their services because they did not have to compete with anyone else.
+
 ### Private Equity Corporations
 
-However, delivering public services through private enterprises has proved equally bad in many cases, because private enterprises are primarily motivated by profit and that can lead to a focus on short-term gains rather than long-term sustainability and that can lead to a focus on cutting costs rather than investing in quality and that can lead to a focus on maximizing shareholder value rather than delivering value to the public.
+However, delivering public monopoly services through private enterprises has proved equally bad in many cases.
+
+Ex-Nationalized Companies, particularly Public Utilities like Water, Electricity, Gas, and Rail, are natural monopolies and so they have no competition which means they can raise prices cut quality of service without worrying about losing customers to competitors.
+
+Given that they were monopolies they very quickly became targets for Private Equity Corporations (particularly Foreign Private Equity Corporations) to buy them (because they weren't protected in any way) and then cut costs to maximize profits (because regulators set prices and not profit margins) and in some cases asset strip the companies (a common ploy in company buy-outs that is still legal today). 
+
+This should have been obvious to anyone that understands the fundamentals of Capitalism and the fundamentals of Monopolies but it seems that the UK Government was either too naive or too ideologically driven to see this coming and to put in place the necessary protections to prevent it from happening.
+
+So, the net effect of this is a decades long deterioration in public services which, once again, are in a bit of a mess and the public are paying more for worse services than they were before and the Government is not doing anything about it because they don't want to be seen as "interfering with the free market" or "picking winners and losers" or "nationalizing industries again" or whatever other ideological nonsense they come up with to justify their inaction.
 
 ##  Proposed Alternatives
 
-So, given that the Morrisonian model of Nationalized Industries and the Thatcherite model of Privatization have both proved to be very bad ways to deliver public services to Society, what are the alternatives?
+Given that both the Morrisonian model of Nationalized Industries and the Thatcherite model of Privatization have both proved to be very bad ways to deliver public services to Society, what are the alternatives?
 
 ###  State Owned Enterprises
 
@@ -77,6 +92,19 @@ However, although I think State Owned Enterprises are a good idea in general the
 
 The most obvious case being sectors that require significant on-going capital investment to build or modernize long-term infrastructure. 
 Bottom line with these are that infrastructure generally requires a lot of up-front money to build and then it generates a steady stream of revenue over a long period of time once it's up and running.
+
+####    Public Benefit Corporations
+
+Here I would also slot-in Public Benefit Corporations which is a kind opf Corporation defined in the USA, and in some other countries, as a type of corporation that is legally required to consider the impact of its decisions on society and the environment in addition to shareholder returns.
+
+In the UK we don't have any specific legal framework for Public Benefit Corporations as a general corporate or legal structure but do have...
+- Specific statutory entities called Public Benefit Corporations defined under the NHS Act 2003 and covers NHS Foundation Trusts
+- Community Interest Companies (CICs): For private enterprises pursuing social good, CICs are the closest official, legally binding UK framework, with tens of thousands of CICs registered at Companies House.
+- Certified B Corporations: Many UK businesses seeking a "benefit corporation" equivalent instead opt for voluntary B Corp certification, where they are required to meet high standards of social and environmental performance.
+ 
+We should have more of these or encourage more existing companies that provide public services to convert to one of them so that they can clearly state their benefit to the public and constrain the excesses of Free Market Capitalism.
+
+Even so, there stil is an opportunity to create a new legal framework for State Owned Enterprises to provide the necessary funding for their capital investment needs.
 
 ##  Government Issued Debt Investment
 
