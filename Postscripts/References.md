@@ -1,8 +1,8 @@
 # References for Further Reading
 
-##  Knowledge Articles
+##  Wikipedia Knowledge Articles
 
-In a lot of cases the links are to Wikipedia pages because that's a great start point for anyone that wants to read more detail on a particular topic and contains many cross-references and external links that provide additional information.
+I use a lot of references to Wikipedia pages because that's a great start point for anyone that wants to read more detail on a particular topic and contains many cross-references and external links that provide additional information.
 
 | Term                                                                                                        | Summary                                                                                                                                                                                            |
 |-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -19,31 +19,39 @@ In a lot of cases the links are to Wikipedia pages because that's a great start 
 | [Libertarianism](https://en.wikipedia.org/wiki/Libertarianism)                                              |                                                                                                                                                                                                    |
 | [Anarchism](https://en.wikipedia.org/wiki/Anarchism)                                                        |                                                                                                                                                                                                    |
 | [Left-Libertarianism](https://en.wikipedia.org/wiki/Left-libertarianism)                                    |                                                                                                                                                                                                    |
-| https://en.wikipedia.org/wiki/Social_structure                                                              |                                                                                                                                                                                                    |
-
+| [Social Structure](https://en.wikipedia.org/wiki/Social_structure)                                            |                                                                                                                                                                                                    |
+| [British Business Bank](https://en.wikipedia.org/wiki/British_Business_Bank)                                                         |                                                                                                                                                                                                    |
 
 
 ##  Ideas
 
-https://novaramedia.com/2021/12/29/the-land-hoarding-elite-should-be-paying-the-rest-of-us-rent/
-https://www.idea.int/about-us
-https://davidgraeber.org/articles/a-practical-utopians-guide-to-the-coming-collapse/
-https://voicesofcapitalism.com/hyper-capitalism-vs-capitalism/
+|Link| Summary |
+|----|---------|
+|https://novaramedia.com/2021/12/29/the-land-hoarding-elite-should-be-paying-the-rest-of-us-rent/|         |
+|https://www.idea.int/about-us|         |
+|https://davidgraeber.org/articles/a-practical-utopians-guide-to-the-coming-collapse/|         |
+|https://voicesofcapitalism.com/hyper-capitalism-vs-capitalism/|         |
 
-##  Data Sources
+##  General Data Sources
 
-| Region | Link                                                                                                                                                           | Contains | 
-|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| UK     | [Current Employment Statistics](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/employmentbyoccupationemp13) |          |
-| UK     | [UK House of Commons Library Data](https://commonslibrary.parliament.uk/data)                                                                                  |
-||                                                                                                                                                                |
-| EU     | [Eurastat Database](https://ec.europa.eu/eurostat/databrowser/explore/all/t_popul?sort=category&lang=en&subtheme=t_demo&display=list)                          |          |
-||                                                                                                                                                                |
-| US     | [Current Employment Statistics](https://www.bls.gov/ces)                                                                                                       |          |
-||                                                                                                                                                                |
-|World|                                                                                                                                                                |          |
+| Region | Link                                                                       | Contains                                                                       | 
+|--------|----------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| UK     | [Office For National Statistics](https://www.ons.gov.uk/)                  | UK Government site for all official economic and social statistics             |
+| UK     | [House of Commons Library Data](https://commonslibrary.parliament.uk/data) | Briefs, reports and analysis provided to Members of Parliament and their staff |
+|        |                                                                            |
+| EU     | [Eurastat](https://ec.europa.eu/eurostat)                                  |                                                                                |
+|        |                                                                            |
+| US     | [US Data](https://www.data.gov)                                            | U.S. Government's Open Data that are free to access, query and download        |
+| US     | [Bureau of Labor Statistics](https://www.bls.gov/)                         |                                                                                |
+|        |                                                                            |                                                                                |
+| World  | [Statista](https://www.statista.com/)                                      | Gathers together insights and facts across 170 industries and 150+ countries   |
 
-https://data.bls.gov/oesprofile/
+##  Specific Data Sources
+
+| Link                                                                                                                                                              | Contains                                                                       | 
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| [UK Current Employment Statistics](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/employmentbyoccupationemp13) |                                                                                |
+| [US Current Employment Statistics](https://www.bls.gov/ces)                                                                                                       |                                                                                |
 
 [Back to Contents](../README.md)
 

@@ -25,10 +25,11 @@ It consequently became government policy throughout the 1980s to dismantle this 
 
 However, delivering public services through private enterprises has proved equally bad in many cases, because private enterprises are primarily motivated by profit and that can lead to a focus on short-term gains rather than long-term sustainability and that can lead to a focus on cutting costs rather than investing in quality and that can lead to a focus on maximizing shareholder value rather than delivering value to the public.
 
-
-##  State Owned Enterprises
+##  Proposed Alternatives
 
 So, given that the Morrisonian model of Nationalized Industries and the Thatcherite model of Privatization have both proved to be very bad ways to deliver public services to Society, what are the alternatives?
+
+###  State Owned Enterprises
 
 Top of my list would be State Owned Enterprises, which are businesses that are partially or fully owned by the government but operate as individual Limited Liability Corporations.
 
@@ -66,18 +67,20 @@ This includes...
 * Uses "**Golden Shares**" (actions spécifiques) giving the government a permanent right to veto the sale of critical assets, block specific investors from buying large blocks of shares, or deny changes in corporate strategy.
 * Direct Intervention using national security mandates to aggressively intercept deals. The Ministry of the Economy regularly blocks or heavily modifies proposed foreign acquisitions—such as blocking private equity sales of aerospace components or forcing extensive operational conditions on buyers.
 
-|      |                                                                                                                                                                                                                                                                               |
-|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ToDo | There's a lot of unpicking to do here but I think this has legs if done correctly and if the right legal framework is put in place.                                                                                                                                           |
-| Note | The French approach is not without its critics, who argue that it can stifle competition and innovation. However, it does provide a clear legal framework for ensuring that public services are delivered in a way that benefits the public rather than private shareholders. |
-| Note | The "ownership" rules are difficult to enforce. When I worked on Client360 it was a real eye-opener to see the complex network of shell companies and intermediaries that some investors put in place to obfuscate the ultimate ownership of an investment.                   | 
+|      |                                                                                                                                                                                                                                                                                                                                          |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ToDo | There's a lot of unpicking to do here but I think this has legs if done correctly and if the right legal framework is put in place.                                                                                                                                                                                                      |
+| Note | The French approach is not without its critics who argue that it can stifle competition and innovation (though seems it's mostly foreign multi-nationals that argue this).                                                                                                                                                               |
+| Note | The "ownership" rules might be difficult to enforce. When I worked on Client360 it was a real eye-opener to see the complex network of shell companies and intermediaries that some investors put in place to obfuscate the ultimate ownership of an investment and whether they have a controlling interest or not. **Beware of this!** | 
 
-However, although I think State Owned Enterprises are a good idea there are specific cases where they would not be the best way to deliver public services the most obvious one being sectors that require significant on-going capital investment to build or modernize long-term infrastructure. 
+However, although I think State Owned Enterprises are a good idea in general there are specific cases where they would not be the best way to deliver public services.
+
+The most obvious case being sectors that require significant on-going capital investment to build or modernize long-term infrastructure. 
 Bottom line with these are that infrastructure generally requires a lot of up-front money to build and then it generates a steady stream of revenue over a long period of time once it's up and running.
 
 ##  Government Issued Debt Investment
 
-Where there is significant on-going capital investment to build or modernize long-term infrastructure then Equity Investment is rarely seen as the best option to raise the money required.
+Where there is significant on-going capital infrastructure investment required then Equity Investment is rarely seen as the best option to raise the money required.
 
 In most cases the better option is to raise the money through Debt Investment i.e. borrow the money through a secured loan whicvh is then paid back over time from revenue generated by the borrower. 
 This is classic capital investment that pretty much all Limited Liability Corporations already engage in so not really very radical.
@@ -88,23 +91,25 @@ The benefits are that...
 - The debt is secured by the borrowers assets (same principle as per private lenders) 
 - It's the Borrower, not the Government, that actually pays opf the Debt, so does not become part of the National Borrowing and does not add to the National Debt.
 
- ToDo: More unpicking to do here...
+The UK Government already operates something similar to this via the [British Business Bank](https://en.wikipedia.org/wiki/British_Business_Bank), which brokers loans for businesses, and the [Public Works Loan Board (PWLB)](https://en.wikipedia.org/wiki/Public_Works_Loan_Board) which brokers loans to local authorities and other public bodies for capital projects.
+
+However, neither of these bodies are really designed to be the lender of first resort for the kind of long-term infrastructure investment that is required to build or modernize public services and so there is an opportunity to create a new body that is specifically designed to do this and that is specifically designed to work with State Owned Enterprises to provide the necessary funding for their capital investment needs.
+
+ToDo: More unpicking to do here...
 
 ##  Golden Shares
 
 The French Foreign Direct Investment framework includes the use of "golden shares" (actions spécifiques) in partially privatized giants. These legal vehicles give the government a permanent right to veto the sale of critical assets, block specific investors from buying large blocks of shares, or deny changes in corporate strategy.
 
-We also have these in the UK and the UK Government has used them in the past to protect certain companies, such as British Aerospace and Rolls Royce Holdings, from hostile takeovers.
+Golden Shares also exist in the UK and the UK Government has used them in the past to protect certain companies, such as British Aerospace and Rolls Royce Holdings, from hostile takeovers.
 
-In fact, we used to have a lot of these because every privatization through through the 1980's originally came with a "Golden Share" restriction but they've slowly been cancelled over the years and the privatised companies changed hands and various Golden Shares have been legally challenged by some companies and investors.
+In fact, we used to have a lot of these because every privatization through the 1980's originally came with a "Golden Share" restriction but they've slowly been cancelled over the years and the privatised companies changed hands and various Golden Shares have been legally challenged by some companies and investors.
 
 Note: France doesn't have this "legal challenge" problem because the have a FDI framework that deals with it. The problem in the UK is because we don;t have that framework to rely on.
 
-With a Golden Share the owner
+So, this is an option for private equity owned companies that are providing public services in sectors that are critical to the national interest but that are not suitable for State Owned Enterprises and that are not suitable for Government Issued Debt Investment.
 
-So, this is an option for private equity owned companies that are providing public services in sectyors that are critical to the national interest but that are not suitable for State Owned Enterprises and that are not suitable for Government Issued Debt Investment.
-
-Note: I first came across these when Thomsons Financial (now part of Refinitiv) was trying to buy Reuters and there was a Golden Share involved so they had to first convince the Reuters Foundation that selling the company was a good thing even though the Reuters Foundation's had no direct investment in Reuters and its primary objective was just to protect the independence of the company.
-Having the power to veto enabled Reuters Foundation to extract all kinds of concessions from Thomsons Financial in order to get the deal done.
-Unfortunately those conessions  where not heriditary and so when the company was sold again to private equity the new owners were not bound by those concessions and so the Reuters Foundation had to use its veto power to extract new concessions from the new owners in order to get the deal done again.
-There's something we can learn from that anecdote.
+**_Note_**: I first came across these when Thomson Financial (now part of Refinitiv) was trying to buy Reuters (who I worked for at the time) and there was a Golden Share involved so they had to first convince the Reuters Foundation that selling the company was a good thing even though the Reuters Foundation's had no direct investment in Reuters and its primary objective was just to protect the independence of the company.
+Having the power to veto enabled Reuters Foundation to extract all kinds of concessions from Thomson Financial in order to get the deal done.
+Unfortunately those concessions were not hereditary and so when the Thomson Financial was sold again to new private equity owners were not bound by those concessions.
+There's something we can learn from that anecdote i.e. make sure that any constraints and restrictions are in perpetuity and automatically transferred with ownership.

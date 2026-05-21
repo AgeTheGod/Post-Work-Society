@@ -44,9 +44,9 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
       2. [Free To Use Internet](DeliveringPublicServices/FreeToUseInternet.md)
       2. [Life-Long Education](DeliveringPublicServices/LifeLongEducation.md)
    3. Economic Reform
-       1. [Funding Public Services](EconomicReform/FundingPublicServices.md)
-       2. [State Owned Enterprises](EconomicReform/StateOwnedEnterprises.md) 
-       2. [Ring Fenced Taxation](EconomicReform/RingFencedTaxation.md)
+      1. [State Owned Enterprises](EconomicReform/StateOwnedEnterprises.md) 
+      2. [Funding Public Services](EconomicReform/FundingPublicServices.md)
+      3. [Ring Fenced Taxation](EconomicReform/RingFencedTaxation.md)
 5. [Further Implications](FurtherImplications/FurtherImplications.md)
 6. Analysis
    1. [Overview](Analysis/Overview.md)
