@@ -1,12 +1,10 @@
 # Towards a Post-Work Society
 
-A "**Post-Work Society**", we would have a basic quality of life that would allow everyone to live comfortably without having to "work to live".
-This would allow people to pursue their passions and interests without worrying about how they will pay the bills.
+A "**Post-Work Society**" is a society designed so that every member of that society has a basic quality of life without having to "work to live".
 
-Note that I explicitly do not include the word "income" in that statement, because I don't think that money is the right way to measure the value of a person's contribution to society.
-Instead, I think we should focus on creating a society where everyone has access to the resources they need to live a fulfilling life.
+This is something I've been thinking about for decades and patiently hoping for the day that technology gets to the point that it's feasible. I think we're nearly there but not quite. 
 
-A key point is that I don't think we need to wait for a technological singularity to achieve this.
+Howevr a key point is that I don't think we need to wait for a technological singularity to achieve this.
 I think we can start working towards this goal right now, by implementing policies and building infrastructure that would allow us to transition to a post-work society.
 
 This could include things like universal basic income, shorter work weeks, and a focus on education and training for the jobs of the future.
