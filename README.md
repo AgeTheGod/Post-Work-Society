@@ -20,44 +20,53 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
 1. Introduction
    1. [Motivation](Introduction/Motivation.md)
    2. [Scope](Introduction/Scope.md)
-2. Preamble
-   1. [Objectives](Preamble/ObjectivesSummary.md)
-   2. [Enabling Technologies](Preamble/EnablingTechnology.md)
-   3. [Blockers To Progress](Preamble/BlockersToProgress.md)
-3. Definitions of Terms
-   1. [Overview](DefinitionOfTerms/DefinitionOfTermsOverview.md)
-   2. [What Is Society?](DefinitionOfTerms/WhatISSociety.md)
-   2. [What Is Money](DefinitionOfTerms/WhatIsMoney.md)
-   3. [How Do We Measure Wealth?](DefinitionOfTerms/HowDoWeMeasureWealth.md)
-   3. [What is Capitalism?](DefinitionOfTerms/WhatIsCapitalism.md)
-   4. [What Is Socialism?](DefinitionOfTerms/WhatIsSocialism.md)
-   5. [What Is Libertarianism?](DefinitionOfTerms/WhatIsLibertariansim.md)
-   6. [Politics + Government](DefinitionOfTerms/Politics+Government.md)
-4. [Proposals](DeliveringPublicServices/ProposalsSummary.md)
-   1. Democratic Reform
-      1. [Improving Democracy](DemocraticReform/DemocraticReformOverview.md)
-      2. [National Identity Card](DemocraticReform/NationalIdentityCard.md)
-      3. [Electronic Voting](DemocraticReform/ElectronicVoting.md)
-      4. [Direct Democracy](DemocraticReform/DirectDemocracy.md)
-   2. Delivering Public Services
-      1. [Essential Utilities](DeliveringPublicServices/EssentialUtilities.md)
-      2. [Free To Use Internet](DeliveringPublicServices/FreeToUseInternet.md)
-      2. [Life-Long Education](DeliveringPublicServices/LifeLongEducation.md)
-   3. Economic Reform
-      1. [State Owned Enterprises](EconomicReform/StateOwnedEnterprises.md) 
-      2. [Funding Public Services](EconomicReform/FundingPublicServices.md)
-      3. [Ring Fenced Taxation](EconomicReform/RingFencedTaxation.md)
-5. [Further Implications](FurtherImplications/FurtherImplications.md)
-6. Analysis
-   1. [Overview](Analysis/Overview.md)
-   2. [Distribution of Wealth](Analysis/DistributionOfWealth.md)
-   3. [Distribution of Resources](Analysis/DistributionOfResources.md)
-   4. [Education](Analysis/Education.md)
-   5. [Types of Employment](Analysis/TypesOfEmployment.md)
-   6. [Taxation](Analysis/Taxation.md)
+   3. [Objectives](Introduction/ObjectivesSummary.md)
+   1. [Essential Utilities](Introduction/EssentialUtilities.md)
+3. Enabling Technologies
+   1. [Overview](EnablingTechnologies/EnablingTechnologiesOverview.md)
+   5. [Energy Generation](EnablingTechnologies/EnergyGeneration.md)
+   2. [Artificial Intelligence](EnablingTechnologies/ArtificialIntelligence.md)
+   3. [Automation & Robotics](EnablingTechnologies/AutomationAndRobotics.md)
+   2. [Communications](DeliveringPublicServices/FreeToUseInternet.md)
+4. Reforming Society
+   1. [Overview](ReformingSociety/ReformingSocietyOverview.md)
+   2. [Blockers To Progress](ReformingSociety/BlockersToProgress.md)
+   2. Democratic Reform
+       1. [Improving Democracy](ReformingSociety/DemocraticReform/DemocraticReformOverview.md)
+       2. [National Identity Card](ReformingSociety/DemocraticReform/NationalIdentityCard.md)
+       3. [Electronic Voting](ReformingSociety/DemocraticReform/ElectronicVoting.md)
+       4. [Direct Democracy](ReformingSociety/DemocraticReform/DirectDemocracy.md)
+   4. Economic Reform
+       1. [State Owned Enterprises](ReformingSociety/EconomicReform/StateOwnedEnterprises.md) 
+       2. [Funding Public Services](ReformingSociety/EconomicReform/FundingPublicServices.md)
+       3. [Ring Fenced Taxation](ReformingSociety/EconomicReform/RingFencedTaxation.md)
+   5. Social Reform
+       1. [Universal Basic Income](ReformingSociety/SocialReform/UniversalBasicIncome.md)
+       2. [Shorter Work Weeks](ReformingSociety/SocialReform/ShorterWorkWeeks.md)
+       3. [Rights & Responsibilities](ReformingSociety/SocialReform/Rights+Responsibilities/UniversalBasicRights.md)
+       4. [Education](ReformingSociety/SocialReform/Education.md)
+5. Implications
+   6. [the Post Work Society](FurtherImplications/PostWorkSociety.md)
+   7. [The Role of Technology](FurtherImplications/TheRoleOfTechnology.md)
 7. Postscripts
-   8. [References](Postscripts/References.md)
-   9. [Glossary](Postscripts/Glossary.md)
+   1. Definitions of Terms
+       1. [Overview](Postscripts/DefinitionOfTerms/DefinitionOfTermsOverview.md)
+       2. [What Is Society?](Postscripts/DefinitionOfTerms/WhatISSociety.md)
+       3. [What Is Money?](Postscripts/DefinitionOfTerms/WhatIsMoney.md)
+       4. [How Do We Measure Wealth?](Postscripts/DefinitionOfTerms/HowDoWeMeasureWealth.md)
+       5. [What is Capitalism?](Postscripts/DefinitionOfTerms/WhatIsCapitalism.md)
+       6. [What Is Socialism?](Postscripts/DefinitionOfTerms/WhatIsSocialism.md)
+       7. [What Is Libertarianism?](Postscripts/DefinitionOfTerms/WhatIsLibertariansim.md)
+       8. [Politics + Government](Postscripts/DefinitionOfTerms/Politics+Government.md)
+   6. Analysis
+       1. [Overview](Postscripts/Analysis/Overview.md)
+       2. [Distribution of Wealth](Postscripts/Analysis/DistributionOfWealth.md)
+       3. [Distribution of Resources](Postscripts/Analysis/DistributionOfResources.md)
+       4. [Education](Postscripts/Analysis/Education.md)
+       5. [Types of Employment](Postscripts/Analysis/TypesOfEmployment.md)
+       6. [Taxation](Postscripts/Analysis/Taxation.md)
+   2. [References](Postscripts/References.md)
+   3. [Glossary](Postscripts/Glossary.md)
 
 
 ##  Making Contributions

@@ -46,12 +46,20 @@ But I hope that by sharing my thoughts on this topic, I can spark a conversation
 
 ##  Political Views
 
-Politically, I'd probably describe myself as a [Democratic Socialist](https://en.wikipedia.org/wiki/Democratic_socialism) but there's also a large amount of [Libertarianism](https://en.wikipedia.org/wiki/Libertarianism) (mostly [Left-Libertarianism](https://en.wikipedia.org/wiki/Left-libertarianism)) and [Anarchism](https://en.wikipedia.org/wiki/Anarchism) mixed in with that.  
-I know that combination sounds sounds like it should be contradictory but it really isn't once you get to the root of erach of them.
+Politically, I'd probably describe myself as a [Democratic Socialist](https://en.wikipedia.org/wiki/Democratic_socialism) but there's also a large amount of [Libertarianism](https://en.wikipedia.org/wiki/Libertarianism) (mostly [Left-Libertarianism](https://en.wikipedia.org/wiki/Left-libertarianism)) and [Anarchism](https://en.wikipedia.org/wiki/Anarchism) mixed in with that. 
+I know that combination sounds sounds like it should be contradictory but it really isn't once you get to the root of each of them.
 
 I do believe that...
-- Social Structures are the best way to deliver the most benefit to the widest number of people
-- Some form of Democracy is the best manage to manage Society
-- Each individual 
+- Some kind of organized Society is the best way to deliver the most benefit to the widest number of people
+- Some form of Democracy is the best way to manage Society
+- Each individual Member of Society has the same Rights & Responsibilities as any other Member of Society.
+  - The Social Fabric should be designed to encourage people to work together to create a better future for everyone
+
+- The Political System (through which decisions are made) should be designed to be responsive to the needs of the Member of Society and 
+  - No other group of people or organizations should have more influence than the Member of Society as a whole.
+- The Wealth of a Society should be distributed in a way that is fair to everyone and that discourages 
+  - Hoarding wealth by a small percentage of the population should be discouraged
+- The Economy should be designed to deliver the most benefit to the widest number of people and not just to a small percentage of the population
+ 
 
 [Back to Contents](../README.md)

@@ -12,4 +12,4 @@ Another thought is that proposals for improving society should start at the loca
 
 It also ensures that the people making a proposal first have to convince their local community that the proposal is a good idea before it can be escalated to the national level, which would help to ensure that proposals are well thought out and have a good chance of being successful.
 
-[Back to Contents](../README.md)
+[Back to Contents](../../README.md)

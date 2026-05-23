@@ -1,6 +1,6 @@
-# Blockers Summary
+# Blockers To Progress
 
-When it comes to propsing any kind of radical change then it's important to also understand the various blockers that exist that will stop any change from being successful.
+When it comes to proposing any kind of radical change then it's important to also understand the various blockers that exist that will stop any change from being successful.
 
 In this section I'm listed what I see as the biggest blockers to implementing significant social and technological changes for the benefit of the many.
 

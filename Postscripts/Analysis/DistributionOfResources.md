@@ -20,4 +20,4 @@ Taking the injustice of radically inegalitarian appropriation in conjunction wit
 
 On a left-libertarian theory of rights, then, there is no right to appropriate unlimited resources, but there is a right to redistribution in the event of past injustices, including the misappropriation of worldly resources.
 
-[Back to Contents](../README.md)
+[Back to Contents](../../README.md)

@@ -79,4 +79,4 @@ Responses to capitalism’s shortcomings include progressive taxation, universal
 - OECD, "Capitalism and its variants" and policy reports. https://www.oecd.org
 - Stanford Encyclopedia of Philosophy, "Capitalism" entry. https://plato.stanford.edu/entries/capitalism/
 
-[Back to Contents](../README.md)
+[Back to Contents](../../README.md)
