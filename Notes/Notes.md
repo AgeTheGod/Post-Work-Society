@@ -6,7 +6,7 @@ without being employed. For example, people can contribute to a society by volun
 
 The key point is that Society starts to fail when people when people think they have a right to access Social Services without any responsibility to contribute to the common good. This is a very dangerous mindset because it can lead to a situation where people are taking advantage of the system and not contributing anything back to society, which can lead to a breakdown of the social fabric and a decline in the quality of life for everyone.
 
-This was alwaysgoing to be the problem with the "Nanny State" mentaility that has been promoted by many politicians and media outlets over the years, which is the idea that the government should take care of everything for everyone and that people don't have to take any responsibility for their own lives or for contributing to society. 
+This was alwaysgoing to be the problem with the "Nanny State" mentality that has been promoted by many politicians and media outlets over the years, which is the idea that the government should take care of everything for everyone and that people don't have to take any responsibility for their own lives or for contributing to society. 
 
 This is a very dangerous mindset because it leads to a situation (that we can already see in many countries) where people are taking advantage of the system.
 

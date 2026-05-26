@@ -15,12 +15,12 @@ Consequently people are conditioned (through early education) to believe that wo
 
 We have far too many belief systems (mostly religions but otgher kinds of belief systems as well) that are based on the idea of "us vs them" (believers vs non-believers) and that if you're not "us" then you're "one of them" and in some way evil and destined for damnation.
 
-I don't have a problem with religion per se. 
+I don't have a problem with religion per se because people need to find reasons for existence, why we are here, and what comes afterwards because otherwise the entire thing is just a big waste of time and energy. 
 
-People need to find reasons for existence, why we are here, and what comes afterwards because otherwise the entire thing is just a big waste of time and energy. 
 However I do have a problem with the way that Organized Religion is used to justify violence and to control people.
+That is not what religon is supposed to be about.
 
-That is not what it's supposed to be about.
+So basically I don't think Organized Religon should play any part in a Secular Society and I think that the separation of Church and State is a fundamental principle that should be upheld at all times.
 
 ##  Generational Wealth
 

@@ -14,4 +14,5 @@ For example, Australia is also an island with a self-contained economy, and it i
 However, it is a much, much larger land-mass that brings other factors, such as geographic distribution and remote populations, into play.
 
 It's nothing that I'd expect to be a blocker to eventually deploy into Australia but it would make the analysis more complex and less focused on the core issues that I want to explore in this project.
+
 [Back to Contents](../README.md)

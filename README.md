@@ -40,8 +40,7 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
        3. [Ring Fenced Taxation](ReformingSociety/EconomicReform/RingFencedTaxation.md)
    5. Social Reform
        1. [Universal Basic Income](ReformingSociety/SocialReform/UniversalBasicIncome.md)
-       2. [Shorter Work Weeks](ReformingSociety/SocialReform/ShorterWorkWeeks.md)
-       3. [Rights & Responsibilities](ReformingSociety/SocialReform/Rights+Responsibilities/UniversalBasicRights.md)
+       3. [Rights & Responsibilities](ReformingSociety/SocialReform/RightsAndResponsibilities.md)
        4. [Education](ReformingSociety/SocialReform/Education.md)
 5. Implications
    6. [the Post Work Society](FurtherImplications/PostWorkSociety.md)
