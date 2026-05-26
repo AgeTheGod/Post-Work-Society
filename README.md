@@ -24,6 +24,7 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
    3. [Artificial Intelligence](EnablingTechnologies/ArtificialIntelligence.md)
    4. [Automation & Robotics](EnablingTechnologies/AutomationAndRobotics.md)
    5. [Free To Use Internet](EnablingTechnologies/FreeToUseInternet.md)
+   6. [Predictive Analytics](EnablingTechnologies/PredictiveAnalytics.md)
 4. Reforming Society
    1. [Overview](ReformingSociety/ReformingSocietyOverview.md)
    2. [Blockers To Progress](ReformingSociety/BlockersToProgress.md)
