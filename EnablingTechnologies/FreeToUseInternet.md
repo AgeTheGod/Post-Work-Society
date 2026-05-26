@@ -1,5 +1,11 @@
 #   Free To Use Internet
 
+Technically this is already here and available to most people in the UK (and many other parts of the world) but most people are completely unaware of it.
+
+
+
+
+
 What we have to do to do this is...
 - Build a **Nationwide Communication Back-Bone**
 - Provide free (no subscription) access to the Internet
