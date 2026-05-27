@@ -33,7 +33,9 @@ It's been a very varied career with a lot of focus on either...
 I could get excruciatingly detailed about this but the up-shot is that I have a pretty decent grasp of what can be done with current established technology and where it is going i.e. what it will soon be capable of doing if the trends continue. 
 
 Of course, we have to be careful about the Gartner "Technology Hype Cycle"... 
-![GartnerHypeCycle.png](../.images/GartnerHypeCycle.png)
+
+![GartnerHypeCycle.png](../images/GartnerHypeCycle.png)
+
 ... because new technology is often over-hyped when it first comes out and then it takes a while for the technology to mature and for people to figure out how to use it effectively.
 
 Fortunately the Technology Hype Cycle isn't a concern for this project because we are planning for the future and the hype should resolve itself by the time we actually need the technology.
@@ -54,7 +56,7 @@ So some basic principles I believe in are...
 - People are responsible for their own actions and they should be free to do whatever they want as long as they are not harming other people or the Society in general - if you can't decide whether it will cause harm or not then you probably should not be doing it anyway.
 - The Natural Resources belong to Society and should be used for the common benefit of everyone within that Society - I'm strictly against "_foreign_" ownership of Natural Resources
 
-My Political Views are the predominant reason why the [Reforming Societty](ReformingSociety/ReformingSocietyOverview.md) section exists. 
+My Political Views are the predominant reason why the [Reforming Societty](../ReformingSociety/ReformingSocietyOverview.md) section exists. 
 What we currently have may have worked historically (the best of some bad options) but we can do so much better than this.
 
 [Back to Contents](../README.md)
