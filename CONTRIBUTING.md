@@ -21,5 +21,11 @@ Tables are simple Markdown tables - do not use HTML unless absolutely necessary.
 6. The README.md file should contain a table of contents with links to each of the files in the repository, organized by topic.
 7. The first entry under erach topic should be the overview file for that topic, followed by the other files in that topic.
 
+##  Images and Diagrams
+
+These should all be placed in the Images folder and referenced by absolute paths markdown links from any other file in the repository.
+All diagrams should have a meaningful name that describes what the diagram is about e.g.
+
+    ![Gartner Hype Cycle](./Images/GartnerHypeCycle.png)
 
 [Back to Contents](./README.md)
