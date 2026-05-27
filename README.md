@@ -25,6 +25,7 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
    4. [Automation & Robotics](EnablingTechnologies/AutomationAndRobotics.md)
    5. [Free To Use Internet](EnablingTechnologies/FreeToUseInternet.md)
    6. [Predictive Analytics](EnablingTechnologies/PredictiveAnalytics.md)
+   7. [Interstellar Mining](EnablingTechnologies/InterstellarMining.md)
 4. Reforming Society
    1. [Overview](ReformingSociety/ReformingSocietyOverview.md)
    2. [Blockers To Progress](ReformingSociety/BlockersToProgress.md)
@@ -58,7 +59,7 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
       7. [What Is Libertarianism?](Postscripts/DefinitionOfTerms/WhatIsLibertariansim.md)
       8. [Politics + Government](Postscripts/DefinitionOfTerms/Politics+Government.md)
    6. Analysis
-      1. [Overview](Postscripts/Analysis/Overview.md)
+      1. [Overview](Postscripts/Analysis/AnalysisOverview.md)
       2. [Distribution of Wealth](Postscripts/Analysis/DistributionOfWealth.md)
       3. [Distribution of Resources](Postscripts/Analysis/DistributionOfResources.md)
       4. [Education](Postscripts/Analysis/Education.md)
