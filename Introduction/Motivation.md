@@ -34,7 +34,7 @@ I could get excruciatingly detailed about this but the up-shot is that I have a 
 
 Of course, we have to be careful about the Gartner "Technology Hype Cycle"... 
 
-![GartnerHypeCycle.png](../images/GartnerHypeCycle.png)
+![GartnerHypeCycle.png](/images/GartnerHypeCycle.png)
 
 ... because new technology is often over-hyped when it first comes out and then it takes a while for the technology to mature and for people to figure out how to use it effectively.
 
