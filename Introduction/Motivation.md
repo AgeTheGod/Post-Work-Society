@@ -6,6 +6,8 @@ I've also been interested in Social Economics and how we can create a more equit
 I've been thinking about these things for a long time (writing my first notes on this when still at school 50+ years ago), and then over the years watched how Technology has delivered on many of the promises that it made.
 Nowadays we are capable of doing many, many more things than we were when I was a kid, and the pace of technological change is accelerating.
 
+##  Trends In Society
+
 Unfortunately from a Society point of view I don't believe that we have really made much progress towards creating a more equitable society.
 In fact in many cases exactly the opposite has happened, with...
 - the gap between the rich and the poor getting wider and wider
@@ -17,7 +19,7 @@ In fact in many cases exactly the opposite has happened, with...
 
 Weirdly, technology was supposed to reduce the amount of work that each person had to do and promised to allow us to live more fulfilling lives, but instead it seems to have done the opposite.
 We have more technology than ever before, but we are also working harder than ever before (those that are actually working) just to achieve the basics of life.
-We are also more stressed and less happy than ever before as shown in the World Happiness Report long-term trends.
+We are also more stressed and less happy than ever before as shown in the [World Happiness Report](../TrendsInSociety/WorldHappinessReport.md) long-term trends.
 
 So, here I am, 50 years later having recently retired from the daily grind (I'm now a Post-Work Person) and thinking about this problem again.
 
@@ -30,7 +32,7 @@ It's been a very varied career with a lot of focus on either...
 - ... or doing something because other people said it couldn't be done
 - ... or, sometimes, just because I thought it would be fun & interesting thing to do 
 
-I could get excruciatingly detailed about this but the up-shot is that I have a pretty decent grasp of what can be done with current established technology and where it is going i.e. what it will soon be capable of doing if the trends continue. 
+As a result I've had the opportunity to work with a wide variety of different technologies, including emerging ones like AI, with the up-shot being that I have a pretty decent grasp of what can be done with current established technology and where it is going i.e. what it will soon be capable of doing if the trends continue. 
 
 Of course, we have to be careful about the Gartner "Technology Hype Cycle"... 
 
@@ -38,7 +40,7 @@ Of course, we have to be careful about the Gartner "Technology Hype Cycle"...
 
 ... because new technology is often over-hyped when it first comes out and then it takes a while for the technology to mature and for people to figure out how to use it effectively.
 
-Fortunately the Technology Hype Cycle isn't a concern for this project because we are planning for the future and the hype should resolve itself by the time we actually need the technology.
+Fortunately the Technology Hype Cycle isn't a concern for this project because we are planning for the future but focussing on a lot of already well esatblished technology and the hyped-up new technologies should reach the "Plateau of Productivity" by the time we actually need them.
 
 ##  Political Views
 

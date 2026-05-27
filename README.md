@@ -18,7 +18,14 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
    2. [Scope](Introduction/Scope.md)
    3. [Objectives](Introduction/ObjectivesSummary.md)
    1. [Essential Utilities](Introduction/EssentialUtilities.md)
-3. Enabling Technologies
+3. Trends In Society
+   1. [Overview](TrendsInSociety/TrendsInSocietyOverview.md)
+   2. [Employment Trends](TrendsInSociety/EmploymentTrends.md)
+   3. [Population Growth and Decline](TrendsInSociety/PopulationTrends.md)
+   4. [The Rise of Automation](TrendsInSociety/TheRiseOfAutomation.md)
+   5. [World Happiness Report](TrendsInSociety/WorldHappinessReport.md)
+   6. [The Concentration of Wealth](TrendsInSociety/WealthTrends.md)
+4. Enabling Technologies
    1. [Overview](EnablingTechnologies/EnablingTechnologiesOverview.md)
    2. [Sustainable Energy Generation](EnablingTechnologies/SustainableEnergyGeneration.md)
    3. [Artificial Intelligence](EnablingTechnologies/ArtificialIntelligence.md)
