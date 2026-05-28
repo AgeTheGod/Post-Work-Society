@@ -88,7 +88,6 @@ To understand the macroeconomic environment at a broader glance, the ONS often f
 * The Services Sector (Sections G–U): Dominates the UK labor market, capturing roughly 83% to 85% of all active workforce jobs.
 * Public & Social Infrastructure (Sections O, P, Q): Combined public administration, health, and education represent over 32% of the total workforce.
 * Production & Construction (Sections A–F): Manufacturing, building trades, agriculture, and energy sectors make up the remaining ~15% of national employment. [4, 5]
-*
 
 [1] [https://backup.ons.gov.uk](https://backup.ons.gov.uk/wp-content/uploads/sites/3/2026/05/Vacancies-and-jobs-in-the-UK-May-2026.pdf)
 [2] [https://www.ons.gov.uk](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/employeesintheukbyindustry/2023)
@@ -175,9 +174,6 @@ However, this growth has been unevenly spread. The structural shift toward a tec
 * The Retail Retraction: Section G (Wholesale & Retail) shed roughly 350,000 jobs. This structural decline highlights the dramatic transition from physical brick-and-mortar storefronts to automated logistics and e-commerce platforms.
 * The Corporate Shrinkage of Finance: Despite the UK remaining a dominant global financial hub, Section K (Banking & Insurance) shed nearly 10% of its workforce. This shrinkage is primarily due to intensive automation, algorithmic trading, and the widespread closure of physical bank branches across high streets.
 * The State-Backed Expansion: Driven by demographic aging and post-pandemic demands, the Health and Social Care sector (Section Q) scaled drastically, adding nearly 850,000 workers to its total ranks since 2016.
-*
-
-If you want to dive deeper into this shift, let me know if you would like to look at how self-employment numbers changed following the pandemic and IR35 tax regulations, or explore which specific sub-sectors within tech grew the fastest.
 
 [1] [https://www.statista.com](https://www.statista.com/statistics/281998/employment-figures-in-the-united-kingdom-uk/)
 [2] [https://commonslibrary.parliament.uk](https://commonslibrary.parliament.uk/research-briefings/cbp-9366/)
@@ -221,9 +217,6 @@ While the total UK labor market expanded by over 2.2 million net jobs since 2016
 * The Retail Eclipse: In 2016, Wholesale and Retail (Section G) was indisputably the largest employer in the UK at 14.4%. Over the decade, its structural footprint shrank so heavily (-1.8 pp) that it has been completely overtaken by Healthcare as the country's largest source of employment.
 * The Manufacturing Drift: Manufacturing (Section C) continued its long-term structural decline, slipping from nearly 8% of all UK jobs down to just 6.8%.
 
-If you want to build on this, let me know if you would like to analyze the average weekly earnings across these sectors to see if jobs shifted toward higher or lower-paying industries, or if you want to look at the gender balance within the growing versus shrinking sectors.
-
-
 
 ##  European Union Analysis
 
@@ -254,8 +247,6 @@ To prevent cognitive data fatigue, Eurostat standardises its high-level public r
 * The Manufacturing Core: The most glaring difference is the industrial core. In the EU, Industry / Manufacturing represents over 20% of all economic value and nearly 16% of jobs, heavily sustained by manufacturing powerhouses like [Germany (where manufacturing is ~20% of GVA)](https://www.destatis.de/Europa/EN/Topic/Industry-trade-services/Industry_GVA.html), Poland, and Czechia. In contrast, the UK manufacturing sector accounts for under 10% of GVA and 7% of its workforce.
 * Agriculture Retention: The EU maintains a much larger agricultural footprint, employing 4.8% of the workforce (~10.5 million people) compared to the UK's minor 1.1% agricultural labor allocation.
 * Hyper-Productive Niches: Much like the UK, NACE Section L (Real Estate) exhibits massive asset-driven economic weight, claiming 10.3% of GVA with only 1.3% of active labor. Information and Communication (Tech) also shows strong efficiency, delivering 5.5% of absolute GVA using only 3.6% of total headcount. [2, 3, 5, 9, 10, 11]
-
-To review this further, let me know if you would like to filter these figures down to individual EU member state economies (e.g., comparing industrial Germany to services-heavy France or Luxembourg). [2, 10]
 
 [1] [https://www.indexbox.io](https://www.indexbox.io/blog/eurostat-releases-2024-2025-gross-value-added-data-by-industry/)
 [2] [https://www.weforum.org](https://www.weforum.org/stories/2023/02/eu-countries-largest-economies-energy-gdp/)
@@ -294,9 +285,75 @@ Using Eurostat's standardized A*10 NACE reporting blocks, the absolute workforce
 * The Rise of Digital and Scientific Services: Replicating the UK trend, the combined expansion of Information Tech (Section J) and Professional Corporate Services (Section M) added a massive 1.6 percentage point gain to total EU employment.
 * State and Infrastructure Resilience: Public administration, healthcare, and education (Sections O-Q) expanded their baseline footprint to claim nearly a quarter of all jobs in the EU (23.9%), establishing this macro-sector as one of the most reliable and non-cyclical employers on the continent. [2, 3]
 
-If you want to map this out further, let me know if you would like to compare how labor productivity shifted across these same blocks, or examine the variation between Western and Eastern EU member states. [4]
-
 [1] [https://ec.europa.eu](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Employment_statistics_within_national_accounts)
 [2] [https://ec.europa.eu](https://ec.europa.eu/eurostat/statistics-explained/index.php?wpacode=31303&title=Employment_statistics_within_national_accounts&etrans=es)
 [3] [https://ec.europa.eu](https://ec.europa.eu/eurostat/statistics-explained/SEPDF/cache/62450.pdf)
 [4] [https://ec.europa.eu](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Productivity_trends_using_key_national_accounts_indicators)
+
+##  The USA
+
+### 10-Year Share Change with Current Absolute Employment Numbers (USA)
+
+    Pronpt: Do the same Job Percentage analysis for the USA including current employment numbers as additional column in analysis
+
+To provide a complete view of the current landscape, the absolute headcount numbers have been re-introduced alongside the percentage shares.
+Out of the total ~161.4 million jobs in the US economy today, the data highlights how absolute workforce volumes correlate with relative market share.
+
+| NAICS Supersector Block | Broad Industry Sector Description | 2016 Share of US Jobs | 2026 Share of US Jobs | Percentage Point (pp) Shift | Current Headcount (2026) |
+|---|---|---|---|---|---|
+| Trade, Trans., & Utilities | Wholesale, Retail, Supply Chain, Logistics, & Utilities | 18.9% | 17.8% | -1.1 pp | ~28.7 million |
+| Education & Health Services | Private Healthcare, Clinics, Nursing, & Private Schools | 15.6% | 16.8% | +1.2 pp | ~27.1 million |
+| Professional & Business Services | Tech/Software, Legal, Consulting, Corporate Admin | 14.0% | 14.8% | +0.8 pp | ~23.9 million |
+| Government | Local, State, and Federal Civil Services (inc. Public Education) | 15.4% | 14.3% | -1.1 pp | ~23.1 million |
+| Leisure & Hospitality | Restaurants, Hotels, Casinos, Tourism, & Arts | 10.7% | 10.6% | -0.1 pp | ~17.1 million |
+| Manufacturing | Aerospace, Automotive, Electronics, & Goods Production | 8.5% | 8.0% | -0.5 pp | ~12.9 million |
+| Financial Activities | Investment Banking, Insurance, & Real Estate Agencies | 5.7% | 5.7% | 0.0 pp | ~9.2 million |
+| Construction | Housing, Commercial Infrastructure, & Civil Projects | 4.6% | 5.1% | +0.5 pp | ~8.2 million |
+| Other Services | Automotive Repair, Personal Care, Dry Cleaning, Advocacy | 3.9% | 3.7% | -0.2 pp | ~6.0 million |
+| Information | Tech Giants, Silicon Valley SaaS, Streaming, Media, Telecom | 1.9% | 2.0% | +0.1 pp | ~3.2 million |
+| Mining & Logging | Oil & Gas Extraction, Fracking, & Commercial Forestry | 0.5% | 0.4% | -0.1 pp | ~0.6 million |
+
+#### Key Observations with Headcounts Included
+
+* The Scale of Trade vs. Health: While Trade and Logistics lost structural share over the decade due to automation, it remains the largest employment engine in the United States with 28.7 million workers. However, Private Health and Education is rapidly closing the gap at 27.1 million workers.
+* The "Information" Paradox: Silicon Valley tech, streaming giants, and telecom (Information) command massive market valuations and global headlines, yet they represent a lean employment pool of just 3.2 million workers (2.0% of the workforce).
+* The Heavy Industry Baseline: Combined, Construction and Manufacturing still account for over 21 million physical on-site jobs in the US, remaining critical foundational pillars for blue-collar employment despite the dominant rise of white-collar and service-based industries.
+
+##  The World
+
+### 10-Year Change in Percentage Share of the Global Workforce [3]
+
+    Prompt: Do the same Job Percentage analysis for the worldwide economy
+
+When analyzing labor markets on a global scale, tracking 21 detailed industry codes is impossible due to varying regional infrastructure. The [International Labour Organization (ILO)](https://ilostat.ilo.org/) and the [World Bank](https://data.worldbank.org/indicator/SL.AGR.EMPL.ZS) bypass this by condensing the entire global workforce (estimated at ~3.4 billion workers) into three broad macroeconomic sectors: Services, Agriculture, and Industry. [1]
+Over the last decade, the global workforce grew by roughly 300 million net jobs. The global data reveals a powerful structural transition: humanity is rapidly urbanizing, moving away from rural farm work and transitioning directly into the service economy. [2]
+
+| Global Macro Sector [2, 4, 5] | broad Industry Sector Description | 2016 Global Job Share | 2026 Global Job Share | Percentage Point (pp) Shift | Approx. Global Workers Today |
+|---|---|---|---|---|---|
+| Services | Retail, Tech, Health, Transport, Tourism, Corporate & Public Sectors | 48.7% | 51.8% | +3.1 pp (Largest share gain) | ~1.76 billion |
+| Agriculture | Farming, Commercial Forestry, Animal Husbandry & Fishing | 28.5% | 25.2% | -3.3 pp (Largest share loss) | ~0.86 billion |
+| Industry | Manufacturing, Mining, Construction & Utilities | 22.8% | 23.0% | +0.2 pp | ~0.78 billion |
+
+### Key Decadal Global Workforce Shifts
+
+* The Services Era: Services officially employ more than half of all humanity (51.8%). This rapid +3.1 percentage point expansion is driven by mobile telecommunications, digital financial services, and localized urban commerce across developing economies in South Asia, Latin America, and Sub-Saharan Africa.
+* The Flight from the Field: Agriculture shed a massive 3.3 percentage points of its worldwide labor share. Millions of workers left subsistence farming for city centers, catalyzed by automation, industrial farming techniques, and climate pressures. Despite this reduction, agriculture remains a massive pillar of human employment, holding a quarter of all global jobs—a stark contrast to the UK's minor 0.9% or the EU's 4.6%.
+* The Industrial Equilibrium: The manufacturing, construction, and heavy industry block (Industry) remained remarkably stable, creeping up slightly by +0.2 percentage points. While advanced Western nations continue to de-industrialize, emerging industrial engines across Southeast Asia (such as Vietnam, India, and Indonesia) have absorbed those production ecosystems, balancing the global total. [1, 2, 5, 6]
+
+### Structural Contrast: UK vs. EU vs. The World
+
+| Sector Block | UK Share of Jobs | EU Share of Jobs | Global Share of Jobs |
+|---|---|---|---|
+| Services | ~85.0% | ~67.7% | 51.8% |
+| Industry | ~14.1% | ~22.0% | 23.0% |
+| Agriculture | ~0.9% | ~4.6% | 25.2% |
+
+The macro breakdown illustrates a clear economic spectrum. The UK functions as a highly specialized, hyper-financialized service-dominant economy. The European Union retains a robust, dual-engine approach balanced between services and high-value industrial production. The global average highlights a developing economy blueprint, where one in four humans still works directly in the earth or oceans to sustain the global supply chain. [4, 7]
+
+[1] [https://data.worldbank.org](https://data.worldbank.org/indicator/SL.IND.EMPL.ZS)
+[2] [https://ourworldindata.org](https://ourworldindata.org/grapher/share-employment-agriculture-industry-services)
+[3] [https://www.weforum.org](https://www.weforum.org/stories/2020/01/future-of-work/)
+[4] [https://data.worldbank.org](https://data.worldbank.org/topic/agriculture-and-rural-development)
+[5] [https://data.worldbank.org](https://data.worldbank.org/indicator/SL.IND.EMPL.ZS)
+[6] [https://reports.weforum.org](https://reports.weforum.org/docs/WEF_Future_of_Jobs_Report_2025.pdf)
+[7] [https://worldmapper.org](https://worldmapper.org/maps/agricultural-workers-2015/)
