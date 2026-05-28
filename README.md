@@ -70,7 +70,7 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
       2. [Distribution of Wealth](Postscripts/Analysis/DistributionOfWealth.md)
       3. [Distribution of Resources](Postscripts/Analysis/DistributionOfResources.md)
       4. [Education](Postscripts/Analysis/Education.md)
-      5. [Types of Employment](Postscripts/Analysis/TypesOfEmployment.md)
+      5. [Employment](Postscripts/Analysis/Employment.md)
       6. [Taxation](Postscripts/Analysis/Taxation.md)
    2. [References](Postscripts/References.md)
    3. [Glossary](Postscripts/Glossary.md)

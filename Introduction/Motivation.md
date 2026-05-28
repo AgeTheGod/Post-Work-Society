@@ -6,6 +6,8 @@ I've also been interested in Social Economics and how we can create a more equit
 I've been thinking about these things for a long time (writing my first notes on this when still at school 50+ years ago), and then over the years watched how Technology has delivered on many of the promises that it made.
 Nowadays we are capable of doing many, many more things than we were when I was a kid, and the pace of technological change is accelerating.
 
+So, here I am, 50 years later having recently retired from the daily grind (I'm now a Post-Work Person) and thinking about this problem again.
+
 ##  Trends In Society
 
 Unfortunately from a Society point of view I don't believe that we have really made much progress towards creating a more equitable society.
@@ -20,8 +22,6 @@ In fact in many cases exactly the opposite has happened, with...
 Weirdly, technology was supposed to reduce the amount of work that each person had to do and promised to allow us to live more fulfilling lives, but instead it seems to have done the opposite.
 We have more technology than ever before, but we are also working harder than ever before (those that are actually working) just to achieve the basics of life.
 We are also more stressed and less happy than ever before as shown in the [World Happiness Report](../TrendsInSociety/WorldHappinessReport.md) long-term trends.
-
-So, here I am, 50 years later having recently retired from the daily grind (I'm now a Post-Work Person) and thinking about this problem again.
 
 ##  Enabling Technologies
 
