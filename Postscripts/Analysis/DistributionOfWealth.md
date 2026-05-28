@@ -170,7 +170,7 @@ Unlike pensions and ISAs, trusts completely bypass standard generational accumul
 [8] [https://www.flagstoneim.com](https://www.flagstoneim.com/personal/learn/growing-your-savings/average-savings-by-age-uk)
 [9] [https://www.gov.uk](https://www.gov.uk/government/statistics/annual-savings-statistics-2025/annual-savings-statistics-background-and-methodology)
 
-##  ...By Vehicle And AGe Group
+##  ...By Vehicle And Age Group
 
     Prompt: Analyze this by Vehicle and Age group
 
