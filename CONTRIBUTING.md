@@ -1,7 +1,17 @@
 #   Contributing
 
 If you have any thoughts on the subject of building a POst-Work Society or if you would like to contribute to this project then please feel free to reach out to me.
-You can also fork this repository and submit a pull request with your contributions.
+
+The reason I put it on GitHub (rather than somewhere like SubStack) is that GitHub supports open-source collaborative projects.
+The source code is at : https://github.com/AgeTheGod/Post-Work-Society
+
+So, anyone with a GitHub account can...
+-	add themselves as a watcher and be notified whenever an update is merged into the main branch
+-	create their own branches if they want to make a controbution
+
+Plus because it's GitHub you can also create a branch to add your own contributions if you feel like it.
+
+Also, feel free to share it with anyone and everyone.
 
 ##  Use of Markdown
 

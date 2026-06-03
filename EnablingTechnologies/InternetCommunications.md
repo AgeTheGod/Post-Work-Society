@@ -1,4 +1,10 @@
-#   Free To Use Internet
+#   Internet Communications
+
+The **Internet** allows us to communicate and access information in ways that were not possible before. This is a key enabler in many areas such as...
+- **Education** allows us to access educational resources and to learn about things that are of interest to us without having to go to a physical location.
+- **Access Public Services**
+- **E-Commerce** allows us to buy and sell goods and services online without having to go to a physical store.
+
 
 Technically this is already here and available to most people in the UK (and many other parts of the world) but most people are completely unaware of it.
 

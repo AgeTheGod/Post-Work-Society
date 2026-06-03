@@ -18,25 +18,24 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
    2. [Scope](Introduction/Scope.md)
    3. [Objectives](Introduction/ObjectivesSummary.md)
    1. [Essential Utilities](Introduction/EssentialUtilities.md)
-3. Trends In Society
+2. Trends In Society
    1. [Overview](TrendsInSociety/TrendsInSocietyOverview.md)
    2. [Employment Trends](TrendsInSociety/EmploymentTrends.md)
    3. [Population Growth and Decline](TrendsInSociety/PopulationTrends.md)
    4. [The Rise of Automation](TrendsInSociety/TheRiseOfAutomation.md)
    5. [World Happiness Report](TrendsInSociety/WorldHappinessReport.md)
    6. [The Concentration of Wealth](TrendsInSociety/WealthTrends.md)
-4. Enabling Technologies
+3. Enabling Technologies
    1. [Overview](EnablingTechnologies/EnablingTechnologiesOverview.md)
    2. [Sustainable Energy Generation](EnablingTechnologies/SustainableEnergyGeneration.md)
    3. [Artificial Intelligence](EnablingTechnologies/ArtificialIntelligence.md)
    4. [Automation & Robotics](EnablingTechnologies/AutomationAndRobotics.md)
-   5. [Free To Use Internet](EnablingTechnologies/FreeToUseInternet.md)
+   5. [Free To Use Internet](EnablingTechnologies/InternetCommunications.md)
    6. [Predictive Analytics](EnablingTechnologies/PredictiveAnalytics.md)
-   7. [Interstellar Mining](EnablingTechnologies/InterstellarMining.md)
-4. Reforming Society
-   1. [Overview](ReformingSociety/ReformingSocietyOverview.md)
-   2. [Blockers To Progress](ReformingSociety/BlockersToProgress.md)
-   2. Democratic Reform
+   7. [Interplanetary Mining](EnablingTechnologies/InterPlanetaryMining.md)
+4. Blockers To Progress
+   1. [Overview](ReformingSociety/BlockersToProgressOverview.md)
+   3. Democratic Reform
       1. [Overview](ReformingSociety/DemocraticReform/DemocraticReformOverview.md)
       2. [National Identity Card](ReformingSociety/DemocraticReform/NationalIdentityCard.md)
       3. [Electronic Voting](ReformingSociety/DemocraticReform/ElectronicVoting.md)
@@ -52,10 +51,10 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
       2. [Universal Basic Income](ReformingSociety/SocialReform/UniversalBasicIncome.md)
       3. [Rights & Responsibilities](ReformingSociety/SocialReform/RightsAndResponsibilities.md)
       4. [Education](ReformingSociety/SocialReform/Education.md)
-5. Implications
-   6. [the Post Work Society](FurtherImplications/PostWorkSociety.md)
-   7. [The Role of Technology](FurtherImplications/TheRoleOfTechnology.md)
-7. Postscripts
+5. Getting There
+   6. [the Post Work Society](GettingThere/PostWorkSociety.md)
+   7. [The Role of Technology](GettingThere/TheRoleOfTechnology.md)
+6. Appendices
    1. Definitions of Terms
       1. [Overview](Postscripts/DefinitionOfTerms/DefinitionOfTermsOverview.md)
       2. [What Is Society?](Postscripts/DefinitionOfTerms/WhatISSociety.md)
@@ -76,7 +75,7 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
       6. [Taxation](Postscripts/Analysis/Taxation.md)
    2. [References](Postscripts/References.md)
    3. [Glossary](Postscripts/Glossary.md)
-
+7. [About Me](AboutMe.md)
 
 ##  Making Contributions
 

@@ -39,6 +39,15 @@ Crony capitalism refers to systems where economic success depends on close relat
 
 ### Hyper Capitalism
 
+Hyper-capitalism is an extreme form of capitalism where profit is the sole organizing principle of society.
+
+It extends market logic to almost every aspect of life—including education, healthcare, and social interactions—often at the expense of ethical boundaries, social equality, environmental sustainability, and labor welfare.Core Characteristics
+-	Commodification of Everything: Human experiences, personal data, and even attention are packaged and sold as commodities.
+-	Intense Concentration of Power: A handful of massive global corporations dominate entire economic sectors, often wielding more influence than governments.
+-	Aggressive Deregulation: It prioritizes free markets and deregulation, actively resisting constraints like environmental protections or worker welfare laws.
+-	Consumer-Driven Identity: It reshapes consumer behavior by engineering endless demand, encouraging identity to be heavily tied to brand consumption.
+-	Labor Devaluation: Workers are treated purely as a cost to be minimized, leading to gig economies, precarious labor conditions, and a focus on efficiency over human well-being.
+
 ### Market Socialism and Cooperative Variants
 
 There are also hybrid models that retain market mechanisms while changing ownership structures. Market socialism proposes social or cooperative ownership of major resources while allowing markets to coordinate production. Worker cooperatives, public enterprises, and participatory ownership models aim to combine the efficiency of markets with more democratic control over workplaces and distribution of profits.

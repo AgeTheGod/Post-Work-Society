@@ -1,3 +1,10 @@
+##  To Read
+
+New Electricity Generation : https://ember-energy.org/latest-insights/global-electricity-review-2026/
+Birth Rates : https://www.bbc.co.uk/news/articles/cvgzdq23xpgo
+https://nss.org/wp-content/uploads/2023/05/Role-Of-Near-Earth-Asteroids-In-Long-Term-Platinum-Supply.pdf
+https://researchbriefings.files.parliament.uk/documents/CBP-10210/CBP-10210.pdf
+
 
 ##  Contributing is a Requirement for a Healthy Society
 
@@ -104,3 +111,21 @@ This is one of the surprising results of doing some research. The Voluntary Sect
 Food Banks
 Charity Shops
 Community Run Services
+
+##  Markets
+
+Markets do not "just happen." They are some of the most carefully constructed institutions humans have ever built. Property rights, contract enforcement, courts, currency, weights and measures, corporate law, bankruptcy procedures, antitrust rules. Every one of these is a deliberate institutional construction, maintained by sustained collective effort.
+Hazlitt is right that incentives matter for production. The question he leaves open is who designs the incentive structure, and in whose interest. That is not a market question. It is a political and institutional one.
+Freedom to produce, consume, and trade is real and important. But it exists because of a system, not in the absence of one.
+
+##  Taxation
+
+We see lots ofg articles and copmments basically arguing that "Taxation id Theft". This is rubbish.
+
+Once upon a time Tax was indeed theft back in the days when it was used as a means for the wealthy (the lords) to steal from the poor in order to support their own decadent lifestyles (and usually also to protect themselves from the poor).
+
+However, modern taxation (certainly in the western democracies) is the means by whoch a society raises the funds to provide essential services for the benefit of the members of that society. It's an entirely different motivation for "taxation".
+
+Now, we can have an argument abouit what an "essential service" is and we can have an argument about how the cost of those services should fall across all the members of society but if you're arguing against taxation then you have to come up with al alternative means of paying for those essential services so that they are available to everyone (including the poorest in society).
+
+Nobody has yet found a way to do that (and a lot of eminent economists have tried).
