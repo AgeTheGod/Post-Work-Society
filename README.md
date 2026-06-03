@@ -15,9 +15,9 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
 
 1. Introduction
    1. [Motivation](Introduction/Motivation.md)
-   2. [Scope](Introduction/Scope.md)
    3. [Objectives](Introduction/ObjectivesSummary.md)
-   1. [Essential Utilities](Introduction/EssentialUtilities.md)
+   2. [Scope](Introduction/Scope.md)
+   3. [Measuring Success](Introduction/MeasuringSuccess.md)
 2. Trends In Society
    1. [Overview](TrendsInSociety/TrendsInSocietyOverview.md)
    2. [Employment Trends](TrendsInSociety/EmploymentTrends.md)

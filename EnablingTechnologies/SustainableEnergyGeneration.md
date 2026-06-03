@@ -24,15 +24,36 @@ There are a lot of different technologies that are being developed and deployed 
 
 ###  Nuclear Energy
 
-###  Solar Panels
+###  Solar Power
 
-#### Roadside Solar Panels
+Solar Power is the most abundant and widely available source of renewable energy, and it has been growing rapidly in recent years because, let's face it, the sun isn't going anywhere anytime soon so sunshine is ubiquitous and free.
 
-The smartest part of this approach isn't just the land preservation. Highway corridors are already heavily wired and managed by the state, which makes connecting these linear micro-grids to the main power network much cheaper and legally simpler than running cables from remote, privately owned solar farms. Many of the newer European installations use bifacial solar panels, which means they capture direct sunlight on the road-facing side and ambient, scattered light from the embankment side. It treats the road network as a power plant that exactly happens to carry cars.
+Although there has been a lot of improvement in the efficiency of solar panels, the main reason for the rapid growth of solar power is the dramatic decrease in the cost of solar panels and the associated infrastructure, such as inverters and mounting systems.
+
+There has also been a lot of innovation in the design and materials used in solar panels, such as...  
+- the development of thin-film solar panels, which are lighter and more flexible than traditional silicon-based panels
+- the use of perovskite materials, which have the potential to significantly increase the efficiency of solar cells.
+
+Finally, Solar Panels can be manufactured in all shapes and sizes and easily installed on a wide variety of surfaces so, as well as being efficient they are also the most versatile means of generating electricity.
+
+Solar Power is also the Electricity Generation of choice in outer space where the intensity of solar radiation is significantly higher than it is on the Earth's surface. 
+Pretty much all spacecraft, satellites, and space stations rely on solar panels to generate electricity, and these solar panels have been designed to withstand the harsh conditions of space, such as extreme temperatures, radiation, and micrometeoroid impacts.
+
+### Wind Power
+
+Wind Power is another abundant and widely available source of renewable energy, and it has been growing rapidly in recent years because, let's face it, the wind is also not going anywhere anytime soon given it's the natural by-product of changes in relative air density.
 
 ### Water Power
 
+We can split this into two types of water power...
+- Inland Water Power, primarily, hydroelectric power generating electricity from the kinetic energy of flowing water in rivers and dams.
+- Ocean Water Power, which includes wave power and tidal power.
+
 ####    Hydro-Electric Power
+
+Seems odd to include this here because the first practical hydroelectric generator was built in 1878 (150 years ago) by William Armstrong at his Cragside estate in Northumberland, England. 
+
+However, its technology that really works and it is still being used today to generate electricity in many parts of the world and very efficient given the right geography.
 
 ####    Tidal Power
 
@@ -50,20 +71,43 @@ In addition, because there is no mechanical turbine, marine life can pass safely
 
 ###  Battery Technology
 
-Solar energy has one problem that battery technology has been attempting to solve for decades with limited success at the scale and duration that would make solar a genuinely reliable year round energy source in climates where winter demand peaks at precisely the moment solar generation drops to its annual low. Scientists just created a molecule that solves it through chemistry rather than engineering. The molecule absorbs solar energy during exposure to sunlight and stores it in its chemical bonds in a high energy configuration that remains stable for years without degrading, without self discharging, and without requiring any insulation or containment infrastructure to maintain. When heat is needed the molecule is triggered to release its stored energy as clean thermal output instantly on demand through a simple activation process that requires no external power input.
+Everyone knows what a Battery is - its a means of storing electricity that can be accessed later whilst disconnected from the electricity generation & distribution network (or somesuch definition like that).
 
-####    Molecular Solar Thermal Energy Storage
+Traditionally Batteries have been made primarily from Lithium but these have limitations such as...
+- They take hours to charge. 
+- They lose capacity every time you plug them in. 
+- When damaged, they undergo a self-sustaining thermal runaway reaction that conventional fire suppressants cannot easily extinguish. 
 
-Swedish and Chinese researchers have developed around a norbornadiene compound represents the most stable and highest capacity version of this approach ever created. A building coated with this molecule on its windows or roof surfaces during summer absorbs and stores solar energy that is then released as heat during winter on demand, a seasonal energy storage cycle that no battery chemistry has achieved at comparable duration or cost. No grid connection required. No battery replacement schedule. No degradation across the storage period. Scientists did not build a better solar panel or a better battery. They built a molecule that is both simultaneously and the clean heat it releases on demand comes from sunlight that was captured months or years before the moment it was needed.
+####  Graphene Batteries 
+ 
+Graphene Batteries, on the other hand, solves all three limitations in a single generational leap. 
+- It hits full charge in five minutes. 
+- It delivers four times the cycle lifespan of an equivalent lithium cell. 
+- ...and because Graphene lacks the electrochemical instability of Lithium, it physically cannot catch fire under stress. 
+
+These Graphene Batteries are primarily targetted for use in Electric Vehicles but they also make grid-scale renewable energy storage exponentially safer. 
 
 ####    Salt-Air Batteries
 
-The main reason you won't see this in your phone or electric car right away comes down to energy density and footprint. Salt-air (sodium-oxygen) batteries are substantially bulkier than lithium-ion. That makes them terrible for cellphones, but absolutely perfect for grid-scale storage—like backing up solar farms and wind turbines—where size doesn't matter but replacing millions of toxic, degraded cells every decade is a massive financial liability. Several research groups in Germany have been cracking the sodium-air puzzle, proving that you can strip out conflict minerals and rare elements like cobalt and nickel entirely. When you remove those, you remove the supply chain chokepoints.
+Another replacement for Lithium-based Bateries although the main reason these are not widely reported nor appear in your phone or electric car comes down to energy density and footprint of the resulting batteries. 
 
-### Concentrated Solar Power
+Salt-air (sodium-oxygen) batteries are substantially bulkier than lithium-ion. 
 
-The chemistry here is what makes this scale possible. The thermal fluid is typically a blend of sodium nitrate and potassium nitrate. It stays liquid at high temperatures and flows like water, but more importantly, it has immense thermal inertia. Unlike lithium batteries that degrade over thousands of charge cycles and eventually need replacing, this salt mixture can be heated and cooled indefinitely without losing its capacity to store energy. It is a closed-loop system. The infrastructure itself has a lifespan measured in decades, far outlasting traditional grid storage solutions.
+That makes them terrible for portable batteries but absolutely perfect for grid-scale storage, such as back-up for solar farms and wind turbines, where size doesn't matter but long-term stability does. 
+ 
+Several research groups in Germany have been cracking the sodium-air puzzle and proving that you can strip out conflict minerals and rare elements like cobalt and nickel entirely. 
 
+When you remove those, you remove the supply chain chokepoints.
+
+### Thermal Fluid Batteries
+
+The chemistry here is what makes this scale possible. 
+
+The thermal fluid is typically a blend of sodium nitrate and potassium nitrate that stays liquid at high temperatures and flows like water and, most importantly, has immense thermal inertia. 
+
+Unlike lithium batteries that degrade over thousands of charge cycles and eventually need replacing, this salt mixture can be heated and cooled indefinitely without losing its capacity to store energy. It is a closed-loop system. 
+
+The infrastructure thermal Fluid batteries itself has a lifespan measured in decades, far outlasting traditional Grid Storage Battery solutions.
 
 ##  Electricity Distribution
 
