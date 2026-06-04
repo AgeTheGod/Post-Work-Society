@@ -16,13 +16,42 @@ Energy management is a three part problem...
 
 ##  Electricity Generation
 
-There are a lot of different technologies that are being developed and deployed in this area, such as...
-- **Nuclear Power** allows us to generate electricity from nuclear reactions.
-- **Solar Power** allows us to generate electricity from the sun.
-- **Wind Power** allows us to generate electricity from the wind.
-- **Wave Power** particularly useful when you live on an island.
+There are a lot of different technologies that are being developed and deployed in this area because world-wide power consumption is projercted to massively increase over the next decade (and probably will do in every decade) and fossil fuel generation is not going to be able to meet that demand.
 
 ###  Nuclear Energy
+
+####    Traditional Nuclear Fission Reactors
+
+These have been around since the 1950's - the first industrial, full-scale commercial nuclear power station was built by the UK in 1956 (though it was also intended to manufacture weapons-grade plutonium for the UK's military) but quite a few other countries has also built some by the raly 1960's.
+
+Nowadays, full-scale Nuclear Power Stations provide the "baseline capacity" generation for many countries around the world and they are a significant source of low-carbon electricity generation.
+("Baseline Capacity" is the minimum level of demand on an electrical grid over a span of time, and it is typically met by power plants that can run continuously and reliably. Nuclear Fission Power fits that criteria so I don't see them going away anytime soon in favour of the other technologies listed below.)
+
+####    Small Modular Reactors (SMRs)
+
+Small Modular Reactors (SMRs) are a new type of nuclear reactor that is designed to be smaller and more modular than traditional nuclear reactors.
+
+SMRs are typically less than 300 megawatts in size, which is about one-third the size of a traditional nuclear reactor. 
+This smaller size allows for more flexible deployment and can be used in a wider range of locations, including remote areas and smaller communities that may not have the infrastructure to support a larger nuclear reactor.
+SMRs are also designed to be safer than traditional nuclear reactors, with features such as passive cooling systems that can operate without human intervention in the event of an emergency. 
+This makes them less vulnerable to accidents and reduces the risk of a nuclear meltdown. 
+SMRs are also designed to be more efficient than traditional nuclear reactors, with the ability to generate more electricity from the same amount of fuel. 
+This can help to reduce the cost of nuclear energy and make it more competitive with other forms of energy generation. 
+
+A number of countries, including the UK, the US, China, and Russia, are investing in the development of SMRs in preference to traditional Nuclear Power.
+
+####    Fusion Reactors
+
+Fusion Reactors are a type of nuclear reactor that is designed to generate electricity from nuclear fusion reactions, which is the process that powers the sun and other stars. 
+
+Fusion reactions produce no greenhouse gas emissions and generate very little radioactive waste compared to traditional nuclear fission reactors, which makes them a very attractive option for sustainable energy generation.
+
+However, they are still in the experimental stage and are not yet commercially viable (they always seem to be another decade away from being commercially viable) but I've included them here because once the engineering problem is solved then they have the potential to provide a virtually limitless source of clean energy with minimal environmental impact.
+
+To be honest, even when the engineering problems are solved I can't really see Fusion Reactors becoming mainstream compared to Fission Reactors. 
+To start with Nuclear Fusion is inherently far more dangerous than Nuclear Fission (which is why Fusion bombs are so much more powerful that Fission Bombs) and so far the technology scales up but doesn't scale down (as per Small Modular Reactors) so putting them anywhere near large numbers of people will be challenging.
+
+However, if all the problems are solved then this is definitely a very usable and self-sustaining technology so included it is.
 
 ###  Solar Power
 
@@ -41,7 +70,11 @@ Pretty much all spacecraft, satellites, and space stations rely on solar panels 
 
 ### Wind Power
 
-Wind Power is another abundant and widely available source of renewable energy, and it has been growing rapidly in recent years because, let's face it, the wind is also not going anywhere anytime soon given it's the natural by-product of changes in relative air density.
+Wind Power is another abundant and widely available source of renewable energy given that it's the natural by-product of changes in relative air density.
+
+Britain has officially become the first nation on earth to permanently generate more electricity from offshore wind than from natural gas, marking a monumental shift in global energy dynamics. This milestone is backed by a massive expansion in capacity, with the nation's total installed offshore wind capacity recently crossing the 15-gigawatt threshold. At the center of this achievement is the Dogger Bank Wind Farm, situated 130 kilometers off the Yorkshire coast, which now stands as the largest offshore wind installation on earth, capable of producing 3.6 gigawatts across three distinct phases. On peak days, these massive offshore turbines successfully supply over 40 percent of Britain's total national electricity demand from a single, renewable source.
+The economic realities of this transition reveal that fossil fuels are no longer the default choice for grid planners, as recent energy auctions secured offshore wind electricity at just 44 pounds per megawatt-hour. This rate makes offshore wind significantly cheaper than natural gas, cheaper than coal, and more cost-effective than any new nuclear project currently proposed anywhere in Europe. What makes this transition structurally irreversible is the pipeline of future projects, with the Crown Estate already approving an additional 30 gigawatts of offshore wind seabed leases for active development. Once fully constructed, this pipeline will allow Britain to generate more electricity from offshore wind alone than its entire current national grid requires.
+The North Sea wind resource produces annual capacity factors exceeding 50 percent, offering a massive, self-sustaining energy reserve that will never deplete with extraction. This geographic advantage provides a continuous supply of clean power over waters that the nation has exclusive access to develop. Ultimately, the country that once pioneered the industrial revolution using coal dug from the ground is successfully rewriting its future by building infrastructure to power itself and its neighbors entirely from the sea. This achievement sets a powerful precedent for coastal nations worldwide, proving that a fully renewable maritime grid is no longer a distant goal, but a present reality.
 
 ### Water Power
 

@@ -11,7 +11,13 @@ A secondary reason for this section is to highlight "**Human Ingenuity**".
 I've always found it fascinating how humans have been able to come up with all kinds of different technologies to solve all kinds of different problems.
 Collectively, as a species, we seem to be very good at it and we have a long history of doing it.
 
-So, what we have here is not a definitive list but an illustrative list of what is possible albeit with the distinct possibility that anything in this section could be replaced by something else that does the same thing but in a different, and most likely better, way in the not too distant future.
+When deciding what to include in this section a major consideration was sustainability of the technology.
+- Does it rely on a finite resource that is likely to run out in the near future?
+- Does it require a high level of regular physical maintenance?
+- Does it require an overly complex supply chain or manufacturing process?
+- Can it be incrementally built or expanded over time?  
+
+So, what we have here is not a definitive list of everything that is currently available but an **_illustrative list of what is possible_** albeit with the distinct possibility that anything in this section could be replaced by something else that does the same thing but in a different, and most likely better, way in the not too distant future.
 
 I've also tried to group things together where there are multiple technologies that roughly solve the same problem.
 

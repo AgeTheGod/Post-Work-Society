@@ -38,11 +38,11 @@ In fact, it is estimated that over 70% of all stock trades in the US are now mad
 
 Obviously, this can easily be extended to other areas of the economy such as manufacturing and distribution where the algorithms can be used to make informed decisions about production and distribution based on historical data.
 
-##  Data Centres In Space
+##  Data Centres
 
-Unfortunately, this kind of data processing has two key problems... 
+Unfortunately, very large scale data processing has two key problems...
 1. data storage at scale requires a lot of physical space to hold racks and racks of "always on" disk drives.
-2. data processing itself is a very energy intensive process 
+2. data processing itself is a very energy intensive process
 
 Consequently, the amount of energy required to store and process data is increasing exponentially as the amount of data being processed increases exponentially.
 
@@ -58,10 +58,26 @@ The current estimates are that worldwide about 150 Zettabytes (this is a very, v
 
 In terms of Energy consumption, data centres currently consume around 1.5% of the world's electricity but, with the emergence of Artificial Intelligence, this is expected to increase to around 12% by 2030.
 
+###  Data Centres In Space
+
 Currently most of this data is processed in data centres on Earth but there are many organizations, both Public and Private, that are looking at the possibility of processing data in space in order to take advantage of the cooler temperatures and the abundance of solar energy.
 
 This has become increasingly feasible in recent years due to the decreasing cost of launching payloads into space and the trend towards solid-state drives which are more durable and require less maintenance than traditional hard disk drives (no moving parts means nothing to break).
 
 Note: A side=-effect of "Data Centres In Space" is that moving the energy intensive process of data storage and processing to space would reduce the amount of energy consumed on Earth and hence reduce the carbon footprint of data processing.
+
+##  Data Centres Under Water
+
+Microsoft's "_Project Natick_" originally developed Underwater Data Centres between 2016 and 2020 by submerging a ship-full of data servers in the Atlantic near the UK Orkney Islands. 
+That research is primarily being continued by the Chinese (they have more Data Centres than any other country). 
+
+The underlying thinking is that the ocean provides continuous, immense cooling that no land-based system can rival.
+
+Essentially, these are self-contained data servers locked inside a pressurized cyclinder that is then sunk onto the ocean floor. 
+Beyond a certain depth water temperature is constant (4 Celsius) and the constant flow of the ocean naturally dissipates heat away from the data centre without incurring any energy cost.  
+
+Another, significant side-effect discovered by Microsoft is that replacing the air in the data centre with an inert gas like Nitrogen and stabilising temperature fluctuations significantly extended the "_mean time between failure_" (an important metric for maintaining computer components) by a factor of eight.
+
+When you combine zero cooling costs, lower replacement costs, and the fact that nearly half the global population lives on a coastline (reducing latency), the ocean floor becomes a prime candidate for large scale data storage.
 
 [Back to Contents](../README.md)
