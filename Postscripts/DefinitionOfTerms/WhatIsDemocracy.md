@@ -37,7 +37,7 @@ The Types and Degree of Democracy may be orthogonal to each other but they are n
 In practice they form the two axis of a grid 
 
 ```mermaid
-radar
+radar-beta
 
 axis m["Math"], s["Science"], e["English"]
 axis h["History"], g["Geography"], a["Art"]

@@ -9,14 +9,14 @@ I think we can start working towards this goal right now, by implementing polici
 
 These ramblings are littered with some very contentious statements (I have a habit of starting arguments) and I expect that many people will disagree with me on some of the points I make and some people will disagree on every point I make but that's OK because that's the way people are.
 
-However, I hope that by sharing my thoughts on this topic, I can spark a conversation about how we can create a better future for everyone.
+However, I hope that by sharing my thoughts on this topic, I can spark a conversation about how we can create a better Society for everyone.
 
 ##  Contents
 
 1. Introduction
    1. [Motivation](Introduction/Motivation.md)
-   3. [Objectives](Introduction/ObjectivesSummary.md)
    2. [Scope](Introduction/Scope.md)
+   3. [Principles](Introduction/Principles.md)
    3. [Measuring Success](Introduction/MeasuringSuccess.md)
 2. Trends In Society
    1. [Overview](TrendsInSociety/TrendsInSocietyOverview.md)
@@ -27,10 +27,10 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
    6. [The Concentration of Wealth](TrendsInSociety/WealthTrends.md)
 3. Enabling Technologies
    1. [Overview](EnablingTechnologies/EnablingTechnologiesOverview.md)
+   5. [Internet Communications](EnablingTechnologies/InternetCommunications.md)
    2. [Sustainable Energy Generation](EnablingTechnologies/SustainableEnergyGeneration.md)
    3. [Artificial Intelligence](EnablingTechnologies/ArtificialIntelligence.md)
    4. [Automation & Robotics](EnablingTechnologies/AutomationAndRobotics.md)
-   5. [Free To Use Internet](EnablingTechnologies/InternetCommunications.md)
    6. [Predictive Analytics](EnablingTechnologies/PredictiveAnalytics.md)
    7. [Interplanetary Mining](EnablingTechnologies/InterPlanetaryMining.md)
 4. Blockers To Progress
@@ -52,12 +52,15 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
       3. [Rights & Responsibilities](ReformingSociety/SocialReform/RightsAndResponsibilities.md)
       4. [Education](ReformingSociety/SocialReform/Education.md)
 5. Getting There
-   6. [the Post Work Society](GettingThere/PostWorkSociety.md)
-   7. [The Role of Technology](GettingThere/TheRoleOfTechnology.md)
+   1. [Overview](GettingThere/GettingThereOverview.md)
+   2. [the Post Work Society](GettingThere/PostWorkSociety.md)
+   3. [The Role of Technology](GettingThere/TheRoleOfTechnology.md)
+   4. [Funding The Post Work Society](GettingThere/FundingThePostWorkSociety.md)
 6. Appendices
    1. Definitions of Terms
       1. [Overview](Postscripts/DefinitionOfTerms/DefinitionOfTermsOverview.md)
       2. [What Is Society?](Postscripts/DefinitionOfTerms/WhatISSociety.md)
+      3. [What Is Democracy?](Postscripts/DefinitionOfTerms/WhatIsDemocracy.md)
       3. [What Is Money?](Postscripts/DefinitionOfTerms/WhatIsMoney.md)
       4. [How Do We Measure Wealth?](Postscripts/DefinitionOfTerms/HowDoWeMeasureWealth.md)
       5. [What is Capitalism?](Postscripts/DefinitionOfTerms/WhatIsCapitalism.md)
