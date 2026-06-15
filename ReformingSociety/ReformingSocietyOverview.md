@@ -25,3 +25,4 @@ That on its own will cause a lot of resistance.
 
 | [Go to Contents](../README.md) | [Previous (Enabling Technologies)](../EnablingTechnologies/EnablingTechnologiesOverview.md) | [Next (Getting There)](../GettingThere/GettingThereOverview.md) |
 |--------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+||||

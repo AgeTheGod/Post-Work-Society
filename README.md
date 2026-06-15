@@ -46,7 +46,7 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
    6. [Interplanetary Mining](EnablingTechnologies/InterPlanetaryMining.md)
 4. [Reforming Society](ReformingSociety/ReformingSocietyOverview.md)
    1. [Democratic Reform](ReformingSociety/DemocraticReform/DemocraticReformOverview.md)
-      1. [The Problems of Democracy]()
+      1. [The Problems with Democracy]()
       2. [Direct Democracy](ReformingSociety/DemocraticReform/DirectDemocracy.md)
       3. [Political Party Reform](ReformingSociety/DemocraticReform/PoliticalPartyReform.md)
       4. [Electronic Voting](ReformingSociety/DemocraticReform/ElectronicVoting.md)
