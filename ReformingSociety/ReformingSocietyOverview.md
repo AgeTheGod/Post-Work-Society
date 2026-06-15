@@ -23,5 +23,5 @@ This  makes it difficult to implement policies that would allow us to transition
 
 That on its own will cause a lot of resistance.
 
-| [Go to Contents](/README.md) | [Previous (Enabling Technologies)](/EnablingTechnologies/EnablingTechnologiesOverview.md) | [Next (Getting There)](/GettingThere/GettingThereOverview.md) |
-|-----------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| [Go to Contents](../README.md) | [Previous (Enabling Technologies)](../EnablingTechnologies/EnablingTechnologiesOverview.md) | [Next (Getting There)](../GettingThere/GettingThereOverview.md) |
+|--------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------|

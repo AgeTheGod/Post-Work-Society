@@ -30,5 +30,5 @@ Some of the Key Enablers for a Post-Work Society include...
 - [Interplanetary Mining](InterPlanetaryMining.md)
 
 
-| [Go to Contents](/README.md) | [Previous (Trends in Society)](/TrendsInSociety/TrendsInSocietyOverview.md) | [Next (Reforming Society)](/ReformingSociety/ReformingSocietyOverview.md) |
-|-----------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| [Go to Contents](../README.md) | [Previous (Trends in Society)](../TrendsInSociety/TrendsInSocietyOverview.md) | [Next (Reforming Society)](../ReformingSociety/ReformingSocietyOverview.md) |
+|--------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|

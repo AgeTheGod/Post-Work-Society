@@ -20,5 +20,5 @@ timeline
     =3 : Direct Democracy
 ```
 
-| [Go to Contents](/README.md) | [Previous (Reforming Society)](/ReformingSociety/ReformingSocietyOverview.md) | [Next (Appendices)](/Appendices/AppendicesOverview.md) |
-|-----------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------|
+| [Go to Contents](../README.md) | [Previous (Reforming Society)](../ReformingSociety/ReformingSocietyOverview.md) | [Next (Appendices)](../Appendices/AppendicesOverview.md) |
+|--------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------|

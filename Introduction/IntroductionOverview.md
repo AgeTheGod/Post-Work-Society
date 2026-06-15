@@ -1,9 +1,10 @@
 #   Introduction
 
-1. [Motivation](Introduction/Motivation.md)
-2. [Scope](Introduction/Scope.md)
-3. [Principles](Introduction/Principles.md)
-3. [Measuring Success](Introduction/MeasuringSuccess.md)
+1. [Motivation](./Motivation.md)
+2. [Scope](./Scope.md)
+3. [Principles](./Principles.md)
+3. [Measuring Success](./MeasuringSuccess.md)
 
-| [Go to Contents](/README.md) | [Next (Trends in Society)](/TrendsInSociety/TrendsInSocietyOverview.md) |
-|-----------------------------------|--------------------------------------------------------------------------|
+| [Go to Contents](../README.md) | [Next (Trends in Society)](../TrendsInSociety/TrendsInSocietyOverview.md) |
+|--------------------------------|---------------------------------------------------------------------------|
+|                                |                                                                           |
