@@ -1,4 +1,4 @@
-# Blockers To Progress
+# Reforming Society
 
 Whilst pondering how to create the Post-Work Society a key stage is identifying the "**Blockers to Progress**" and especially the "**Show-Stoppers**" (it's a standard part of any project initiation process).
 We can then decide what we CAN DO and, in some cases, MUST DO to mitigate those Blockers to Progress.
@@ -23,4 +23,5 @@ This  makes it difficult to implement policies that would allow us to transition
 
 That on its own will cause a lot of resistance.
 
-[Back to Contents](../README.md)
+| [Go to Contents](/README.md) | [Previous (Enabling Technologies)](/EnablingTechnologies/EnablingTechnologiesOverview.md) | [Next (Getting There)](/GettingThere/GettingThereOverview.md) |
+|-----------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------|

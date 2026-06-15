@@ -1,6 +1,8 @@
-#   Objectives Summary
+#   Principles
 
-Any piece of work should have some up-front Objectives that we are trying to achieve. Objectives define success criteria and also tell us when to stop.
+Any piece of work should have some up-front Principles that we are trying to achieve. 
+
+Objectives define success criteria and also tell us when to stop.
 
 In normal software enginering Objectives are generally quite concrete and measurable, such as "Implement a new feature that allows users to do X" or "Fix a bug that causes Y".
 
@@ -8,7 +10,7 @@ However, in this project it's not quite that simple because we talking about cre
 
 That's a much more nebulous thing than defining and implementing a software feature or a bug.
 
-##   Functional Objectives
+##   Functional Principles
 
 ### Provide the most benefit for the most people at the least cost
 
@@ -18,9 +20,7 @@ That's a much more nebulous thing than defining and implementing a software feat
 
 ### Equality for all
 
-### Democratic Decision Making
-
-##  Non-Functional Objectives
+##  Non-Functional Principles
 
 ### Sustainable Services
 
@@ -28,7 +28,9 @@ That's a much more nebulous thing than defining and implementing a software feat
 
 ###  Scalable Management 
 
-###   Minimize Maintenance
+###   Minimized Maintenance
+
+
 
 ##  Development Principles
 

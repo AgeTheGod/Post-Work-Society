@@ -16,6 +16,8 @@ However, it is a much, much larger land-mass that brings other factors, such as 
 
 It's nothing that I'd expect to be a blocker to eventually deploy into Australia but it would make the analysis more complex and less focused on the core issues that I want to explore in this project.
 
+#   What This Is
+
 #   Essential Utilities
 
 In order to achieve the vision of a post work society, there are a number of essential utilities that must be developed and implemented.
@@ -45,5 +47,7 @@ So, on that point alone, we should consider these utilities to be essential and 
 
 I'm deliberately ignoring some other things that lots of people would regard as essential, such as "Security" and "Defence", not because they are unimportant but because they are not something that everyone needs to have access to in order to have a basic quality of life.
 We could even consider them to be "Value Added Services" albeit they are services that we definitely would not want private enterprise to provide.
+
+##  What This Is Not
 
 [Back to Contents](../README.md)

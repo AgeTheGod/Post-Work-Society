@@ -24,13 +24,13 @@ Given all that any analysis tends to be approximately correct rather than precis
 
 So, it's worth bearing these points in mind when reading through the topics in this section.
 
-| Topic                                                     | Summary |
-|-----------------------------------------------------------|---------|
-| [Employment](./Employment.md)                             |         |
-| [Distribution of Wealth](./DistributionOfWealth.md)       |         |
-| [Distribution of Resources](./DistributionOfResources.md) |         |
-| [Education](./Education.md)                               |         |
-| [Taxation](./Taxation.md)                                 |         |
+5. [Employment](Postscripts/Analysis/Employment.md)
+2. [Distribution of Wealth](Postscripts/Analysis/DistributionOfWealth.md)
+3. [Universal Basic Income](Postscripts/Analysis/UniversalBasicIncome.md)
+3. [Inheritance Tax](Postscripts/Analysis/InheritanceTax.md)
+3. [Distribution of Resources](Postscripts/Analysis/DistributionOfResources.md)
+4. [Education](Postscripts/Analysis/Education.md)
+6. [Taxation](Postscripts/Analysis/Taxation.md)
 
-
-[Back to Contents](../../README.md)
+| [Go to Contents](../../README.md) | [Go to Overview] |[Previous Section]|[Next Section]|
+|-----------------------------------|--------------------|-----|-----|
