@@ -6,64 +6,50 @@ Theoretically at least, we should easily have the production capacity to meet al
 
 This is something I've been thinking about for decades and patiently hoping for the day that technology gets to the point that it's feasible. I think we're nearly there but not quite. 
 So, what we have here is my take on how to build a "**Post-Work Society**" designed so that every member of that society has a basic quality of life without having to "work to live".
-The intent is for a Post-Work Society to provide just enough that "_How will I survive?_" is no longer the question but, instead, everyone can ask themselves "_How can I make best use of what time I have?_". 
+The intent is for a Post-Work Society to provide just enough that "_How will I survive?_" is no longer the question. 
 
-**That's a much better question to be asking.**   
+Instead, "_How can I make best use of what time I have?_" is a much better question to be asking ourselves if only we were in a position if only we were all in a position to act on the answer.
+
+So that is what we have here - my attempt at designing a Society where **working just to live is no longer the primary activity for most people**.
 
 This is not intended as some Socialist utopia where "The State" provides everything and "The People" do nothing in return.
 That, in my experience, basically would not work simply because people need reasons for doing things ("_...because I can_" is a common one) and without reasons for making progress everything would just stagnate and eventually decay.
 Some people would even argue that Human Beings are just not built to sit around doing nothing - it's not in our DNA.
 
-There is also a lot of focus on the application of technology to minimise the cost of providing essential services. 
-To me "Making life easier" has always been the purpose of Technology and all innovations in history have done that to one extent or another.
+I have a certain way of working based on having spent nearly 40 years designing and implementing both National and Globally Distributed Applications. 
+This is...
 
-However the rate of Technological progress has accelerated (almost exponentially) in the last few decades to the point that I don't think we need to wait for a technological singularity to achieve this.
-I think we can start working towards this goal right now, by implementing policies and building infrastructure that would allow us to transition to a post-work society.
+1. Define what we want to achieve - [Introduction](Introduction/IntroductionSummary.md)
+2. ... then identify existing or emerging solutions that might help us achieve the objectives - [Enabling Technologies](EnablingTechnologies/EnablingTechnologiesSummary.md)
+3. ... then put together a proposal (or set of proposals) that deliver the Objectives - [Reforming Society](ReformingSociety/ReformingSocietySummary.md)
+4. ... then put together a plan for how we might deliver the proposals - [Getting There](GettingThere/GettingThereSummary.md)
+5. ... then **just do it** 
 
-These ramblings are littered with some very contentious statements (I have a habit of starting arguments) and I expect that many people will disagree with me on some of the points I make and some people will disagree on every point I make but that's OK because that's the way people are.
-
-However, I hope that by sharing my thoughts on this topic, I can spark a conversation about how we can create a better Society for everyone.
+This approach has worked for me many times in the past so is the structure that I'm following here.
 
 ##  Contents
 
-1. [Introduction](Introduction/IntroductionOverview.md)
+1. [Introduction](Introduction/IntroductionSummary.md)
    1. [Motivation](Introduction/Motivation.md)
    2. [Scope](Introduction/Scope.md)
    3. [Principles](Introduction/Principles.md)
    3. [Measuring Success](Introduction/MeasuringSuccess.md)
-2. [Trends In Society](TrendsInSociety/TrendsInSocietyOverview.md)
-   1. [World Happiness Report](TrendsInSociety/WorldHappinessReport.md)
-   2. [Employment Trends](TrendsInSociety/EmploymentTrends.md)
-   3. [Population Growth and Decline](TrendsInSociety/PopulationTrends.md)
-   4. [The Rise of Automation](TrendsInSociety/TheRiseOfAutomation.md)
-   5. [The Concentration of Wealth](TrendsInSociety/WealthTrends.md)
-3. [Enabling Technologies](EnablingTechnologies/EnablingTechnologiesOverview.md)
+3. [Enabling Technologies](EnablingTechnologies/EnablingTechnologiesSummary.md)
    1. [Internet Communications](EnablingTechnologies/InternetCommunications.md)
    2. [Sustainable Energy Generation](EnablingTechnologies/SustainableEnergyGeneration.md)
    3. [Artificial Intelligence](EnablingTechnologies/ArtificialIntelligence.md)
    4. [Automation & Robotics](EnablingTechnologies/AutomationAndRobotics.md)
    5. [Predictive Analytics](EnablingTechnologies/PredictiveAnalytics.md)
    6. [Interplanetary Mining](EnablingTechnologies/InterPlanetaryMining.md)
-4. [Reforming Society](ReformingSociety/ReformingSocietyOverview.md)
-   1. [Democratic Reform](ReformingSociety/DemocraticReform/DemocraticReformOverview.md)
-      1. [The Problems with Democracy]()
-      2. [Direct Democracy](ReformingSociety/DemocraticReform/DirectDemocracy.md)
-      3. [Political Party Reform](ReformingSociety/DemocraticReform/PoliticalPartyReform.md)
-      4. [Electronic Voting](ReformingSociety/DemocraticReform/ElectronicVoting.md)
-      5. [National Identity Card](ReformingSociety/DemocraticReform/NationalIdentityCard.md)
-   2. [Economic Reform](ReformingSociety/EconomicReform/EconomicReformOverview.md) 
-      1. [State Owned Enterprises](ReformingSociety/EconomicReform/StateOwnedEnterprises.md) 
-      2. [Funding Public Services](ReformingSociety/EconomicReform/FundingPublicServices.md)
-      3. [Ring Fenced Taxation](ReformingSociety/EconomicReform/RingFencedTaxation.md)
-   3. [Social Reform](ReformingSociety/SocialReform/SocialReformOverview.md) 
-      1. [Universal Basic Income](ReformingSociety/SocialReform/UniversalBasicIncome.md)
-      2. [Rights & Responsibilities](ReformingSociety/SocialReform/RightsAndResponsibilities.md)
-      3. [Education](ReformingSociety/SocialReform/Education.md)
-5. [Getting There](GettingThere/GettingThereOverview.md)
+4. [Reforming Society](ReformingSociety/ReformingSocietySummary.md)
+   1. [Democratic Reform](ReformingSociety/DemocraticReform/DemocraticReformSummary.md)
+   2. [Economic Reform](ReformingSociety/EconomicReform/EconomicReformSummary.md) 
+   3. [Social Reform](ReformingSociety/SocialReform/SocialReformSummary.md) 
+5. [Getting There](GettingThere/GettingThereSummary.md)
    1. [the Post Work Society](GettingThere/PostWorkSociety.md)
    2. [The Role of Technology](GettingThere/TheRoleOfTechnology.md)
-   3. [Funding The Post Work Society](GettingThere/FundingThePostWorkSociety.md)
-6. [Appendices](Appendices/AppendicesOverview.md)
+   3. [Funding The Post Work Society](GettingThere/FundingTheTransition.md)
+6. [Appendices](Appendices/AppendicesSummary.md)
    1. [Definitions of Terms](Appendices/DefinitionOfTerms/DefinitionOfTermsOverview.md)
    2. [Analysis](Appendices/Analysis/AnalysisOverview.md)
    3. [References](Appendices/References.md)
@@ -74,6 +60,11 @@ However, I hope that by sharing my thoughts on this topic, I can spark a convers
 
 This is intended to be a perpetual work in Progress (which is why it's version controlled on GitHub) and frequently updated as I work through various thoughts.
 
-If you have any thoughts on this subject and would like to contribute to this project, please feel free to reach out to me.
+These ramblings are littered with some very contentious statements (I have a habit of starting arguments) and I expect that many people will disagree with me on some of the points I make and some people will disagree on every point I make but that's OK because that's the way people are.
+
+If anyone wants to put a counter-argument forward or make suggestions for alternative proposals that meet the Objectives or simply have any thoughts on this subject and would like to contribute to this project, please feel free to reach out to me.
 You can also fork this repository and submit a pull request with your contributions.
 Please read [Contributing](CONTRIBUTING.md) for more details on how to contribute to this project.
+
+However, whether anyone contributes or not, I hope that by sharing my thoughts on this topic, I can spark a conversation about how we can create a better Society for everyone.
+

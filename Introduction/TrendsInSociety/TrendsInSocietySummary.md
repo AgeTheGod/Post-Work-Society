@@ -1,4 +1,4 @@
-#   Trends In Society Overview
+#   Trends In Society Summary
 
 Societies change over time and how they change affects how a Society organizes and manages itself.   
 
@@ -15,6 +15,6 @@ It is published in partnership with the UN Sustainable Development Solutions Net
 [The Rise of Automation](TheRiseOfAutomation.md)
 
 
-| [Go to Contents](../README.md) | [Previous (Introduction)](../Introduction/IntroductionOverview.md) | [Next (Enabling Technologies)](../EnablingTechnologies/EnablingTechnologiesOverview.md) |
+| [Go to Contents](../../README.md) | [Previous (Introduction)](../IntroductionSummary.md) | [Next (Enabling Technologies)](../../EnablingTechnologies/EnablingTechnologiesSummary.md) |
 |--------------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 ||||

@@ -34,13 +34,16 @@ That's a much more nebulous thing than defining and implementing a software feat
 
 ##  Development Principles
 
-Having spent many decades in Agile Application Development there is a single fundamental principle that applies to all Application Development which is...
+I'm a big fan of Iterative Development ([Wikipedia](https://en.wikipedia.org/wiki/Iterative_and_incremental_development)) in the belief that long running projects will be subject to many changes during their lifecycle so not conducive to "**Big Design Up-Front**" ([Wikipedia](https://en.wikipedia.org/wiki/Big_design_up_front)).
+
+However, to make Iterative Development work it's important to estab;lish and follow a number of key principles as part of the development process.
+The single most fundamental principle is...
 
     The only sign of success is a working solution that is being used by real people in the real world.
 
-That's it and if it's not that then all you have is "Vapourware" and "Cargo Cult Software Development" and all the other buzzwords that are used to try to make it sound like you are doing something useful when in fact you are just wasting time and resources on something that is not going to be used by anyone.
+That's it and if it's not that then all you have is "Vapourware" and "Cargo Cult Software Development" and all the other buzzwords that are used to try to make it sound like you are doing something useful when in fact you are just wasting time and resources iterating on something that does not exist.
 
-Solutions do not have to be perfect, they just have to be good enough to meet the needs of the people that are using them.
+
 
 | Principle                       |                                                                            |        
 |:--------------------------------|----------------------------------------------------------------------------|
@@ -72,6 +75,8 @@ Don't overcomplicate things.
 Don't duplicate code or functionality.
 
 ### Iterate Don't Procrastinate
+
+Solutions do not have to be perfect, they just have to be good enough to meet the needs of the people that are using them.
 
 Don't try to get everything right the first time, but instead iterate and improve over time.
 

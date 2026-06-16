@@ -1,5 +1,11 @@
 #   Improving Democracy
 
+1. [The Problems with Democracy]()
+2. [Direct Democracy](./DirectDemocracy.md)
+3. [Political Party Reform](./PoliticalPartyReform.md)
+4. [Electronic Voting](./ElectronicVoting.md)
+5. [National Identity Card](./NationalIdentityCard.md)
+
 In order to create a post-work society, we need to have a government that is responsive to the needs of the people and that is able to implement policies that will help us transition to a post-work society.
 
 ##  The Problems with Current UK Democracy

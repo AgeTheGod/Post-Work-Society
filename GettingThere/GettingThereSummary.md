@@ -1,4 +1,4 @@
-#   Getting There Overview
+#   Getting There Summary
 
 From experience, when proposing major changes to how things are currently done it's important to also have some sort of plan for how we get from where we are now to where we want to be.
 
@@ -20,6 +20,6 @@ timeline
     =3 : Direct Democracy
 ```
 
-| [Go to Contents](../README.md) | [Previous (Reforming Society)](../ReformingSociety/ReformingSocietyOverview.md) | [Next (Appendices)](../Appendices/AppendicesOverview.md) |
+| [Go to Contents](../README.md) | [Previous (Reforming Society)](../ReformingSociety/ReformingSocietySummary.md) | [Next (Appendices)](../Appendices/AppendicesSummary.md) |
 |--------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------|
 ||||

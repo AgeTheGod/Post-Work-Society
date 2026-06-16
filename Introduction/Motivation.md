@@ -21,7 +21,14 @@ In fact in many cases exactly the opposite has happened, with...
 
 Weirdly, technology was supposed to reduce the amount of work that each person had to do and promised to allow us to live more fulfilling lives, but instead it seems to have done the opposite.
 We have more technology than ever before, but we are also working harder than ever before (those that are actually working) just to achieve the basics of life.
-We are also more stressed and less happy than ever before as shown in the [World Happiness Report](../TrendsInSociety/WorldHappinessReport.md) long-term trends.
+We are also more stressed and less happy than ever before as shown in the [World Happiness Report](TrendsInSociety/WorldHappinessReport.md) long-term trends.
+
+1. [World Happiness Report](TrendsInSociety/WorldHappinessReport.md)
+2. [Employment Trends](TrendsInSociety/EmploymentTrends.md)
+3. [Population Growth and Decline](TrendsInSociety/PopulationTrends.md)
+4. [The Rise of Automation](TrendsInSociety/TheRiseOfAutomation.md)
+5. [The Concentration of Wealth](TrendsInSociety/WealthTrends.md)
+
 
 ##  Enabling Technologies
 
@@ -58,7 +65,7 @@ So some basic principles I believe in are...
 - People are responsible for their own actions and they should be free to do whatever they want as long as they are not harming other people or the Society in general - if you can't decide whether it will cause harm or not then you probably should not be doing it anyway.
 - The Natural Resources belong to Society and should be used for the common benefit of everyone within that Society - I'm strictly against "_foreign_" ownership of Natural Resources
 
-My Political Views are the predominant reason why the [Reforming Societty](../ReformingSociety/ReformingSocietyOverview.md) section exists. 
+My Political Views are the predominant reason why the [Reforming Societty](../ReformingSociety/ReformingSocietySummary.md) section exists. 
 What we currently have may have worked historically (the best of some bad options) but we can do so much better than this.
 
 [Back to Contents](../README.md)
