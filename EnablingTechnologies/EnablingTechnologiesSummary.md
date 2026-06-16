@@ -25,6 +25,14 @@ I've also tried to group the Technology together where there are multiple techno
 - [Predictive Analytics](PredictiveAnalytics.md)
 - [Interplanetary Mining](InterPlanetaryMining.md)
 
+Of course, we have to be careful about the Gartner "Technology Hype Cycle"...
+
+![Gartner Hype Cycle](GartnerHypeCycle.png)
+
+... because new technology is often over-hyped when it first comes out and then it takes a while for the technology to mature and for people to figure out how to use it effectively.
+
+Fortunately the Technology Hype Cycle isn't a concern for this project because we are planning for the future but focussing on a lot of already well esatblished technology and the hyped-up new technologies should reach the "Plateau of Productivity" by the time we actually need them.
+
 A secondary reason for this section is to highlight "**Human Ingenuity**".
 I've always found it fascinating how humans have been able to come up with all kinds of different technologies to solve all kinds of different problems.
 Collectively, as a species, we seem to be very good at it and we have a long history of continuous technological improvement.
