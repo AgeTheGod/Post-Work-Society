@@ -13,7 +13,7 @@ description: A society designed so that every member has a basic quality of life
 mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
-  version: "9.1.3"
+  version: "11.15.0"
 
 # Plugins
 #  plugins:
