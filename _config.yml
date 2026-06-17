@@ -1,10 +1,10 @@
 # Site settings
-title: Building a Post-Work Society
+title: Towards a Post-Work Society
 description: Designing a Society where every member has a basic quality of life without having to "work to live"
 
 # GitHub Pages settings
 #url: "https://agethegod.github.io"
-baseurl: "/PostWorkSociety"
+#baseurl: "/PostWorkSociety"
 
 # Build settings
 #markdown: kramdown
@@ -20,8 +20,8 @@ mermaid:
 #    - jekyll-seo-tag
 #    - jekyll-remote-theme
 
-exclude:
-  - .gitignore
-  - .git
-  - .idea
-  - .prompts
+#  exclude:
+#    - .gitignore
+#    - .git
+#    - .idea
+#    - .prompts

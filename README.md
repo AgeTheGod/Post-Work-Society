@@ -8,7 +8,7 @@ This is something I've been thinking about for decades and patiently hoping for 
 So, what we have here is my take on how to build a "**Post-Work Society**" designed so that every member of that society has a basic quality of life without having to "work to live".
 The intent is for a Post-Work Society to provide just enough that "_How will I survive?_" is no longer the question. 
 
-Instead, "_How can I make best use of what time I have?_" is a much better question to be asking ourselves if only we were in a position if only we were all in a position to act on the answer.
+Instead, "_How can I make best use of what time I have?_" is a much better question to be asking ourselves if only we were in a position to act on the answer.
 
 So that is what we have here - my attempt at designing a Society where **working just to live is no longer the primary activity for most people**.
 
