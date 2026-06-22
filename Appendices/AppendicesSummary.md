@@ -1,3 +1,7 @@
+---
+title: Appendices
+layout: default
+---
 #   Appendices
 
 The Appendices provide additional information and explanations that supports some of the main text but maybe not directly relevant to the text itself.

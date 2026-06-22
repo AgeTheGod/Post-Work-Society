@@ -1,3 +1,7 @@
+---
+title: Enabling Technologies Summary
+layout: default
+---
 #   Enabling Technologies Summary
 
 **Enabling Technologies** are the various inventions and innovations that potentially help us solve problems and provide capabilities that we need to have in place in order to achieve our Objectives. 

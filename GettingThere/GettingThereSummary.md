@@ -1,3 +1,7 @@
+---
+title: Getting There
+layout: default
+---
 #   Getting There Summary
 
 From experience, when proposing major changes to how things are currently done it's important to also have some sort of plan for how we get from where we are now to where we want to be.

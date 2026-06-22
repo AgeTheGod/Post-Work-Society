@@ -1,3 +1,7 @@
+---
+title: Introduction
+layout: default
+---
 #   Introduction Summary
 
 Before starting on any activity it's always worth some time defining...

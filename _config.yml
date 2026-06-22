@@ -1,27 +1,19 @@
 # Site settings
-#title: Towards a Post-Work Society
-#description: Designing a Society where every member has a basic quality of life without having to "work to live"
+title: Towards a Post-Work Society
+description: Designing a Society where every member has a basic quality of life without having to "work to live"
 
 # GitHub Pages settings
 #url: "https://agethegod.github.io"
 #baseurl: "/PostWorkSociety"
 
-# Build settings
+theme: just-the-docs
+nav_enabled: true
+heading_anchors: true
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 #markdown: kramdown
-#remote_theme: pages-themes/minimal@v0.2.0
 
-# Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+# Mermaid configuration : Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
 mermaid:
   version: "11.15.0"
 
-# Plugins
-#  plugins:
-#    - jekyll-feed
-#    - jekyll-seo-tag
-#    - jekyll-remote-theme
-
-#  exclude:
-#    - .gitignore
-#    - .git
-#    - .idea
-#    - .prompts

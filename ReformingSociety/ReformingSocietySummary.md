@@ -1,3 +1,7 @@
+---
+title: refiorming Society
+layout: default
+---
 # Reforming Society Summary
 
 Whilst pondering how to create the Post-Work Society a key stage is identifying the "**Blockers to Progress**" and especially the "**Show-Stoppers**" (it's a standard part of any project initiation process).
