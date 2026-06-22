@@ -52,8 +52,6 @@ Finally, because everything should have a plan for getting from where we are not
    2. [Economic Reform](ReformingSociety/EconomicReform/EconomicReformSummary.md) 
    3. [Social Reform](ReformingSociety/SocialReform/SocialReformSummary.md) 
 5. [Getting There](GettingThere/GettingThereSummary.md)
-   1. [the Post Work Society](GettingThere/PostWorkSociety.md)
-   2. [The Role of Technology](GettingThere/TheRoleOfTechnology.md)
    3. [Funding The Post Work Society](GettingThere/FundingTheTransition.md)
 6. [Appendices](Appendices/AppendicesSummary.md)
    1. [Definitions of Terms](Appendices/DefinitionOfTerms/DefinitionOfTermsOverview.md)

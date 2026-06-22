@@ -1,6 +1,7 @@
 ---
 title: Getting There
 layout: default
+nav_order: 4
 ---
 #   Getting There Summary
 
