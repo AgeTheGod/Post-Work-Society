@@ -28,16 +28,16 @@ I use a lot of references to Wikipedia pages because that's a great start point 
 | [Social Structure](https://en.wikipedia.org/wiki/Social_structure)                                          |                                                                                                                                                                                                    |
 | [British Business Bank](https://en.wikipedia.org/wiki/British_Business_Bank)                                |                                                                                                                                                                                                    |
 | [Public Works Loan Board](https://en.wikipedia.org/wiki/Public_Works_Loan_Board)                            |                                                                                                                                                                                                    |
-
+| [Big Design Up-Front](https://en.wikipedia.org/wiki/Big_design_up_front)||
 
 ##  Ideas
 
-|Link| Summary |
-|----|---------|
-|https://novaramedia.com/2021/12/29/the-land-hoarding-elite-should-be-paying-the-rest-of-us-rent/|         |
-|https://www.idea.int/about-us|         |
-|https://davidgraeber.org/articles/a-practical-utopians-guide-to-the-coming-collapse/|         |
-|https://voicesofcapitalism.com/hyper-capitalism-vs-capitalism/|         |
+| Link                                                                                            | Summary |
+|-------------------------------------------------------------------------------------------------|---------|
+| https://www.idea.int/about-us                                                                   |         |
+| https://davidgraeber.org/articles/a-practical-utopians-guide-to-the-coming-collapse/            |         |
+| https://voicesofcapitalism.com/hyper-capitalism-vs-capitalism/                                  |         |
+| [Electoral Reform Society](https://electoral-reform.org.uk/)                                    |||
 
 ##  General Data Sources
 
@@ -60,4 +60,8 @@ I use a lot of references to Wikipedia pages because that's a great start point 
 | [UK Current Employment Statistics](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/employmentbyoccupationemp13) |                                                                                |
 | [US Current Employment Statistics](https://www.bls.gov/ces)                                                                                                       |                                                                                |
 
+https://taxpolicy.org.uk/
+https://www.thelondoneconomic.com/business-economics/economists-publish-mathematical-proof-that-ai-will-destroy-the-economy-405731/
+https://davidgraeber.org/articles/are-you-an-anarchist-the-answer-maysurprise-you/
+"uni degree not worth it" https://www.bbc.co.uk/news/articles/c2e29gk73rjo
 
