@@ -1,6 +1,7 @@
 ---
 title: Introduction
 layout: default
+nav_order: 1
 ---
 #   Introduction Summary
 
@@ -12,7 +13,8 @@ Before starting on any activity it's always worth some time defining...
 
 That's what we have here in the Introduction.
 
-[Motivation](./Motivation.md) explains why I'm writing this. It sets out the objectives I'm trying to achieve, the trends that underlay the assumptions being made and the conclusions drawn. 
+[Motivation](./Motivation.md) explains why I'm writing this. along with the trends that underlay the assumptions being made and the conclusions drawn. 
+
 
 [Scope](./Scope.md) places a boundary around the objectives in order to make decisions about whether some proposal or idea needs to be included or not. 
 Personally, I think it's necessary to always have some kind of scoping statement to avoid unplanned scope creep (which has killed more than one project I've worked on in the past)
@@ -22,7 +24,3 @@ This tends to be "_buzzword heavy_" with terms such as "Sustainable Solutions" a
 This omission seems odd to me because there should be some means of judging the appropriateness of some proposed solution other than just arguing about it.  
 
 Finally, the [Measuring Success](./MeasuringSuccess.md) section defines a set of potential Key Performance Indicators (KPI's) that we might use to monitor how we are progressing towards the stated Objectives.
-
-| [Go to Contents](../README.md) | [Next (Enabling Technologies)](../EnablingTechnologies/EnablingTechnologiesSummary.md) |
-|--------------------------------|----------------------------------------------------------------------------------------|
-|                                |                                                                                        |

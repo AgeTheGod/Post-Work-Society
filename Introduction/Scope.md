@@ -1,3 +1,8 @@
+---
+title: Scope
+layout : default
+nav_order: 2
+---
 ##  Scope
 
 A lot of this is focussed on the United Kingdom but this is not because I think the UK is the only country that has these problems, but rather because...
@@ -49,5 +54,3 @@ I'm deliberately ignoring some other things that lots of people would regard as 
 We could even consider them to be "Value Added Services" albeit they are services that we definitely would not want private enterprise to provide.
 
 ##  What This Is Not
-
-[Back to Contents](../README.md)

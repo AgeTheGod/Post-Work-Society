@@ -9,6 +9,8 @@ description: Designing a Society where every member has a basic quality of life 
 theme: just-the-docs
 nav_enabled: true
 heading_anchors: true
+color_scheme: dark
+
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 #markdown: kramdown

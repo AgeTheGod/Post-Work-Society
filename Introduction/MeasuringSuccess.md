@@ -1,3 +1,8 @@
+---
+title: Measuring Success
+layout: default
+nav_order: 4
+---
 ##  Measuring Success
 
 There's a lot of focus on Gross Domestic Product (GDP) when talking about how wealthy or successful a country or society may be but that's a really awful statistic to measure by.
@@ -18,6 +23,3 @@ It also completely fails to consider issues like...
 -  The "Cost of Living" which generally increases over time due to inflation
 -  Socially Useless Work (e.g. working in a call center or a supermarket) which doesn't really contribute to the overall well-being of society but it does contribute to GDP.
 -  The "Environmental Cost" of producing goods and services which can have a negative impact on the overall well-being of society but it does contribute to GDP.
-
-
-[Back to Contents](../README.md)

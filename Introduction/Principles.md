@@ -1,3 +1,8 @@
+---
+title: Principles
+layout: default
+nav_order: 3
+---
 #   Principles
 
 Any piece of work should have some up-front Principles that we are trying to achieve. 
@@ -81,5 +86,3 @@ Solutions do not have to be perfect, they just have to be good enough to meet th
 Don't try to get everything right the first time, but instead iterate and improve over time.
 
 Procrastination is the enemy of progress and can lead to a situation where nothing gets done because people are trying to get everything right before they start.
-
-[Back to Contents](../README.md)
