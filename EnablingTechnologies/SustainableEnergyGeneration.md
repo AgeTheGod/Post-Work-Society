@@ -1,3 +1,9 @@
+---
+title: Sustainable Energy Generation 
+layout: default
+parent: Enabling Technologies
+nav_order: 1
+---
 #   Sustainable Energy Generation
 
 **Sustainable Energy** allows us to produce "cost-free" energy from renewable sources. 

@@ -1,6 +1,7 @@
 ---
 title: World Happiness Report
 layout: default
+parent: Motivation
 nav_order: 0
 ---
 #   World Happiness Report

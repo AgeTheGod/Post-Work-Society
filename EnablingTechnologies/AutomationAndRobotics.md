@@ -1,3 +1,9 @@
+---
+title: Automation
+layout: default
+parent: Enabling Technologies
+nav_order: 4
+---
 #   Automation and Robotics
 
 When most people think about Robots they are really talking about Androids which are humanoid robots that are designed to look and act like humans. However, there are many other types of robots that are not humanoid in nature but are still considered to be robots.

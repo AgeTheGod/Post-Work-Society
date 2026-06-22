@@ -1,3 +1,9 @@
+---
+title: Internet Communications
+layout: default
+parent: Enabling Technologies
+nav_order: 2
+---
 #   Internet Communications
 
 The **Internet** allows us to communicate and access information in ways that were not possible before. This is a key enabler in many areas such as...

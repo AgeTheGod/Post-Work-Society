@@ -1,6 +1,7 @@
 ---
 title: Scope
 layout : default
+parent: Introduction
 nav_order: 2
 ---
 ##  Scope

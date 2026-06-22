@@ -1,3 +1,9 @@
+---
+title: Predictive Analytics 
+layout: default
+parent: Enabling Technologies
+nav_order: 10
+---
 #   Predictive Analytics
 
 Predictive Analytics is the practice of using data, statistical algorithms and machine learning techniques to identify the likelihood of future demand based on historical data.

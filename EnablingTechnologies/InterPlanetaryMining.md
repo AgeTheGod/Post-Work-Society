@@ -1,3 +1,9 @@
+---
+title: Interplanetary Mining
+layout: default
+parent: Enabling Technologies
+nav_order: 20
+---
 #   Interplanetary Mining
 
 This particular subject has fascinated me ever since I first read about it in Arthur C. Clarke's "_Profiles of the Future_" and Asteroid Mining has long been a trope in most "near space" science fiction for the last 100+ years.

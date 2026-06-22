@@ -1,3 +1,9 @@
+---
+title: Artificial Intelligence 
+layout: default
+parent: Enabling Technologies
+nav_order: 3
+---
 #   Artificial Intelligence
 
 **Artificial Intelligence** (AI) is an emerging enabler that has the potential to revolutionize many aspects of our lives. AI can be used to automate many tasks that are currently done by humans for example...

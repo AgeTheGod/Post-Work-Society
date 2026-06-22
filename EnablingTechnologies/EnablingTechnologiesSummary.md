@@ -1,6 +1,7 @@
 ---
-title: Enabling Technologies Summary
+title: Enabling Technologies
 layout: default
+nav_order: 2
 ---
 #   Enabling Technologies Summary
 
