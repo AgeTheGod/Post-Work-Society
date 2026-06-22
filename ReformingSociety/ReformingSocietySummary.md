@@ -1,6 +1,7 @@
 ---
-title: refiorming Society
+title: Reforming Society
 layout: default
+nav_order: 3
 ---
 # Reforming Society Summary
 

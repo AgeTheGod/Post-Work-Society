@@ -1,3 +1,9 @@
+---
+title: Economic Reform
+layout: default
+parent: Reforming Society
+nav_order: 2
+---
 #   Economic Reform
 
 1. [Universal Basic Income](./UniversalBasicIncome.md)

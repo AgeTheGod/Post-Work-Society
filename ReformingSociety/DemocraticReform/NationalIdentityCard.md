@@ -1,3 +1,9 @@
+---
+title: National Identity Cards
+layout: default
+parent: Improving Democracy
+nav_order: 4
+---
 #   National Identity Card
 
 Within the UK everyone already has multiple officially issued identification numbers such as...

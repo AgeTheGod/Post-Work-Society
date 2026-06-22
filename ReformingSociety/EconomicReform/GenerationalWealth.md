@@ -1,4 +1,10 @@
-#  Generational Wealth
+---
+title: Generational Wealth Reforms 
+layout: default
+parent: Economic Reform
+nav_order: 2
+---
+#  Generational Wealth Reform
 
 Greed and selfishness are deeply ingrained in many "social laws" that they are now considered to be "human nature" and generally inviolate.
 As a result and people have a tendency to hoard more than they need and to exploit others for their own gain.

@@ -1,4 +1,10 @@
-#   Improving Democracy
+---
+title: Improving Democracy
+layout: default
+parent: Reforming Society
+nav_order: 1
+---
+#   Improving Democracy Summary
 
 1. [The Problems with Democracy]()
 2. [Direct Democracy](./DirectDemocracy.md)

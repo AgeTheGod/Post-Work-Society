@@ -1,3 +1,9 @@
+---
+title: Electronic Voting
+layout: default
+parent: Improving Democracy
+nav_order: 3
+---
 #  Electronic Voting
 
 Two thresholds for voting...

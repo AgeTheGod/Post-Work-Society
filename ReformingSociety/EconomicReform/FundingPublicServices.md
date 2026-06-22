@@ -1,3 +1,9 @@
+---
+title: Funding Public Services
+layout: default
+parent: Economic Reform
+nav_order: 1
+---
 #   Funding Of Public Services
 
 There are three basic methods to pay for anything which are...

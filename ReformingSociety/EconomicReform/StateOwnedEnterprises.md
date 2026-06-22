@@ -1,3 +1,9 @@
+---
+title: State Owned Enterprises 
+layout: default
+parent: Economic Reform
+nav_order: 3
+---
 #   How To Deliver Public Services to Society
 
 ##  How We Got To Where We Are

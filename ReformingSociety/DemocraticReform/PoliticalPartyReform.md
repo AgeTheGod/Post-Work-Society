@@ -1,3 +1,9 @@
+---
+title: Political Party Reform
+layout: default
+parent: Improving Democracy
+nav_order: 1
+---
 #   Political Party Reform
 
 ##  Corporate Funded Politics
