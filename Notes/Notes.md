@@ -129,3 +129,10 @@ However, modern taxation (certainly in the western democracies) is the means by 
 Now, we can have an argument abouit what an "essential service" is and we can have an argument about how the cost of those services should fall across all the members of society but if you're arguing against taxation then you have to come up with al alternative means of paying for those essential services so that they are available to everyone (including the poorest in society).
 
 Nobody has yet found a way to do that (and a lot of eminent economists have tried).
+
+##  Decliing Population
+
+The tipping point arrives in 2030. More Americans will die that year than are born. The United States has historically managed to avoid the demographic collapse facing Europe and Asia. That run is over. Economic pressure and mounting living costs have turned raising a family from a baseline expectation into a financial luxury. Without immigration to plug the gap, the US population begins shrinking immediately. A smaller workforce means less tax revenue to support an aging population, placing immediate strain on Social Security and healthcare. The math is brutal, and it is less than a decade away.
+
+The numbers underneath this shift explain exactly what happens to the broader economy. Demographers heavily track the "dependency ratio"—the number of working-age adults available to support each retiree.
+In 1960, there were more than five active workers for every retiree in the United States. By 2030, as plummeting birth rates collide with an aging generation, that number falls below three. This structurally guarantees heavier tax burdens on a shrinking workforce just to maintain baseline infrastructure and safety nets. Countries like Japan and Italy are already navigating this reality by closing schools and consolidating rural towns. America now has exactly six years to prepare for the same future.

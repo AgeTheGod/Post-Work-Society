@@ -1,6 +1,10 @@
 #   About Me
 
-As mentioned elsewhere
+As mentioned elsewhere, for most of my adult life I've been interested in technology and how it can be used to improve our lives.
+I've also been interested in Social Economics and how we can create a more equitable society to minimise the "cost of living" and improve the general living conditions for the majority of people.
+
+I've been thinking about these things for a long time (writing my first notes on this when still at school 50+ years ago), and then over the years watched how Technology has delivered on many of the promises that it made.
+Nowadays we are capable of doing many, many more things than we were when I was a kid, and the pace of technological change is accelerating.
 
 I don't recall when I started being interested in Science (and Science Fiction) but probably before the age of 10 because we had the incredibly wonderfdul Doctor Who to watch every week on the BBC (and watch it I did - avidly). 
 
@@ -10,7 +14,7 @@ Unfortunately, University did not agree with me at all (it made me very unhappy 
 My first proper job was in the building trade but that only lasted for 15 months (winter in the UK can be a killer on the building sites) so I decided to go indoors and get an office job. 
 That was "Costing & Estimating" which eventually morphed into Management Accountancy 
 
-That kept me interested for around 10 years but then an opportunity came up to move into Information Technology desgning and building Accounting Software and I jumped at the chance. 
+That kept me interested for around 10 years but then an opportunity came up to move into Information Technology designing and building Accounting Software and I jumped at the chance. 
 
 That was probably the second best decision I ever made (the first was to marry my wife) because I have been working in IT ever since and I have loved every minute of it.
 
@@ -19,19 +23,21 @@ That's probably because I've always had a unique view of things in that...
 - I'm an incredibly lazy person and I will always look for the easiest way to do things (which is why I love automation and robotics so much) 
 - I'm also a perfectionist (though nothing is ever perfect or finished) and want to do things as well as they can be done (which is why I love design patterns and predictive analytics).
 
-I'm also lucky that I managed to avoid climbing the corporate ladder (though I have been shoved up the rungs a few times by accident but always climbed down again later) so managed to stay fairly close to the sharp-end for most of my career.
+I'm also lucky that I managed to avoid climbing the corporate ladder (though I have been shoved up the rungs a few times by accident but always climbed down again later) so managed to stay fairly close to the sharp-end of delivery for most of my career.
+
+So, here I am, 50 years later having recently retired from the daily grind (I'm now officially a Post-Work Person) and thinking about this problem again.
 
 ##  Enabling Technologies
 
-I'm also lucky in that I've spent 40+ years in the Information & Communications Technology field designing and building lots of application to solve many different kinds of problems for many different kinds of organization.
-It's been a very varied career with a lot of focus on either...
+I'm also lucky in that I've spent 40+ years in the Information & Communications Technology field designing and building lots of application to solve many different kinds of problems for many different kinds of organization. 
+I could put a list here of all the multi-nationals and government bodies taht IO'd done things for and a list of all the different kinds of applications that I've designed for them but, to be honest, that would be boring and not very enlightening.
+Instead, to summarize, it's been a very varied career with a lot of focus on either...
 - Designing applications that I thought would be socially beneficial
 - ... or using new technology that I wanted to know more about
-- ... or doing something because other people said it couldn't be done
-- ... or, sometimes, just because I thought it would be fun & interesting thing to do
+- ... or doing something because other people said it couldn't be done (it's surprising how many times people have said "_that can't be done_" in response to a presentation but then I went and did it anyway).
+- ... or, sometimes, just because I thought it would be fun & interesting thing to do (...and it gets me out of bed in the morning)
 
 As a result I've had the opportunity to work with a wide variety of different technologies, including emerging ones like AI, with the up-shot being that I have a pretty decent grasp of what can be done with current established technology and where it is going i.e. what it will soon be capable of doing if the trends continue.
-
 
 ##  Political Views
 

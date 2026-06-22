@@ -1,12 +1,11 @@
 #   Motivation
 
-For most of my adult life I've been interested in technology and how it can be used to improve our lives.
-I've also been interested in Social Economics and how we can create a more equitable society to minimise the "cost of living" and improve the general living conditions for the majority of people.
+This is not intended as some Socialist utopia where "The State" provides everything and "The People" do nothing in return.
+That, I think, just would not work simply because people need reasons for doing things ("_...because I can_" is a common one) and without reasons for making progress everything would just stagnate and eventually decay.
 
-I've been thinking about these things for a long time (writing my first notes on this when still at school 50+ years ago), and then over the years watched how Technology has delivered on many of the promises that it made.
-Nowadays we are capable of doing many, many more things than we were when I was a kid, and the pace of technological change is accelerating.
+We also have to bear in mind that the answer to "_How can I make best use of what time I have?_" is going to be a very individual answer with an almost infinite set of potential answers.
+The answer to an infinitely extensible problem requires an infinitely extensible solution - such things don't exist (yet) so I'm not even going to try to address that problem on Day-1.
 
-So, here I am, 50 years later having recently retired from the daily grind (I'm now a Post-Work Person) and thinking about this problem again.
 
 ##  Trends In Society
 

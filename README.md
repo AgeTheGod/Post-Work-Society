@@ -1,32 +1,38 @@
 
-It's no secret that there is a lot of unhappiness in the world
+It's no secret that there is a lot of unhappiness in the world.
 
 This, in my mind, is a ridiculous situation to be in given the technological developments of the last few decades.
-Theoretically at least, we should easily have the production capacity to meet all the world's essential living needs (the infrastructure of society) with little or no manual input required by human beings to keep that basic infrastructure operational
-
-This is something I've been thinking about for decades and patiently hoping for the day that technology gets to the point that it's feasible. I think we're nearly there but not quite. 
-So, what we have here is my take on how to build a "**Post-Work Society**" designed so that every member of that society has a basic quality of life without having to "work to live".
-The intent is for a Post-Work Society to provide just enough that "_How will I survive?_" is no longer the question. 
-
-Instead, "_How can I make best use of what time I have?_" is a much better question to be asking ourselves if only we were in a position to act on the answer.
+Theoretically, we should easily have the production capacity to meet all the world's essential living needs (the infrastructure of society) with little or no manual input required by human beings to keep that basic infrastructure operational
 
 So that is what we have here - my attempt at designing a Society where **working just to live is no longer the primary activity for most people**.
 
-This is not intended as some Socialist utopia where "The State" provides everything and "The People" do nothing in return.
-That, in my experience, basically would not work simply because people need reasons for doing things ("_...because I can_" is a common one) and without reasons for making progress everything would just stagnate and eventually decay.
-Some people would even argue that Human Beings are just not built to sit around doing nothing - it's not in our DNA.
+The intent is for a Post-Work Society to provide just enough that "_How will I survive?_" is no longer the question.
+Instead, "_How can I make best use of what time I have?_" is a much better question to be asking ourselves if only we were in a position to act on the answer.
 
-I have a certain way of working based on having spent nearly 40 years designing and implementing both National and Globally Distributed Applications. 
-This is...
+_**This entire repository is focussed on how we might change the question.**_
 
-1. Define what we want to achieve - [Introduction](Introduction/IntroductionSummary.md)
-2. ... then identify existing or emerging solutions that might help us achieve the objectives - [Enabling Technologies](EnablingTechnologies/EnablingTechnologiesSummary.md)
-3. ... then put together a proposal (or set of proposals) that deliver the Objectives - [Reforming Society](ReformingSociety/ReformingSocietySummary.md)
-4. ... then put together a plan for how we might deliver the proposals - [Getting There](GettingThere/GettingThereSummary.md)
-5. ... then **just do it** 
+The [Motivation](Introduction/Motivation.md),
+[Scope](Introduction/Scope.md),
+[Principles](Introduction/Principles.md), and 
+[how we measure success](Introduction/MeasuringSuccess.md) are all covered in the [Introduction](Introduction/IntroductionSummary.md)
 
-This approach has worked for me many times in the past so is the structure that I'm following here.
+The [Enabling Technologies](EnablingTechnologies/EnablingTechnologiesSummary.md) section summarizes the various inventions and innovations that potentially help us deliver the capabilities that we need to have in place in order to achieve our Objectives.
+They are the "enabling" factors that allow us to make progress towards our goals.
 
+Unfortunately from a Society point of view, although I think we have (or we're on the cusp of having) the necessary enabling technology, I don't believe that we have really made much progress towards creating a more equitable society.
+In fact in many cases exactly the opposite has happened, with...
+- the gap between the rich and the poor getting wider and wider
+- the majority of people being stuck in jobs that they don't enjoy and that don't really add any value to society
+- the political system being dominated by special interests and the wealthy, rather than being responsive to the needs of the people
+- the social fabric of our society being torn apart by polarization and division being sub-groups of Society
+- ... and I could go on
+
+This moves the problem away from being a purely technical problem to include Social Politics and Economics as well. 
+Both of those areas would need significant changes in order to maximise the benefit of technology for the majority of people.
+These are dealt with in the [Reforming Society](ReformingSociety/ReformingSocietySummary.md) section.
+
+Finally, because everything should have a plan for getting from where we are not to where we want to be, the [Getting There](GettingThere/GettingThereSummary.md) section provides what I think are a reasonable sequence of events for delivering the proposals 
+ 
 ##  Contents
 
 1. [Introduction](Introduction/IntroductionSummary.md)
@@ -35,8 +41,8 @@ This approach has worked for me many times in the past so is the structure that 
    3. [Principles](Introduction/Principles.md)
    3. [Measuring Success](Introduction/MeasuringSuccess.md)
 3. [Enabling Technologies](EnablingTechnologies/EnablingTechnologiesSummary.md)
-   1. [Internet Communications](EnablingTechnologies/InternetCommunications.md)
-   2. [Sustainable Energy Generation](EnablingTechnologies/SustainableEnergyGeneration.md)
+   1. [Sustainable Energy Generation](EnablingTechnologies/SustainableEnergyGeneration.md)
+   2. [Internet Communications](EnablingTechnologies/InternetCommunications.md)
    3. [Artificial Intelligence](EnablingTechnologies/ArtificialIntelligence.md)
    4. [Automation & Robotics](EnablingTechnologies/AutomationAndRobotics.md)
    5. [Predictive Analytics](EnablingTechnologies/PredictiveAnalytics.md)
@@ -58,7 +64,7 @@ This approach has worked for me many times in the past so is the structure that 
 
 ##  Making Contributions
 
-This is intended to be a perpetual work in Progress (which is why it's version controlled on GitHub) and frequently updated as I work through various thoughts.
+This is intended to be a perpetual work in progress (which is why it's version controlled on GitHub) and frequently updated as I work through various thoughts.
 
 These ramblings are littered with some very contentious statements (I have a habit of starting arguments) and I expect that many people will disagree with me on some of the points I make and some people will disagree on every point I make but that's OK because that's the way people are.
 
