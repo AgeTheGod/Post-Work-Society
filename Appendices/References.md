@@ -1,3 +1,9 @@
+---
+title: References
+layout: default
+parent: Appendices
+nav_order: 10
+---
 # References for Further Reading
 
 ##  Wikipedia Knowledge Articles
@@ -54,5 +60,4 @@ I use a lot of references to Wikipedia pages because that's a great start point 
 | [UK Current Employment Statistics](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/employmentbyoccupationemp13) |                                                                                |
 | [US Current Employment Statistics](https://www.bls.gov/ces)                                                                                                       |                                                                                |
 
-[Back to Contents](../README.md)
 

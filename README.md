@@ -54,10 +54,9 @@ Finally, because everything should have a plan for getting from where we are not
 5. [Getting There](GettingThere/GettingThereSummary.md)
    3. [Funding The Post Work Society](GettingThere/FundingTheTransition.md)
 6. [Appendices](Appendices/AppendicesSummary.md)
-   1. [Definitions of Terms](Appendices/DefinitionOfTerms/DefinitionOfTermsOverview.md)
-   2. [Analysis](Appendices/Analysis/AnalysisOverview.md)
+   1. [Definitions of Terms](Appendices/DefinitionOfTermsOverview.md)
+   2. [Analysis](Appendices/AnalysisOverview.md)
    3. [References](Appendices/References.md)
-   4. [Glossary](Appendices/Glossary.md)
 7. [About Me](AboutMe.md)
 
 ##  Making Contributions
