@@ -10,5 +10,3 @@ nav_order: 3
 -  **Agentic AI** allows us to automate many mundane administration tasks
 -  **Small Language Models** (SLM) enables the creation of "expert systems" that can provide expert advice and guidance in many different areas, such as healthcare, education, and finance.
 
-
-[Back to Contents](../README.md)

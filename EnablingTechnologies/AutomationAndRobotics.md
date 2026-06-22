@@ -48,5 +48,3 @@ The moment a humanoid robot drops to the price of a high-end refrigerator, it st
 How did the price of a humanoid robot crash from $100,000 to $4,000 so quickly? The secret hides in the electric vehicle supply chain.
 Chinese manufacturers realized that the most expensive components of a bipedal robot—battery management systems, lidar sensors, and compact high-torque electric motors—are the exact same parts used in modern EVs. By aggressively tapping into existing mega-factories that already churn out millions of car parts every single day, they bypassed the slow, artisanal "custom robotics" phase entirely. They didn't have to invent a new supply chain. They just rearranged cheap EV components into the shape of a human.
 
-
-[Back to Contents](../README.md)

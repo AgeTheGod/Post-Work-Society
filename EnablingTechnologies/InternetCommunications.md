@@ -81,4 +81,3 @@ That would be the estimate if nobody already had equipment that could access the
 So initially we'd only need to cover the cost of supplying equipment to people that did not already have it. 
 Estimates for that range between 1.5% and 4% of the adult population so around £100M to £200M for full coverage. 
 
-[Back to Contents](../README.md)

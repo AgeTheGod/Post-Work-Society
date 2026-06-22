@@ -1,3 +1,8 @@
+---
+title: What Is Money  
+layout: default
+parent: Definition Of Terms
+---
 #   What Is Money?
 
 "**Money**" is a funny old thing. 
@@ -106,5 +111,3 @@ In terms of a modern society the key points are...
 - Satoshi Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System" (2008) — The whitepaper introducing Bitcoin and decentralized digital currency. https://bitcoin.org/bitcoin.pdf
 - Bank for International Settlements (BIS), reports on central bank digital currencies and payment systems. https://www.bis.org
 - Federal Reserve and ECB educational materials on how money and banking work (multiple accessible primers).
-
-[Back to Contents](../../README.md)

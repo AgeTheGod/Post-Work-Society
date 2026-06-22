@@ -1,3 +1,8 @@
+---
+title: Analysis Of Inheritance Tax 
+layout: default
+parent: Data Analysis
+---
 #  Inheritance Tax
 
 ## The 2026 IHT and Wealth Breakdown

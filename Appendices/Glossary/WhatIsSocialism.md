@@ -1,3 +1,8 @@
+---
+title: What Is Socialism  
+layout: default
+parent: Definition Of Terms
+---
 #   What Is Socialism?
 
 Socialism is a social and economic theory that advocates for the collective ownership and control of the means of production and distribution of goods and services. 

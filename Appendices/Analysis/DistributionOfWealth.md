@@ -1,3 +1,8 @@
+---
+title: Analysis Of Wealth Distribution
+layout: default
+parent: Data Analysis
+---
 # Distribution of Wealth
 
 It's no secret that there is significant wealth in the UK so the questions here are really about how much, who has it and how is it passed from one generation to another.
@@ -241,5 +246,3 @@ A high income does not instantly grant high wealth status due to specific socioe
 [19] [https://ukpersonal.finance](https://ukpersonal.finance/statistics/)
 [20] [https://www.willfinda.co.uk](https://www.willfinda.co.uk/our-average-net-worth/)
 [21] [https://wir2026.wid.world](https://wir2026.wid.world/insight/regional-wealth-inequality/)
-
-[Back to Contents](../../README.md)

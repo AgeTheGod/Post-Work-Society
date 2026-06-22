@@ -1,3 +1,8 @@
+---
+title: Analysis Of Debt
+layout: default
+parent: Data Analysis
+---
 
 ##  Q1 : What is the total wealth and total debt of the UK, EU and US?
 

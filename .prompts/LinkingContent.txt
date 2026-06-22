@@ -7,4 +7,3 @@ For each MD file referenced in ReadMe.md
 For each MD file referenced in ReadMe.md that does not have an equivalent "Back to Contents" link back to the ReadMe.md file add that "Back to Contents" link to the end of the file.
 The reference to the ReadMe.md file should be on a separate line in the format of a relative markdown link e.g.
 
-[Back to Contents](../README.md)

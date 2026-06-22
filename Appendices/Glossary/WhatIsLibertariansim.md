@@ -1,3 +1,8 @@
+---
+title: What Is Libertarianism  
+layout: default
+parent: Definition Of Terms
+---
 #   What Is Libertarianism
 
 **Libertarianism** is a political philosophy that emphasizes individual freedom and limited government intervention in people's lives. 

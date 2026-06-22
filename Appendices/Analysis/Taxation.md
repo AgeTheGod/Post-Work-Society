@@ -1,3 +1,8 @@
+---
+title: Analysis Of Taxation 
+layout: default
+parent: Data Analysis
+---
 # Taxation
 
 Hoarding wealth is a common practice among the rich, but it can have negative consequences for society as a whole. When the wealthy hoard their wealth, they are not investing it in the economy or using it to create jobs. 
@@ -22,4 +27,3 @@ Basically a Society...
 - Should give preferential treatment to its own members over non-members, because it is not good for a society to be taken advantage of by outsiders.
 - Should have a Taxation system that is progressive and that is designed to ensure that the wealthy are paying their fair share of taxes and that is designed to discourage hoarding wealth.
 
-[Back to Contents](../../README.md)

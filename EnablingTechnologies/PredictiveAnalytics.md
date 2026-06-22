@@ -85,5 +85,3 @@ Beyond a certain depth water temperature is constant (4 Celsius) and the constan
 Another, significant side-effect discovered by Microsoft is that replacing the air in the data centre with an inert gas like Nitrogen and stabilising temperature fluctuations significantly extended the "_mean time between failure_" (an important metric for maintaining computer components) by a factor of eight.
 
 When you combine zero cooling costs, lower replacement costs, and the fact that nearly half the global population lives on a coastline (reducing latency), the ocean floor becomes a prime candidate for large scale data storage.
-
-[Back to Contents](../README.md)

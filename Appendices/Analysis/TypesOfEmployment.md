@@ -1,3 +1,8 @@
+---
+title: Analysis Of Employment
+layout: default
+parent: Data Analysis
+---
 # Types of Employment
 
 This is where the bulk of the analysis should occur because there is a lot of noise and misinformation about "Employment" and who does what.
@@ -26,4 +31,3 @@ I know there will likely be many arguments against some of these conclusions mos
 For example (from experience working on it) Estate Agents and Surveyors were highly critical of the Home Information Pack legislation not because it was bad but because it effectively reduced the work they would do and hence what they could charge for it. 
 Thee "vested interests" will always be there
 
-[Back to Contents](../../README.md)

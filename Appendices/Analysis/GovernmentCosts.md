@@ -1,3 +1,8 @@
+---
+title: Analysis Of Government Costs 
+layout: default
+parent: Data Analysis
+---
 ##  Government Costs
 
 ##  United Kingdom
@@ -82,4 +87,3 @@ For the 2025–26 financial year, total social security spending in the UK is fo
 1.    [Government Spending](https://www.gov.uk/government/government-spending)
 2.    [NHS Funding by Integrated Care System](https://ifs.org.uk/data-items/nhs-funding-person-integrated-care-system-england-2024-25)
 
-[Back to Contents](../../README.md)

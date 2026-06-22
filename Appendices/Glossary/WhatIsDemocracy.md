@@ -1,3 +1,8 @@
+---
+title: What Is Democracy  
+layout: default
+parent: Definition Of Terms
+---
 #   What Is Democracy?
 
 In the broadest sense,

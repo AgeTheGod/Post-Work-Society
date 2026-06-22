@@ -1,3 +1,8 @@
+---
+title: What Is Politics  
+layout: default
+parent: Definition Of Terms
+---
 #   Politics + Government
 
 ##  "Never give power to anyone that wants it" 
@@ -21,5 +26,3 @@ https://en.wikipedia.org/wiki/Declaration_of_the_Rights_of_Man_and_of_the_Citize
 https://en.wikipedia.org/wiki/European_Convention_on_Human_Rights
 https://en.wikipedia.org/wiki/Bill_of_Rights_1689
 https://en.wikipedia.org/wiki/United_States_Bill_of_Rights
-
-[Back to Contents](../../README.md)

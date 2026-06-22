@@ -79,4 +79,3 @@ This isn't a "Can we do it?" question, it's a "When can we do it?" question.
 
 ##  Further Reading
 
-[Back to Contents](../../README.md#contents)

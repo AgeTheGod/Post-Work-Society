@@ -1,3 +1,8 @@
+---
+title: Analysis Of Employment
+layout: default
+parent: Data Analysis
+---
 #   Employment Analysis
 
 This is where the bulk of the analysis should occur because there is a lot of noise and misinformation about "Employment" and who does what.

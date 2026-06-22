@@ -1,3 +1,8 @@
+---
+title: What Is Capitalism  
+layout: default
+parent: Definition Of Terms
+---
 #   What is Capitalism?
 
 Capitalism is an economic system organized around private ownership of productive assets, voluntary exchange in markets, and the pursuit of profit. At its core capitalism relies on three interrelated institutions: private property rights that allow individuals and firms to own and control resources; markets that coordinate production and distribution through prices; and profit-driven enterprises that allocate capital and labor toward activities expected to yield returns. Wage labor, in which most people sell their time and skills to employers for pay, is a characteristic labor relation in capitalist economies, and capital accumulation—investment of profit into new productive capacity—is a central dynamic that shapes growth and technological change.
@@ -88,4 +93,3 @@ Responses to capitalism’s shortcomings include progressive taxation, universal
 - OECD, "Capitalism and its variants" and policy reports. https://www.oecd.org
 - Stanford Encyclopedia of Philosophy, "Capitalism" entry. https://plato.stanford.edu/entries/capitalism/
 
-[Back to Contents](../../README.md)

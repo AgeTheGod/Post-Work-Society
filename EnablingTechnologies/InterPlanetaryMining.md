@@ -38,6 +38,3 @@ So, whilst they don't produce the explosive force needed to break Earth's gravit
 To clarify the "no fuel" aspect: while traditional chemical rockets require massive, heavy tanks of liquid hydrogen and oxygen to create explosions, plasma engines rely on electrical power (usually gathered via solar panels) to ionize trace amounts of gas. 
 
 Because they accelerate particles using magnetism rather than fire, they are incredibly efficient so a plasma system the size of a suitcase can do the interplanetary work of a chemical booster the size of a bus.
-
-
-[Back to Contents](../README.md)

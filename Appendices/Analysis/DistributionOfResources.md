@@ -1,3 +1,8 @@
+---
+title: Analysis Of Resource Distribution
+layout: default
+parent: Data Analysis
+---
 # Distribution of Resources
 
 The human rights that are defended in libertarian literature tend to be limited in scope, which entails that the duties that people can be compelled to fulfil are similarly minimal. 
@@ -20,4 +25,3 @@ Taking the injustice of radically inegalitarian appropriation in conjunction wit
 
 On a left-libertarian theory of rights, then, there is no right to appropriate unlimited resources, but there is a right to redistribution in the event of past injustices, including the misappropriation of worldly resources.
 
-[Back to Contents](../../README.md)

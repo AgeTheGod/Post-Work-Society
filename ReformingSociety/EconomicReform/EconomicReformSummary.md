@@ -10,6 +10,3 @@ nav_order: 2
 2. [State Owned Enterprises](./StateOwnedEnterprises.md) 
 3. [Funding Public Services](./FundingPublicServices.md)
 4. [Ring Fenced Taxation](./RingFencedTaxation.md)
-
-
-[Back to Contents](../../README.md)

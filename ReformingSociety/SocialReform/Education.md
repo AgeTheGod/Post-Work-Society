@@ -6,4 +6,3 @@ nav_order: 2
 ---
 #   Universal Education
 
-[Back to Contents](../../README.md)

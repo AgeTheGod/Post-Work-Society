@@ -1,4 +1,10 @@
-#   Analysis Overview
+---
+title: Data Analysis
+layout: default
+parent: Appendices
+nav_order: 2
+---
+#   Data Analysis Summary
 
 One of the benefits of the **Information Age** is that there really is a lot of information and data available about all kinds of interesting things.
 
@@ -24,13 +30,9 @@ Given all that any analysis tends to be approximately correct rather than precis
 
 So, it's worth bearing these points in mind when reading through the topics in this section.
 
-5. [Employment](Postscripts/Analysis/Employment.md)
-2. [Distribution of Wealth](Postscripts/Analysis/DistributionOfWealth.md)
-3. [Universal Basic Income](Postscripts/Analysis/UniversalBasicIncome.md)
-3. [Inheritance Tax](Postscripts/Analysis/InheritanceTax.md)
-3. [Distribution of Resources](Postscripts/Analysis/DistributionOfResources.md)
-4. [Education](Postscripts/Analysis/Education.md)
-6. [Taxation](Postscripts/Analysis/Taxation.md)
-
-| [Go to Contents](../../README.md) | [Go to Overview] |[Previous Section]|[Next Section]|
-|-----------------------------------|--------------------|-----|-----|
+5. [Employment](./Analysis/Employment.md)
+2. [Distribution of Wealth](./Analysis/DistributionOfWealth.md)
+3. [Universal Basic Income](./Analysis/UniversalBasicIncome.md)
+3. [Inheritance Tax](./Analysis/InheritanceTax.md)
+3. [Distribution of Resources](./Analysis/DistributionOfResources.md)
+6. [Taxation](./Analysis/Taxation.md)

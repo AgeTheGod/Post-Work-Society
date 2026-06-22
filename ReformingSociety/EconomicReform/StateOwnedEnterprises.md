@@ -147,5 +147,3 @@ So, this is an option for private equity owned companies that are providing publ
 Having the power to veto enabled Reuters Foundation to extract all kinds of concessions from Thomson Financial in order to get the deal done.
 Unfortunately those concessions were not hereditary and so when the Thomson Financial was sold again to new private equity owners were not bound by those concessions.
 There's something we can learn from that anecdote i.e. make sure that any constraints and restrictions are in perpetuity and automatically transferred with ownership.
-
-[Back To Contents](../../ReadMe.md)

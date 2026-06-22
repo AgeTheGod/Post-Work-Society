@@ -35,6 +35,3 @@ However I do have a problem with the way that Organized Religion is used to just
 That is not what religon is supposed to be about.
 
 So basically I don't think Organized Religon should play any part in a Secular Society and I think that the separation of Church and State is a fundamental principle that should be upheld at all times.
-
-
-[Back to Contents](../../README.md)

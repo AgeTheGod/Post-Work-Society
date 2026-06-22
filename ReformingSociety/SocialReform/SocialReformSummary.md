@@ -9,4 +9,3 @@ nav_order: 3
 1. [Rights & Responsibilities](./RightsAndResponsibilities.md)
 2. [Education](./Education.md)
 
-[Back to Contents](../../README.md)

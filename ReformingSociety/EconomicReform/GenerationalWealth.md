@@ -24,4 +24,3 @@ Dealing with this issue without having some kind of violent "Peasants Revolt" is
 
     Should add a disclaimer about which dog I have in this game
 
-[Back to Contents](/README.md)

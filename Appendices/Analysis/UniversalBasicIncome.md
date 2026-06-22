@@ -1,4 +1,9 @@
-
+---
+title: Analysis Of UBI 
+layout: default
+parent: Data Analysis
+---
+#   Analysis of Universal Basic Income
 
     prompt: What would be the cost of the Universal Basic Income for every eligible persdon in the UK?
 
