@@ -1,7 +1,7 @@
 ---
 title: Reforming Society
 layout: default
-nav_order: 3
+nav_order: 2
 ---
 # Reforming Society Summary
 
@@ -27,7 +27,3 @@ it's also worth noting that the single biggest blocker to progress, which cuts a
 This  makes it difficult to implement policies that would allow us to transition to a post-work society because the transition itself is a multi-year (possibly multi-decade) activity that will cause a certain amount of pain to different parts of society as it progresses.
 
 That on its own will cause a lot of resistance.
-
-| [Go to Contents](../README.md) | [Previous (Enabling Technologies)](../EnablingTechnologies/EnablingTechnologiesSummary.md) | [Next (Getting There)](../GettingThere/GettingThereSummary.md) |
-|--------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-||||
