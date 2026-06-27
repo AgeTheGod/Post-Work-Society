@@ -10,7 +10,7 @@ nav_order: 1
 2. [Direct Democracy](./DirectDemocracy.md)
 3. [Political Party Reform](./PoliticalPartyReform.md)
 4. [Electronic Voting](./ElectronicVoting.md)
-5. [National Identity Card](../SocialReform/NationalIdentityCard.md)
+5. [National Identity Card](NationalVoterRegistry.md)
 
 "**Democracy**" is the method that the vast majority of people on the planet (including many of the so-called "Dictatorships") use to make decisions about how a society will be managed and most people that live in a Democratic Society will have an opinion on what Democracy is.
 The basic definition usually includes some principle like "**One person, one vote**"
@@ -32,6 +32,8 @@ Given the highlighted [Problems with Democracy](ProblemsWithDemocracy.md) these 
 [Direct Democracy](DirectDemocracy.md)
 
 [Electronic Voting](ElectronicVoting.md)
+
+[National Voter Registry](NationalVoterRegistry.md)
 
 [Political Party Reform](PoliticalPartyReform.md)
 

@@ -1,8 +1,8 @@
 ---
 title: Electronic Voting
 layout: default
-parent: Improving Democracy
-nav_order: 3
+parent: Democratic Reform
+nav_order: 12
 ---
 #  Electronic Voting
 

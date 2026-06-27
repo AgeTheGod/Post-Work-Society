@@ -1,7 +1,7 @@
 ---
 title: Political Party Reform
 layout: default
-parent: Improving Democracy
+parent: Democratic Reform
 nav_order: 1
 ---
 #   Political Party Reform

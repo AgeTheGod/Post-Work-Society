@@ -1,8 +1,8 @@
 ---
 title: Direct Democracy
 layout: default
-parent: Improving Democracy
-nav_order: 2
+parent: Democratic Reform
+nav_order: 10
 ---
 #  Direct Democracy
 
