@@ -43,5 +43,4 @@ These include...
 - Law & Order
 - Defending Society
 
-Finally, because everything should have a [Getting There](GettingThere/GettingThereSummary.md) plan outlining how we get from where we are not to where we want to be and criteria for [how we measure success](Introduction/MeasuringSuccess.md) to show how well we are achieving it and where we can make on-going improvements. 
- 
+Finally, because everything should have a [Getting There](GettingThere/GettingThereSummary.md) plan outlining how we get from where we are not to where we want to be and criteria for [how we measure success](GettingThere/MeasuringSuccess.md) to show how well we are achieving it and where we can make on-going improvements. 
