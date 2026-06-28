@@ -1,30 +1,19 @@
 ---
-title: Scope
+title: Objectives
 layout : default
 parent: Introduction
-nav_order: 2
+nav_order: 1
 ---
-##  Scope
+#  Objectives
 
-A lot of this is focussed on the United Kingdom but this is not because I think the UK is the only country that has these problems, but rather because...
-- I am a UK citizen and I am most familiar with the UK and its problems.
-- I have access to a lot of UK specific data that is not so easily accessed for other countries.
-- Geat Britain, the geographic location, is an island so easier to put a defined boundary around it, with a clear separation between the UK and the rest of the world.
-- The UK is a relatively wealthy country, which means that it has more resources to invest in solutions to these problems than many other countries.
-- The UK is a relatively small country, which means that it is easier to implement and test solutions to these problems than in larger countries.
+These proposals are based in the following core objectives (in no particular order)...
+- Establish the minimum set of essential services required to operate a modern society.
+- Automating what can be automated in order to minimise the number of essential people needed to keep those essential services running.
+- Providing the services essentials to living on a _"Minimum Cost Basis"_ so that people can people can focus their lives on the things that they find fulfilling
+- Provide a _"Minimum Guaranteed Incomes"_ so that people can afford to buy
+- Enable _"Direct Democracy"_ to make the Management of Society more responsive to the desires of the Citizens and remove the disproportionate influence of Non-Citizens
 
-This is not to say that the problems and potential solutions in the UK are unique, but rather that it is easier to stick a boundary around the UK and analyse it in order to come up with proposals to improve it.
-
-There are of course other countries and regions that would meet similar criteria. 
-
-For example, Australia is also an island with a mostly self-contained economy, and it is also a relatively wealthy country with a relatively small population. 
-However, it is a much, much larger land-mass that brings other factors, such as geographic distribution and remote populations, into play.
-
-It's nothing that I'd expect to be a blocker to eventually deploy into Australia but it would make the analysis more complex and less focused on the core issues that I want to explore in this project.
-
-#   What This Is
-
-#   Essential Utilities
+##   Essential Utilities
 
 In order to achieve the vision of a post work society, there are a number of essential utilities that must be developed and implemented.
 These utilities will provide the foundation for the new society and will enable us to transition away from the traditional work-based economy.
@@ -54,4 +43,24 @@ So, on that point alone, we should consider these utilities to be essential and 
 I'm deliberately ignoring some other things that lots of people would regard as essential, such as "Security" and "Defence", not because they are unimportant but because they are not something that everyone needs to have access to in order to have a basic quality of life.
 We could even consider them to be "Value Added Services" albeit they are services that we definitely would not want private enterprise to provide.
 
-##  What This Is Not
+##  Scope
+
+### In Scope
+
+A lot of this is focussed on the United Kingdom but this is not because I think the UK is the only country that has these problems, but rather because...
+- I am a UK citizen and I am most familiar with the UK and its problems.
+- I have access to a lot of UK specific data that is not so easily accessed for other countries.
+- Geat Britain, the geographic location, is an island so easier to put a defined boundary around it, with a clear separation between the UK and the rest of the world.
+- The UK is a relatively wealthy country, which means that it has more resources to invest in solutions to these problems than many other countries.
+- The UK is a relatively small country, which means that it is easier to implement and test solutions to these problems than in larger countries.
+
+This is not to say that the problems and potential solutions in the UK are unique, but rather that it is easier to stick a boundary around the UK and analyse it in order to come up with proposals to improve it.
+
+There are of course other countries and regions that would meet similar criteria.
+
+For example, Australia is also an island with a mostly self-contained economy, and it is also a relatively wealthy country with a relatively small population.
+However, it is a much, much larger land-mass that brings other factors, such as geographic distribution and remote populations, into play.
+
+It's nothing that I'd expect to be a blocker to eventually deploy into Australia but it would make the analysis more complex and less focused on the core issues that I want to explore in this project.
+
+###  Out of Scope - What This Is Not

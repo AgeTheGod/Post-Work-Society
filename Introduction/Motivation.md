@@ -12,8 +12,6 @@ That, I think, just would not work simply because people need reasons for doing 
 We also have to bear in mind that the answer to "_How can I make best use of what time I have?_" is going to be a very individual answer with an almost infinite set of potential answers.
 The answer to an infinitely extensible problem requires an infinitely extensible solution - such things don't exist (yet) so I'm not even going to try to address that problem on Day-1.
 
-
-
 ##  Trends In Society
 
 Societies change over time and how they change affects how a Society organizes and manages itself.

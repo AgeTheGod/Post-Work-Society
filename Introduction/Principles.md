@@ -49,17 +49,6 @@ The single most fundamental principle is...
 
 That's it and if it's not that then all you have is "Vapourware" and "Cargo Cult Software Development" and all the other buzzwords that are used to try to make it sound like you are doing something useful when in fact you are just wasting time and resources iterating on something that does not exist.
 
-
-
-| Principle                       |                                                                            |        
-|:--------------------------------|----------------------------------------------------------------------------|
-| Evolution Not Revolution        |                       |
-| Iterate Don't Procrastinate     | Don't spend time trying to get everything right the first time |
-| You Ain't Gonna Need It (YAGNI) | Don't implement something until you actually need it                      |
-| Keep It Simple, Stupid (KISS)   | Don't overcomplicate things                                               |
-| Don't Repeat Yourself (DRY)     | Don't duplicate code or functionality                                     |
-| Just Good Enough                | If a solution just meets the requirements then it is good enough to use    |
-
 ### Evolution Not Revolution
 
 Don't try to change everything at once, but instead evolve and improve over time.
@@ -87,3 +76,5 @@ Solutions do not have to be perfect, they just have to be good enough to meet th
 Don't try to get everything right the first time, but instead iterate and improve over time.
 
 Procrastination is the enemy of progress and can lead to a situation where nothing gets done because people are trying to get everything right before they start.
+
+### Just Good Enough

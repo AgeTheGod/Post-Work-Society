@@ -22,25 +22,28 @@ Theoretically, we should easily have the production capacity to meet all the wor
 
 So what we have here are a set of proposals that I think moves Society away from the current "Work to Live" towards a more fulfilling existence where only "essential work" is required and people are mostly free to live whatever kind of life they personally regard as being "fulfilling".
 
-This is what I call the "Post Work Society" because we're moving beyond the stage in human civilization where everyone needed to work in order to survive. 
+This is what I call the "Post Work Society" because we're moving beyond the stage in human civilization where everyone needed to work in order to survive because "survivability" is now a function of Society in general rather than the individual. 
+
 Instead the application of Technology makes "human labour" a diminishing activity and "human leisure" an increasing one. 
 As technology improves the trend from labour to leisure should be an increasing one.
 That was the promise repeatedly made to us back in the 1970's and it's time to deliver on it.
 
 These proposals are based in the following core objectives (in no particular order)...
-- Automating what can be automated in order to minimise the number of essential people needed to keep a Society running.
-- Providing the essentials to living on a _"Minimum Cost Basis"_ so that people can people can focus their lives on the things that they find fulfilling
+- Establish the minimum set of essential services required to operate a modern society.  
+- Automating what can be automated in order to minimise the number of essential people needed to keep those essential services running.
+- Providing the services essentials to living on a _"Minimum Cost Basis"_ so that people can people can focus their lives on the things that they find fulfilling
 - Provide a _"Minimum Guaranteed Incomes"_ so that people can afford to buy 
 - Enable _"Direct Democracy"_ to make the Management of Society more responsive to the desires of the Citizens and remove the disproportionate influence of Non-Citizens 
 
-All of the above, in my mind, can be delivered by [Enabling Technologies](EnablingTechnologies/EnablingTechnologiesSummary.md) that potentially provide the capabilities that we need to have in place in order to achieve our Objectives.
+All of the above, in my mind, can be delivered by [Reforming Society](ReformingSociety/ReformingSocietySummary.md) and utilizing [Enabling Technologies](EnablingTechnologies/EnablingTechnologiesSummary.md) that potentially provide the capabilities that we need to have in place in order to achieve our Objectives.
 
 However, these kind of fundamental changes to Society are just the tip of the iceberg and there are many implications that go beyond the proposed structural Economic and Political Reform.
-We'll also need _"Social Reforms"_ to establish the expectations that Citizens should have about the Society in which they live (or propose to live in).
+
+Although not an essential part of creating a Post Work Society there are [further implications](FurtherImplications/FurtherImplicationsSummary.md) to doing so including a certain amount of [Social Reform](ReformingSociety/SocialReform/SocialReformSummary.md) to establish the expectations that Citizens should have about the Society in which they live (or propose to live in).
 These include...
 - Education
 - Social Contract
 - Law & Order
 - Defending Society
 
-Finally, because everything should have a [Getting There](GettingThere/GettingThereSummary.md) plan outlining how we get from where we are not to where we want to be and criteria for [how we measure success](GettingThere/MeasuringSuccess.md) to show how well we are achieving it and where we can make on-going improvements. 
+Finally, because everything should have a [Getting There](GettingThere/GettingThereSummary.md) plan outlining how we get from where we are now to where we want to be and criteria for [how we measure success](GettingThere/MeasuringSuccess.md) to show how well we are achieving it and where we can make on-going improvements. 
