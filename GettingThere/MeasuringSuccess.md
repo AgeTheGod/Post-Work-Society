@@ -1,7 +1,7 @@
 ---
 title: Measuring Success
 layout: default
-parent: Introduction
+parent: Getting There
 nav_order: 4
 ---
 ##  Measuring Success
@@ -10,8 +10,10 @@ There's a lot of focus on Gross Domestic Product (GDP) when talking about how we
 
 The "**Happiness Index**" is a much better measure of success (though maybe not in the UK because we're a miserable bunch of people - it's the weather) because it takes into account not just the economic factors but also the social and environmental factors that contribute to people's overall well-being.
 
-"**Percentage of people living a comfortable life**" is another good metric because it provides an absolurte view of how well Society is meeting the needs of its members. 
+"**Percentage of people living a comfortable life**" is another good metric because it provides an absolute view of how well Society is meeting the needs of its members. 
 It doesn't matter how much wealth a country has if the majority of its population is living in poverty or struggling to make ends meet.
+
+
 
 ### What's Wrong With GDP As A Measure Of Success?
 
