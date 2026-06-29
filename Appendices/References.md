@@ -2,7 +2,7 @@
 title: References
 layout: default
 parent: Appendices
-nav_order: 10
+nav_order: 3
 ---
 # References for Further Reading
 

@@ -2,7 +2,7 @@
 title: Artificial Intelligence 
 layout: default
 parent: Enabling Technologies
-nav_order: 3
+nav_order: 1
 ---
 #   Artificial Intelligence
 

@@ -1,7 +1,7 @@
 ---
-title: Internet Communications
+title: Telecommunications
 layout: default
-parent: Enabling Technologies
+parent: Providing Essential Services
 nav_order: 2
 ---
 #   Internet Communications

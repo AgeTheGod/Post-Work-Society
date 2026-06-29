@@ -1,7 +1,7 @@
 ---
-title: Sustainable Energy 
+title: Energy Management
 layout: default
-parent: Enabling Technologies
+parent: Providing Essential Services
 nav_order: 1
 ---
 #   Sustainable Energy Management

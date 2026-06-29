@@ -1,8 +1,8 @@
 ---
 title: Water Management 
 layout: default
-parent: Enabling Technologies
-nav_order: 5
+parent: Providing Essential Services
+nav_order: 3
 ---
 #   Water Management Summary
 

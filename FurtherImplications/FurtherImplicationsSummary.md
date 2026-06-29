@@ -1,8 +1,7 @@
 ---
 title: Further Implications
 layout: default
-parent: Reforming Society
-nav_order: 5
+nav_order: 6
 ---
 #   Further Implications
 

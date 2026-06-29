@@ -1,5 +1,5 @@
 ---
-title: Definition Of Terms
+title: Definitions of Terms
 layout: default
 parent: Appendices
 nav_order: 1

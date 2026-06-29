@@ -2,7 +2,7 @@
 title: Population Trends
 layout: default
 parent: Motivation
-nav_order: 2
+nav_order: 3
 ---
 #   Population Trends
 

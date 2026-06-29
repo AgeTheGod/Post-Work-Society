@@ -2,7 +2,7 @@
 title: Measuring Success
 layout: default
 parent: Getting There
-nav_order: 4
+nav_order: 3
 ---
 ##  Measuring Success
 

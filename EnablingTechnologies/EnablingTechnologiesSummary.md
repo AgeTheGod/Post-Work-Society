@@ -1,7 +1,7 @@
 ---
 title: Enabling Technologies
 layout: default
-nav_order: 3
+nav_order: 2
 ---
 #   Enabling Technologies Summary
 
@@ -23,8 +23,8 @@ As per the [Principles](/Introduction/Principles.md) laid out earlier, when deci
 It's a huge area so doing a deep-dive into each of them isn't really possible and so, in most cases, I've just summarized the technology capability and only provided additional information where the detail is particularly relevant.
 
 I've also tried to group the Technology together where there are multiple technologies that roughly solve the same problem. These are...
-- [Sustainable Energy Generation](SustainableEnergyGeneration.md)
-- [Internet Communications](InternetCommunications.md)
+- [Sustainable Energy Generation](../ProvidingEssentialServices/EnergyManagement/SustainableEnergyGeneration.md)
+- [Internet Communications](../ProvidingEssentialServices/Telecommunications/InternetCommunications.md)
 - [Artificial Intelligence](ArtificialIntelligence.md)
 - [Automation](AutomationAndRobotics.md)
 - [Predictive Analytics](PredictiveAnalytics.md)

@@ -1,8 +1,8 @@
 ---
-title: Getting There Timeline
+title: Timeline
 layout: default
 parent: Getting There
-nav_order: 3
+nav_order: 1
 ---
 #   Getting There Timeline
 

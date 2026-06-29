@@ -1,7 +1,7 @@
 ---
 title: Appendices
 layout: default
-nav_order: 10
+nav_order: 7
 ---
 #   Appendices
 

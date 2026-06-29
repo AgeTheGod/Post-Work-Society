@@ -2,7 +2,7 @@
 title: Interplanetary Mining
 layout: default
 parent: Enabling Technologies
-nav_order: 20
+nav_order: 4
 ---
 #   Interplanetary Mining
 

@@ -1,8 +1,8 @@
 ---
-title: World Happiness Report
+title: Happiness Trends
 layout: default
 parent: Motivation
-nav_order: 0
+nav_order: 1
 ---
 #   World Happiness Report
 

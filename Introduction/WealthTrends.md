@@ -2,7 +2,7 @@
 title: Wealth Trends 
 layout: default
 parent: Motivation
-nav_order: 4
+nav_order: 5
 ---
 #   Wealth Trends
 

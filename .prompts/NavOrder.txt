@@ -1,0 +1,8 @@
+For each file listed in PageOrder.md set the nav_order in the front-matter to the equivalent value in the numbered list.
+Do not use dot notation and just set it to the explicit numbered value assigned to each equivalent entry in the list.
+
+For each file listed in PageOrder.md set the "title" value in the front-matter to the equivalent text value (as enclosed in the brackets) defined against the entry in the list.
+
+For each file listed in PageOrder.md set the "parent" value in the front-matter to the text value (as enclosed in the brackets) defined in the immediately preceding level in the numbered list.
+The top level entries do not have a parent value defined.
+

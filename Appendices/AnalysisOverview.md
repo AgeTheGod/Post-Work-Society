@@ -1,5 +1,5 @@
 ---
-title: Data Analysis
+title: Analysis
 layout: default
 parent: Appendices
 nav_order: 2
