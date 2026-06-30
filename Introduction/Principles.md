@@ -6,11 +6,12 @@ nav_order: 3
 ---
 #   Principles
 
-Any piece of work should have some up-front Principles that we are trying to achieve. 
+Any piece of work should have some up-front Principles that constrainb or limit what we are trying to achieve. 
+This mainly so that we don't keep changing direction when the next big thing comes along or keep searching for perfect solutions that do not exist. 
 
-Objectives define success criteria and also tell us when to stop.
+Objectives define success criteria but it's the Principles that tell us whether a proposal is good enough and fir for purpose.
 
-In normal software enginering Objectives are generally quite concrete and measurable, such as "Implement a new feature that allows users to do X" or "Fix a bug that causes Y".
+In normal software engineering Objectives are generally quite concrete and measurable, such as "Implement a new feature that allows users to do X" or "Fix a bug that causes Y".
 
 However, in this project it's not quite that simple because we talking about creating a Social-Economic Framework for a Society that potentially involves millions of people living together for *their common benefit*. 
 
@@ -26,6 +27,8 @@ That's a much more nebulous thing than defining and implementing a software feat
 
 ### Equality for all
 
+### Quick, Good, Cheap - Pick Any Two
+
 ##  Non-Functional Principles
 
 ### Sustainable Services
@@ -35,8 +38,6 @@ That's a much more nebulous thing than defining and implementing a software feat
 ###  Scalable Management 
 
 ###   Minimized Maintenance
-
-
 
 ##  Development Principles
 
