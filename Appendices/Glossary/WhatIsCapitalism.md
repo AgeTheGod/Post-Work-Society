@@ -2,6 +2,7 @@
 title: What Is Capitalism  
 layout: default
 parent: Definition Of Terms
+nav_order: 4
 ---
 #   What is Capitalism?
 

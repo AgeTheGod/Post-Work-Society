@@ -34,7 +34,18 @@ It also provides quick navigation to a specific document.
 6. [Further Implications](FurtherImplications/FurtherImplicationsSummary.md)
 7. [Appendices](Appendices/AppendicesSummary.md)
    1. [Definitions of Terms](Appendices/DefinitionOfTermsOverview.md)
+      1. [What Is Society](Appendices/Glossary/WhatISSociety.md)
+      2. [What Is Democracy]
+      3. [What Is Money](Appendices/Glossary/WhatIsMoney.md)
+      4. [What Is Capitalism](Appendices/Glossary/WhatIsCapitalism.md)
+      5. What Is Wealth
+      6. What Is Taxation
+      7. What Are Natural Resources
+      8. [What are the Means of Production](Appendices/Glossary/FactorsOfProduction.md)
    2. [Analysis](Appendices/AnalysisOverview.md)
+      1. Analysis of Debt
+      2. Distribution of Resources
+      3. Distribution of Wealth
    3. [References](Appendices/References.md) 
    4. [Further Reading](Appendices/FurtherReading.md)
 

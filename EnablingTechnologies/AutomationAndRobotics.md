@@ -32,9 +32,12 @@ This is the one of the keys to achieving a post-work society because it allows u
 
 ##  Types of Automation
 
-###  Giga-Factories
+###  Autonomous Manufacturing
 
-**Lights's Out Manufacturing** allows us to produce goods without the need for human labor. This is a key enabler for a post-work society because it allows us to produce the things that we need without having to rely on human labor.
+**Autonomous Manufacturing** (otherwise known as **Lights's Out Manufacturing**) is technology that allows us to produce goods without the need for human labor. 
+It's not a particularly new concept and to some extent or another has been in operation for 30+ years   
+
+**Giga-Factories** are the scaling up of Autonomous Manufacturing to mass production across the full production lifecycle.
 
 ###  Autonomous Warehouses
 

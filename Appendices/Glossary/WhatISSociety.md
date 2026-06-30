@@ -2,6 +2,7 @@
 title: What Is Society 
 layout: default
 parent: Definition Of Terms
+nav_order: 1
 ---
 #   What Is Society?
 

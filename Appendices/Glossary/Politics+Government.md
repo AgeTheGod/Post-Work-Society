@@ -1,9 +1,11 @@
 ---
-title: What Is Politics  
+title: What Is Democracy  
 layout: default
 parent: Definition Of Terms
 ---
-#   Politics + Government
+#   What Is Democracy
+
+##  Politics + Government
 
 ##  "Never give power to anyone that wants it" 
 
