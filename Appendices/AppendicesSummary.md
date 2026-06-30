@@ -1,13 +1,13 @@
 ---
 title: Appendices
 layout: default
-nav_order: 7
+nav_order: 8
 ---
 #   Appendices
 
 The Appendices provide additional information and explanations that supports some of the main text but maybe not directly relevant to the text itself.
 
-[Definitions of Terms](DefinitionOfTermsOverview.md)
+[Definitions of Terms](../DefinitionOfTerms/DefinitionOfTermsOverview.md)
 
 [Analysis](AnalysisOverview.md)
 

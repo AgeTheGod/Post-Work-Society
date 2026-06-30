@@ -11,41 +11,55 @@ It also provides quick navigation to a specific document.
       4. [Production Trends](Introduction/ProductionTrends.md)
       5. [Wealth Trends](Introduction/WealthTrends.md)
    3. [Principles](Introduction/Principles.md)
-2. [Enabling Technologies](EnablingTechnologies/EnablingTechnologiesSummary.md)
+2. [Definitions of Terms](DefinitionOfTerms/DefinitionOfTermsOverview.md)
+    1. [What Is Society](DefinitionOfTerms/WhatISSociety.md)
+    2. [What Is Democracy](DefinitionOfTerms/WhatIsDemocracy.md)
+    3. What Is Politics 
+    3. [What Is Money](DefinitionOfTerms/WhatIsMoney.md)
+    4. [What Is Capitalism](DefinitionOfTerms/WhatIsCapitalism.md)
+    5. What Is Wealth
+    6. What Is Taxation
+    7. What Are Natural Resources
+    8. [What are the Factors of Production](DefinitionOfTerms/FactorsOfProduction.md)
+3. [Enabling Technologies](EnablingTechnologies/EnablingTechnologiesSummary.md)
    1. [Artificial Intelligence](EnablingTechnologies/ArtificialIntelligence.md)
    2. [Automation](EnablingTechnologies/AutomationAndRobotics.md)
    3. [Predictive Analytics](EnablingTechnologies/PredictiveAnalytics.md)
    4. [Interplanetary Mining](EnablingTechnologies/InterPlanetaryMining.md)
-3. [Providing Essential Services](ProvidingEssentialServices/ProvidingEssentialServicesSummary.md)
-   1. [Energy Management](ProvidingEssentialServices/EnergyManagement/SustainableEnergyGeneration.md)
-   2. [Telecommunications](ProvidingEssentialServices/Telecommunications/InternetCommunications.md)
-   3. [Water Management](ProvidingEssentialServices/WaterManagement/WaterManagement.md)
-   4. Housing
-   5. Food Management
-   6. Healthcare
-4. [Reforming Society](ReformingSociety/ReformingSocietySummary.md)
+4. [Providing Essential Services](ProvidingEssentialServices/ProvidingEssentialServicesSummary.md)
+   5. Survivability 
+      1. Food Management
+      2. [Water Management](ProvidingEssentialServices/WaterManagement/WaterManagement.md)
+      3. Housing
+   7. Quality of Life
+      1. [Energy Management](ProvidingEssentialServices/EnergyManagement/SustainableEnergyGeneration.md)
+      2. [Telecommunications](ProvidingEssentialServices/Telecommunications/InternetCommunications.md)
+      3. Healthcare
+5. [Reforming Society](ReformingSociety/ReformingSocietySummary.md)
    1. [Democratic Reform](ReformingSociety/DemocraticReform/DemocraticReformSummary.md)
+      1. [What Is Democracy](ReformingSociety/DemocraticReform/WhatIsDemocracy.md)
+      2. [ProblemsWithDemocracy](ReformingSociety/DemocraticReform/ProblemsWithDemocracy.md)
+      2. [Direct Democracy](ReformingSociety/DemocraticReform/DirectDemocracy.md)
+      3. [Electronic Voting](ReformingSociety/DemocraticReform/ElectronicVoting.md)
+      4. [National Voter Registry](ReformingSociety/DemocraticReform/NationalVoterRegistry.md)
    2. [Economic Reform](ReformingSociety/EconomicReform/EconomicReformSummary.md)
+      1. [State Owned Enterprises](ReformingSociety/EconomicReform/StateOwnedEnterprises.md)
+      2. [Guaranteed Minimum Income](ReformingSociety/EconomicReform/GuaranteedMinimumIncome.md)
+      3. Ring Fenced Taxation
+      4. Tax Reforms
+         1. [Abolishing Generational Wealth](ReformingSociety/EconomicReform/GenerationalWealth.md)
+         2. Abolishing Wealth Hoarding
    3. [Social Reform](ReformingSociety/SocialReform/SocialReformSummary.md)
-5. [Getting There](GettingThere/GettingThereSummary.md)
+6. [Getting There](GettingThere/GettingThereSummary.md)
    1. [Timeline](GettingThere/GettingThereTimeline.md)
    2. [Funding The Transition](GettingThere/FundingTheTransition.md)
    3. [Measuring Success](GettingThere/MeasuringSuccess.md)
-6. [Further Implications](FurtherImplications/FurtherImplicationsSummary.md)
-7. [Appendices](Appendices/AppendicesSummary.md)
-   1. [Definitions of Terms](Appendices/DefinitionOfTermsOverview.md)
-      1. [What Is Society](Appendices/Glossary/WhatISSociety.md)
-      2. [What Is Democracy]
-      3. [What Is Money](Appendices/Glossary/WhatIsMoney.md)
-      4. [What Is Capitalism](Appendices/Glossary/WhatIsCapitalism.md)
-      5. What Is Wealth
-      6. What Is Taxation
-      7. What Are Natural Resources
-      8. [What are the Means of Production](Appendices/Glossary/FactorsOfProduction.md)
-   2. [Analysis](Appendices/AnalysisOverview.md)
+7. [Further Implications](FurtherImplications/FurtherImplicationsSummary.md)
+8. [Appendices](Appendices/AppendicesSummary.md)
+   1. [Analysis](Appendices/AnalysisOverview.md)
       1. Analysis of Debt
       2. Distribution of Resources
       3. Distribution of Wealth
-   3. [References](Appendices/References.md) 
-   4. [Further Reading](Appendices/FurtherReading.md)
+   2. [References](Appendices/References.md) 
+   3. [Further Reading](Appendices/FurtherReading.md)
 

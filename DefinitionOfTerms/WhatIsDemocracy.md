@@ -2,6 +2,7 @@
 title: What Is Democracy  
 layout: default
 parent: Definition Of Terms
+nav_order: 2
 ---
 #   What Is Democracy
 
