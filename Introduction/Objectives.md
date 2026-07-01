@@ -13,7 +13,7 @@ These proposals are based in the following core objectives (in no particular ord
 - Provide a _"Minimum Guaranteed Incomes"_ so that people can afford to buy
 - Enable _"Direct Democracy"_ to make the Management of Society more responsive to the desires of the Citizens and remove the disproportionate influence of Non-Citizens
 
-##  Scope
+##  In Scope
 
 ###   Essential Utilities
 
@@ -42,7 +42,7 @@ Take any one of them away, so that it is not present at all as opposed tp provid
 
 So, on that point alone, we should consider these utilities to be essential and provide them as a basic right at the lowest cost possible to all members of Society, regardless of their circumstances.
 
-### In Scope
+### Geo-Political Regions
 
 A lot of this is focussed on the United Kingdom but this is not because I think the UK is the only country that has these problems, but rather because...
 - I am a UK citizen and I am most familiar with the UK and its problems.
@@ -55,13 +55,24 @@ This is not to say that the problems and potential solutions in the UK are uniqu
 
 There are of course other countries and regions that would meet similar criteria.
 
-For example, Australia is also an island with a mostly self-contained economy, and it is also a relatively wealthy country with a relatively small population.
+For example, Australia (the continent) is also an island with a mostly self-contained economy, and Australia (the country) is also a relatively wealthy country with a relatively small population.
 However, it is a much, much larger land-mass that brings other factors, such as geographic distribution and remote populations, into play.
+This means that regional priorities on essential services would likely change and that some technologies become more significant than other technologies. 
 
-It's nothing that I'd expect to be a blocker to eventually deploy into Australia but it would make the analysis more complex and less focused on the core issues that I want to explore in this project.
+On a larger scale we have entire continents where the borders between Sovereign Nation States can be a bit fuzzy or poorly defined (and in some cases disputed) so "leakage" from one society to another is inevitable.
+In these cases if you significantly improve the happiness of one society without significantly improving the happiness level of its neighbouring societies then you most likely end of with mass migration from the "unhappy states" to the "happy states".
+This presents a significant problem when it comes to preserving the "cultural identity" of a society.
+
+Neither problem is a long-term blocker to progress but they do make the analysis more complex and less focused on the core issues that I want to explore in this project.
+(I'll also be honest and say that Macro-Sociology is not something that I'm very knowledgeable about.)
 
 ###  Out of Scope - What This Is Not
 
-I'm deliberately ignoring some other things that lots of people would regard as essential, such as "Security" and "Defence", not because they are unimportant but because they are not something that everyone needs to have access to in order to have a basic quality of life.
+I'm deliberately ignoring some other things that lots of people would regard as essential, such as "Security" and "Defence".
+This is not because those topics are unimportant but because they are not something that everyone needs to have access to in order to have a basic quality of life.
+
+I also do not want to be paranoid and fearful about "others". 
+
+If human civilization is to survive then eventually we will all need to move to some kind of Uber Society based on cooperation and sharing resources rather than the current "dog eat dog" approach to dealing with each other.   
 
 We could even consider them to be "Value Added Services" albeit they are services that we definitely would not want private enterprise to provide.

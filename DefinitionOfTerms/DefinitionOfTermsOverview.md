@@ -17,7 +17,6 @@ Finally, many of these terms are inter-related so the definition may contextuall
 | Term                                            | Short Definition                                                                    |
 |-------------------------------------------------|-------------------------------------------------------------------------------------|
 | [Society](WhatISSociety.md)                     | A Society is an organized group of individuals grouped together for mutual benefit. |
-| [Democracy](WhatIsDemocracy.md)                       |                                                                                     |
 | [Libertariansim](WhatIsLibertariansim.md)       |                                                                                     |
 | [Socialism](WhatIsSocialism.md)                 |                                                                                     |
 |                                                 |                                                                                     |

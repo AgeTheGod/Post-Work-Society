@@ -14,7 +14,6 @@ It also provides quick navigation to a specific document.
       4. [Quicxk Good Cheap](Introduction/QuickGoodCheap.md)
 2. [Definitions of Terms](DefinitionOfTerms/DefinitionOfTermsOverview.md)
     1. [What Is Society](DefinitionOfTerms/WhatISSociety.md)
-    2. [What Is Democracy](DefinitionOfTerms/WhatIsDemocracy.md)
     3. What Is Politics 
     3. [What Is Money](DefinitionOfTerms/WhatIsMoney.md)
     4. [What Is Capitalism](DefinitionOfTerms/WhatIsCapitalism.md)
@@ -29,13 +28,13 @@ It also provides quick navigation to a specific document.
    4. [Interplanetary Mining](EnablingTechnologies/InterPlanetaryMining.md)
 4. [Providing Essential Services](ProvidingEssentialServices/ProvidingEssentialServicesSummary.md)
    5. Survivability 
-      1. Food Management
-      2. [Water Management](ProvidingEssentialServices/WaterManagement/WaterManagement.md)
-      3. Housing
-   7. Quality of Life
       1. [Energy Management](ProvidingEssentialServices/EnergyManagement/SustainableEnergyGeneration.md)
-      2. [Telecommunications](ProvidingEssentialServices/Telecommunications/InternetCommunications.md)
-      3. Healthcare
+      2. Food Management
+      3. [Water Management](ProvidingEssentialServices/WaterManagement/WaterManagement.md)
+      4. Housing
+   7. Quality of Life
+      1. [Telecommunications](ProvidingEssentialServices/Telecommunications/InternetCommunications.md)
+      2. Healthcare
 5. [Reforming Society](ReformingSociety/ReformingSocietySummary.md)
    1. [Democratic Reform](ReformingSociety/DemocraticReform/DemocraticReformSummary.md)
       1. [What Is Democracy](ReformingSociety/DemocraticReform/WhatIsDemocracy.md)
@@ -50,9 +49,12 @@ It also provides quick navigation to a specific document.
       4. Tax Reforms
          1. [Abolishing Generational Wealth](ReformingSociety/EconomicReform/GenerationalWealth.md)
          2. Abolishing Wealth Hoarding
+         3. Removing Tax Exemptions
    3. [Social Reform](ReformingSociety/SocialReform/SocialReformSummary.md)
 6. [Getting There](GettingThere/GettingThereSummary.md)
-   1. [Timeline](GettingThere/GettingThereTimeline.md)
+   1. A National Plan
+   2. Ring Fenced Taxation
+   3. [Timeline](GettingThere/GettingThereTimeline.md)
    2. [Funding The Transition](GettingThere/FundingTheTransition.md)
    3. [Measuring Success](GettingThere/MeasuringSuccess.md)
 7. [Further Implications](FurtherImplications/FurtherImplicationsSummary.md)

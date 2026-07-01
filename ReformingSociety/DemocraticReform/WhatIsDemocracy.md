@@ -57,7 +57,19 @@ This, believe it or not, seems complicated but is surprisingly simple to impleme
 
 ##  Corruptibility
 
-This is a key characteristic that needs to be measured when appraising any Democratic System.
+Millenia ago Plato wrote something similar to:
+
+    "Never give power to anyone that wants it"
+
+This sentiment is a well-known philosophy who believed that those who do not crave power are the most suited to hold it.
+The reasoning generally goes something like this...
+
+- Power often attracts the worst candidates and corrupts the best, as stated by author Frank Herbert.
+- Those who actively seek power often do so for personal gain or control, rather than for the public good.
+- True leadership is often found in those who do not seek authority, but rather accept it out of a sense of responsibility.
+- True power is best utilized by those who prioritize service to others, not dominance
+
+However, the above is frequemntly not the case and the original maxim is the key reason that "Corruptibility" needs to be measured when appraising any Democratic System.
 
 In this context "Corruption" is not limited to what most people would regard as "Illegal Activity". 
 If we consider that all Democratic Decisions are restricted to eligible members of Society (i.e. Individual Citizens) then we also have to consider what influence Ineligible Parties (those that do not directly vote) might have over that decision making. 
@@ -80,3 +92,19 @@ It's this feature that leads to the main variations in the Democratic Process su
 - "Proportional Representation" where votes are allocated to outcomes based on an overall percentage of votes cast for a particular preference. 
 - "Preferred Option" where voters indicate select multiple choices from a set of provided options and then the lesser preferred options are eliminated from the vote count and reallocated to other options based on lower preferences. 
 - "Electoral College" where voters are not voting directly for their preferred outcome. Instead they vote for a "slate" of party representatives called electors. These electors then subsequently meet after the election to officially cast the formal votes.
+
+#   What Is Democracy
+
+##  Politics + Government
+
+##  Democracy without Leadership
+
+So how do we provide "Democracy without Leadership"?
+
+We pretty much already have the capability to do this, but we need to change our mindset and the way we think about governance.
+
+
+https://en.wikipedia.org/wiki/Declaration_of_the_Rights_of_Man_and_of_the_Citizen
+https://en.wikipedia.org/wiki/European_Convention_on_Human_Rights
+https://en.wikipedia.org/wiki/Bill_of_Rights_1689
+https://en.wikipedia.org/wiki/United_States_Bill_of_Rights
