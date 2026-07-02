@@ -2,7 +2,7 @@
 title: What Is Money  
 layout: default
 parent: Definition Of Terms
-nav_order: 3
+nav_order: 2
 ---
 #   What Is Money?
 
