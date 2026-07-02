@@ -8,15 +8,24 @@ nav_order: 1
 
 ### Laissez-faire or Classical Capitalism
 
-Laissez-faire capitalism emphasizes minimal government intervention: property rights are tightly enforced, markets are largely free, and the state’s role is limited to protecting contracts and national defense. This model—associated with thinkers like Adam Smith—assumes that decentralized market interactions will efficiently allocate resources. Pure laissez-faire is rare in practice; most modern states combine market freedoms with legal and regulatory frameworks.
+Laissez-Faire Capitalism emphasizes minimal government intervention: property rights are tightly enforced, markets are largely free, and the state’s role is limited to protecting contracts and national defense. This model—associated with thinkers like Adam Smith—assumes that decentralized market interactions will efficiently allocate resources. 
+
+Laissez-Faire Capitalism is the oldest form of Capitalism evolving directly out of Merchant Trading and based on the principle that anyone (the Merchant) can buy goods in one market to sell in another market for a profit.
+
+Mowadatys pure Laissez-Faire Capitalism is rare in practice.
+Most modern states combine market freedoms with legal and regulatory frameworks usually in the form of Import & Export Controls and restrictions on the flow of Capital across borders.
 
 ### Welfare Capitalism
 
-Welfare capitalism mixes market economies with substantial social protections and public services. Governments provide or fund healthcare, education, pensions, unemployment insurance, and progressive taxation to reduce economic insecurity and inequality while preserving private enterprise. Many Northern European countries (the “social democratic” model) approximate welfare capitalism, balancing high social spending with robust market activity.
+Welfare capitalism mixes market economies with substantial social protections and public services. 
+Governments provide or fund healthcare, education, pensions, unemployment insurance, and progressive taxation to reduce economic insecurity and inequality while preserving private enterprise. 
+Many Northern European countries (the “social democratic” model) approximate welfare capitalism, balancing high social spending with robust market activity.
 
 ### State Capitalism
 
-In state capitalism the state plays a dominant economic role, owning enterprises or directing investment while using market mechanisms for efficiency. This model appears in resource-rich countries and in nations where the state manages strategic industries. China’s contemporary economy is often labeled state capitalist: a combination of state-owned enterprises, politically connected private firms, and market competition directed by industrial policy.
+In State Capitalism (as opposed to Welfare Capitalism) the state i.e the Government of a Society plays a dominant economic role, owning enterprises or directing investment while using market mechanisms for efficiency. 
+This model appears in resource-rich countries and in nations where the state manages strategic industries. 
+China’s contemporary economy is often labeled state capitalist: a combination of state-owned enterprises, politically connected private firms, and market competition directed by industrial policy.
 
 ### Corporate or Managerial Capitalism
 
@@ -29,7 +38,9 @@ Financialized capitalism emphasizes the growing role of financial markets, instr
 
 ### Crony Capitalism
 
-Crony capitalism refers to systems where economic success depends on close relationships between business and political elites rather than on open competition. Favoritism, preferential access to contracts, subsidies, and regulatory capture distort markets and undermine fairness. Corruption and weak institutions often accompany this variant.
+Crony capitalism refers to systems where economic success depends on close relationships between business and political elites rather than on open competition. 
+Favoritism, preferential access to contracts, subsidies, and regulatory capture distort markets and undermine fairness. 
+Corruption and weak institutions often accompany this variant.
 
 ### Hyper Capitalism
 

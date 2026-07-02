@@ -1,5 +1,5 @@
 ---
-title: Definitions of Terms
+title: Definitions Of Terms
 layout: default
 nav_order: 2
 ---
