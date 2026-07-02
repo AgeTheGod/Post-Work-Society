@@ -14,7 +14,7 @@ At its core Capitalism relies on three interrelated institutions:
 - **Markets** where goods and services can be bought & sold and that coordinate production and distribution through prices; 
 - **Profit-Driven Enterprises** that allocate the Factors Of Production toward activities expected to yield profits on production. 
 
-Although Capitalism does not create any of the above Capitalism has become the primary Economic system designed to exploit the combination of all three.
+All of the above pre-dates Capitalism and they all exist independently of Capitalism. However Capitalism, as a generic term, has become the primary Economic system designed to exploit the combination of all three.
 - Markets as places where goods are exchanged have existed for 1000's of years before even Money existed
 - Property Rights are defined and assigned to the various members of Society by the Government of that Society
 - Profit-Driven Enterprises was a core concept in Merchant Trading i.e. an individual buying goods in one market with the intent of selling those goods in another market for a profit. 
@@ -35,8 +35,8 @@ Whilst the above description captures the basic principles of Capitalism there a
 - financial systems,
 - ... and social policies.
 
-As such it's important classify the various types of Capitalism and to understand the purpose and motivations around the various types of Capitalism in order to make judgements about them.
-[Types Of Capitalism](TypesOfCapitalism.md) lists those that I think are significant and need to be differentiated
+As such it's important classify the various types of Capitalism and to understand the purpose and motivations around each variation in order to make judgements about them.
+[Types Of Capitalism](TypesOfCapitalism.md) lists those that I think are significant and need to be differentiated but is by no means an exhaustive list and additional variations are periodically proposed as new Economics works are published. 
 
 ##  The Benefits of Capitalism
 

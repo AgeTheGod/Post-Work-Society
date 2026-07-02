@@ -17,7 +17,7 @@ Money is a social and economic institution that serves as a universally accepted
 
 Money has evolved over many centuries and take many different forms in that time. These are the types of Money that are still is use today...
 
-1. Commodity Money
+### Commodity Money
 
 Historically, many societies used commodities with intrinsic value, e.g. Gold, Silver, Copper, Salt, and/ or Cattle, as money. 
 Commodities provided durability, divisibility, and broad acceptability and their relative scarcity helped preserve value. 
@@ -26,7 +26,7 @@ However, commodity money constrained monetary supply to the physical availabilit
 
 The main use of Commodity Money nowadays is in Commodity Trading. It's still Ok to pay for something with, for example, Gold Bullion which then gets trundled from one Gold Reserve to another Gold Reserve in some vault somewhere. This kind of Money has an Owner not an Issuer.
 
-2. Representative Money
+### Representative Money
 
 Representative Money was the second stage in the evolution of Money. 
 
@@ -35,7 +35,7 @@ The so called Gold Standard dominated much of the 19th and early 20th centuries.
 
 This arrangement separated day-to-day transactions from physical commodity transfers while maintaining confidence through convertibility. 
 
-3. Fiat Money
+### Fiat Money
 
 This we can think of as the third stage in the evolution of Money and pretty much all modern economies that previously operated using the Gold Standard and Representative Money nowadays operate on Fiat Money.
 
@@ -44,13 +44,13 @@ Fiat Money is Money that is not redeemable by a physical commodity but instead b
 Normally the State designates a Central Bank to controls the supply of Fiat Money (i.e. defines how much Money is in circulation) and use policy tools to influence inflation, employment, and financial stability. 
 Confidence in fiat money rests on stable institutions, credible monetary policy, and enforceable legal tender laws.
 
-4. Bank Deposit Backed Money
+### Bank Deposit Backed Money
 
 A large share of modern economies’ money supply exists as bank deposits—claims on banks that are used for payments via checks, cards, and electronic transfers. 
 
 Banks create money through lending: when a bank extends a loan, it credits the borrower’s deposit account, expanding deposit balances and increasing effective purchasing power. Central bank reserves, regulatory frameworks, and payment systems together govern the interaction between bank money and central bank-issued currency.
 
-5. Digital and Electronic Money
+### Digital and Electronic Money
 
 Electronic Money is Money that only exists in some computerized ledger. They include...
 - Central Bank Digital Currencies (CBDCs) are state-issued digital liabilities 
@@ -61,24 +61,24 @@ These innovations raise questions about privacy, financial inclusion, payment ef
 
 ##  Functions of Money
 
-1. Medium of Exchange
+### Medium of Exchange
 
 The most fundamental function of money is to eliminate the double-coincidence-of-wants problem encountered in barter. 
 Sellers accept money because they can in turn use it to purchase what they need. 
 By serving as an accepted intermediary in transactions, money dramatically reduces transaction costs and facilitates specialization and large-scale trade.
 
-2. Unit of Account
+### Unit of Account
 
 Money provides a common measure in which prices, wages, debts, and accounts are expressed. 
 This comparability simplifies economic calculation and enables businesses and governments to plan, contract, and record value consistently across time and activities.
 
-3. Store of Value
+### Store of Value
 
 Money allows value to be held and transferred into the future i.e. Money is a measure of accumulated Wealth. 
 
 A reliable store of value preserves purchasing power over time.
 
-4. Standard of Deferred Payment
+### Standard of Deferred Payment
 
 Money serves as the standard in which credit contracts and debts are denominated. 
 By standardizing deferred payments, money supports lending, investment, and broader financial intermediation.

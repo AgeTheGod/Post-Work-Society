@@ -8,7 +8,7 @@ nav_order: 7
 
 "**Factors of Production**" is a term used in modern Economics to describe the complete list of inputs required to generate an output. 
 
-The Factors of Production are categoried into distinct co-equal groups with the distinct primarily defined by the means by which that group is reward for their contribution. 
+The Factors of Production are categoried into distinct co-equal groups with the distinction primarily defined by the means by which that group is reward for their contribution. 
 
 | Factor     | Reward   | Purpose                                                                                                                                                                                                                |
 |------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -21,9 +21,23 @@ All together these factors are known as the "**Factors of Production**" and in C
 
 On that basis it's the relationship between these four groups, and who should get what benefit from participation, that underpins pretty much all discussions about how modern day society should be organized and operate irts internal markets. 
 
+##  Definition of Terms
+
+In the above table I've only provided general definition of terms for each of the Factors of Employment. 
+
+This is deliberate because the exact definition of each term depends on the context in which the term is being used, the particular type of economics being discussed and the scope of the Enterprise being operated.
+
+For example, at the micro-scale a single worker might buy their tools from a tool-maker. The tool is then Capital but if the Worker made the tool themselves then it becomes a Product they produced as an output from their Enterprise i.e. a Product created from Resources and Labour
+
+However, at the macro scale we could be discussing a nation state (or even the entire world) in which case anything that is man-made internal to that Nation State is no longer Capital but the product of Resource and Labour. 
+This was the key point that Adam Smith was making in "Wealth of Nations" where he considered Capital for be any man-made resource that needed to be purchase or sourced from some supplier external to the Nation State tat the Nation State then used as input to produce some other product.
+
+As a consequence, because we have this situation where the same thging could be classified differently according the context in which it is being discussed there is little choice than to provide generic definitions for generic terms and then discuss exact definitions case by case when they arise.  
+(Unfortunately after decades working as an Information Architecxt I learnt the hard way that exact definitions are difficult tpo provide without context. This is the exact premise of Noam Chomsky's "_Meaning of Meaning_" work.)
+
 ## The Evolution of the Concept
 
-Although the Factors of Production have been a recognization hroup concept for over 400 years the individual Factors of Production were not all defined at the same time. 
+Although Factors of Production has been a recognized grouping concept for over 400 years the individual Factors of Production were not all defined at the same time. 
 Instead Factors of Production evolved over time as new constituent parts have been identified and defined. The timeline for that evolution is...
 
 _Sir William Petty_, in his "Treatise of Taxes and Contributions" (1662), originally laid out a two-factor theory and famously declared that "_Labour is the father and active principle of wealth, as lands are the mother._"
