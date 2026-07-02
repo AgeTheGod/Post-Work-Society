@@ -17,6 +17,7 @@ It also provides quick navigation to a specific document.
     3. What Is Politics 
     3. [What Is Money](DefinitionOfTerms/WhatIsMoney.md)
     4. [What Is Capitalism](DefinitionOfTerms/WhatIsCapitalism.md)
+       1. [Types of Capitalism](DefinitionOfTerms/TypesOfCapitalism.md)
     5. What Is Wealth
     6. What Is Taxation
     7. What Are Natural Resources
@@ -43,7 +44,8 @@ It also provides quick navigation to a specific document.
       3. [Electronic Voting](ReformingSociety/DemocraticReform/ElectronicVoting.md)
       4. [National Voter Registry](ReformingSociety/DemocraticReform/NationalVoterRegistry.md)
    2. [Economic Reform](ReformingSociety/EconomicReform/EconomicReformSummary.md)
-      1. [State Owned Enterprises](ReformingSociety/EconomicReform/StateOwnedEnterprises.md)
+      1. [Social Economics](ReformingSociety/EconomicReform/SocialEconomics.md)
+      2. [State Owned Enterprises](ReformingSociety/EconomicReform/StateOwnedEnterprises.md)
       2. [Guaranteed Minimum Income](ReformingSociety/EconomicReform/GuaranteedMinimumIncome.md)
       3. Ring Fenced Taxation
       4. Tax Reforms
