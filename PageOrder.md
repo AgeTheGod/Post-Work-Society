@@ -12,7 +12,7 @@ It also provides quick navigation to a specific document.
       5. [Wealth Trends](Introduction/WealthTrends.md)
    3. [Principles](Introduction/Principles.md)
       4. [Quicxk Good Cheap](Introduction/QuickGoodCheap.md)
-2. [Definitions of Terms](DefinitionOfTerms/DefinitionOfTermsOverview.md)
+2. [Definition Of Terms](DefinitionOfTerms/DefinitionOfTermsOverview.md)
     1. [What Is Society](DefinitionOfTerms/WhatISSociety.md)
     3. What Is Politics 
     3. [What Is Money](DefinitionOfTerms/WhatIsMoney.md)
