@@ -16,19 +16,53 @@ Concepts also tend to evolve over time so that what the term meant when it was o
 
 Finally, many of these terms are inter-related so the definition may contextually change depending on the definition of some other term.
 
-| Term                              | Short Definition                                                                    |
-|-----------------------------------|-------------------------------------------------------------------------------------|
-| [Society](WhatISSociety.md)       | A Society is an organized group of individuals grouped together for mutual benefit. |
-| [Money](WhatIsMoney.md)           |                                                                                     |
-| [Wealth](HowDoWeMeasureWealth.md) |                                                                                     |
-| [Market](WhatIsAMarket.md)        |                                                                                     |
-| [Capitalism](WhatIsCapitalism.md) |                                                                                     |
-
+This leads to complicated set of inter-related concepts, represented in a Concept Map, such as...
 ```mermaid
----
-title: Order example
----
-erDiagram
-    Society ||..o{ Individual : members
-    Society ||--o{ Economy : has 
+classDiagram
+    class Society
+    class Person
+    class BeneficialService["Beneficial Service"]
+    class GoverningBody["Governing Body"]
+    class Constitution
+    class RegulatorySystem["Regulatory System"]
+    class SocialRole["Social Role"]
+    class Market
+
+    Person <|-- Visitor
+    Person <|-- Member
+
+    Society <-- Member : is a member of
+    Society *-- GoverningBody : managed by
+    Society *-- BeneficialService : provides
+    Society *-- Constitution : has
+    Society *-- Market : provides
+    Society *-- RegulatorySystem
+
+    Person <-- SocialRole : filled by
+    SocialRole --> Society
+    Citizen --> GoverningBody : serves on
+    Market <|-- SpotMarket
+    Market <|-- FuturesMarket
+    Market <|-- OpenMarket
+    Market <|-- ClosedMarket
+    Market <|-- InternalMarket
+    OnDemandService <|-- BeneficialService
+    UniversalService <|-- BeneficialService
+    Society --> InternalMarket : controls     
+    OnDemandService --> InternalMarket
 ```
+These kind of Concept Map diagrams very quickly become unreadable as the number of terms and relationships between those terms increase. 
+Consequently, in order to break this down into easier to consume chunks, I'm taking a "**Domain Decomposition**" approach with separate sections for each "**General Term**" (or Domain) and defining significant variations pertinent to this work within each General Term section.
+
+The primary Domains are... 
+
+| Term                                                               | Short Definition                                                                    |
+|--------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| [Society](WhatISSociety.md)                                        | A Society is an organized group of individuals grouped together for mutual benefit. |
+| [Democracy](/ReformingSociety/DemocraticReform/WhatIsDemocracy.md) |                                                                                     |
+| [Money](WhatIsMoney.md)                                            |                                                                                     |
+| [Economy](WhatIsAnEconomy.md)                                      |                                                                                     |
+| [Market](WhatIsAMarket.md)                                         |                                                                                     |
+| [Capitalism](WhatIsCapitalism.md)                                  |                                                                                     |
+| [Wealth](HowDoWeMeasureWealth.md)                                  |                                                                                     |
+
