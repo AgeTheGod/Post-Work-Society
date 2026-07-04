@@ -18,7 +18,7 @@ It also provides quick navigation to a specific document.
    3. [What Is A Market](DefinitionOfTerms/WhatIsAMarket.md)
    4. [What Is Money](DefinitionOfTerms/WhatIsMoney.md)
    5. What Is Wealth
-   6. What Is Government
+   6. [What Is Government](DefinitionOfTerms/WhatIsGovernment.md)
    7. [What Is Capitalism](DefinitionOfTerms/WhatIsCapitalism.md)
       1. [Types of Capitalism](DefinitionOfTerms/TypesOfCapitalism.md)
       8. [Factors of Production](DefinitionOfTerms/FactorsOfProduction.md)
