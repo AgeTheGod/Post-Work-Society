@@ -12,7 +12,7 @@ Laissez-Faire Capitalism emphasizes minimal government intervention: property ri
 
 Laissez-Faire Capitalism is the oldest form of Capitalism evolving directly out of Merchant Trading and based on the principle that anyone (the Merchant) can buy goods in one market to sell in another market for a profit.
 
-Mowadatys pure Laissez-Faire Capitalism is rare in practice.
+Nowadays pure Laissez-Faire Capitalism is rare in practice.
 Most modern states combine market freedoms with legal and regulatory frameworks usually in the form of Import & Export Controls and restrictions on the flow of Capital across borders.
 
 ### Welfare Capitalism

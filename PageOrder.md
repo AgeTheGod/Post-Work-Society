@@ -14,14 +14,16 @@ It also provides quick navigation to a specific document.
       4. [Quicxk Good Cheap](Introduction/QuickGoodCheap.md)
 2. [Definition Of Terms](DefinitionOfTerms/DefinitionOfTermsOverview.md)
    1. [What Is Society](DefinitionOfTerms/WhatISSociety.md)
-   2. [What Is Money](DefinitionOfTerms/WhatIsMoney.md)
-   3. What Is Wealth
-   4. What Is Government
-   5. [What Is Capitalism](DefinitionOfTerms/WhatIsCapitalism.md)
+   2. [What Is An Economy](DefinitionOfTerms/WhatIsAnEconomy.md)
+   3. [What Is A Market](DefinitionOfTerms/WhatIsAMarket.md)
+   4. [What Is Money](DefinitionOfTerms/WhatIsMoney.md)
+   5. What Is Wealth
+   6. What Is Government
+   7. [What Is Capitalism](DefinitionOfTerms/WhatIsCapitalism.md)
       1. [Types of Capitalism](DefinitionOfTerms/TypesOfCapitalism.md)
       8. [Factors of Production](DefinitionOfTerms/FactorsOfProduction.md)
-   6. What Is Taxation
-   7. What Are Natural Resources
+   8. What Is Taxation
+   9. What Are Natural Resources
 3. [Enabling Technologies](EnablingTechnologies/EnablingTechnologiesSummary.md)
    1. [Artificial Intelligence](EnablingTechnologies/ArtificialIntelligence.md)
    2. [Automation](EnablingTechnologies/AutomationAndRobotics.md)
