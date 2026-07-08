@@ -32,8 +32,12 @@ It also provides quick navigation to a specific document.
 4. [Providing Essential Services](ProvidingEssentialServices/ProvidingEssentialServicesSummary.md)
    5. Survivability 
       1. [Energy Management](ProvidingEssentialServices/EnergyManagement/SustainableEnergyGeneration.md)
-      2. Food Management
-      3. [Water Management](ProvidingEssentialServices/WaterManagement/WaterManagement.md)
+         1. [Energy Usage Analysis](ProvidingEssentialServices/EnergyManagement/EnergyUsageAnalysis.md)
+         2. [Energy Generation](ProvidingEssentialServices/EnergyManagement/EnergyGeneration.md)
+         3. [Energy Distribution](ProvidingEssentialServices/EnergyManagement/EnergyDistribution.md)
+         4. [Energy Storage](ProvidingEssentialServices/EnergyManagement/EnergyStorage.md)
+      2. [Water Management](ProvidingEssentialServices/WaterManagement/WaterManagement.md)
+      3. Food Management
       4. Housing
    7. Quality of Life
       1. [Telecommunications](ProvidingEssentialServices/Telecommunications/InternetCommunications.md)
@@ -41,10 +45,11 @@ It also provides quick navigation to a specific document.
 5. [Reforming Society](ReformingSociety/ReformingSocietySummary.md)
    1. [Democratic Reform](ReformingSociety/DemocraticReform/DemocraticReformSummary.md)
       1. [What Is Democracy](ReformingSociety/DemocraticReform/WhatIsDemocracy.md)
-      2. [ProblemsWithDemocracy](ReformingSociety/DemocraticReform/ProblemsWithDemocracy.md)
-      2. [Direct Democracy](ReformingSociety/DemocraticReform/DirectDemocracy.md)
-      3. [Electronic Voting](ReformingSociety/DemocraticReform/ElectronicVoting.md)
-      4. [National Voter Registry](ReformingSociety/DemocraticReform/NationalVoterRegistry.md)
+      2. [Problems With Democracy](ReformingSociety/DemocraticReform/ProblemsWithDemocracy.md)
+      3. [Political Party Reform](ReformingSociety/DemocraticReform/PoliticalPartyReform.md)
+      4. [Direct Democracy](ReformingSociety/DemocraticReform/DirectDemocracy.md)
+      5. [Electronic Voting](ReformingSociety/DemocraticReform/ElectronicVoting.md)
+      6. [National Voter Registry](ReformingSociety/DemocraticReform/NationalVoterRegistry.md)
    2. [Economic Reform](ReformingSociety/EconomicReform/EconomicReformSummary.md)
       1. [Social Economics](ReformingSociety/EconomicReform/SocialEconomics.md)
       2. [State Owned Enterprises](ReformingSociety/EconomicReform/StateOwnedEnterprises.md)
@@ -63,10 +68,12 @@ It also provides quick navigation to a specific document.
    3. [Measuring Success](GettingThere/MeasuringSuccess.md)
 7. [Further Implications](FurtherImplications/FurtherImplicationsSummary.md)
 8. [Appendices](Appendices/AppendicesSummary.md)
-   1. [Analysis](Appendices/AnalysisOverview.md)
+   1. [References](Appendices/References.md)
+   2. [Data Sources](Appendices/DataSources.md)
+   3. [Further Reading](Appendices/FurtherReading.md)
+   4. [Analysis](Appendices/AnalysisOverview.md)
       1. Analysis of Debt
       2. Distribution of Resources
       3. Distribution of Wealth
-   2. [References](Appendices/References.md) 
-   3. [Further Reading](Appendices/FurtherReading.md)
+   5. [Using Artificial Intelligence](Appendices/UsingArtificialIntelligence.md)
 

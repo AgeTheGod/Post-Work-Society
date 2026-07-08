@@ -2,13 +2,29 @@
 title: References
 layout: default
 parent: Appendices
-nav_order: 3
+nav_order: 1
 ---
 # References for Further Reading
 
+One of the benefits of the Internet and the World Wide Web is the widespread availability of data and knowledge. 
+It's not an exaggeration to say that that just about everything is on-line nowadays and can be directly referenced.
+
+This helps immensely with the kind of subject I'm dealing with here.
+
+In the bad old days, when writing a book the author needed to include every pertinent piece of information in that book because it was an isolated thing.
+Even when a book author did include a Further Reading section it was usually references to other books and left to each reader to locate a copy of that referenced book. 
+_That was an incredibly time-consuming activity_.    
+
+Fortunately, that is no longer the case with publishing on-line work. 
+With on-line work the author can simply publish a navigable link to whatever source materials they used and if the reader wants to explore further they simply "click the link" to immediately access the referenced material.  
+
+So that's what we have here - a non-exhaustive collection of references to all kinds of articles and resources that I found useful whilst organizing my thoughts.
+Some of these references are directly relevant i.e. I used them as a direct source to extract a definition or some analytical data. 
+Others are just tangential that I included because they present interesting information. 
+
 ##  Wikipedia Knowledge Articles
 
-I use a lot of references to Wikipedia pages because that's a great start point for anyone that wants to read more detail on a particular topic and contains many cross-references and external links that provide additional information.
+I use a lot of references to Wikipedia pages because Wikipedia is a great start point for anyone that wants to read more detail on a particular topic and contains many cross-references and external links that provide additional information.
 
 | Term                                                                                                        | Summary                                                                                                                                                                                            |
 |-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -28,40 +44,25 @@ I use a lot of references to Wikipedia pages because that's a great start point 
 | [Social Structure](https://en.wikipedia.org/wiki/Social_structure)                                          |                                                                                                                                                                                                    |
 | [British Business Bank](https://en.wikipedia.org/wiki/British_Business_Bank)                                |                                                                                                                                                                                                    |
 | [Public Works Loan Board](https://en.wikipedia.org/wiki/Public_Works_Loan_Board)                            |                                                                                                                                                                                                    |
-| [Big Design Up-Front](https://en.wikipedia.org/wiki/Big_design_up_front)||
+| [Big Design Up-Front](https://en.wikipedia.org/wiki/Big_design_up_front)                                    |                                                                                                                                                                                                    |
 
-##  Ideas
+##  Data Sources
 
-| Link                                                                                            | Summary |
-|-------------------------------------------------------------------------------------------------|---------|
-| https://www.idea.int/about-us                                                                   |         |
-| https://davidgraeber.org/articles/a-practical-utopians-guide-to-the-coming-collapse/            |         |
-| https://voicesofcapitalism.com/hyper-capitalism-vs-capitalism/                                  |         |
-| [Electoral Reform Society](https://electoral-reform.org.uk/)                                    |||
+###  General Data Sources
 
-##  General Data Sources
+| Link                                     | Contains                                                                       | 
+|------------------------------------------|--------------------------------------------------------------------------------|
+| [UK Office For National Statistics](https://www.ons.gov.uk/) | UK Government site for all official economic and social statistics             |
+| [UK House of Commons Library Data](https://commonslibrary.parliament.uk/data)  | Briefs, reports and analysis provided to Members of Parliament and their staff |
+| [UK Current Employment Statistics](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/employmentbyoccupationemp13)  |                                                                                |
+|                                          |                                                                                |
+| [Eurastat](https://ec.europa.eu/eurostat)                          |                                                                                |
+|                                          |                                                                                |
+| [US Government Statistical Data](https://www.data.gov)    | U.S. Government's Open Data that are free to access, query and download        |
+| [US Current Employment Statistics](https://www.bls.gov/ces)  |                                                                                |
+| [Bureau of Labor Statistics](https://www.bls.gov/)        |                                                                                |
+|                                          |                                                                                |
+| [Statista](https://www.statista.com/)                          | Gathers together insights and facts across 170 industries and 150+ countries   |
 
-| Region | Link                                                                       | Contains                                                                       | 
-|--------|----------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| UK     | [Office For National Statistics](https://www.ons.gov.uk/)                  | UK Government site for all official economic and social statistics             |
-| UK     | [House of Commons Library Data](https://commonslibrary.parliament.uk/data) | Briefs, reports and analysis provided to Members of Parliament and their staff |
-|        |                                                                            |
-| EU     | [Eurastat](https://ec.europa.eu/eurostat)                                  |                                                                                |
-|        |                                                                            |
-| US     | [US Data](https://www.data.gov)                                            | U.S. Government's Open Data that are free to access, query and download        |
-| US     | [Bureau of Labor Statistics](https://www.bls.gov/)                         |                                                                                |
-|        |                                                                            |                                                                                |
-| World  | [Statista](https://www.statista.com/)                                      | Gathers together insights and facts across 170 industries and 150+ countries   |
-
-##  Specific Data Sources
-
-| Link                                                                                                                                                              | Contains                                                                       | 
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| [UK Current Employment Statistics](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/employmentbyoccupationemp13) |                                                                                |
-| [US Current Employment Statistics](https://www.bls.gov/ces)                                                                                                       |                                                                                |
-
-https://taxpolicy.org.uk/
-https://www.thelondoneconomic.com/business-economics/economists-publish-mathematical-proof-that-ai-will-destroy-the-economy-405731/
-https://davidgraeber.org/articles/are-you-an-anarchist-the-answer-maysurprise-you/
-"uni degree not worth it" https://www.bbc.co.uk/news/articles/c2e29gk73rjo
+###  Specific Data Sources
 

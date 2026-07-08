@@ -2,7 +2,7 @@
 title: Analysis
 layout: default
 parent: Appendices
-nav_order: 2
+nav_order: 4
 ---
 #   Data Analysis Summary
 
