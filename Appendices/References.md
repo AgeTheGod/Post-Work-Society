@@ -4,7 +4,7 @@ layout: default
 parent: Appendices
 nav_order: 1
 ---
-# References for Further Reading
+# References
 
 One of the benefits of the Internet and the World Wide Web is the widespread availability of data and knowledge. 
 It's not an exaggeration to say that that just about everything is on-line nowadays and can be directly referenced.
@@ -45,24 +45,4 @@ I use a lot of references to Wikipedia pages because Wikipedia is a great start 
 | [British Business Bank](https://en.wikipedia.org/wiki/British_Business_Bank)                                |                                                                                                                                                                                                    |
 | [Public Works Loan Board](https://en.wikipedia.org/wiki/Public_Works_Loan_Board)                            |                                                                                                                                                                                                    |
 | [Big Design Up-Front](https://en.wikipedia.org/wiki/Big_design_up_front)                                    |                                                                                                                                                                                                    |
-
-##  Data Sources
-
-###  General Data Sources
-
-| Link                                     | Contains                                                                       | 
-|------------------------------------------|--------------------------------------------------------------------------------|
-| [UK Office For National Statistics](https://www.ons.gov.uk/) | UK Government site for all official economic and social statistics             |
-| [UK House of Commons Library Data](https://commonslibrary.parliament.uk/data)  | Briefs, reports and analysis provided to Members of Parliament and their staff |
-| [UK Current Employment Statistics](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/employmentbyoccupationemp13)  |                                                                                |
-|                                          |                                                                                |
-| [Eurastat](https://ec.europa.eu/eurostat)                          |                                                                                |
-|                                          |                                                                                |
-| [US Government Statistical Data](https://www.data.gov)    | U.S. Government's Open Data that are free to access, query and download        |
-| [US Current Employment Statistics](https://www.bls.gov/ces)  |                                                                                |
-| [Bureau of Labor Statistics](https://www.bls.gov/)        |                                                                                |
-|                                          |                                                                                |
-| [Statista](https://www.statista.com/)                          | Gathers together insights and facts across 170 industries and 150+ countries   |
-
-###  Specific Data Sources
 

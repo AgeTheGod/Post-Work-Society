@@ -1,24 +1,21 @@
 ---
-title: Ideas And Opinions
+title: Further Reading
 layout: default
 parent: Appendices
 nav_order: 3
 ---
-#   Ideas And Opinions
+#   Further Reading
 
 "_Everyone is entitled to his own opinion, but not to his own facts_".
 
-That's a quote from US Senator Daniel Patrick Moynihan and this distinction between subjective perspectives and objective reality is also the reason why I separated these links into their own section.
+That's a quote from US Senator Daniel Patrick Moynihan and this distinction between subjective perspectives and objective reality is also the reason why I separated these links into their own section instead of including them in with the [Reference](References.md) section.
 
-This work presents a lot of ideas many of which have been proposed by other groups, in some cases decades ago. 
-
+This work presents a lot of ideas many of which have been proposed by other groups, in some cases decades ago and in many cases it's worth reading what other groups are saying about some particular subject in order to make up your own mind where you stand on that subject. 
 
 Everything referenced in this section is subjective and in many cases an opinion expressed in one link may contradict an opinion expressed in another link.
 This is OK and as it should be because adhering to "_one true opinion_" leads to dogma and righteousness i.e. "_I'm right because I'm right and if you don't agree with me then you must be wrong_".
 
-So, whether I agree or disagree with any of these Ideas and Opinions is irrelevant - I'm including them because they are interesting.
-
-These are some of the links that I believe are worth further reading...
+So, whether I agree or disagree with any of these Ideas and Opinions is irrelevant (and I'm not saying anything one way or the other) - I'm including them because they are interesting.
 
 ##  Ideas
 
