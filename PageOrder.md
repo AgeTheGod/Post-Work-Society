@@ -28,7 +28,8 @@ It also provides quick navigation to a specific document.
    1. [Artificial Intelligence](EnablingTechnologies/ArtificialIntelligence.md)
    2. [Automation](EnablingTechnologies/AutomationAndRobotics.md)
    3. [Predictive Analytics](EnablingTechnologies/PredictiveAnalytics.md)
-   4. [Interplanetary Mining](EnablingTechnologies/InterPlanetaryMining.md)
+   4. [Internet Of Things](EnablingTechnologies/InternetOfThings.md)
+   5. [Interplanetary Mining](EnablingTechnologies/InterPlanetaryMining.md)
 4. [Providing Essential Services](ProvidingEssentialServices/ProvidingEssentialServicesSummary.md)
    5. Survivability 
       1. [Energy Management](ProvidingEssentialServices/EnergyManagement/SustainableEnergyGeneration.md)
@@ -36,6 +37,7 @@ It also provides quick navigation to a specific document.
          2. [Energy Generation](ProvidingEssentialServices/EnergyManagement/EnergyGeneration.md)
          3. [Energy Distribution](ProvidingEssentialServices/EnergyManagement/EnergyDistribution.md)
          4. [Energy Storage](ProvidingEssentialServices/EnergyManagement/EnergyStorage.md)
+         5. [Delivering Energy](ProvidingEssentialServices/EnergyManagement/DeliveringEnergy.md)
       2. [Water Management](ProvidingEssentialServices/WaterManagement/WaterManagement.md)
       3. Food Management
       4. Housing
@@ -67,6 +69,7 @@ It also provides quick navigation to a specific document.
    2. [Funding The Transition](GettingThere/FundingTheTransition.md)
    3. [Measuring Success](GettingThere/MeasuringSuccess.md)
 7. [Further Implications](FurtherImplications/FurtherImplicationsSummary.md)
+   8. Crimes Against Society
 8. [Appendices](Appendices/AppendicesSummary.md)
    1. [References](Appendices/References.md)
    2. [Data Sources](Appendices/DataSources.md)
