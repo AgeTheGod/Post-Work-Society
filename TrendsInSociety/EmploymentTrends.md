@@ -1,7 +1,7 @@
 ---
 title: Employment Trends
 layout: default
-parent: Motivation
+parent: Trends In Society
 nav_order: 2
 ---
 #   Employment Trends

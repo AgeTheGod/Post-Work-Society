@@ -1,10 +1,11 @@
 ---
-title: Motivation
+title: Trends In Society
 layout: default
-parent: Introduction
 nav_order: 2
 ---
-#   Motivation
+#   Trends In Society
+
+Mostly this is about explaining certain current trends in Society that I think need to be addressed sooner rather than later in order to (at risk of being over-dramatic) avoid a collapse in Society and some horrible Dystopian future.
 
 Societies change over time and how they change affects how a Society organizes and manages itself.
 

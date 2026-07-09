@@ -1,7 +1,7 @@
 ---
 title: Wealth Trends 
 layout: default
-parent: Motivation
+parent: Trends In Society
 nav_order: 5
 ---
 #   Wealth Trends

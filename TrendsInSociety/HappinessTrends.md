@@ -1,7 +1,7 @@
 ---
 title: Happiness Trends
 layout: default
-parent: Motivation
+parent: Trends In Society
 nav_order: 1
 ---
 #   World Happiness Report

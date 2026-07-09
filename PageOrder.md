@@ -3,15 +3,8 @@ It's maintained here so that I can see the intended overall structure of the doc
 It also provides quick navigation to a specific document. 
 
 1. [Introduction](Introduction/IntroductionSummary.md)
-   1. [Objectives](Introduction/Objectives.md)
-   2. [Motivation](Introduction/Motivation.md)
-      1. [Happiness Trends](Introduction/HappinessTrends.md)
-      2. [Employment Trends](Introduction/EmploymentTrends.md)
-      3. [Population Trends](Introduction/PopulationTrends.md)
-      4. [Production Trends](Introduction/ProductionTrends.md)
-      5. [Wealth Trends](Introduction/WealthTrends.md)
    3. [Principles](Introduction/Principles.md)
-      4. [Quicxk Good Cheap](Introduction/QuickGoodCheap.md)
+      4. [Quick Good Cheap](Introduction/QuickGoodCheap.md)
 2. [Definition Of Terms](DefinitionOfTerms/DefinitionOfTermsOverview.md)
    1. [What Is Society](DefinitionOfTerms/WhatISSociety.md)
    2. [What Is An Economy](DefinitionOfTerms/WhatIsAnEconomy.md)
@@ -24,7 +17,13 @@ It also provides quick navigation to a specific document.
       8. [Factors of Production](DefinitionOfTerms/FactorsOfProduction.md)
    8. What Is Taxation
    9. What Are Natural Resources
-3. [Enabling Technologies](EnablingTechnologies/EnablingTechnologiesSummary.md)
+2. [Trends In Society](TrendsInSociety/TrendsInSociety.md)
+    1. [Happiness Trends](TrendsInSociety/HappinessTrends.md)
+    2. [Employment Trends](TrendsInSociety/EmploymentTrends.md)
+    3. [Population Trends](TrendsInSociety/PopulationTrends.md)
+    4. [Production Trends](TrendsInSociety/ProductionTrends.md)
+    5. [Wealth Trends](TrendsInSociety/WealthTrends.md)
+4. [Enabling Technologies](EnablingTechnologies/EnablingTechnologiesSummary.md)
    1. [Artificial Intelligence](EnablingTechnologies/ArtificialIntelligence.md)
    2. [Automation](EnablingTechnologies/AutomationAndRobotics.md)
    3. [Predictive Analytics](EnablingTechnologies/PredictiveAnalytics.md)

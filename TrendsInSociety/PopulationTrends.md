@@ -1,7 +1,7 @@
 ---
 title: Population Trends
 layout: default
-parent: Motivation
+parent: Trends In Society
 nav_order: 3
 ---
 #   Population Trends
