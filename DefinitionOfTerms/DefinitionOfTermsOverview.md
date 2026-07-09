@@ -53,17 +53,3 @@ classDiagram
 ```
 These kind of Concept Map diagrams very quickly become unreadable as the number of terms and relationships between those terms increase. 
 Consequently, in order to break this down into easier to consume chunks, I'm taking a "**Domain Decomposition**" approach with separate sections for each "**General Term**" (or Domain) and defining significant variations pertinent to this work within each General Term section.
-
-The primary Domains are... 
-
-| Term                                                               | Short Definition                                                                    |
-|--------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| [Society](WhatISSociety.md)                                        | A Society is an organized group of individuals grouped together for mutual benefit. |
-| [Democracy](/ReformingSociety/DemocraticReform/WhatIsDemocracy.md) |                                                                                     |
-| [Money](WhatIsMoney.md)                                            |                                                                                     |
-| [Economy](WhatIsAnEconomy.md)                                      |                                                                                     |
-| [Market](WhatIsAMarket.md)                                         |                                                                                     |
-| [Capitalism](WhatIsCapitalism.md)                                  |                                                                                     |
-| [Wealth](HowDoWeMeasureWealth.md)                                  |                                                                                     |
-| [Government](WhatIsGovernment.md)                                  |                                                                                     |
-
