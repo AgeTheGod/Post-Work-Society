@@ -8,7 +8,7 @@ nav_order: 4
 
     Note:
         I'm not going to explain the Internet here. 
-        It's so ubiquitous that I'm assuming everyuone knows what it is and what it is used for.
+        It's so ubiquitous that I'm assuming everyone knows what it is and what it is used for.
 
 The "**Internet Of Things**" sounds like it should be a definition of terms but is actually an enabling technology.
 
@@ -53,3 +53,66 @@ It should be noted that these proposals are not mutually exclusive and it's easi
 This is known as Semantic Addressing or Context-Aware Addressing (I used a very simple variant of this when I worked on Data Entitlements for Reuters Market Data).
 
 In a unified global network using a taxonomic approach has the advantage that firewalls and routers become incredibly simple.
+
+##  IoT State Machines
+
+    ToDo: State Machines are not simple to explain. Might skip this.
+
+##  How Taxonomic IoT Routing Works
+
+In a standard internet setup, routers have to memorize millions of individual paths to find specific devices. 
+This makes routing tables massive, slow, and expensive to run.
+
+However, a global network using the Taxonomic IoT approach can keep their routing tables incredibly small and fast through a process called Prefix Aggregation (or summarization) combined with a technique called Hardware-Level Bit-Shifting.
+Essentially, the routers only memorize the fixed structure of the physical architecture itself and never have to memorize the trillions of individual IoT-enabled devices 
+
+The result is a 4-step process 
+
+    ToDo: This is a very technical summary (though nothing like as complicated as the actual technical paper).
+        Need to think about how to make this less technical.
+
+### 1. Hierarchical Summarization (The ZIP Code Effect)
+
+The primary way router tables stay small is that local routers do not need to know where individual devices are. 
+They only route data based on the Static Half (Bits 0–63) of the address.
+Think of it like sorting physical mail. 
+A sorting facility in London does not care about your specific kitchen smart bulb; it only looks at the postal code so that a message gets delivered to that address.
+
+- The Global Core Routers: Only look at Bits 0–15 (Region). Their routing tables contain just a few thousand entries (one for each geographic sector).
+- The Regional Routers: Only look at Bits 16–39 (Owner/Organization). They forward all data for a specific organization to a single gateway link.
+- The Campus/Local Routers: Only look at Bits 40–55 (Subnet).
+
+Because of this strict hierarchy, a local router's table only needs one single entry to cover billions of devices. 
+Instead of listing every device, the table simply says:
+
+    "If the first 64 bits match 2001:00A2:001F:004B::/64, send it down Port 3." 
+
+If the message matches that rule then it continues its journey but if it fails then everything else is ignored.
+
+### 2. Line-Rate Filtering via Subnet Masks
+
+When a data packet arrives at a local router, the router uses an electronic trick called AND-masking performed directly on its silicon microchips (using ASICs—Application-Specific Integrated Circuits).
+Instead of reading the whole 128-bit text string, the chip overlays a binary mask onto the incoming address.
+
+Incoming Address:  2001:0db8:85a3:0001:0102:8a2e:0370:7334
+Router's Mask:     FFFF:FFFF:FFFF:FFFF:0000:0000:0000:0000
+Instant Result:    2001:0db8:85a3:0001 (Match Found! Forward immediately)
+
+### 3. Class-Based Traffic Prioritisation (No Database Needed)
+
+Once the packet arrives inside the local network, the router has to decide how fast to process it. 
+In a traditional network, a router must check a complex database of rules (Access Control Lists) to see if a device or specific message is high-priority.
+
+With a taxonomic address, the router skips the database entirely by looking at Bits 56–63 (Network Priority & Safety Class):
+- The router's hardware is hardwired with a rule: If bits 56–63 equal 0xAA (Critical Safety), put this packet in the front of the queue.
+- If those bits equal 0xFF (Low-Priority Consumer Tech), the packet is held back if the network is busy.
+
+Hence, the router can prioritize life-saving machinery or shutdown commands instantly without looking up a single database record.
+
+### 4. Hardware-Level Dynamic Sorting (TCAM)
+
+What happens when the packet finally reaches the geographic location and needs to find the correct device class (like separating drones from climate sensors)?
+Local switches use a specialized type of high-speed memory called TCAM (Ternary Content-Addressable Memory). 
+TCAM allows the router to search its entire table for the Class ID (Bits 64–71) in a single clock cycle (the faster the CPU the quicker this happens).
+
+A match at this point identifies a specific device to which the message is passed and the specific device then processes whatever instruction it has been given (assuming it is a legal instruction according to the relevant Device State Machine)
