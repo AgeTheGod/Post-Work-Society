@@ -1,7 +1,7 @@
 ---
 title: What Is Money  
 layout: default
-parent: Definition Of Terms
+parent: Economics Concepts
 nav_order: 4
 ---
 #   What Is Money?

@@ -1,7 +1,7 @@
 ---
 title: What Is A Market  
 layout: default
-parent: Definition Of Terms
+parent: Economics Concepts
 nav_order: 3
 ---
 #   What Is A Market

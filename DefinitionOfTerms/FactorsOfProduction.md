@@ -1,7 +1,7 @@
 ---
 title: Factors of Production  
 layout: default
-parent: What Is Capitalism
+parent: Economics Concepts
 nav_order: 7
 ---
 #   Factors of Production

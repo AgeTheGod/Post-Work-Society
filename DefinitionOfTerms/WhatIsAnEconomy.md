@@ -1,7 +1,7 @@
 ---
 title: What Is An Economy  
 layout: default
-parent: Definition Of Terms
+parent: Economics Concepts
 nav_order: 2
 ---
 #   What Is An Economy

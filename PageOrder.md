@@ -6,17 +6,23 @@ It also provides quick navigation to a specific document.
    3. [Principles](Introduction/Principles.md)
       4. [Quick Good Cheap](Introduction/QuickGoodCheap.md)
 2. [Definition Of Terms](DefinitionOfTerms/DefinitionOfTermsOverview.md)
-   1. [What Is Society](DefinitionOfTerms/WhatISSociety.md)
-   2. [What Is An Economy](DefinitionOfTerms/WhatIsAnEconomy.md)
-   3. [What Is A Market](DefinitionOfTerms/WhatIsAMarket.md)
-   4. [What Is Money](DefinitionOfTerms/WhatIsMoney.md)
-   5. What Is Wealth
-   6. [What Is Government](DefinitionOfTerms/WhatIsGovernment.md)
-   7. [What Is Capitalism](DefinitionOfTerms/WhatIsCapitalism.md)
-      1. [Types of Capitalism](DefinitionOfTerms/TypesOfCapitalism.md)
-      8. [Factors of Production](DefinitionOfTerms/FactorsOfProduction.md)
-   8. What Is Taxation
-   9. What Are Natural Resources
+   4. Political Concepts
+      1. [What Is Society](DefinitionOfTerms/WhatISSociety.md)
+      6. [What Is Government](DefinitionOfTerms/WhatIsGovernment.md)
+      8. What Is Taxation
+      9. [What Is Socialism](DefinitionOfTerms/WhatIsSocialism.md)
+      10. [What Is Libertarianism](DefinitionOfTerms/WhatIsLibertariansim.md)
+   3. Economics Concepts
+       2. [What Is An Economy](DefinitionOfTerms/WhatIsAnEconomy.md)
+       3. [What Is A Market](DefinitionOfTerms/WhatIsAMarket.md)
+       4. [What Is Money](DefinitionOfTerms/WhatIsMoney.md)
+       5. [What Is Wealth](DefinitionOfTerms/WhatIsWealth.md)
+      10. What Is Production
+      9. What Are Natural Resources
+          8. [Factors of Production](DefinitionOfTerms/FactorsOfProduction.md)
+      7. [What Is Capitalism](DefinitionOfTerms/WhatIsCapitalism.md)
+          1. [Types of Capitalism](DefinitionOfTerms/TypesOfCapitalism.md)
+      2. What Is Socialism
 2. [Trends In Society](TrendsInSociety/TrendsInSociety.md)
     1. [Happiness Trends](TrendsInSociety/HappinessTrends.md)
     2. [Employment Trends](TrendsInSociety/EmploymentTrends.md)
