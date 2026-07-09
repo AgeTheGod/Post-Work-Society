@@ -5,10 +5,12 @@ nav_order: 8
 ---
 #   Appendices
 
-One of the benefits of the Internet and the World Wide Web is the widespread availability of data and knowledge.
-It's not an exaggeration to say that that just about everything is on-line nowadays and can be directly referenced.
+The Appendices provide additional information and explanations that supports some of the main text but maybe not directly relevant to the text itself.
 
-This helps immensely with the kind of subject I'm dealing with here.
+One of the benefits of the Internet and the World Wide Web is the widespread availability of data and knowledge.
+It's not an exaggeration to say that that just about everything is on-line nowadays and can be directly referenced by anyone with an interest in discovering information and the data that underpins it.
+
+This helps immensely with a subject such as the Post Work Society where economic trends are the key motivators (and hence accurate data is critical) and technological capabilities provides most of the potential solutions.
 
 In the bad old days, when writing a book the author needed to include every pertinent piece of information in that book because it was an isolated thing.
 Even when a book author did include a Further Reading section it was usually references to other books and left to each reader to locate a copy of that referenced book.
@@ -21,13 +23,12 @@ So that's what we have here - a non-exhaustive collection of references to all k
 Some of these references are directly relevant i.e. I used them as a direct source to extract a definition or some analytical data.
 Others are just tangential that I included because they present interesting information.
 
-The Appendices provide additional information and explanations that supports some of the main text but maybe not directly relevant to the text itself.
+However, because there is such a huge amount of data and information available I've split this into multiple section rather than just provide a list of links.
 
-[Definitions of Terms](../DefinitionOfTerms/DefinitionOfTermsOverview.md)
+|                                                               |                                                                                                                                                                                  |
+|---------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Wikipedia Knowledge Articles](WikipediaKnowledgeArticles.md) | I use a lot of references to Wikipedia pages because, in my opinion, Wikipedia is the berst on-line encyclopediaa and a great start point for digging into definitions of things. |
+| [Further Reading](./FurtherReading.md)                        | Links to miscellaneous articles exprtessing ideas and opiniosn that I found interesting                                                                                          |
+| [Data Sources](DataSources.md)                                |                                                                                                                                                                                  |
+| [Analysis](AnalysisOverview.md)                               |                                                                                                                                                                                  |
 
-[Analysis](AnalysisOverview.md)
-
-[References](./References.md) provides links to a range of external web-sites that provide more information on the various topics included in this work. 
-Mostly these are references to on-line data sources that I used to extract the data the underpins the statistics and trends discussed earlier.
-
-[Further Reading](./FurtherReading.md) 

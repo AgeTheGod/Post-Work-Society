@@ -70,7 +70,7 @@ It also provides quick navigation to a specific document.
 7. [Further Implications](FurtherImplications/FurtherImplicationsSummary.md)
    8. Crimes Against Society
 8. [Appendices](Appendices/AppendicesSummary.md)
-   1. [References](Appendices/References.md)
+   1. [Wikipedia Knowledge Articles](Appendices/WikipediaKnowledgeArticles.md)
    2. [Data Sources](Appendices/DataSources.md)
    3. [Further Reading](Appendices/FurtherReading.md)
    4. [Analysis](Appendices/AnalysisOverview.md)

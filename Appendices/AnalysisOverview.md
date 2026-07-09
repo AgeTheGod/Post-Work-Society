@@ -4,7 +4,7 @@ layout: default
 parent: Appendices
 nav_order: 4
 ---
-#   Data Analysis Summary
+#   Analysis Summary
 
 One of the benefits of the **Information Age** is that there really is a lot of information and data available about all kinds of interesting things.
 
