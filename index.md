@@ -49,7 +49,7 @@ On the other hand we have the "Dystopian Risk" where without careful planning, a
 
 The various Trends in Society indicate that we're **currently on the road to Dystopia** but I think it's obvious that **any reasonable person would prefer to be heading towards Utopia**.
 
-Consequently, building towards a Post Work Society requires not only a vision of what that Society will eventually look like (lots of published visions but they may be decades in the future) but also requires a planned transition from where we are now to where we will be if these trends continue.
+This is what I personally would wantto do but building towards a Post Work Society requires not only a vision of what that Society will eventually look like (lots of published visions but they may be decades in the future) but also requires a planned transition from where we are now to where we will be if these trends continue.
 
 So what we have here are a set of proposals that I think moves Society away from the current "Work to Live" towards a more fulfilling existence where only "essential work" is required and people are mostly free to live whatever kind of life they personally regard as being "fulfilling".
 These proposals are based in the following core objectives (in no particular order)...

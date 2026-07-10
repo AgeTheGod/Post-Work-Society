@@ -8,6 +8,7 @@ It also provides quick navigation to a specific document.
 2. [Definition Of Terms](DefinitionOfTerms/DefinitionOfTermsOverview.md)
    4. Political Concepts
       1. [What Is Society](DefinitionOfTerms/WhatISSociety.md)
+      2. [What Is A Post Work Society](DefinitionOfTerms/WhatIsPostWorkSociety.md)
       6. [What Is Government](DefinitionOfTerms/WhatIsGovernment.md)
       8. What Is Taxation
       9. [What Is Socialism](DefinitionOfTerms/WhatIsSocialism.md)
