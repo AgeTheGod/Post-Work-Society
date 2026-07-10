@@ -1,3 +1,8 @@
+---
+title: About Me
+layout: home
+nav_order: 99
+---
 #   About Me
 
 As mentioned elsewhere, for most of my adult life I've been interested in technology and how it can be used to improve our lives.
