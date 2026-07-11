@@ -3,11 +3,9 @@ title: Introduction
 layout: default
 nav_order: 1
 ---
-#   Introduction Summary
+#   Introduction
 
 Before starting on any activity it's always worth some time defining "_what we intend to do_" i.e establish the Objectives and the scope of those Objectives.
-
-##  Objectives
 
 These proposals are based in the following core objectives (in no particular order)...
 - Establish the minimum set of essential services required to operate a modern society.
