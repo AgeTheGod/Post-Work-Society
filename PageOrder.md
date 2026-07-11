@@ -14,16 +14,15 @@ It also provides quick navigation to a specific document.
       9. [What Is Socialism](DefinitionOfTerms/WhatIsSocialism.md)
       10. [What Is Libertarianism](DefinitionOfTerms/WhatIsLibertariansim.md)
    3. Economics Concepts
-       2. [What Is An Economy](DefinitionOfTerms/WhatIsAnEconomy.md)
-       3. [What Is A Market](DefinitionOfTerms/WhatIsAMarket.md)
-       4. [What Is Money](DefinitionOfTerms/WhatIsMoney.md)
-       5. [What Is Wealth](DefinitionOfTerms/WhatIsWealth.md)
-      10. What Is Production
-      9. What Are Natural Resources
-          8. [Factors of Production](DefinitionOfTerms/FactorsOfProduction.md)
-      7. [What Is Capitalism](DefinitionOfTerms/WhatIsCapitalism.md)
-          1. [Types of Capitalism](DefinitionOfTerms/TypesOfCapitalism.md)
-      2. What Is Socialism
+      1. [What Is An Economy](DefinitionOfTerms/WhatIsAnEconomy.md)
+      2. [What Is A Market](DefinitionOfTerms/WhatIsAMarket.md)
+      3. [What Is Money](DefinitionOfTerms/WhatIsMoney.md)
+      4. [What Is Wealth](DefinitionOfTerms/WhatIsWealth.md)
+      5. [What Is Economical Production](DefinitionOfTerms/EconomicalProduction.md)
+         1. [Factors of Production](DefinitionOfTerms/FactorsOfProduction.md)
+         2. [What Is Capitalism](DefinitionOfTerms/WhatIsCapitalism.md)
+            1. [Types of Capitalism](DefinitionOfTerms/TypesOfCapitalism.md)
+         3. [What Is Socialism](DefinitionOfTerms/WhatIsSocialism.md)
 2. [Trends In Society](TrendsInSociety/TrendsInSociety.md)
     1. [Happiness Trends](TrendsInSociety/HappinessTrends.md)
     2. [Employment Trends](TrendsInSociety/EmploymentTrends.md)
@@ -43,10 +42,12 @@ It also provides quick navigation to a specific document.
          2. [Energy Generation](ProvidingEssentialServices/EnergyManagement/EnergyGeneration.md)
          3. [Energy Distribution](ProvidingEssentialServices/EnergyManagement/EnergyDistribution.md)
          4. [Energy Storage](ProvidingEssentialServices/EnergyManagement/EnergyStorage.md)
-         5. [Delivering Energy](ProvidingEssentialServices/EnergyManagement/DeliveringEnergy.md)
+         5. [Delivering Energy Generation Capacity](ProvidingEssentialServices/EnergyManagement/DeliveringEnergyGenerationCapacity.md)
+         6. [Funding Energy Generation](ProvidingEssentialServices/EnergyManagement/FundingEnergyManagement.md)
       2. [Water Management](ProvidingEssentialServices/WaterManagement/WaterManagement.md)
       3. Food Management
       4. Housing
+         5. [Smart Houses](ProvidingEssentialServices/Housing/SmartHouses.md)
    7. Quality of Life
       1. [Telecommunications](ProvidingEssentialServices/Telecommunications/InternetCommunications.md)
       2. Healthcare

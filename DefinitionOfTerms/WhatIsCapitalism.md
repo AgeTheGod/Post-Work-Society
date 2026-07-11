@@ -1,12 +1,12 @@
 ---
 title: What Is Capitalism  
 layout: default
-parent: Economics Concepts
+parent: What is Economical Production
 nav_order: 4
 ---
 #   What is Capitalism?
 
-Capitalism is an economic system organized around private ownership of productive assets, voluntary exchange in markets, and the pursuit of profit.
+Capitalism is an economic system organized around private ownership of productive assets, voluntary exchange in markets, and the pursuit of monetary profit.
 Modern Capitalism emerged from the decline of Feudal arrangements and the ascent of the Industrial Revolution.
 
 At its core Capitalism relies on three interrelated institutions: 
@@ -14,7 +14,8 @@ At its core Capitalism relies on three interrelated institutions:
 - **Markets** where goods and services can be bought & sold and that coordinate production and distribution through prices; 
 - **Profit-Driven Enterprises** that allocate the Factors Of Production toward activities expected to yield profits on production. 
 
-All of the above pre-dates Capitalism and they all exist independently of Capitalism. However Capitalism, as a generic term, has become the primary Economic system designed to exploit the combination of all three.
+All of the above pre-dates Capitalism and they all exist independently of Capitalism. 
+However Capitalism, as a generic term, has become the primary Economic system designed to exploit the combination of all three.
 - Markets as places where goods are exchanged have existed for 1000's of years before even Money existed
 - Property Rights are defined and assigned to the various members of Society by the Government of that Society
 - Profit-Driven Enterprises was a core concept in Merchant Trading i.e. an individual buying goods in one market with the intent of selling those goods in another market for a profit. 

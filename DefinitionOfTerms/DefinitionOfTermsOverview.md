@@ -5,12 +5,13 @@ nav_order: 2
 ---
 ##  Definition Of Terms 
 
-Words have meaning but what that meaning is generally depends on the context in which the word is being used.
+Throughout this work there are a number of fundamental concepts, such as "_Society_"; "_Economy_", "_Technology_" that are repeatedly used but whose meanings may not be clear.
 
-Throughout this work there are a number of fundamental concepts, such as "_Society_"; "_Economy_", "_Technology_" that are repeatedly used but whose meanings may not be clear. 
+Unfortunately, what a word means is generally depends on the context in which the word is being used. 
+So, calling these "Definitions of Terms" is really a bit of a misnomer because they are really explanations about what I personally think a word means and how I'm using it.
 
 In most cases this is because the term is an "_umbrella term_" with no single universally agreed definition that is generally used to group specific variations together into a common classification.
-For example, "_Democracy_" is a means of electing people to manage a Society but there are many, many different ways that democracy has been implemented in different kinds of Society. 
+For example, "_Democracy_" is a means of electing people to manage a Society but there are many, many different ways that Democracy has been implemented in different kinds of Society. 
 
 Concepts also tend to evolve over time so that what the term meant when it was originally coined (in some cases centuries ago) is not necessarily what it means nowadays. "_Money_" is an example of this.
 
@@ -52,4 +53,8 @@ classDiagram
     OnDemandService --> InternalMarket
 ```
 These kind of Concept Map diagrams very quickly become unreadable as the number of terms and relationships between those terms increase. 
+
 Consequently, in order to break this down into easier to consume chunks, I'm taking a "**Domain Decomposition**" approach with separate sections for each "**General Term**" (or Domain) and defining significant variations pertinent to this work within each General Term section.
+
+In some cases, I'm also including some history of a term where I think it's important to explain how we get from the original definition to either the agreed present day definition or the specific definition that I'm using.
+This leads to a less formal but hopefully more understandable definition. 
