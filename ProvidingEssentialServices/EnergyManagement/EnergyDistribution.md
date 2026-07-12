@@ -6,39 +6,62 @@ nav_order: 3
 ---
 #   Energy Distribution Technologies
 
-## Ultra-High Voltage
+Energy distribution works on the same basic design principles as Telecommunications with massive "backbones" designed to move high volumes of energy over long distances with lower power direct connections that that deliver electricity directly to homes and businesses.
 
-China's grid transmission sector produced a physics result in 2024 that power engineers worldwide had classified as beyond near-term commercial feasibility — its ±1,100 kV Ultra High Voltage direct current transmission line from Xinjiang to Anhui demonstrated transmission losses of only 1.5% across 3,324 km, breaking the previous efficiency record for long-distance electricity transport by 28% and delivering the equivalent energy of 40 nuclear reactors to China's eastern seaboard with minimal loss.
-The 1.5% loss figure over 3,324 km is almost physically implausible by conventional transmission engineering expectations. Conventional 400 kV AC transmission loses approximately 8-10% per 1,000 km. The Changji-Guquan ±1,100 kV DC line — operating at the highest voltage level ever achieved in commercial power transmission — achieves its extraordinary efficiency through a combination of superconducting-adjacent technology: ultra-pure aluminium conductors with resistivity 40% lower than standard cable, vacuum-impregnated insulation systems operating at precise temperatures, and converter stations using AI-managed multilevel modular converters that minimise harmonic losses at the point of AC-DC conversion.
-The AI managing the converter station operations processes 600,000 switching events per second at each end of the line, optimising the multilevel modular converter switching sequences in real time to minimise harmonic content and conversion losses. Conventional converter stations lose 0.6% of transmitted power in conversion; the AI-optimised converters at Changji and Guquan lose 0.18% — a 70% improvement in conversion efficiency.
-The practical consequence: every percentage point of transmission efficiency improvement across China's 40 UHV lines saves the equivalent of several large power stations' annual output — electricity that would otherwise need to be generated.
-China built transmission lines so efficient they make generating more electricity unnecessary.
-Source: State Grid Corporation of China & IEEE Power and Energy Society, 2024
+In most countries Energy Distribution is a well established mature industry - in the UK it was first mandated in 1926 and officially completed in 1938 but many other European countries quickly followed in the 1940's.
 
-Someone may have misplaced a decimal point here. The line is presumably direct current, which is created from alternating current, and then switched back to A.C. at the destination. But that's at 60 cycles, not 600,000. And if it's doing that at multiple locations, then it's not 3,300 km. And this is impressive engineering, but it's not groundbreaking. Sounds like Communist Party of China talking points fed through unsupervised A.I.
+These were all "national grids" but following these successes some countries then began plugging them into each other
+- 1951 (The UCPTE): France, Germany, Italy, Austria, Belgium, Luxembourg, the Netherlands, and Switzerland officially interconnected their national grids. This created the Union for the Coordination of Production and Transport of Electricity, forming the foundation of today's Continental European Grid—the largest synchronous electrical network in the world.
+- 1963 (Nordel): The Scandinavian countries (Norway, Denmark, Finland, and [Sweden](https://www.google.com/search?kgmid=/m/0d0vqn)) successfully linked their national transmission systems to form a unified Nordic power block.
 
-China is still burning record quantities of coal. India is so short of power that it can't maintain grid frequency.
-Both rapidly transitioning.
-coal plants are temporary in China as utility scale batteries are being installed everywhere the main point high efficiency power lines are in the master energy plan all of which is rapidly being implemented.
-India does not have the free reign that a dictatorship has in implementation but it still is their energy policy frustrating that we gave them the edge in monetizing things we invented against our national interests.
+These are the "standard" High Voltage Grids suitable for distributing energy approximately 500km between producer and consumer. 
 
-China and India both adopted the Rocky Mountain Institutes reinventing fire energy plan as it’s national energy plan with less political concern China has rapidly implemented the entire plan.
-understanding eliminating the costs of energy to their economy they are rapidly transitioning away from carbon.
-no need to falsify any data the accomplishments are backed by best practices researched and implemented.
-The irony is the pentagon commissioned the plan big oil purchased the political process and blocked this massive transition to prosperity
+## Ultra-High Voltage (UHV) Distribution
 
+Electric currents lose power over distance which limits the distance between the electricity producer and the electricity consumer.
 
-Germany is executing a monumental upgrade of its electrical transmission infrastructure by constructing ultra-long underground high-voltage direct current transmission lines.
-As part of the national grid expansion strategy, electrical engineers are deploying massive subsurface cable systems designed to transmit gigawatts of power over hundreds of kilometers. These advanced transmission pathways are engineered specifically to transport clean energy generated by offshore wind farms in the north straight to heavy industrial manufacturing hubs in the south. By utilizing direct current instead of traditional alternating current, the system completely eliminates inductive line losses, ensuring maximum transmission efficiency over extreme distances.
-The physical construction of these subterranean links requires highly sophisticated cable engineering, utilizing copper conductors wrapped in layers of cross-linked polyethylene insulation to handle extreme voltages safely. Moving these critical pathways entirely underground protects the electrical infrastructure from severe weather events, high winds, and icing, minimizing unexpected grid disruptions. The compact design allows utility companies to lay the cables directly along existing transport corridors, minimizing environmental impact on surrounding agricultural lands and local ecosystems.
-To interface these direct current lines with the existing domestic grid, massive converter stations are installed at key transmission nodes nationwide. These high-tech facilities utilize advanced power electronics to seamlessly transform high-voltage direct current into stable alternating current for immediate consumer distribution. Germany’s strategic deployment of underground direct current transmission showcases a highly robust, realistic engineering solution for integrating massive amounts of remote renewable energy into an industrialized national network.
-Source: German Federal Network Agency 2026
+This is not particular significant for shorter distances between producer and consumer but is an issue for much larger land masses, such as China, Brazil and India where the distance between producer and consumer can be 1000's of kilometres even High Voltage distribution suffers a significant power loss.
+The core principle is the equation...
 
-## Wireless
+    Power(P) = Voltage(V) × Current(I)
 
-Since the first electrical grid was switched on, one physical rule has dictated the design of every city, home, and appliance. Power needs a wire. That requirement is why billions of tons of copper are buried under our streets and strung between wooden poles. Finland just proved that requirement is temporary. They have developed a wireless electricity system that beams power directly through the open air. No cords. No plugs. The receiving device draws voltage and current indistinguishable from a traditional wall outlet. This technology uses tightly controlled electromagnetic fields to entirely bypass the physical gap between generation and consumption. For over a century, the power plug has been the fundamental constraint of hardware design. Now, the vast copper networks that connect modern civilization are suddenly looking less like essential infrastructure and more like a relic of the past.
+where...
+- To transmit a fixed amount of electrical power (P), increasing the voltage (V) allows the electric current (I) to decrease.
+- Line losses (energy wasted as heat) are proportional to the square of the current (I²R).
 
-The concept of wireless power is not new. Nikola Tesla famously attempted it with his Wardenclyffe Tower over a century ago. The barrier has always been efficiency and safety at scale. What makes this Finnish breakthrough significant is the precision of the transmission.
-Early wireless power systems hemorrhaged energy into the surrounding environment, making them commercially unviable. This new approach relies on highly targeted electromagnetic fields, forming a directed connection rather than broadcasting power indiscriminately. The immediate applications are industrial. Think factory drones that never need to land to recharge or medical implants powered continuously from outside the body.
-The long-term reality is domestic. The architectural implications of removing wall outlets and internal copper wiring from building codes will completely rewrite urban construction and drastically lower material costs.
+Ultra-High Voltage (UHV) the power that is transmitted over immense distances with minimal energy loss.
+Formally, UHV is defined as systems operating at alternating current (AC) voltages of 1,000 kV (1 million volts) or higher, and direct current (DC) voltages of 800 kV or higher.
+
+This is significant fron the Sustainable Energy perspective because it means that mega-scale renewable energy built far away from populated areas become viable.
+
+## Wireless Power Transmission
+
+Since the first electrical grid was switched on, one physical rule has dictated the design of every city, home, and appliance. 
+Electricity needs a wire to connect an electrocal device to a power source. 
+That requirement is why billions of tons of copper are buried under our streets and strung between wooden poles and every house is wired up with multiple electric power sockets. 
+
+Wireless Power Transmission (WPT) is a technology that allows electrical energy to be transferred from a power source to an electrical load across an air gap without using physical wires or cables.
+The concept relies on a transmitter converting electricity into a time-varying electromagnetic field (or wave), which travels through space to be captured by a receiver and converted back into usable electrical current.
+
+WPT is split into two primary fields based on distance: Near-field (short-range) and Far-field (long-range).
+
+- Near-Field (Magnetic Coupling) sends energy over distances ranging from millimetres to a few centimetres.
+  - **Inductive Coupling**: Electricity passes through a transmitter coil, creating a localized magnetic field. When a receiver coil is placed nearby, the magnetic field induces an electric current in it. This is the basis of the Qi standard used globally.
+  - **Resonant Inductive Coupling**: Both coils are tuned to the exact same magnetic frequency. This allows energy to transfer more efficiently over slightly larger gaps (up to a couple of meters).
+- Far-Field (Power Beaming) beams energy over hundreds of meters or even kilometres, requiring a direct line of sight.
+  - **Microwave Power Beaming**: Electricity is converted into high-frequency microwaves, beamed via an antenna, and captured by a specialized receiving antenna called a rectenna. 
+  - **Laser Power Beaming**: High-intensity laser beams shoot light energy across vast distances to a photovoltaic receiver (similar to a solar panel), which converts the light back into electricity.
+
+WPT has evolved from low-power consumer tech to heavy industrial and energy grid pilots.
+
+|            |                                  |                                                                                                                                                                                                                                  |
+|------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Near-Field | Smartphone & Wearable Users      | Millions use inductive charging pads daily to power Apple, Samsung, and Google devices                                                                                                                                           |
+|            | Household Electronics            | Devices like electric toothbrushes and sleek kitchen appliances have used sealed, waterproof inductive charging bases for decades to eliminate electrocution risks in wet environments.                                          |
+|            | Implantable Medical Devices      | Advanced pacemakers, insulin pumps, and artificial hearts use WPT to recharge safely through human skin. This completely eliminates the need for wires exiting the body, preventing dangerous surgical infections.               |
+| Mid-Range  | Automated Guided Vehicles (AGVs) | Automated warehouse robots and forklifts pull up over wireless floor pads to top up their batteries dynamically. This eliminates wear-and-tear on physical plugs and avoids hazardous sparks.                                    |
+|            | Industrial Sensor Networks       | Tech hubs like Finland rely heavily on WPT to continuously power remote sensors in heavy machinery or sealed environments without needing regular battery replacements.                                                          |
+|            | Hands-Free EV Charging           | Pioneered by companies like WiTricity and integrated by major auto manufacturers, drivers park directly over a pad embedded in a garage floor or driveway to charge their car automatically.                                     |
+| Far-Field  | Terrestrial Grid Support         | National Grid in the UK launched active pilot studies to see if far-field microwave beaming can replace heavy cables to route emergency power during storms or link remote island renewable generators.                          |
+|            | Space-Based Solar Power (SBSP)   | Space organizations and companies like Space Solar are actively building systems intended to collect continuous, intense solar energy via satellites in orbit and beam it directly down to Earth grid stations using microwaves. |
 
