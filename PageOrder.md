@@ -6,14 +6,12 @@ It also provides quick navigation to a specific document.
    3. [Principles](Introduction/Principles.md)
       4. [Quick Good Cheap](Introduction/QuickGoodCheap.md)
 2. [Definition Of Terms](DefinitionOfTerms/DefinitionOfTermsOverview.md)
-   4. Political Concepts
+   4. [Political Concepts](DefinitionOfTerms/PoliticalConcepts.md)
       1. [What Is Society](DefinitionOfTerms/WhatISSociety.md)
       2. [What Is A Post Work Society](DefinitionOfTerms/WhatIsPostWorkSociety.md)
-      6. [What Is Government](DefinitionOfTerms/WhatIsGovernment.md)
-      8. What Is Taxation
-      9. [What Is Socialism](DefinitionOfTerms/WhatIsSocialism.md)
-      10. [What Is Libertarianism](DefinitionOfTerms/WhatIsLibertariansim.md)
-   3. Economics Concepts
+      3. [What Is Government](DefinitionOfTerms/WhatIsGovernment.md)
+      4. [What Is Libertarianism](DefinitionOfTerms/WhatIsLibertariansim.md)
+   3. [Economics Concepts](DefinitionOfTerms/EconomicsConcepts.md)
       1. [What Is An Economy](DefinitionOfTerms/WhatIsAnEconomy.md)
       2. [What Is A Market](DefinitionOfTerms/WhatIsAMarket.md)
       3. [What Is Money](DefinitionOfTerms/WhatIsMoney.md)
