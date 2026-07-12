@@ -1,7 +1,7 @@
 ---
 title: Internet Of Things 
 layout: default
-parent: Enabling Technologies
+parent: The Internet
 nav_order: 4
 ---
 #   Internet Of Things

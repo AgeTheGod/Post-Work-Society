@@ -23,7 +23,7 @@ As per the [Principles](/Introduction/Principles.md) laid out earlier, when deci
 It's a huge area so doing a deep-dive into each of them isn't really possible and so, in most cases, I've just summarized the technology capability and only provided additional information where the detail is particularly relevant.
 
 I've also tried to group the Technology together where there are multiple technologies that roughly solve the same problem. These are...
-- [Sustainable Energy Generation](../ProvidingEssentialServices/EnergyManagement/SustainableEnergyGeneration.md)
+- [Sustainable Energy Generation](../ProvidingEssentialServices/EnergyManagement/SustainableEnergy.md)
 - [Internet Communications](../ProvidingEssentialServices/Telecommunications/InternetCommunications.md)
 - [Artificial Intelligence](ArtificialIntelligence.md)
 - [Automation](AutomationAndRobotics.md)
@@ -41,7 +41,3 @@ Fortunately the Technology Hype Cycle isn't a concern for this project because w
 A secondary reason for this section is to highlight "**Human Ingenuity**".
 I've always found it fascinating how humans have been able to come up with all kinds of different technologies to solve all kinds of different problems.
 Collectively, as a species, we seem to be very good at it and we have a long history of continuous technological improvement.
-
-| [Go to Contents](../README.md) | [Previous (Trends in Society)](../Introduction/IntroductionSummary.md) | [Next (Reforming Society)](../ReformingSociety/ReformingSocietySummary.md) |
-|--------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-||                                                                        ||
