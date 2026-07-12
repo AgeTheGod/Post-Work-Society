@@ -46,7 +46,7 @@ It also provides quick navigation to a specific document.
       4. Housing
          5. [Smart Houses](ProvidingEssentialServices/Housing/SmartHouses.md)
       5. [Telecommunications](ProvidingEssentialServices/Telecommunications/InternetCommunications.md)
-      6. Healthcare
+      6. [Healthcare](ProvidingEssentialServices/Healthcare.md)
 5. [Reforming Society](ReformingSociety/ReformingSocietySummary.md)
    1. [Democratic Reform](ReformingSociety/DemocraticReform/DemocraticReformSummary.md)
       1. [What Is Democracy](ReformingSociety/DemocraticReform/WhatIsDemocracy.md)

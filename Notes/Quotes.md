@@ -27,4 +27,9 @@ One finds men and women of university education serving behind the counters in s
 
 Buckminster Fuller repeatedly presented the idea that future computerization and automation would obviate the individual’s need to ‘earn a living’ via employment. He believed that society would become wealthy enough to offer material support to each person. He thought this would occur within a decade of 1962.
 
+"_Illness is neither an indulgence for which people have to pay, nor an offence for which they should be penalised, but a misfortune the cost of which should be shared by the community._"
+: Thomas Marshall (although attributed to Nye Bevan), "Citizenship and Social Class" (1950)
+
+"_No society can legitimately call itself civilised if a sick person is denied medical aid because of lack of means._"
+: Nye Bevan, "In Place of Fear" (1952)
 
