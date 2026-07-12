@@ -34,8 +34,7 @@ It also provides quick navigation to a specific document.
    4. [Internet Of Things](EnablingTechnologies/InternetOfThings.md)
    5. [Interplanetary Mining](EnablingTechnologies/InterPlanetaryMining.md)
 4. [Providing Essential Services](ProvidingEssentialServices/ProvidingEssentialServicesSummary.md)
-   5. Survivability 
-      1. [Energy Management](ProvidingEssentialServices/EnergyManagement/SustainableEnergyGeneration.md)
+      1. [Energy Management](ProvidingEssentialServices/EnergyManagement/SustainableEnergy.md)
          1. [Energy Usage Analysis](ProvidingEssentialServices/EnergyManagement/EnergyUsageAnalysis.md)
          2. [Energy Generation](ProvidingEssentialServices/EnergyManagement/EnergyGeneration.md)
          3. [Energy Distribution](ProvidingEssentialServices/EnergyManagement/EnergyDistribution.md)
@@ -46,9 +45,8 @@ It also provides quick navigation to a specific document.
       3. Food Management
       4. Housing
          5. [Smart Houses](ProvidingEssentialServices/Housing/SmartHouses.md)
-   7. Quality of Life
-      1. [Telecommunications](ProvidingEssentialServices/Telecommunications/InternetCommunications.md)
-      2. Healthcare
+      5. [Telecommunications](ProvidingEssentialServices/Telecommunications/InternetCommunications.md)
+      6. Healthcare
 5. [Reforming Society](ReformingSociety/ReformingSocietySummary.md)
    1. [Democratic Reform](ReformingSociety/DemocraticReform/DemocraticReformSummary.md)
       1. [What Is Democracy](ReformingSociety/DemocraticReform/WhatIsDemocracy.md)
