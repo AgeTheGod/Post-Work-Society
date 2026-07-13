@@ -80,18 +80,30 @@ Pretty much all spacecraft, satellites, and space stations rely on solar panels 
 
 ## Wind Power
 
-Wind Power is another abundant and widely available source of renewable energy given that it's the natural by-product of changes in relative air density.
+Wind Power is another abundant and widely available source of renewable energy given that it's the natural by-product of changes in relative air density (that's the simplified technical explanation for "wind").
 
-Britain has officially become the first nation on earth to permanently generate more electricity from offshore wind than from natural gas, marking a monumental shift in global energy dynamics. This milestone is backed by a massive expansion in capacity, with the nation's total installed offshore wind capacity recently crossing the 15-gigawatt threshold. At the center of this achievement is the Dogger Bank Wind Farm, situated 130 kilometers off the Yorkshire coast, which now stands as the largest offshore wind installation on earth, capable of producing 3.6 gigawatts across three distinct phases. On peak days, these massive offshore turbines successfully supply over 40 percent of Britain's total national electricity demand from a single, renewable source.
+Wind Power, like Nuclear Power, is seen as a "baseline generator" because it is most efficient when "wind-farms" are built at large scale
+
+However, unlike Nuclear Power which is continuous energy, Wind Power  
+
+Britain has officially become the first nation on earth to permanently generate more electricity from offshore wind than from natural gas, marking a monumental shift in global energy dynamics. 
+This milestone is backed by a massive expansion in capacity, with the nation's total installed offshore wind capacity recently crossing the 15-gigawatt threshold. 
+At the center of this achievement is the Dogger Bank Wind Farm, situated 130 kilometers off the Yorkshire coast, which now stands as the largest offshore wind installation on earth, capable of producing 3.6 gigawatts across three distinct phases. 
+On peak days, these massive offshore turbines successfully supply over 40 percent of Britain's total national electricity demand from a single, renewable source.
+
 The economic realities of this transition reveal that fossil fuels are no longer the default choice for grid planners, as recent energy auctions secured offshore wind electricity at just 44 pounds per megawatt-hour. This rate makes offshore wind significantly cheaper than natural gas, cheaper than coal, and more cost-effective than any new nuclear project currently proposed anywhere in Europe. What makes this transition structurally irreversible is the pipeline of future projects, with the Crown Estate already approving an additional 30 gigawatts of offshore wind seabed leases for active development. Once fully constructed, this pipeline will allow Britain to generate more electricity from offshore wind alone than its entire current national grid requires.
-The North Sea wind resource produces annual capacity factors exceeding 50 percent, offering a massive, self-sustaining energy reserve that will never deplete with extraction. This geographic advantage provides a continuous supply of clean power over waters that the nation has exclusive access to develop. Ultimately, the country that once pioneered the industrial revolution using coal dug from the ground is successfully rewriting its future by building infrastructure to power itself and its neighbors entirely from the sea. This achievement sets a powerful precedent for coastal nations worldwide, proving that a fully renewable maritime grid is no longer a distant goal, but a present reality.
+
+The North Sea wind resource produces annual capacity factors exceeding 50 percent, offering a massive, self-sustaining energy reserve that will never deplete with extraction. 
+This geographic advantage provides a continuous supply of clean power over waters that the nation has exclusive access to develop. 
+Ultimately, the country that once pioneered the industrial revolution using coal dug from the ground is successfully rewriting its future by building infrastructure to power itself and its neighbors entirely from the sea. 
+This achievement sets a powerful precedent for coastal nations worldwide, proving that a fully renewable maritime grid is no longer a distant goal, but a present reality.
 
 ## Water Power
 
-We can split this into two types of water power...
-- Inland Water Power, primarily, hydroelectric power generating electricity from the kinetic energy of flowing water in rivers and dams.
-- Ocean Water Power, which includes wave power and tidal power.
-- Droplet Electricity Generation i.e. Electricity generated from rain
+We can split this into three types of water power...
+1. Inland Water Power, primarily, hydroelectric power generating electricity from the kinetic energy of flowing water in rivers and dams.
+2. Ocean Water Power, which includes wave power and tidal power.
+3. Droplet Electricity Generation i.e. Electricity generated from rainfall.
 
 ###    Hydro-Electric Power
 
@@ -99,11 +111,12 @@ Seems odd to include this here because the first practical hydroelectric generat
 
 However, its technology that really works and it is still being used today to generate electricity in many parts of the world and very efficient given the right geography.
 
-###    Tidal Power
+###    Ocean Water Power
 
-Salt water destroys machines. It rusts metal, seizes bearings, and fatigues blades.
-Every time we try to pull energy from the ocean, the ocean fights back and eventually wins.
-That is why tidal energy has always been more theory than reality because, over time, maintenance costs eventually swallow the profits.
+Until recently this was the least popular of the Sustainable Energy solutions simply because salt water destroys machines, rusts metal, seizes bearings, and fatigues blades. 
+Every time we try to pull energy from the ocean, the ocean fights back and eventually wins (this has always been a truism).
+
+That is why tidal energy has always been more theory than reality because, over time, maintenance costs eventually eventually make any kinf of Ocen Power uneconomical.
 
 However, engineers have now bypassed the problem by using **Magneto-Hydro-Dynamics** (MHD) to build a generator with zero moving parts that just sits in the ocean or river current and converts the water's kinetic force directly into electricity without a single piece of rotating machinery.
 
@@ -111,10 +124,12 @@ By using magnetic fields, the naturally conductive saltwater itself acts as the 
 
 In addition, because there is no mechanical turbine, marine life can pass safely near or through the generator without getting caught in spinning blades.
 
+So, given that the oceans are relentless and the ebb & flow of the tides never stops (because gravity never stops) large scale Ocean Water Power becomes a candidate for baseline energy generation in any country that has a significant coastline. 
+
 ###    Droplet Electricity Generation (DEG)
 
 This is an emerging technology for geographic areas that experience a lot of rainfall. 
-In The British Isles this would be Ireland and North-West of Britain and, world-wide, an awful lot South-East Asian and South American regions.
+In The British Isles this would be Ireland and North-West of Britain and, world-wide, an awful lot South-East Asian and the South American regions.
 
 Raindrops have a naturally stored surface charge the normally dissipates on contact with the ground. 
 The idea behind Droplet Electricity Generation is to capture this electric charge before it dissipates.
@@ -123,3 +138,17 @@ When a raindrop hits the specially coated panel, it bridges two electrodes which
 Earlier prototypes of this technology have existed since 2014 but the electricity capture was very inefficient. 
 However recent breakthroughs in materials Science have increased the efficiency by a factor of 1,000 making this a viable solution to snall-scale (e.g. residential) electricity generation.
 More details at [Science Direct](https://www.sciencedirect.com/science/article/pii/S2589004224005121)
+
+##  Geo-Thermal Power
+
+Geothermal power generation is the process of generating electricity by harvesting the natural heat stored beneath the Earth's surface. 
+This sustainable method utilizes hot water and steam from deep underground reservoirs to spin mechanical turbines, which drive electrical generators to produce low-carbon energy.
+
+Geo-Thermal Power, Like Ocean Water Power, runs on a continuous, sustainable loop...
+1. Extraction: Deep production wells are drilled down to 3,000 meters to access superheated underground fluids or steam.
+2. Turbine Rotation: The high-pressure steam rises to the surface and spins the blades of a massive turbine.
+3. Electricity Production: The spinning turbine activates a generator, creating electricity that is sent to the power grid.
+4. Injection: The used steam is cooled back into water and piped back into the earth via injection wells to safely replenish the reservoir.
+
+Traditionally, Geo-Thermal Power relied on access to Geo-Thermal Resources near to the surface such as they have in Iceland but recent developments in drilling technology, such as millimeter-wave drilling, allows much deeper drilling up to 10km.
+As a result this allows access to superhot energy (300--500°C) almost anywhere globally, removing geographic limitations.
