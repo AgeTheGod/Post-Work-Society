@@ -27,7 +27,7 @@ I've also tried to group the Technology together where there are multiple techno
 - [Internet Communications](../ProvidingEssentialServices/Telecommunications/InternetCommunications.md)
 - [Artificial Intelligence](ArtificialIntelligence.md)
 - [Automation](AutomationAndRobotics.md)
-- [Predictive Analytics](PredictiveAnalytics.md)
+- [Computerized Systems](ComputerizedSystems.md)
 - [Interplanetary Mining](InterPlanetaryMining.md)
 
 Of course, we have to be careful about the Gartner "Technology Hype Cycle"...

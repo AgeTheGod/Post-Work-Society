@@ -1,10 +1,16 @@
 ---
-title: Predictive Analytics 
+title: Computerized Systems
 layout: default
 parent: Enabling Technologies
 nav_order: 3
 ---
-#   Predictive Analytics
+#   Computerized Systems   
+
+This is really a catch-all bucket of ideas rather than a distinct technology. 
+
+Computerized Systems covers all kinds of software that uses computers to process data to carry out some activity.
+
+##   Predictive Analytics
 
 Predictive Analytics is the practice of using data, statistical algorithms and machine learning techniques to identify the likelihood of future demand based on historical data.
 It's basic premise is that historical supply & demand information can be used to make better decisions about future supply & demand requirements and hence produce a more efficient production process with less waste.
@@ -31,7 +37,7 @@ This also just happens to be the same problem we have with Artificial Intelligen
 
 ##  Event-Driven Processing
 
-It might seem odd to include a software pattern such as Event-Driven Processing in a section about Predictive Analytics but it is actually a key enabler for Predictive Analytics and hence a key enabler for a post-work society.
+It might seem odd to include a software design pattern such as Event-Driven Processing in a section about Predictive Analytics but it is actually a key enabler for Predictive Analytics and hence a key enabler for a post-work society.
 
 Event-Driven Processing is a software architecture pattern that is based on the idea of processing events as they occur rather than processing data in batches.
 This is particularly important in areas such as manufacturing and distribution where the ability to process data in real-time can lead to more efficient production and distribution processes.

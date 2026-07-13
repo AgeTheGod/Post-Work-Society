@@ -3,7 +3,7 @@ title: Home
 layout: home
 nav_order: 0
 ---
-#   Post Work Society
+#   Towards a Post Work Society
 
 It's no secret that there is a lot of unhappiness in the world and it appears that it's the same set of factors that are driving unhappiness in every nation where people have expressed an opinion.
 These include...

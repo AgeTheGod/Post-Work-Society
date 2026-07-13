@@ -30,7 +30,7 @@ It also provides quick navigation to a specific document.
 4. [Enabling Technologies](EnablingTechnologies/EnablingTechnologiesSummary.md)
    1. [Artificial Intelligence](EnablingTechnologies/ArtificialIntelligence.md)
    2. [Automation](EnablingTechnologies/AutomationAndRobotics.md)
-   3. [Predictive Analytics](EnablingTechnologies/PredictiveAnalytics.md)
+   3. [Predictive Analytics](EnablingTechnologies/ComputerizedSystems.md)
    5. [Interplanetary Mining](EnablingTechnologies/InterPlanetaryMining.md)
    6. [Telecommunications](EnablingTechnologies/TheInternet.md)
       4. [Internet Of Things](EnablingTechnologies/InternetOfThings.md)
@@ -64,16 +64,17 @@ It also provides quick navigation to a specific document.
       4. Tax Reforms
          1. [Abolishing Generational Wealth](ReformingSociety/EconomicReform/GenerationalWealth.md)
          2. Abolishing Wealth Hoarding
-         3. Removing Tax Exemptions
+         3. Removing Accounting Loopholes
    3. [Social Reform](ReformingSociety/SocialReform/SocialReformSummary.md)
 6. [Getting There](GettingThere/GettingThereSummary.md)
-   1. A National Plan
-   2. Ring Fenced Taxation
+   1. [A National Plan]
+   2. [Ring Fenced Taxation]
    3. [Timeline](GettingThere/GettingThereTimeline.md)
    2. [Funding The Transition](GettingThere/FundingTheTransition.md)
    3. [Measuring Success](GettingThere/MeasuringSuccess.md)
 7. [Further Implications](FurtherImplications/FurtherImplicationsSummary.md)
-   8. Crimes Against Society
+   1. What will People Do? 
+   2. Crimes Against Society
 8. [Appendices](Appendices/AppendicesSummary.md)
    1. [Wikipedia Knowledge Articles](Appendices/WikipediaKnowledgeArticles.md)
    2. [Data Sources](Appendices/DataSources.md)
@@ -82,5 +83,6 @@ It also provides quick navigation to a specific document.
       1. Analysis of Debt
       2. Distribution of Resources
       3. Distribution of Wealth
+      4. [Water Pollution](Analysis/WaterPollution.md)
    5. [Using Artificial Intelligence](Appendices/UsingArtificialIntelligence.md)
 
