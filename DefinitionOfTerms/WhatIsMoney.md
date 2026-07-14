@@ -16,35 +16,24 @@ To the vast majority of people **_Money is the means by which things are paid fo
 - Standard of Deferred Payment
 - A reference point for Prices
 
-Money is a social and economic institution that serves as a universally accepted medium of exchange, a unit of account, and a store of value. 
-It enables individuals and organizations to trade goods and services without the inefficiencies of barter, to measure and compare the value of diverse items, and to transfer purchasing power across time and space. 
-Beyond these core functions, money also plays important roles in credit creation, financial intermediation, and public policy: it is the reference point for prices, wages, contracts, taxes, and accounting, and it influences incentives, distributional outcomes, and macroeconomic dynamics.
+Updat"What Is Money?" is also the title of the first chapter of Karl Marx's "Das Kapital" which is well worth reading on its own (reading the other 2,000 pages is really only for the die-hards). 
+That's where he defines the forms, purpose and function of Money mentioned above.
+Even saying that it's worth bearing in mind that he was writing it around 1850 in the days when all Money, as a Promissory Note, had real value because it was based on ownership of precious commodities such as Gold. 
+A Currency Issuer could only issue Money up to the value of the Gold that they had in reserve (the Gold Reserve) and, in theory at least, a Person could take their Money to the National Reserve Bank (Bank of England in the UK) and ask for it to be exchanged into the equivalent amount of Gold.
 
-So that's the basic overview of "What Is Money?" but by no means the full story.
-
-In terms of a modern society the key points are...
-
-- Given that Money is no longer backed by Physical Commodities then how much Money exists in a given Society is as much a Political decision (made by Governments) as it is an Economic decision.
-- Money’s effectiveness depends on trust: trust in the issuer, the payment system, and the currency’s purchasing power. Hyperinflation, currency collapses, and banking panics illustrate what happens when trust evaporates. Stability is therefore a primary objective of monetary policy. Central banks use interest rates, open-market operations, and communication strategies to anchor expectations; macroprudential regulation and deposit insurance aim to preserve financial system confidence.
-
-## The Evolution of Modern Money
-
-The money used in a monetary economy has evolved through three major stages:
-
+However, since then Money has changed significantly and evolved through three major stages:
 - Commodity Money: Early money that had actual value on its own, such as gold coins, silver, salt, or seashells.
-- Promisory Notes
+- Promissory Notes
 - Fiat Money: The cash we use today (like Pounds, Dollars, or Euros). It has no intrinsic value and is not backed by gold. It has value simply because the government declares it as legal tender and citizens trust it.
 - Digital Money: Modern electronic currency, including credit cards, banking apps, and digital wallets, which allow money to move without physical cash ever changing hands.
 
-##  Money creation and governance
+Today virtually all the Money is Digital Fiat Money that exists solely as an entry in some computerised ledger somewhere with designated Money Issuers (mostly Banks) allowed to create more Money simply by by adding some desired amount to that ledger.
+For example...
+- That's what happened with "**Quantitative Easing**" during the 2008 Economic Crash when many central bank world-wide decided to increase the available money supply by Trillions (pick your currency of choice) and distribute it into the markets.
+- On a smaller scale it's also what Banks do when they extend credit to a borrower such as lend money for a Mortgage. The Money created to fund the Debt is another number in a ledger but doesn't actually exist physically.
+- It's also the reason why the value of the Financial Markets can vastly exceed the wealth of a Nation and keep growing even though no more Money is actually in circulation.
 
-Money is created and governed by several actors and mechanisms.
-
-Central banks issue base money (currency and reserves) and manage monetary policy, aiming to preserve price stability and support macroeconomic goals.
-
-Commercial banks create deposit money through lending within regulatory constraints (capital, liquidity, reserve requirements).
-
-Governments set legal frameworks—defining legal tender, tax obligations, and financial regulation—and their fiscal policies (taxing and spending) interact with monetary institutions. International arrangements (exchange rate regimes, cross-border capital flows) further shape monetary governance in an integrated global system.
+This aspect of Fiat Money is critical to understand because it becomes very important later one when we consider subjects like [how society funds itself](/ReformingSociety/EconomicReform/FundingPublicServices.md) and [Universal Basic Income](/ReformingSociety/EconomicReform/GuaranteedMinimumIncome.md).
 
 ##  Functions of Money
 
@@ -70,7 +59,7 @@ A reliable store of value preserves purchasing power over time.
 Money serves as the standard in which credit contracts and debts are denominated.
 By standardizing deferred payments, money supports lending, investment, and broader financial intermediation.
 
-##  Types of Money
+##  The Evolution of Money
 
 Money has evolved over many centuries and take many different forms in that time. These are the types of Money that are still is use today...
 
@@ -83,14 +72,17 @@ However, commodity money constrained monetary supply to the physical availabilit
 
 The main use of Commodity Money nowadays is in Commodity Trading. It's still Ok to pay for something with, for example, Gold Bullion which then gets trundled from one Gold Reserve to another Gold Reserve in some vault somewhere. This kind of Money has an Owner not an Issuer.
 
-### Representative Money / Promisory Notes
+### Representative Money / Promissory Notes
 
-Representative Money was the second stage in the evolution of Money with the emergemce of "**Promisory Notes**". 
+Representative Money was the second stage in the evolution of Money with the emergence of "**Promissory Notes**" first issued in the 17th Century by London Goldsmiths and formalized when the Bank of England (the worlds first Central Bank) was set up in 1694. 
 
-It moved Physical Money away from being the actual commodity to being a claim on the commodity with a promise the the Representative Money could be redeemed or exchanged for a specified quantity of the underlying Commodity (usually Gold).
-The so called Gold Standard dominated much of the 19th and early 20th centuries.
+This moved moved Physical Money away from being the actual commodity being exchanged to being a claim on the commodity with a promise that the Representative Money could be redeemed or exchanged for a specified quantity of the underlying Commodity (usually Gold).
+A Promissory Note simply contained a promise such as "_I promise to pay the bearer the sum of ... in Gold_" printed on them.
 
-This arrangement separated day-to-day transactions from physical commodity transfers while maintaining confidence through convertibility. 
+This of course led to the so-called Gold Standard that dominated much of the 19th and early 20th centuries and "_Bank Notes_" i.e. Promissory Notes issued by a Central Bank established for that purpose. 
+Privately issued Promissory Notes were still being issued (mostly by Merchant Banks) into the 20th Century but they did not have the same legal standard as a Bank Note and mostly backed by the reputation of the issuing Merchant Bank.  
+
+This arrangement separated day-to-day transactions from physical commodity transfers (nobody had to carry heavy bags of Gold around any longer) while maintaining confidence through convertibility.
 
 ### Fiat Money
 
@@ -98,20 +90,35 @@ This we can think of as the third stage in the evolution of Money and pretty muc
 
 Fiat Money is Money that is not redeemable by a physical commodity but instead backed by the legal authority of the issuing state and, essentially, based on credible monetary policy, and enforceable legal tender laws.
 
-Normally the State designates a Central Bank to controls the supply of Fiat Money (i.e. defines how much Money is in circulation) and use policy tools to influence inflation, employment, and financial stability. 
-Confidence in fiat money rests on stable institutions, credible monetary policy, and enforceable legal tender laws.
+Because there are no underlying Commodities (other than the inherent "_Wealth of Nations_") supporting Fiat Money the confidence in the value of Fiat Money rests on perceived stability and trust in the Issuing Society and enforceable legal tender laws.
 
-### Bank Deposit Backed Money
+As a result the Issuing Society usually designates a Central Bank to controls the supply of Fiat Money (i.e. the Central Bank defines how much Money is in circulation) which uses policy tools to influence inflation, employment, and financial stability.
 
-A large share of modern economies’ money supply exists as bank deposits—claims on banks that are used for payments via checks, cards, and electronic transfers. 
+This is a critical point about Fiat Money - its value is entirely dependent on trust in the Issuing Society. 
 
-Banks create money through lending: when a bank extends a loan, it credits the borrower’s deposit account, expanding deposit balances and increasing effective purchasing power. Central bank reserves, regulatory frameworks, and payment systems together govern the interaction between bank money and central bank-issued currency.
+#### Bank Deposit Backed Money
 
-### Digital and Electronic Money
+Bank Deposit Backed Money is a kind of Fiat Money and a large share of the modern money supply exists as Bank Deposits i.e. claims on banks that are used for payments via checks, cards, and electronic transfers. 
 
-Electronic Money is Money that only exists in some computerized ledger. They include...
-- Central Bank Digital Currencies (CBDCs) are state-issued digital liabilities 
-- stablecoins aim to maintain stable value via collateral or algorithmic mechanisms 
-- cryptocurrencies like Bitcoin are decentralized, cryptographically secured units with varying degrees of scarcity and volatility. 
+This is very technical subject but essentially Banks create money through lending. When a bank extends a loan, it credits the borrower’s deposit account, expanding deposit balances and increasing effective purchasing power. 
+
+How much Money a Bank is allowed to create is usually based on the value of the Bank Deposits but, crucially, is usually some multiple of that value known as the Bank Capitalization Ratio. 
+For example, in the UK a Bank Capitalization Ratio must be at least 14% which means that for every £14 it has in Bank Deposits it can create £100 for Lending i.e. each £1 potentially lend £7.14 hence adding £6.14 to the available Money supply.
+
+However, if the Bank Capitalization Ratio changes then the potential available Money supply also changes e.g. lower the Bank Capitalization to 10% and each £1 now potentially lend £10 adding £9 to the available Money supply.
+
+### Digital Money
+
+Digital Money, which is *not* the same as Electronic Money, is Money that only exists in some computerized ledger somewhere and has no legal standing in any given Society. 
+It currently includes...
+- Stablecoins designed to maintain stable value via collateral or algorithmic mechanisms 
+- Cryptocurrencies like Bitcoin that are decentralized, cryptographically secured units with varying degrees of scarcity and volatility. 
 
 These innovations raise questions about privacy, financial inclusion, payment efficiency, regulatory jurisdiction, and monetary sovereignty.
+
+To be honest, I really am against the idea of Digital Currency because they are also in general a "**_Socially Useless Technology_**" though the underlying "Block Chain" technology may have its uses in very large value money transfers i.e. when transferring Billions between ledgers across the Internet.
+For smaller day-to-day financial activity it's difficult to see any value in Digital Money and currently it's pretty much a Speculators Market (and I really dislike those).
+
+The exception to this is the emerging Central Bank Digital Currencies (CBDCs) which are state-issued digital liabilities
+
+
