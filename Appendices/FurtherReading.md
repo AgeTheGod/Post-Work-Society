@@ -10,12 +10,16 @@ nav_order: 3
 
 That's a quote from US Senator Daniel Patrick Moynihan and this distinction between subjective perspectives and objective reality is also the reason why I separated these links into their own section instead of including them in with the [Reference](WikipediaKnowledgeArticles.md) section.
 
-This work presents a lot of ideas many of which have variations proposed by other groups and people, in some cases decades ago and in many cases it's worth reading what other groups are saying about some particular subject in order to make up your own mind where you stand on that subject. 
+"Towards a Post Work Society" presents a lot of ideas that had been bubbling around in my head for years. 
+However whilst writing all this I naturally did a lot of digging around and discovered many of those ideas have multiple variations proposed by other groups and people, in some cases decades ago and 
 
-Everything referenced in this section is subjective (no matter how much back-up data is presented with the opinion) and in many cases an opinion expressed in one link may contradict an opinion expressed in another link.
+This resulted in me doing a lot of (mostly surface) reading and some of the things I read were more interesting than other things ("is it interesting?" is the very subjective opinion part) and it's the "_more interesting_" ones that I'm referencing here.   
+
+Everything referenced in this section is someone else's subjective opinion (no matter how much back-up data is presented with the opinion) and in many cases an opinion expressed in one link may contradict an opinion expressed in another link.
 This is OK and as it should be because adhering to "_one true opinion_" leads to dogma and righteousness i.e. "_I'm right because I'm right and if you don't agree with me then you must be wrong_".
 
-It is by no means an exhaustive list of everything I've read over the years because some books I would not voluntarily inflict on other people e.g. I've got all 3 volumes of "_Das Kapital_" (Karl Marx) and that's a very painful read. Equally "_The Wealth of Nations_" (Adam Smith) is 200+ years old and the desity of the language used reflects that.
+It is by no means an exhaustive list of everything I've read over the years because some books I would not voluntarily inflict on other people e.g. I've got all 3 volumes of "_Das Kapital_" (Karl Marx) and that's a very painful read. 
+Equally "_The Wealth of Nations_" (Adam Smith) is 200+ years old and the density of the language used reflects that.
 
 So, whether I agree or disagree with any of these opinions is irrelevant (and I'm not saying anything one way or the other) - I'm including them because they are interesting.
 
@@ -29,6 +33,7 @@ So, whether I agree or disagree with any of these opinions is irrelevant (and I'
 | [uni degree not worth it](https://www.bbc.co.uk/news/articles/c2e29gk73rjo)                                                  | BBC            ||
 |[Fixing Capitalism will not fix America](https://mintzberg.org/blog/fixing-capitalism)| Henry Minzberg |
 
+https://evonomics.com/less-work-job-creation-peter-gray/
 https://www.thelondoneconomic.com/business-economics/economists-publish-mathematical-proof-that-ai-will-destroy-the-economy-405731/
 https://davidgraeber.org/articles/are-you-an-anarchist-the-answer-maysurprise-you/
 https://aabaglobal.org.uk/Labour%20manifesto%202019%20-costings.pdf
@@ -39,10 +44,11 @@ There are surprisingly few people who are actively contributing literature into 
 These are the people that I think are key contributors and their key book (which I'd suggest reading at least a summary of). 
 Unfortunately not all of them have on-line links.
 
-I'd also be the first to admit that I do not always read a non-fiction book in its entirety. With books like these I tend to dip in and out of based on whether the tit;e of a given chapter interests me or not.
+I'd also be the first to admit that I do not always read a non-fiction book in its entirety. 
+With books like these I tend to dip in and out of based on whether the title of a given chapter interests me or not (hint: write good chapter headings and a well-structured content page).
 I know that's a bad habit and likely means that I'll miss some significant details somewhere but that's just the way I am.
 
-I like to piece things together rather than start at the beginning and finish at the end so I might only have read a couple of chapters in each of these books but if that's what I did then they were chapters worth reading.
+I like to piece things together rather than start at the beginning and finish at the end (linear thinking) so I might only have read a couple of chapters in each of these books but if that's what I did then they were chapters worth reading.
 
 | Contributor                                                         | Key Book                                                                                                            | Core Concept                 |
 |---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|:-----------------------------|
@@ -54,9 +60,13 @@ I like to piece things together rather than start at the beginning and finish at
 
 ##  Groups and People
 
+There are Political Groups and Pressure Groups and Campaign Groups for just about any subject you can imagine and some of them are better than others.
+The better ones are the ones 
 | Link                                                                              | Summary |
 |-----------------------------------------------------------------------------------|---------|
 | [Electoral Reform Society](https://electoral-reform.org.uk/)                      |         |
 | [Tax Policy Associates](https://taxpolicy.org.uk/)                                |         |
 | [Institute for Democracy and Electoral Assistance](https://www.idea.int/about-us) |         |
 | [Basic Income Earth Network](https://basicincome.org/)                            |         |
+| [Tax Justice Network](https://taxjustice.net/)                                    |         |
+|||

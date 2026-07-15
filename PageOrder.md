@@ -56,24 +56,26 @@ It also provides quick navigation to a specific document.
       4. [Direct Democracy](ReformingSociety/DemocraticReform/DirectDemocracy.md)
       5. [Electronic Voting](ReformingSociety/DemocraticReform/ElectronicVoting.md)
       6. [National Voter Registry](ReformingSociety/DemocraticReform/NationalVoterRegistry.md)
+      7. [Blocking Government Overreach](ReformingSociety/DemocraticReform/BlockingOverreach.md)
    2. [Economic Reform](ReformingSociety/EconomicReform/EconomicReformSummary.md)
       1. [Social Economics](ReformingSociety/EconomicReform/SocialEconomics.md)
       2. [State Owned Enterprises](ReformingSociety/EconomicReform/StateOwnedEnterprises.md)
       2. [Guaranteed Minimum Income](ReformingSociety/EconomicReform/GuaranteedMinimumIncome.md)
-      3. Ring Fenced Taxation
-      4. Tax Reforms
-         1. [Abolishing Generational Wealth](ReformingSociety/EconomicReform/GenerationalWealth.md)
-         2. Abolishing Wealth Hoarding
-         3. Removing Accounting Loopholes
+      4. [Tax Reforms](ReformingSociety/EconomicReform/TaxReforms.md)
+         1. [Ring Fenced Taxation](ReformingSociety/EconomicReform/RingFencedTaxation.md)
+         2. [Abolishing Generational Wealth](ReformingSociety/EconomicReform/GenerationalWealth.md)
+         3. [Abolishing Wealth Hoarding](ReformingSociety/EconomicReform/WealthHoarding.md)
+         4. [Removing Corporate Accounting Loopholes](ReformingSociety/EconomicReform/AccountingLoopholes.md)
    3. [Social Reform](ReformingSociety/SocialReform/SocialReformSummary.md)
 6. [Getting There](GettingThere/GettingThereSummary.md)
-   1. [A National Plan]
-   2. [Ring Fenced Taxation]
-   3. [Timeline](GettingThere/GettingThereTimeline.md)
-   2. [Funding The Transition](GettingThere/FundingTheTransition.md)
-   3. [Measuring Success](GettingThere/MeasuringSuccess.md)
-7. [Further Implications](FurtherImplications/FurtherImplicationsSummary.md)
-   1. What will People Do? 
+   1. [A National Plan](GettingThere/NationalPlan.md)
+   2. [Timeline](GettingThere/GettingThereTimeline.md)
+   3. [Funding The Transition](GettingThere/FundingTheTransition.md)
+   4. [Measuring Success](GettingThere/MeasuringSuccess.md)
+7. [Further Implications](FurtherImplications/FurtherImplications.md)
+   1. [If Not This Then What](FurtherImplications/IfNotThis.md)
+   2. [Global Closed Society](FurtherImplications/GlobalClosedSociety.md)
+   2. Geo-Political Implications
    2. Crimes Against Society
 8. [Appendices](Appendices/AppendicesSummary.md)
    1. [Wikipedia Knowledge Articles](Appendices/WikipediaKnowledgeArticles.md)
