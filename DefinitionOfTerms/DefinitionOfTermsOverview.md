@@ -5,11 +5,10 @@ nav_order: 2
 ---
 ##  Definition Of Terms 
 
-"_It's possible to be both clear and pecoise, just not at the same time_"
-: Niels Bohr
-
-"Everything is vague to a degree you do not realize till you have tried to make it precise."
-: Bertrand Russell
+|                                                                                              |                  |
+|----------------------------------------------------------------------------------------------|------------------|
+| "_It's possible to be both clear and precise, just not at the same time_"                    | Niels Bohr       |
+| "_Everything is vague to a degree you do not realize till you have tried to make it precise._" | Bertrand Russell |
 
 The points of the quotes being that...
 - Everyday words and ideas seem clear to us only because we use them loosely.
