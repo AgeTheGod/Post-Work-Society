@@ -5,9 +5,21 @@ nav_order: 2
 ---
 ##  Definition Of Terms 
 
+"_It's possible to be both clear and pecoise, just not at the same time_"
+: Niels Bohr
+
+"Everything is vague to a degree you do not realize till you have tried to make it precise."
+: Bertrand Russell
+
+The points of the quotes being that...
+- Everyday words and ideas seem clear to us only because we use them loosely.
+- The moment you try to define a concept or a word with absolute scientific precision, you realize how fuzzy and "vague" the boundaries of human thought actually are.
+
+Bth of these points are worth bearing in mind when reading this "Definition of Terms" section.
+
 Throughout this work there are a number of fundamental concepts, such as "_Society_"; "_Economy_", "_Technology_" that are repeatedly used but whose meanings may not be clear.
 
-Unfortunately, what a word means is generally depends on the context in which the word is being used. 
+Unfortunately, what a word means is generally dependent on the context in which the word is being used. 
 So, calling these "Definitions of Terms" is really a bit of a misnomer because they are really explanations about what I personally think a word means and how I'm using it.
 
 In most cases this is because the term is an "_umbrella term_" with no single universally agreed definition that is generally used to group specific variations together into a common classification.
