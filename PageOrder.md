@@ -43,7 +43,8 @@ It also provides quick navigation to a specific document.
          5. [Delivering Energy Generation Capacity](ProvidingEssentialServices/EnergyManagement/DeliveringEnergyGenerationCapacity.md)
          6. [Funding Energy Generation](ProvidingEssentialServices/EnergyManagement/FundingEnergyManagement.md)
       2. [Water Management](ProvidingEssentialServices/WaterManagement/WaterManagement.md)
-      3. Food Management
+      3. [Food Management](ProvidingEssentialServices/FoodManagement/FoodManagement.md)
+         1. [Problems With Food Production](ProvidingEssentialServices/FoodManagement/ProblemsWithFoodProduction.md)
       4. Housing
          5. [Smart Houses](ProvidingEssentialServices/Housing/SmartHouses.md)
       5. [Telecommunications](ProvidingEssentialServices/Telecommunications/InternetCommunications.md)

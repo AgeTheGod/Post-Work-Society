@@ -13,4 +13,7 @@ nav_order: 6
 : Nye Bevan, "In Place of Fear" (1952)
 
 I think these two statements epitomise the entire rationale for why "**Healthcare**" should be considered an essential service in any modern society.
-We can have arguments over exactly what Healthcare is i.e. what does it covered and, equally important, what does it not cover but some kind of Healthcare provision is mandatory.
+
+However, even if everyone agrees with the necessity of Healthcare there are still the arguments over exactly what Healthcare is i.e. what does it covered and, equally important, what does it not cover?
+
+
