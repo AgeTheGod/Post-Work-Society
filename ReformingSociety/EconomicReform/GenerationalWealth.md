@@ -1,7 +1,7 @@
 ---
 title: Generational Wealth Reforms 
 layout: default
-parent: Economic Reform
+parent: Tax Reforms
 nav_order: 2
 ---
 #  Generational Wealth Reform
