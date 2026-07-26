@@ -13,6 +13,7 @@ It also provides quick navigation to a specific document.
       4. [What Is Libertarianism](DefinitionOfTerms/WhatIsLibertariansim.md)
    3. [Economics Concepts](DefinitionOfTerms/EconomicsConcepts.md)
       1. [What Is An Economy](DefinitionOfTerms/WhatIsAnEconomy.md)
+      2. [Types of Economic Systems](DefinitionOfTerms/TypesOfEconomicSystems.md)
       2. [What Is A Market](DefinitionOfTerms/WhatIsAMarket.md)
       3. [What Is Money](DefinitionOfTerms/WhatIsMoney.md)
       4. [What Is Wealth](DefinitionOfTerms/WhatIsWealth.md)
@@ -21,6 +22,7 @@ It also provides quick navigation to a specific document.
          2. [What Is Capitalism](DefinitionOfTerms/WhatIsCapitalism.md)
             1. [Types of Capitalism](DefinitionOfTerms/TypesOfCapitalism.md)
          3. [What Is Socialism](DefinitionOfTerms/WhatIsSocialism.md)
+      6. [What Is Work](DefinitionOfTerms/WhatIsWork.md) 
 2. [Trends In Society](TrendsInSociety/TrendsInSociety.md)
     1. [Happiness Trends](TrendsInSociety/HappinessTrends.md)
     2. [Employment Trends](TrendsInSociety/EmploymentTrends.md)
@@ -64,20 +66,22 @@ It also provides quick navigation to a specific document.
       2. [Guaranteed Minimum Income](ReformingSociety/EconomicReform/GuaranteedMinimumIncome.md)
       4. [Tax Reforms](ReformingSociety/EconomicReform/TaxReforms.md)
          1. [Ring Fenced Taxation](ReformingSociety/EconomicReform/RingFencedTaxation.md)
-         2. [Abolishing Generational Wealth](ReformingSociety/EconomicReform/GenerationalWealth.md)
-         3. [Abolishing Wealth Hoarding](ReformingSociety/EconomicReform/WealthHoarding.md)
+         2. [Reducing Generational Wealth](ReformingSociety/EconomicReform/GenerationalWealth.md)
+         3. [Reducing Wealth Hoarding](ReformingSociety/EconomicReform/WealthHoarding.md)
          4. [Removing Corporate Accounting Loopholes](ReformingSociety/EconomicReform/AccountingLoopholes.md)
    3. [Social Reform](ReformingSociety/SocialReform/SocialReformSummary.md)
-6. [Getting There](GettingThere/GettingThereSummary.md)
+6. [Getting There](GettingThere/GettingThere.md)
    1. [A National Plan](GettingThere/NationalPlan.md)
    2. [Timeline](GettingThere/GettingThereTimeline.md)
    3. [Funding The Transition](GettingThere/FundingTheTransition.md)
    4. [Measuring Success](GettingThere/MeasuringSuccess.md)
-7. [Further Implications](FurtherImplications/FurtherImplications.md)
-   1. [If Not This Then What](FurtherImplications/IfNotThis.md)
-   2. [Global Closed Society](FurtherImplications/GlobalClosedSociety.md)
-   2. Geo-Political Implications
+7. [Further Thoughts](FurtherThoughts/FurtherThoughts.md)
+   1. [If Not This Then What](FurtherThoughts/IfNotThis.md)
+   2. [Global Closed Society](FurtherThoughts/GlobalClosedSociety.md)
+   2. Geo-Political Issues
    2. Crimes Against Society
+   3. [Prioritizing People](FurtherThoughts/PrioritizingPeople.md)
+   4. [Books of Knowledge]
 8. [Appendices](Appendices/AppendicesSummary.md)
    1. [Wikipedia Knowledge Articles](Appendices/WikipediaKnowledgeArticles.md)
    2. [Data Sources](Appendices/DataSources.md)
@@ -86,6 +90,9 @@ It also provides quick navigation to a specific document.
       1. Analysis of Debt
       2. Distribution of Resources
       3. Distribution of Wealth
-      4. [Water Pollution](Analysis/WaterPollution.md)
-   5. [Using Artificial Intelligence](Appendices/UsingArtificialIntelligence.md)
+      4. [Water Pollution](Appendices/Analysis/WaterPollution.md)
+      5. [Energy Research]
+         6. [Energy Consumption](Appendices/Analysis/EnergyConsumption.md)
+         7. [Geo-Thermal Energy](Appendices/Analysis/GeoThermalEnergy.md)
+   5. [Using Artificial Intelligence](Appendices/AIExampleConversations.md)
 
