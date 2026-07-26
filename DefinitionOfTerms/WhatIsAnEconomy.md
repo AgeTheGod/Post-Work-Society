@@ -21,11 +21,11 @@ Every time any anyone receives an income, buys groceries, or pays taxes, they ar
 
 Different Societies choose different ways to manage their resources. Most economic systems fall into one of three buckets:
 
-| Economy Type | How It Works | Real-World Example |
-|---|---|---|
-| Market Economy | Driven entirely by supply and demand. Businesses and consumers freely decide what to buy and sell without government rules. | No country is purely a free market, but the US Economy leans heavily this way. |
-| Command Economy | Controlled completely by the government. The state owns the businesses and decides prices, wages, and production amounts. | North Korea or Cuba. |
-| Mixed Economy | A blend of both systems. Private businesses run most industries, but the government steps in to regulate things, collect taxes, and provide public services. | Most modern countries, including the UK and most of Europe. |
+| Economy Type    | How It Works                                                                                                                                                 | Real-World Example                                                             |
+|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| Market Economy  | Driven entirely by supply and demand. Businesses and consumers freely decide what to buy and sell without government rules.                                  | No country is purely a free market, but the US Economy leans heavily this way. |
+| Command Economy | Controlled completely by the government. The state owns the businesses and decides prices, wages, and production amounts.                                    | North Korea or Cuba.                                                           |
+| Mixed Economy   | A blend of both systems. Private businesses run most industries, but the government steps in to regulate things, collect taxes, and provide public services. | Most modern countries, including the UK and most of Europe.                    |
 
 A Mixed Economy is an Economy that blends both systems to some degree. In a Mixed Economy some Markets may be highly regulated than other Markets
 
@@ -71,3 +71,6 @@ However, whilst we do not have Barter Economies there are still Barter Markets w
 - Informal Trading: Friends trading a video game for a book, or a web designer building a website for a mechanic in exchange for car repairs.
 - Corporate Bartering: Large companies sometimes trade excess inventory or advertising space with each other to save cash.
 - Economic Crises: When a country's official money loses its value entirely due to extreme inflation citizens temporarily resort to bartering for food and medicine.
+
+### Non-Monetary Economies
+
