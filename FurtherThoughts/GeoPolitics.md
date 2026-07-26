@@ -1,7 +1,7 @@
 ---
 title: Geo-Political Implications
 layout: default
-parent: Further Implications
+parent: Further Thoughts
 nav_order: 2
 ---
 #   Geo-Political Implications
