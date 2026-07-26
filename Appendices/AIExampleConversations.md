@@ -4,18 +4,11 @@ layout: default
 parent: Appendices
 nav_order: 5
 ---
-#   Using Artificial Intelligence
+#  Example Conversations and Prompts
 
-As outlined in the Enabling Technology section I am a firm believer that [Artificial Intelligence](/EnablingTechnologies/ArtificialIntelligence.md) is one of the most significant technology developments of the past few decades.
+##  The "Distribution of Wealth"
 
-"**Retrieval Augmented Generation Artificial Intelligence**" (RAG-AI) in particular is very useful in exploring complex topics and producing analysis of trends.
-I've used RAG-AI, particularly Google-AI, extensively in the production of this work.
-
-##    How to use Generative Artificial Intelligence
-
-##  Example Conversations and Prompts
-
-For the analysis of Wealth the prompts I used were...
+The prompts used were...
 
     What is the total wealth and total debt of the UK, EU and US?
     ...Also include corporate and personal debt estimates
@@ -27,9 +20,11 @@ For the analysis of Wealth the prompts I used were...
     ...By Income Bracket
     How has Assets Under Management changed for the major Wealth Management companies over the last 20 years?
 
-    How much national government debtg does Switzerland have?
+    How much national government debt does Switzerland have?
 
-For the analysis of Inheritance Tax the prompts I used were...
+##  The analysis of Inheritance Tax
+
+The prompts used were...
 
     What inheritance tax was paid in the UK in 2025 and the total wealth involved?
     How would the Impending 2027 Legislative Changes have affected the results?
@@ -39,7 +34,7 @@ For the analysis of Inheritance Tax the prompts I used were...
     What would be the results if there was a one-off tax allowance of £50,000?
     How do other European countries use a Recipient-Based Capital Acquisitions Tax
 
-Universal Basic Income
+##  "Universal Basic Income"
 
     What kinds of Guaranteed Minimum Income systems have been proposed?
     Which prominent economists support some kind of Universal Basic Income?
@@ -54,3 +49,6 @@ Universal Basic Income
     How have the Labour or Green Party policy platforms historically treated UBS?
     What wre the financial costings Labour used for its 2019 UBS proposals?
 
+    What are the standard ways of classifying wealth e.g. Generational Wealth, Physical Wealth, Notional Wealth (sometimes called Unrealized Wealth) etc.
+    How do banks define High-Net-Worth brackets?
+    What are the methods for calculating the current value of an asset?

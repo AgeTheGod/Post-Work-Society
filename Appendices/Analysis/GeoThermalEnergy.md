@@ -1,3 +1,11 @@
+---
+title: Geo-Thermal Energy
+layout: default
+parent: Energy Research
+nav_order: 4
+---
+#   Geo-Thermal Energy Research 
+
     What is Geo-Thermal Power Generation?
     Which countries use it?
     How sustainable i.e. maintenance free is this energy source?

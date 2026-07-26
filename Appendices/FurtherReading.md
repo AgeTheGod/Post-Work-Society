@@ -64,12 +64,15 @@ I know that's a bad habit and likely means that I'll miss some significant detai
 There are Political Groups and Pressure Groups and Campaign Groups for just about any subject you can imagine but some of them are better than others.
 The better ones are the ones that people can join and make a contribution if they wish. 
 
-| Link                                                                              | Summary |
-|-----------------------------------------------------------------------------------|---------|
-| [Electoral Reform Society](https://electoral-reform.org.uk/)                      |         |
-| [Tax Policy Associates](https://taxpolicy.org.uk/)                                |         |
-| [Institute for Democracy and Electoral Assistance](https://www.idea.int/about-us) |         |
-| [Basic Income Earth Network](https://basicincome.org/)                            |         |
-| [Tax Justice Network](https://taxjustice.net/)                                    |         |
-| [Evonomics](https://evonomics.com)                                                |         |
-| [Taxing Wealth UK](https://taxingwealth.uk/)                                      |         |
+| Link                                                                              | Summary                                                                           |
+|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| [Electoral Reform Society](https://electoral-reform.org.uk/)                      |                                                                                   |
+| [Tax Policy Associates](https://taxpolicy.org.uk/)                                |                                                                                   |
+| [Institute for Democracy and Electoral Assistance](https://www.idea.int/about-us) |                                                                                   |
+| [Basic Income Earth Network](https://basicincome.org/)                            |                                                                                   |
+| [Tax Justice Network](https://taxjustice.net/)                                    |                                                                                   |
+| [Evonomics](https://evonomics.com)                                                |                                                                                   |
+| [Taxing Wealth UK](https://taxingwealth.uk/)                                      |                                                                                   |
+| [Positive Money Europe](https://positivemoney.org/)                               |                                                                                   |
+| [Unconditional Basic Income Europe](Unconditional Basic Income Europe)            | International network advocating for the implementation of Basic Income in Europe |
+|[Time Banking](TimeBanks.org)||
