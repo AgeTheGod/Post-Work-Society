@@ -43,11 +43,11 @@ quadrantChart
     Lawyer: [0.6, 0.95]
     Driver: [0.4, 0.40]
     Doctor:[0.95, 0.95]
-    Surgeon:[0.95, 0.75]
+    Surgeon:::Essential:[0.95, 0.75]
     Nurse: [0.60, 0.60]
     Estate Agent: [0.20, 0.55]
 
-%%    classDef essential color: red
+    classDef Essential color: red
 %%    classDef desirable color: #908342, radius : 10, stroke-color: #310085, stroke-width: 10px
 %%    classDef optional  color: #908342, radius : 10, stroke-color: #310085, stroke-width: 10px
 %%    classDef unnecessary color: #f00fff, radius : 10
