@@ -23,11 +23,14 @@ When it comes to creating a Post Work Society these alternative value judgements
 
 ##  Types of Work
 
-- Essential Work
-- Optional work
-- Unnecessary Work
+There are many, many different ways that we could classify work activities and many of them are distinct orthogonal classifications.
 
-These are distinct orthogonal classifications
+As per the general definition one way is to define Work by how much physical and/or mental labour goes into completing some piece of work.
+Some activities would clearly require a greater degree of physical labour in order to complete that activity whilst other activities are less physical but require a greater degree of thought in order to complete the activity successfully. 
+
+Another way is to define an activity according to its complexity i.e. how much technical knowledge is required to complete the activity or, in some casdes, technical knowledge required just to understand twhat the activity actually is.
+
+Using these two classifications then allows us to build a matrix to classify specific types of work (the job), e.g. Medical Doctor or Electrician, according it's complexity e.g.
 
 ```mermaid
 quadrantChart
@@ -35,30 +38,38 @@ quadrantChart
 
     y-axis Physical Work --> Mental Work
     x-axis Simple Activity --> Complex Activity
-    quadrant-1 Professional
+%%    quadrant-1 Professional
 %%    quadrant-2 
-    quadrant-3 Semi-Skilled Trade
-    quadrant-4 Skilled Trade
+%%    quadrant-3 Semi-Skilled Trade
+%%    quadrant-4 Skilled Trade
     
     Lawyer: [0.6, 0.95]
     Driver: [0.4, 0.40]
     Doctor:[0.95, 0.95]
-    Surgeon:::Essential:[0.95, 0.75]
+    Surgeon:[0.95, 0.75]
     Nurse: [0.60, 0.60]
     Estate Agent: [0.20, 0.55]
-
-    classDef Essential color: red
-%%    classDef desirable color: #908342, radius : 10, stroke-color: #310085, stroke-width: 10px
-%%    classDef optional  color: #908342, radius : 10, stroke-color: #310085, stroke-width: 10px
-%%    classDef unnecessary color: #f00fff, radius : 10
 ```
 
-##  Essential Work
+##  The Importance of Work
+
+A third classification that we will be using later is the "Importance" of a specific job or activity in relation to the Post Work Society. This is one of the following... 
+- Essential Work is the work that needs to be covered somehow for a Post Work Society to function.
+- Desirable Work is work that is not essential to complete but is desirable because it  provides a general benefit to Society
+- Optional work is any Work that someone chooses to do for their own personal reasons
+- Unnecessary Work is work that provides no material benefit to Society in general, that nobody wants to do and nobody would miss if they weren't done.
+
+This becomes important when we get to the details of Essential Services and tha activities necessary to deliver those activities.
+
+Clearly if we want to successfully build a Post Work Society then we need to ensure that Essential Work is delivered and Unnecessary Work is abandoned. 
+Desirable and Optional Work should then be encouraged to one degree or another. 
+
+###  Essential Work
 
 The main reason for identifying "**Essential Work**" is that this is the work that needs to be covered somehow for a Post Work Society to function.
-If the Essential Work is now done then Society eventually stops functioning.
+If the Essential Work is not done then Society eventually stops functioning.
 
-So what kind of Work would we classify as Essential Work? Fortunately, we have some recent history to look at here.
+So what kind of Work would we classify as Essential Work? Fortunately, we have some recent history to look at here taht is helpful for providing examples.
 
 During the COVID Pandemic between 2020 and 2023 when only "Essential Workers" were allowed to leave home it was necessary to do exactly that.
 Governments worldwide were forced to classify specific job classes as Essential Workers (or Key Workers) and grouped the workforce broadly into these major sectors... 
@@ -89,16 +100,33 @@ Governments worldwide were forced to classify specific job classes as Essential 
 
 These individuals were required to work in person because their roles were critical to maintaining societal infrastructure.
 
-So, although this is not a definitive list of all Essential Workers
+So, although this is not a definitive list of all Essential Workers it hopefully illustrates the types of work that may be regarded and important and hence essential.
 
-An important side-effect of this classification (which is not widely discussed) is that in most cases the "**value of the worker**" was not related to how much they earned but based purely on what service was being delivered.
-An awful lot of jobs in the above groups would likely be classed as Semi-Skilled Work or Tradesmen and very few would be regarded as "Professionally Qualified Workers" - Doctors are the most obvious exception
-meaning that they are jobs that could quite easily be shared across most members of society
+An important point of this classification (which is not widely discussed) is that in most cases the "**value of the worker**" was not related to how much they earned but based purely on what service was being delivered.
+An awful lot of jobs in the above groups would likely be classed as Semi-Skilled Work or Tradesmen (i.e. Simple Manual activities) and very few would be regarded as "Professionally Qualified Workers" - Doctors are the most obvious exception.
+This aspect of "value to society" is something to be explored later. 
 
-##  Optional Work
+### Desirable Work
 
-Optional Work is any kind of Work that is not Essential Work 
+Desirable Work is work that is not essential to complete but is desirable because it  provides a general benefit to Society
 
-##  Unnecessary Work
+If we look at the above list of COVID Essential Work we'll see a number of entries that on their own were not classified as Essential but were included because they supported other Essential Workers.
+For example, in that list we have Childcare Staff that kept nurseries open specifically to care for the children of other essential workers. 
 
-or could be done through some means other than effort by a Human Being.
+In this case Childcare is not an Essential Job because parents can (and do) look after their own children. 
+However, for the reason stated, it is desirable so have some kind of Childcare capability in order to provide flexibility   
+
+###  Optional Work
+
+Optional work is any Work that someone chooses to do for their own personal reasons e.g. because they have an interest in the activity or want to learn a new skill or simply wamt to produce something from their own efforts.
+The potential reasons are endless and the motivations very specific to each individual but the upshot is that this is work that an individual decides for themselves whether they want ti do it and equally decides for themselves when they wan tto stop doing the work.
+
+###  Unnecessary Work
+
+Unnecessary Work is work that provides no material benefit to Society in general. 
+
+I hesitate to call these "_Bullshit Jobs_" (as per David Graeber's book of that name) burt that's essentially what we're talking about.
+These are jobs that nobody really wants to do and nobody would miss if they suddenly stopped being jobs for people. 
+
+As we will see later, an awful lot of work falls into this category.
+
