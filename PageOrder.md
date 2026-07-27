@@ -1,6 +1,11 @@
-Page Order defines the nav_order on each file. 
-It's maintained here so that I can see the intended overall structure of the document.
-It also provides quick navigation to a specific document. 
+---
+title: Contents
+layout: default
+nav_order: 1
+---
+#   Contents
+
+This section provides a complete hierarchical set of links to each distinct page in order to provide quick navigation to a specific document.   
 
 1. [Introduction](Introduction/IntroductionSummary.md)
    3. [Principles](Introduction/Principles.md)
@@ -78,10 +83,10 @@ It also provides quick navigation to a specific document.
 7. [Further Thoughts](FurtherThoughts/FurtherThoughts.md)
    1. [If Not This Then What](FurtherThoughts/IfNotThis.md)
    2. [Global Closed Society](FurtherThoughts/GlobalClosedSociety.md)
-   2. Geo-Political Issues
-   2. Crimes Against Society
-   3. [Prioritizing People](FurtherThoughts/PrioritizingPeople.md)
-   4. [Books of Knowledge]
+   3. Geo-Political Issues
+   4. Crimes Against Society
+   5. [Prioritizing People](FurtherThoughts/PrioritizingPeople.md)
+   6. [Books of Knowledge](FurtherThoughts/BooksOfKnowledge.md)
 8. [Appendices](Appendices/AppendicesSummary.md)
    1. [Wikipedia Knowledge Articles](Appendices/WikipediaKnowledgeArticles.md)
    2. [Data Sources](Appendices/DataSources.md)
@@ -96,3 +101,4 @@ It also provides quick navigation to a specific document.
          7. [Geo-Thermal Energy](Appendices/Analysis/GeoThermalEnergy.md)
    5. [Using Artificial Intelligence](Appendices/AIExampleConversations.md)
 
+It's maintained here so that I can see the intended overall structure of the document.
