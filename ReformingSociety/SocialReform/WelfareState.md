@@ -25,4 +25,3 @@ Before then we had...
 - The "**Folkhemmet**" / People's Home in Sweden from 1932 with state-subsidised housing, universal maternity care and old-age pensions.
 - The "**New Deal**" in the USA from 1935 with old-age pensions, unemployment insurance and federal aid for physically disabled children.
 
-1. [Universal Basic Income](../EconomicReform/GuaranteedMinimumIncome)
