@@ -6,14 +6,16 @@ description: Designing a Society where every member has a basic quality of life 
 url: "https://agethegod.github.io/Post-Work-Society/"
 #baseurl: "/Post-Work-Society"
 
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+#remote_theme: just-the-docs/just-the-docs@v0.5.2
+#theme: just-the-docs
 nav_enabled: true
 heading_anchors: true
 color_scheme: light
 
-#plugins:
-#  - jekyll-default-layout
-#  - jekyll-relative-links
+plugins:
+  - jekyll-default-layout
+  - jekyll-relative-links
 relative_links:
   enabled: true
 
