@@ -1,4 +1,9 @@
-
+---
+title: Welfare State 
+layout: default
+parent: Social Reform
+nav_order: 4
+---
 #   The Welfare State
 
 Once upon a time, back in the 1940's Britain was regarded as a world-leader in Social Reforms and the instigation of the Welfare State i.e. State Run Government bodies that covered all the basic needs of it's citizens from cradle to grave.
@@ -20,4 +25,4 @@ Before then we had...
 - The "**Folkhemmet**" / People's Home in Sweden from 1932 with state-subsidised housing, universal maternity care and old-age pensions.
 - The "**New Deal**" in the USA from 1935 with old-age pensions, unemployment insurance and federal aid for physically disabled children.
 
-1. [Universal Basic Income](./UniversalBasicIncome)
+1. [Universal Basic Income](../EconomicReform/GuaranteedMinimumIncome)

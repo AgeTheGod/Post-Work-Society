@@ -4,11 +4,10 @@ layout: default
 parent: Notes
 nav_order: 1
 ---
-
-“_As soon as there is no longer any social class to be held in subjection; as soon as class rule, and the individual struggle for existence based upon our present anarchy in production, with the collisions and excesses arising from these, are removed, nothing more remains to be repressed, and a special repressive force, a state, is no longer necessary._”
+>   “_As soon as there is no longer any social class to be held in subjection; as soon as class rule, and the individual struggle for existence based upon our present anarchy in production, with the collisions and excesses arising from these, are removed, nothing more remains to be repressed, and a special repressive force, a state, is no longer necessary._”
 : Frederick Engels, Utopian and Scientific Socialism
 
-"_We have to abandon the idea that schooling is something restricted to youth. How can it be in a world where half the things a man knows at twenty are no longer true at forty and half the things he know at forty hadn't been discovered when he was twenty?_"
+>   "_We have to abandon the idea that schooling is something restricted to youth. How can it be in a world where half the things a man knows at twenty are no longer true at forty and half the things he know at forty hadn't been discovered when he was twenty?_"
 : Arthur C. Clarke
 
 "The philosophers have only interpreted the world. The important part, however, is to change it." 

@@ -1,4 +1,9 @@
-
+---
+title: Social Economics 
+layout: default
+parent: Economic Reform
+nav_order: 4
+---
 #   Social Economics
 
 In his book [Vampire Capitalism: Fractured Societies and Alternative Futures](https://books.google.com/books/about/Vampire_Capitalism.html?id=HI_LDQAAQBAJ), sociologist Paul Kennedy argues that to fix the system, society must transition toward "alternative social economies" that exist outside of traditional corporate control.
