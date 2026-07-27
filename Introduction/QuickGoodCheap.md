@@ -10,7 +10,7 @@ This classic business rule is formally known as the Project Management Triangle 
 It is generally used as a funny, direct way to explain the mathematical reality to bosses (and customers) who want the impossible.
 
 The credit for formalising this concept goes to a British civil engineer and management consultant named Dr Martin Barnes who first proposed the visual "Iron Triangle" model in 1969 during a course he designed called "Time and Cost in Contract Control".
-![ProjectManagementTriagle.png](ProjectManagementTriagle.png)
+![ProjectManagementTriagle.png](./ProjectManagementTriagle.png)
 
 Where...
 - **Cost** is the amount of money available to spend on developing the product

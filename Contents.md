@@ -7,9 +7,9 @@ nav_order: 0
 
 This section provides a complete hierarchical set of links to each distinct page in order to provide quick navigation to a specific document.   
 
-1. [Introduction](/Introduction/IntroductionSummary)
-   3. [Principles ewlative](./Introduction/Principles)
-      4. [Quick Good Cheap absolute](/Introduction/QuickGoodCheap)
+1. [Introduction](./Introduction/IntroductionSummary)
+   3. [Principles](./Introduction/Principles)
+      4. [Quick Good Cheap](./Introduction/QuickGoodCheap)
 2. [Definition Of Terms](./DefinitionOfTerms/DefinitionOfTermsOverview)
    4. [Political Concepts](./DefinitionOfTerms/PoliticalConcepts)
       1. [What Is Society](./DefinitionOfTerms/WhatISSociety)

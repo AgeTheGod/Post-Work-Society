@@ -39,7 +39,7 @@ Neither problem is a long-term blocker to progress but they do make the analysis
 
 ##  Principles
 
-Finally the [Principles](Principles) section outlines "**Non-Functional Requirements**" (a term used widely in Application Development Methodologies) that should apply to any proposed solution.
+Finally the [Principles](./Principles) section outlines "**Non-Functional Requirements**" (a term used widely in Application Development Methodologies) that should apply to any proposed solution.
 
 This tends to be "_buzzword heavy_" with terms such as "Sustainable Solutions" and "Iterative Development" that are well established in the Application Development world but very rarely appear in wider conversations.
 This omission seems odd to me because there should be some means of judging the appropriateness of some proposed solution other than just arguing about it.  

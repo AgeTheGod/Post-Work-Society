@@ -36,7 +36,7 @@ Based on the latest planned technologies these two values are projected to chang
 | Nuclear (Standard Giga-scale Reactor)           | $8,000 – $14,000+         | $140 – $220+                | 8 – 14+ Years      | 60 – 80 Years    | Baseload (24/7). Prone to intense regulatory and on-site delays.          |
 | Nuclear (Next-Gen Small Modular / SMR)          | $8,500 – $13,000+         | $110 – $140                 | 3 – 5 Years        | 60 – 80 Years    | Baseload (24/7). Factory-fabricated parts avoid field construction lags.  |
 
-As always we have the balance between [Quick, Good and Cheap](/Introduction/QuickGoodCheap) to consider where the most predictable energy sources also happen to be the most expensive and generally take longer to build but last longer once built.
+As always we have the balance between [Quick, Good and Cheap](../../Introduction/QuickGoodCheap) to consider where the most predictable energy sources also happen to be the most expensive and generally take longer to build but last longer once built.
 
 However the critical trends are worth pointing out...
 - The Baseload Compression: When looking at the rows for Enhanced Geothermal (Next-Gen Horizontal) and Nuclear (Next-Gen SMR), you can see a massive paradigm shift. Instead of waiting up to 14 years for 24/7 carbon-free grid power, utilities can now deploy continuous energy generation solutions in under 5 years.
@@ -49,7 +49,7 @@ This is especially the case for Wind, Geothermal, and Nuclear and can add up to 
 
 I'm not proposing that we remove the need to gain the necessary permissions but the process could be streamlined.
 
-In particular we should proactively apply [Predictive Analytics](/EnablingTechnologies/ComputerizedSystems) to predictive future energy requirements well in advance of the need materializing.
+In particular we should proactively apply [Predictive Analytics](../../EnablingTechnologies/ComputerizedSystems) to predictive future energy requirements well in advance of the need materializing.
 
 We should also be shifting generation capabilities designed to meet variable consumption requirements closer to the consumer and hence removing it from the grid.
-This would all be part of building [Smart Houses](/ProvidingEssentialServices/Housing/SmartHouses).
+This would all be part of building [Smart Houses](../Housing/SmartHouses).

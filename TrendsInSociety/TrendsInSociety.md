@@ -24,20 +24,20 @@ In fact in many cases exactly the opposite has happened, with...
 
 Weirdly, technology was supposed to reduce the amount of work that each person had to do and promised to allow us to live more fulfilling lives, but instead it seems to have done the opposite.
 We have more technology than ever before, but we are also working harder than ever before (those that are actually working) just to achieve the basics of life.
-We are also more stressed and less happy than ever before as shown in the [World Happiness Report](HappinessTrends) long-term trends.
+We are also more stressed and less happy than ever before as shown in the [World Happiness Report](./HappinessTrends) long-term trends.
 
-[Population Growth and Decline](PopulationTrends)
+[Population Growth and Decline](./PopulationTrends)
 
-[The Concentration of Wealth](WealthTrends) looks at how "Wealth" (the accumulation of long-term assets) is becoming more and more concentrated into the hands of fewer and fewer people.
+[The Concentration of Wealth](./WealthTrends) looks at how "Wealth" (the accumulation of long-term assets) is becoming more and more concentrated into the hands of fewer and fewer people.
 "_Wealth Disparity_" has long been considered a fundamental problem in a progressive society but the analysis shows that this disparity is beginning to readch some critical inflection points.
 
-[Employment Trends](EmploymentTrends)
+[Employment Trends](./EmploymentTrends)
 
-[The Rise of Automation](ProductionTrends)
+[The Rise of Automation](./ProductionTrends)
 
 ##  Social Trends
 
-[Happiness Trends](HappinessTrends) focuses on the **World Happiness Report** - an annual publication that surveys the state of global happiness across more than 140 countries.
+[Happiness Trends](./HappinessTrends) focuses on the **World Happiness Report** - an annual publication that surveys the state of global happiness across more than 140 countries.
 It is published in partnership with the UN Sustainable Development Solutions Network (SDSN) and considered to be a major non-economic benchmark for how well National Societies are meeting the needs of their citizens.
 
 This is not intended as some Socialist utopia where "The State" provides everything and "The People" simply consume what The State provides.

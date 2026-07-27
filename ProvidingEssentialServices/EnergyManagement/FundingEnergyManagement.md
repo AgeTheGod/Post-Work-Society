@@ -6,7 +6,7 @@ nav_order: 6
 ---
 #   Funding Energy Generation
 
-In the [Sustainable Energy generation](SustainableEnergy) introduction I mentioned split Energy Management into a three part problem...
+In the [Sustainable Energy generation](./SustainableEnergy) introduction I mentioned split Energy Management into a three part problem...
 1. How to generate Electricity from sustainable sources?
 2. How to store Electricity until it is required?
 3. How to distribute Electricity to where it is needed?

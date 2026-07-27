@@ -80,7 +80,7 @@ In pretty much every case that donation is in the expectation that the donor wil
 
 In addition, since the widespread implementation of the Internet and the global emergence of Social Media, is the emergence of "**Misinformation**" (som would call this "**out-right lying**") being fed into any political debate. 
 
-However, these two points, although they are the most significant are not the full extent of Corruptibility and the subject is further explored in [Problems With Democracy](ProblemsWithDemocracy)
+However, these two points, although they are the most significant are not the full extent of Corruptibility and the subject is further explored in [Problems With Democracy](./ProblemsWithDemocracy)
 
 ##  Representative Democracy
 

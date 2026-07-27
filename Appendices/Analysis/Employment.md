@@ -432,7 +432,7 @@ The baseline employment percentages represent current market positioning, while 
 ## The Data Visualized
 The visualization below highlights the shifting composition of the UK workforce, showing how Professional and Caring roles expand their footprint while administrative and customer service roles contract:
 
-![img.png](img.png)
+![img.png](./img.png)
 
 ## Core Drivers of the 5 and 10-Year Shifts## 1. The Professional Surge (SOC 2)
 By 2036, nearly 1 in every 3 jobs in the UK will be classified under "Professional Occupations". The primary drivers are the deep integration of artificial intelligence, machine learning, and advanced data modeling across corporate environments, alongside a high volume of tech-centric priority occupations. The [National Foundation for Educational Research (NFER)](https://nfer.ac.uk/media/dvbevx0q/revised-employment-and-skills-projections-for-the-skills-imperative-2035.pdf) estimates that over two-thirds of net new jobs generated in the coming decade will require a Level 4 qualification (degree-level or higher). [6, 7, 8, 9]
@@ -1198,7 +1198,7 @@ The historical benchmarks and long-range structural projections for the EU-27 wo
 ------------------------------
 ## The Data Visualized
 The visualization below traces the changing occupational architecture of the EU-27 economy, demonstrating the steady rise of Professionals and the systematic shrinkage of traditional Clerical and Trades tiers: [7, 8]
-![img_1.png](img_1.png)
+![img_1.png](./img_1.png)
 
 ## Critical Micro-Trends and Variances from the UK## 1. The Professional Engine (ISCO 2)
 The growth of the Professionals group across the EU is relentless. According to the newest [Cedefop macro-economic modeling](https://www.cedefop.europa.eu/en/news/cedefop-updates-skills-forecast-new-data-guide-europes-skills-and-labour-market-policy-2035), the fastest-expanding job sectors across the continent center tightly on ICT professional services, R&D, and engineering activities. The hiring index for software engineers and data scientists remains significantly higher than the broader corporate baseline. Unlike the UK's sharp statistical spike in 2021 (which was caused by a change in national classifications), the EU’s line reflects a smoother, organic shift toward a tertiary, highly educated workforce. [1, 8, 10, 11, 12]

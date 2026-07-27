@@ -14,7 +14,7 @@ Consequently, this is not a definitive list of everything that is currently avai
 
 Another key point is that everything included in this section is either already here (and implemented somewhere in the world) or it's the subject of major research & development projects.
 
-As per the [Principles](/Introduction/Principles) laid out earlier, when deciding what to include in this section the major considerations were...
+As per the [Principles](../Introduction/Principles) laid out earlier, when deciding what to include in this section the major considerations were...
 - Is it Sustainable i.e. does it rely on a finite resource that is likely to run out in the near future?
 - Is it Scalable i.e. can it be incrementally built or expanded over time?
 - Is it Maintainable or does it require a high level of regular physical maintenance? 
@@ -25,14 +25,14 @@ It's a huge area so doing a deep-dive into each of them isn't really possible an
 I've also tried to group the Technology together where there are multiple technologies that roughly solve the same problem. These are...
 - [Sustainable Energy Generation](../ProvidingEssentialServices/EnergyManagement/SustainableEnergy)
 - [Internet Communications](../ProvidingEssentialServices/Telecommunications/InternetCommunications)
-- [Artificial Intelligence](ArtificialIntelligence)
-- [Automation](AutomationAndRobotics)
-- [Computerized Systems](ComputerizedSystems)
-- [Interplanetary Mining](InterPlanetaryMining)
+- [Artificial Intelligence](./ArtificialIntelligence)
+- [Automation](./AutomationAndRobotics)
+- [Computerized Systems](./ComputerizedSystems)
+- [Interplanetary Mining](./InterPlanetaryMining)
 
 Of course, we have to be careful about the Gartner "Technology Hype Cycle"...
 
-![Gartner Hype Cycle](GartnerHypeCycle.png)
+![Gartner Hype Cycle](./GartnerHypeCycle.png)
 
 ... because new technology is often over-hyped when it first comes out and then it takes a while for the technology to mature and for people to figure out how to use it effectively.
 

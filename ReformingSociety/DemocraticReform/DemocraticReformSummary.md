@@ -10,7 +10,7 @@ nav_order: 1
 2. [Direct Democracy](./DirectDemocracy)
 3. [Political Party Reform](./PoliticalPartyReform)
 4. [Electronic Voting](./ElectronicVoting)
-5. [National Identity Card](NationalVoterRegistry)
+5. [National Identity Card](./NationalVoterRegistry)
 
 "**Democracy**" is the method that the vast majority of people on the planet (including many of the so-called "Dictatorships") use to make decisions about how a society will be managed and most people that live in a Democratic Society will have an opinion on what Democracy is.
 The basic definition usually includes some principle like "**One person, one vote**"
@@ -22,20 +22,17 @@ Democracy is also a process that can be broadly summarized as...
 4. Votes are counted after that date
 5. A winner is decided based on the Votes cast
 
-However, even within that basic framework there are many variations on how Democracy, and the Democratic Process, is implemented as described in [What Is Democracy](WhatIsDemocracy)
-along with a number of [Problems with Democracy](ProblemsWithDemocracy) that severely affect how representative a particular Democracy is.
+However, even within that basic framework there are many variations on how Democracy, and the Democratic Process, is implemented as described in [What Is Democracy](./WhatIsDemocracy)
+along with a number of [Problems with Democracy](./ProblemsWithDemocracy) that severely affect how representative a particular Democracy is.
 
 ##  Proposed Improvements
 
-Given the highlighted [Problems with Democracy](ProblemsWithDemocracy) these are proposed improvements that should be incorporated into any modern day Democratic Framework.
+Given the highlighted [Problems with Democracy](./ProblemsWithDemocracy) these are proposed improvements that should be incorporated into any modern day Democratic Framework.
 
-[Direct Democracy](DirectDemocracy)
-
-[Electronic Voting](ElectronicVoting)
-
-[National Voter Registry](NationalVoterRegistry)
-
-[Political Party Reform](PoliticalPartyReform)
+[Direct Democracy](./DirectDemocracy)
+[Electronic Voting](./ElectronicVoting)
+[National Voter Registry](./NationalVoterRegistry)
+[Political Party Reform](./PoliticalPartyReform)
 
 ##  Roadmap to Democracy
 

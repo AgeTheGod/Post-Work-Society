@@ -87,7 +87,7 @@ Within a Society the expectations are that every member of a Society adheres to 
 
 ##  Economy
 
-An economy is a system of making, buying, selling, and using goods and services to satisfy people's needs and wants - see [Economy](WhatIsAnEconomy)
+An economy is a system of making, buying, selling, and using goods and services to satisfy people's needs and wants - see [Economy](./WhatIsAnEconomy)
 
 ##  Social Role
 

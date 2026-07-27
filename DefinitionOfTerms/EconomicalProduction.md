@@ -22,7 +22,7 @@ We still apply the Economics Of Production to analysing a Production Process for
 
 ##  Factors of Production
 
-The Economics of Production is based on four distinct resource pillars known as the [Factors Of Production](FactorsOfProduction) summarized as...
+The Economics of Production is based on four distinct resource pillars known as the [Factors Of Production](./FactorsOfProduction) summarized as...
 
 | Resource Input    | Purpose                                                                                                                                       |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
