@@ -3,8 +3,8 @@ title: Towards a Post-Work Society
 description: Designing a Society where every member has a basic quality of life without having to "work to live"
 
 # GitHub Pages settings
-url: "https://agethegod.github.io"
-baseurl: "/Post-Work-Society"
+url: "https://agethegod.github.io/Post-Work-Society/"
+#baseurl: "/Post-Work-Society"
 
 theme: just-the-docs
 nav_enabled: true
