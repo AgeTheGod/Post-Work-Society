@@ -11,13 +11,14 @@ nav_enabled: true
 heading_anchors: true
 color_scheme: light
 
-#plugins:
-#  - jekyll-relative-links
+plugins:
+  - jekyll-default-layout
+  - jekyll-relative-links
 #relative_links:
 #  enabled: true
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 #markdown: kramdown
 
 # Mermaid configuration : Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
