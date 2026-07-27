@@ -11,10 +11,10 @@ nav_enabled: true
 heading_anchors: true
 color_scheme: light
 
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
+#plugins:
+#  - jekyll-relative-links
+#relative_links:
+#  enabled: true
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
