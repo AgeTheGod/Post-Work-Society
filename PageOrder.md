@@ -7,10 +7,10 @@ nav_order: 0
 
 This section provides a complete hierarchical set of links to each distinct page in order to provide quick navigation to a specific document.   
 
-1. [Introduction](/Introduction/IntroductionSummary.md)
+1. [Introduction](./Introduction/IntroductionSummary.md)
    3. [Principles](/Introduction/Principles.md)
       4. [Quick Good Cheap](/Introduction/QuickGoodCheap.md)
-2. [Definition Of Terms](/DefinitionOfTerms/DefinitionOfTermsOverview.md)
+2. [Definition Of Terms](./DefinitionOfTerms/DefinitionOfTermsOverview.md)
    4. [Political Concepts](/DefinitionOfTerms/PoliticalConcepts.md)
       1. [What Is Society](/DefinitionOfTerms/WhatISSociety.md)
       2. [What Is A Post Work Society](/DefinitionOfTerms/WhatIsPostWorkSociety.md)
