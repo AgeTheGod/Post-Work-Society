@@ -93,5 +93,5 @@ In some cases, I'm also including some history of a term where I think it's impo
 This leads to a less formal but hopefully more understandable explanation of what a term originally meant and what that same term generally means nowadays. 
 
 I also use a lot of references to Wikipedia pages because Wikipedia is a great start point for anyone that wants to read more detail on a particular topic and contains many cross-references and external links that provide additional information.
-In the [Wikipedia Links](/Appendices/WikipediaKnowledgeArticles.md) page I've included a consolidated list of references that provide a more formal definition of some concept or topic.
+In the [Wikipedia Links](/Appendices/WikipediaKnowledgeArticles) page I've included a consolidated list of references that provide a more formal definition of some concept or topic.
 

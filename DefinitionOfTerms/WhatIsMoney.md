@@ -33,7 +33,7 @@ For example...
 - On a smaller scale it's also what Banks do when they extend credit to a borrower such as lend money for a Mortgage. The Money created to fund the Debt is another number in a ledger but doesn't actually exist physically.
 - It's also the reason why the value of the Financial Markets can vastly exceed the wealth of a Nation and keep growing even though no more Money is actually in circulation.
 
-This aspect of Fiat Money is critical to understand because it becomes very important later one when we consider subjects like [how society funds itself](/ReformingSociety/EconomicReform/FundingPublicServices.md) and [Universal Basic Income](/ReformingSociety/EconomicReform/GuaranteedMinimumIncome.md).
+This aspect of Fiat Money is critical to understand because it becomes very important later one when we consider subjects like [how society funds itself](/ReformingSociety/EconomicReform/FundingPublicServices) and [Universal Basic Income](/ReformingSociety/EconomicReform/GuaranteedMinimumIncome).
 
 ##  The Uses of Money
 

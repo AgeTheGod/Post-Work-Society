@@ -16,7 +16,7 @@ Theoretically, we should easily have the production capacity to meet all the wor
 So that is what we have here.
 This entire repository is focussed on how we might improve Society so that **working just to live is no longer the primary activity for most people**.
 
-The entry point to the text is the [**_index.md_**](index.md) file which represents the root homepage used by "Just The Docs" theme when published into the [Post Work Society](https://agethegod.github.io/Post-Work-Society/) GitHub Pages.
+The entry point to the text is the [**_index.md_**](index) file which represents the root homepage used by "Just The Docs" theme when published into the [Post Work Society](https://agethegod.github.io/Post-Work-Society/) GitHub Pages.
 
 ##  Making Contributions
 
@@ -26,7 +26,7 @@ These ramblings are littered with some very contentious statements (I have a hab
 
 If anyone wants to put a counter-argument forward or make suggestions for alternative proposals that meet the Objectives or simply have any thoughts on this subject and would like to contribute to this project, please feel free to reach out to me.
 You can also fork this repository and submit a pull request with your contributions.
-Please read [Contributing](CONTRIBUTING.md) for more details on how to contribute to this project.
+Please read [Contributing](CONTRIBUTING) for more details on how to contribute to this project.
 
 However, whether anyone contributes or not, I hope that by sharing my thoughts on this topic, I can spark a conversation about how we can create a better Society for everyone.
 

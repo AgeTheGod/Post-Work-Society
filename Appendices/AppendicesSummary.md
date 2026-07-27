@@ -27,8 +27,8 @@ However, because there is such a huge amount of data and information available I
 
 |                                                               |                                                                                                                                                                                  |
 |---------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Wikipedia Knowledge Articles](WikipediaKnowledgeArticles.md) | I use a lot of references to Wikipedia pages because, in my opinion, Wikipedia is the berst on-line encyclopediaa and a great start point for digging into definitions of things. |
-| [Further Reading](./FurtherReading.md)                        | Links to miscellaneous articles exprtessing ideas and opiniosn that I found interesting                                                                                          |
-| [Data Sources](DataSources.md)                                |                                                                                                                                                                                  |
-| [Analysis](AnalysisOverview.md)                               |                                                                                                                                                                                  |
+| [Wikipedia Knowledge Articles](WikipediaKnowledgeArticles) | I use a lot of references to Wikipedia pages because, in my opinion, Wikipedia is the berst on-line encyclopediaa and a great start point for digging into definitions of things. |
+| [Further Reading](./FurtherReading)                        | Links to miscellaneous articles exprtessing ideas and opiniosn that I found interesting                                                                                          |
+| [Data Sources](DataSources)                                |                                                                                                                                                                                  |
+| [Analysis](AnalysisOverview)                               |                                                                                                                                                                                  |
 

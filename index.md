@@ -59,9 +59,9 @@ These proposals are based in the following core objectives (in no particular ord
 - Provide a _"Minimum Guaranteed Incomes"_ so that people can afford to buy
 - Enable _"Direct Democracy"_ to make the Management of Society more responsive to the desires of the Citizens and remove the disproportionate influence of Non-Citizens
 
-All of the above, in my mind, can be delivered by [Reforming Society](ReformingSociety/ReformingSocietySummary.md) and utilizing [Enabling Technologies](EnablingTechnologies/EnablingTechnologiesSummary.md) that potentially provide the capabilities that we need to have in place in order to achieve our Objectives.
+All of the above, in my mind, can be delivered by [Reforming Society](ReformingSociety/ReformingSocietySummary) and utilizing [Enabling Technologies](EnablingTechnologies/EnablingTechnologiesSummary) that potentially provide the capabilities that we need to have in place in order to achieve our Objectives.
 
 However, these kind of fundamental changes to Society are just the tip of the iceberg and there are many implications that go beyond the proposed structural Economic and Political Reform.
-Finally, although not an essential part of creating a Post Work Society there are [further implications](FurtherThoughts/FurtherThoughts.md) to doing so including a certain amount of [Social Reform](ReformingSociety/SocialReform/SocialReformSummary.md) to establish the expectations that Citizens should have about the Society in which they live (or propose to live in).
+Finally, although not an essential part of creating a Post Work Society there are [further implications](FurtherThoughts/FurtherThoughts) to doing so including a certain amount of [Social Reform](ReformingSociety/SocialReform/SocialReformSummary) to establish the expectations that Citizens should have about the Society in which they live (or propose to live in).
 
-Finally, everything should have a [Getting There](GettingThere/GettingThere.md) plan outlining how we get from where we are now to where we want to be and criteria for [how we measure success](GettingThere/MeasuringSuccess.md) to show how well we are achieving it and where we can make on-going improvements.
+Finally, everything should have a [Getting There](GettingThere/GettingThere) plan outlining how we get from where we are now to where we want to be and criteria for [how we measure success](GettingThere/MeasuringSuccess) to show how well we are achieving it and where we can make on-going improvements.

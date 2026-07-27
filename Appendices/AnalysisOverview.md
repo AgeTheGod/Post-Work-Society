@@ -36,7 +36,7 @@ So, it's worth bearing these points in mind when reading through the topics in t
 
 ##   Using Artificial Intelligence
 
-As outlined in the Enabling Technology section I am a firm believer that [Artificial Intelligence](/EnablingTechnologies/ArtificialIntelligence.md) is one of the most significant technology developments of the past few decades.
+As outlined in the Enabling Technology section I am a firm believer that [Artificial Intelligence](/EnablingTechnologies/ArtificialIntelligence) is one of the most significant technology developments of the past few decades.
 
 "**Generative Artificial Intelligence**", officially "**Retrieval Augmented Generation Artificial Intelligence**" (RAG-AI), in particular is very, very useful in exploring complex topics and producing analysis of trends.
 I've used RAG-AI, particularly Google-AI, extensively in the production of the Analysis section.
@@ -54,7 +54,7 @@ This is simply because the Internet contains a lot of rubbish nowadays but RAG-A
 This is one of the reasons why I include Data Sources as a specific Appendix because you can then ask RAG-AI to only include information published or derived from those sources.
 It significantly improved the accuracy of any response.
 
-Finally, when keeping the transcript of the conversation I always write a short one paragraph summary at the beginning of each file of what my intent was and then put a list of the prompts I used (see [examples](AIExampleConversations.md) ) so that it's easy to see what the overall purpose of conversation was.
+Finally, when keeping the transcript of the conversation I always write a short one paragraph summary at the beginning of each file of what my intent was and then put a list of the prompts I used (see [examples](AIExampleConversations) ) so that it's easy to see what the overall purpose of conversation was.
 
 It's also tempting to then get RAG-AI to write a summary of whatever the results were but I'm not really a fan of that approach. 
 It's fair enough using RAG-AI to explore a complex subject but I do believe that any interpretation of the results should be produced by me.

@@ -8,7 +8,7 @@ nav_order: 3
 
 "_Everyone is entitled to his own opinion, but not to his own facts_".
 
-That's a quote from US Senator Daniel Patrick Moynihan and this distinction between subjective perspectives and objective reality is also the reason why I separated these links into their own section instead of including them in with the [Reference](WikipediaKnowledgeArticles.md) section.
+That's a quote from US Senator Daniel Patrick Moynihan and this distinction between subjective perspectives and objective reality is also the reason why I separated these links into their own section instead of including them in with the [Reference](WikipediaKnowledgeArticles) section.
 
 "Towards a Post Work Society" presents a lot of ideas that had been bubbling around in my head for years. 
 However whilst writing all this I naturally did a lot of digging around and discovered many of those ideas have multiple variations proposed by other groups and people, in some cases decades ago and 

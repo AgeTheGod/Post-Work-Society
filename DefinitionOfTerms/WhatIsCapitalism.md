@@ -10,7 +10,7 @@ Capitalism is an economic system organized around private ownership of productiv
 Modern Capitalism emerged from the decline of Feudal arrangements and the ascent of the Industrial Revolution.
 
 At its core Capitalism relies on three interrelated institutions: 
-- **Property Rights** that allow individuals and firms to own and control the "**[Factors of Production](FactorsOfProduction.md)**" ; 
+- **Property Rights** that allow individuals and firms to own and control the "**[Factors of Production](FactorsOfProduction)**" ; 
 - **Markets** where goods and services can be bought & sold and that coordinate production and distribution through prices; 
 - **Profit-Driven Enterprises** that allocate the Factors Of Production toward activities expected to yield profits on production. 
 
@@ -20,7 +20,7 @@ However Capitalism, as a generic term, has become the primary Economic system de
 - Property Rights are defined and assigned to the various members of Society by the Government of that Society
 - Profit-Driven Enterprises was a core concept in Merchant Trading i.e. an individual buying goods in one market with the intent of selling those goods in another market for a profit. 
 
-Hence, the main difference between Capitalism and other Socio-Economic System is the emphasis on **Capital** (and "Profit" as its reward) as the primary [Factor of Production](FactorsOfProduction.md). 
+Hence, the main difference between Capitalism and other Socio-Economic System is the emphasis on **Capital** (and "Profit" as its reward) as the primary [Factor of Production](FactorsOfProduction). 
 In some types of modern Capitalism _Wage Labour_ effectively becomes a _Resource_ (not a separate Factor to consider) and "**Capital Accumulation of Profit**" is the central dynamic that shapes growth and technological change.
 
 ##  Types of Capitalism
@@ -37,7 +37,7 @@ Whilst the above description captures the basic principles of Capitalism there a
 - ... and social policies.
 
 As such it's important classify the various types of Capitalism and to understand the purpose and motivations around each variation in order to make judgements about them.
-[Types Of Capitalism](TypesOfCapitalism.md) lists those that I think are significant and need to be differentiated but is by no means an exhaustive list and additional variations are periodically proposed as new Economics works are published. 
+[Types Of Capitalism](TypesOfCapitalism) lists those that I think are significant and need to be differentiated but is by no means an exhaustive list and additional variations are periodically proposed as new Economics works are published. 
 
 ##  The Benefits of Capitalism
 

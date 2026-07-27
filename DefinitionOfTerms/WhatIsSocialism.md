@@ -21,7 +21,7 @@ Beyond those critical services people are then free to produce any "luxury" good
 That's pretty much the case across the entire planet and really the arguments come down to how much should be provide by the state as "essential services" and how much is left to others, both individuals and corporations, to provide as "value add services"?
 
 That final question is what distinguishes the many variants of Socialism from each other. 
-Like the discussion on "What id Capitalsim" the answer is not universally agreed but one possible answer, what I think is the minimum required, is covered in [Providing Essential Services](/ProvidingEssentialServices/ProvidingEssentialServicesSummary.md)
+Like the discussion on "What id Capitalsim" the answer is not universally agreed but one possible answer, what I think is the minimum required, is covered in [Providing Essential Services](/ProvidingEssentialServices/ProvidingEssentialServicesSummary)
 
 In addition, the motivation from providing a Service under Socialism is much different to Capitalism.
 

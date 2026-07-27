@@ -18,7 +18,7 @@ The primary models of Guaranteed Minimum Income proposed over the decades includ
 - Guaranteed Job Programs (Jobs Guarantee): An alternative system where the government guarantees a job at a living wage to any citizen willing and able to work, ensuring they never fall below the income floor.
 - Minimum Income Standard (MIS) Framework
 
-These are described in more detail in [Types of Guaranteed Minimum Income Schemes](./GuaranteedMinimumIncomeTypes.md)
+These are described in more detail in [Types of Guaranteed Minimum Income Schemes](./GuaranteedMinimumIncomeTypes)
 
 however of all the proposed 
 
