@@ -63,9 +63,35 @@ classDiagram
     Society --> InternalMarket : controls     
     OnDemandService --> InternalMarket
 ```
-These kind of Concept Map diagrams very quickly become unreadable as the number of terms and relationships between those terms increase. 
 
+These kind of Concept Maps very quickly become unreadable as the number of terms and relationships between those terms increases. 
 Consequently, in order to break this down into easier to consume chunks, I'm taking a "**Domain Decomposition**" approach with separate sections for each "**General Term**" (or Domain) and defining significant variations pertinent to this work within each General Term section.
 
+```mermaid
+mindmap
+    Concepts
+        "Economic Concepts"
+            "What Is An Economy"
+            "What Is A Market"
+            "What Is Money"
+            "What Is Wealth"
+            "What Is Economical Production"
+                "Factors of Production"
+                "What Is Capitalism"
+                    "Types of Capitalism"
+                "What Is Socialism"
+            "What Is Work"
+        "Political Concepts"
+            "What Is A Society"
+                "What Is Post Work Society"
+            "What Is Government"
+            "What Is Democracy"
+            "What Is Libertarianism"
+```
+
 In some cases, I'm also including some history of a term where I think it's important to explain how we get from the original definition to either the agreed present day definition or the specific definition that I'm using.
-This leads to a less formal but hopefully more understandable definition. 
+This leads to a less formal but hopefully more understandable explanation of what a term originally meant and what that same term generally means nowadays. 
+
+I also use a lot of references to Wikipedia pages because Wikipedia is a great start point for anyone that wants to read more detail on a particular topic and contains many cross-references and external links that provide additional information.
+In the [Wikipedia Links](/Appendices/WikipediaKnowledgeArticles.md) page I've included a consolidated list of references that provide a more formal definition of some concept or topic.
+
