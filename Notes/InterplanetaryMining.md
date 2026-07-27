@@ -1,3 +1,9 @@
+---
+title: Interplanetary Mining  
+layout: default
+parent: Notes
+nav_order: 1
+---
 
     Prompt: Has anyone done a geological survey of the Asteriod Belt to erstimate what minerals are available?
 

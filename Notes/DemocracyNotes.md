@@ -1,3 +1,9 @@
+---
+title: Democracy 
+layout: default
+parent: Notes
+nav_order: 1
+---
 
 So instead, I'm going to focus on some basic criteria
 

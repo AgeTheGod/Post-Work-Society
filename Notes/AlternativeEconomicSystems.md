@@ -1,3 +1,10 @@
+---
+title: Alternative Economic Systems
+layout: default
+parent: Notes
+nav_order: 1
+---
+#   Alternative Economic Systems
 
 #   What economic systems exist that use time as the unit of currency?
 

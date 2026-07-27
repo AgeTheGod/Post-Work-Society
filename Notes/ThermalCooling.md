@@ -1,3 +1,9 @@
+---
+title: Thermal Cooling  
+layout: default
+parent: Notes
+nav_order: 1
+---
 
 The air conditioning runs on nothing. No power. No fans. No grid. Chinese researchers have developed a radiative cooling film that fundamentally changes how we regulate building temperatures. It operates on a surprisingly simple cosmic principle. The material does not just block the sun. It gathers surface heat and fires it back out as infrared waves, perfectly tuned to pass through a specific gap in Earth's atmosphere known as the "sky window." The trapped heat bypasses our atmosphere and dumps directly into the freezing vacuum of space. The film keeps surfaces drastically cooler than ambient air, operating passively day and night. If scaled across commercial architecture, it could break our reliance on massive urban AC grids. The next hurdle is simply ensuring the material can survive years of harsh weather on a real-world roof.
 

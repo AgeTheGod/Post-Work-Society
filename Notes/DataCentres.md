@@ -1,3 +1,9 @@
+---
+title: Data Centres 
+layout: default
+parent: Notes
+nav_order: 1
+---
 
     Prompt: What are the current plans for Data Centres in Space?
 

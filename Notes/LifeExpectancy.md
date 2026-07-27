@@ -1,3 +1,9 @@
+---
+title: Life Expectancy  
+layout: default
+parent: Notes
+nav_order: 1
+---
     prompt: how has the average life expectancy changed since 1900?
 
 Global average life expectancy has more than doubled, climbing from roughly 32 years in 1900 to 73 years. This monumental shift represents one of humanity’s greatest modern achievements. [1, 2, 3, 4]

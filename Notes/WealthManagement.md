@@ -1,3 +1,9 @@
+---
+title: Wealth Management  
+layout: default
+parent: Notes
+nav_order: 1
+---
 
 
     What are the net assets of each company on the FTSE100 index compared to it's market value?

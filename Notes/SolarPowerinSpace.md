@@ -1,3 +1,9 @@
+---
+title: Solar Power In Space  
+layout: default
+parent: Notes
+nav_order: 1
+---
     prompt: How far from the sun before solar power stops being viable for generating electricity?
 
 Solar power stops being practically viable for generating electricity at a distance of 5 to 10 Astronomical Units (AU) from the sun, which equates to roughly 465 million to 930 million miles (750 million to 1.5 billion kilometres). This range places the absolute limit of modern solar utility between the orbits of Jupiter and Saturn. [1, 2]

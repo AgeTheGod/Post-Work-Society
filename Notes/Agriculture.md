@@ -1,6 +1,10 @@
-#   
-
-    prompt: What automated agriculture is there at the moment?
+---
+title: Agriculture
+layout: default
+parent: Notes
+nav_order: 1
+---
+#    prompt: What automated agriculture is there at the moment?
 
 Agricultural automation is highly advanced and widespread, shifting the industry from traditional manual labour to precision, data-driven food production. The most notable automated agriculture currently in use includes AI-powered autonomous tractors (such as [John Deere](https://www.deere.com/en/autonomous/) and Monarch Tractor) that can plow and seed 24/7 without human intervention. Additionally, farmers deploy laser and spot-spray weeders (like Carbon Robotics) that utilize artificial intelligence and computer vision to differentiate crops from weeds, subsequently zapping or micro-dosing them with weedkiller. This reduces herbicide usage by up to 90% compared to traditional blanket-spraying. [1, 2, 3, 4, 5, 6]
 The scope of current agricultural automation spans multiple distinct areas of farming: [7, 8]

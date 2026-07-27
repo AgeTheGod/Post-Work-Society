@@ -1,3 +1,9 @@
+---
+title: Notes To Read  
+layout: default
+parent: Notes
+nav_order: 1
+---
 ##  To Read
 
 New Electricity Generation : https://ember-energy.org/latest-insights/global-electricity-review-2026/

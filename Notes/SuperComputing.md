@@ -1,3 +1,9 @@
+---
+title: Super-Computing  
+layout: default
+parent: Notes
+nav_order: 1
+---
 #   Super Computing
 
 The baseline used to be human brain power. That baseline is now completely irrelevant. The US just switched on a $20 million system that does in seconds what the entire population of the Earth would take centuries to calculate. This is not an incremental upgrade. It is a completely new category of problem-solving. We had hit a wall. Scientific problems in climate modeling, molecular drug discovery, and AI training simply became too complex for the hardware we had. That bottleneck is gone. We can now run molecular simulations at the exact complexity of real biological systems. Every scientific field that has been stuck waiting for hardware to catch up just got the answer they needed. 

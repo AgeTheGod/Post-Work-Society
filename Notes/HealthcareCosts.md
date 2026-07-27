@@ -1,3 +1,9 @@
+---
+title: Healthcare Costs 
+layout: default
+parent: Notes
+nav_order: 1
+---
 
 Prompts used...
 

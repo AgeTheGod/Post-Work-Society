@@ -1,3 +1,9 @@
+---
+title: Setting Up AI  
+layout: default
+parent: Notes
+nav_order: 1
+---
 #    Can I create a Small Language Model e.g. a single model containing all the UK Tax Legislation?
 
 Yes, you absolutely can create a Small Language Model (SLM) for UK Tax Legislation. This is actually a great use case for SLMs—specialized, domain-specific models that outperform general-purpose LLMs on narrow tasks.

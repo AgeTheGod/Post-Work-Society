@@ -1,7 +1,13 @@
+---
+title: Internet of Things 
+layout: default
+parent: Notes
+nav_order: 1
+---
 #   What is the Internet of THings?
 
 The Internet of Things (IoT) refers to a massive network of everyday physical objects that connect to the internet and exchange data with other systems. Basically, it describes a world where ordinary things have digital "brains" and can talk to each other without humans needing to type on a keyboard. [1, 2, 3, 4]
-------------------------------
+
 ## ⚙️ How IoT Works
 An IoT system relies on a simple, three-step process to bring everyday items to life: [5]
 
@@ -9,7 +15,7 @@ An IoT system relies on a simple, three-step process to bring everyday items to 
 2. Sending Data: The device uses a network connection (like Wi-Fi, 4G/5G, or Bluetooth) to transmit that information to the cloud. [7, 8]
 3. Taking Action: Software analyzes the data and makes an intelligent choice. It might trigger an alert, change a setting automatically, or show the information on a smartphone app. [1, 9, 10, 11, 12]
 
-------------------------------
+
 ## 💡 Common Examples of IoT
 You likely interact with the Internet of Things every day without even realizing it:
 
@@ -18,7 +24,7 @@ You likely interact with the Internet of Things every day without even realizing
 * Smart Cities: Traffic lights that adjust their timing based on real-time road congestion to reduce traffic jams.
 * Industrial IoT (IIoT): Factory machines that warn workers they are about to break down before they actually stop working. [1, 6, 13, 14, 15]
 
-------------------------------
+
 ## 🛡️ Why IoT Matters (And Its Risks)
 IoT makes life much more efficient. Businesses use it to save money, track shipments globally, and reduce energy waste. [1, 16, 17, 18]
 However, because billions of devices are connected to networks, security and privacy are major challenges. If a smart device is not built securely, hackers can use it as a backdoor to steal private data or disrupt networks. For this reason, groups like the [Information Technology Industry Council (ITI)](https://www.itic.org/policy/internet-of-things) and telecom networks work constantly to build stronger, more secure connections for smart technology. [19, 20, 21, 22]
