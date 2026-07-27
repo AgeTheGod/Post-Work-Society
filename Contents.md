@@ -101,4 +101,4 @@ This section provides a complete hierarchical set of links to each distinct page
          7. [Geo-Thermal Energy](./Appendices/Analysis/GeoThermalEnergy)
    5. [Using Artificial Intelligence](./Appendices/AIExampleConversations)
 
-It's maintained here so that I can also see the intended overall structure of the document.
+
