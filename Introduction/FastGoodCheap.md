@@ -30,13 +30,13 @@ The key point being that when trying to attain a particular "Quality" level for 
 ```mermaid
 venn-beta
     set Fast 
-        style Fast stroke:red,stroke-width:4px
+        style Fast stroke:red,stroke-width:10px, fill:red, fill-opacity:0.1
 
     set Good 
-        style Good stroke:blue,stroke-width:4px
+        style Good stroke:blue,stroke-width:10px, fill:blue, fill-opacity:0.1
 
     set Cheap
-        style Cheap stroke:green, stroke-width:4px
+        style Cheap stroke:green, stroke-width:10px, fill:green, fill-opacity:0.1
 
     union Fast,Good["Expensive"]
     union Fast,Cheap["Low Quality"]
