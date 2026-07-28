@@ -1,7 +1,7 @@
 ---
 title: Quick Good Cheap
 layout: default
-parent: Principles
+parent: Functional Principles
 nav_order: 1
 ---
 #   Quick, Good, Cheap - Pick Any Two
