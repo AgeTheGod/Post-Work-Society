@@ -6,38 +6,25 @@ nav_order: 3
 ---
 #   Principles
 
-Any piece of work should have some up-front Principles that constrainb or limit what we are trying to achieve. 
-This mainly so that we don't keep changing direction when the next big thing comes along or keep searching for perfect solutions that do not exist. 
+Any piece of work should have some up-front Principles that constrain or limit what we are trying to achieve. 
+This is mainly so that we don't keep changing direction when the next big thing comes along or keep searching for perfect solutions that do not exist and hence will never be achievable. 
 
-Objectives define success criteria but it's the Principles that tell us whether a proposal is good enough and fir for purpose.
+Objectives or Requirements define success criteria (and we'll state those when we need to) but it's the Principles that tell us whether a proposal is good enough and fit for purpose.
+In normal software engineering the objectives are generally quite concrete and measurable, such as "Implement a new feature that allows users to do X" or "Fix a bug that causes Y".
 
-In normal software engineering Objectives are generally quite concrete and measurable, such as "Implement a new feature that allows users to do X" or "Fix a bug that causes Y".
+However, with designing a Post Work Society it's not quite that simple because we are talking about creating a Social-Economic Framework for a society that potentially involves millions of people living together for *their common benefit*. 
 
-However, in this project it's not quite that simple because we talking about creating a Social-Economic Framework for a Society that potentially involves millions of people living together for *their common benefit*. 
+"Common Benefit" is a much more nebulous thing than defining and implementing a software feature or a bug.
 
-That's a much more nebulous thing than defining and implementing a software feature or a bug.
+##  Functional Principles
 
-##   Functional Principles
-
-### Provide the most benefit for the most people at the least cost
-
-### Government of the people, for the people, by the people
-
-### Encourage the pursuit of Life, Liberty and Happiness
-
-### Equality for all
-
-### Quick, Good, Cheap - Pick Any Two
-
-##  Non-Functional Principles
-
-### Sustainable Services
-
-###  Reproducible Solutions
-
-###  Scalable Management 
-
-###   Minimized Maintenance
+| Principle                                         | Summary |
+|---------------------------------------------------|---------|
+| [Quick, Good, Cheap](./QuickGoodCheap)            |         | 
+| [Sustainable Services](./SustainableServices)     |         |
+| [Reproducible Solutions](./ReproducibleSolutions) |         |
+| [Scalable Solutions](./ScalableSolutions)         |         | 
+| [Minimized Maintenance](./MinimizedMaintenance)   |         |
 
 ##  Development Principles
 
@@ -50,32 +37,10 @@ The single most fundamental principle is...
 
 That's it and if it's not that then all you have is "Vapourware" and "Cargo Cult Software Development" and all the other buzzwords that are used to try to make it sound like you are doing something useful when in fact you are just wasting time and resources iterating on something that does not exist.
 
-### Evolution Not Revolution
-
-Don't try to change everything at once, but instead evolve and improve over time.
-
-As a minimum it means there must be a clear path from the current state to the desired future state, with clear milestones and checkpoints along the way to ensure that we are making progress towards our goals.
-
-Of course, revolution is sometimes necessary, but it should be the exception rather than the rule because revolution invariably involves a period of extreme turmoil before things settle down again.
-
-###  You Ain't Gonna Need It 
-
-Don't implement something until you actually need it.
-
-###  Keep It Simple, Stupid 
-
-Don't overcomplicate things.
-
-### Don't Repeat Yourself
-
-Don't duplicate code or functionality.
-
-### Iterate Don't Procrastinate
-
-Solutions do not have to be perfect, they just have to be good enough to meet the needs of the people that are using them.
-
-Don't try to get everything right the first time, but instead iterate and improve over time.
-
-Procrastination is the enemy of progress and can lead to a situation where nothing gets done because people are trying to get everything right before they start.
-
-### Just Good Enough
+| Principle                                                 | Summary                                                                                                                                 |
+|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| [Evolution Not Revolution](./EvolutionNotRevolution)      | Don't try to change everything at once, but instead evolve and improve over time. The core (unsaid) principle of iterative development. |
+| [Just Good Enough](./JustGoodEnough)                      | Solutions do not have to be perfect, they just have to be good enough to meet the needs of the people that are using them.              |
+| [You Ain't Gonna Need It](./YouAintGonnaNeedIt)           | Don't implement something until you actually need it.                                                                                   |
+| [Iterate Don't Procrastinate](./IterateDontProcrastinate) | Don't wait to implement something until you have a perfect solution, but instead iterate and improve over time.                         |
+| [Keep It Simple, Stupid](./KeepItSimple)                  |is another principle that is often cited in software development but I don't think it is as important as the others because it is more of a design principle than a development principle.|
