@@ -18,7 +18,7 @@ The credit for formalising this concept goes to a British civil engineer and man
 Where...
 - **Cost** is the amount of resources (generally people) and money available to spend on developing the product
 - **Time** is the amount of time available to bring the product to market
-- **Scope** defines the features and functionality then is planned to be included in the product
+- **Scope** defines the features and functionality that are planned to be included in the product
 
 As indicated it's the combination of these (the body of the triangle) defines the overall "_Quality_" of the resulting product.
 
@@ -26,6 +26,8 @@ The key point being that when trying to attain a particular "Quality" level for 
 
 ##  The Venn Alternative
 
+A common modern-day alternative to the Iron Triangle is a Venn diagram which is a more visual way of representing the same concept including the outcomes of the various combinations of the three options.
+It looks like this...
 
 ```mermaid
 venn-beta
@@ -43,6 +45,12 @@ venn-beta
     union Good,Cheap["Slow"]
     union Fast,Good,Cheap["Impossible"]
 ```
+Where...
+- **Cheap** reflects the desired overall cost of the product
+- **Good** reflects the desired overall quality of the product
+- **Fast** reflects the desired overall time to market of the product
+
+For any kind of Application Development there are trade-offs that must be made (usually based on the relative priority of other work) and each trade-off results in a different outcome for the product. as follows...
 
 | Trade Off    | Result      | Outcome                                                                                                                |
 |--------------|-------------|------------------------------------------------------------------------------------------------------------------------|

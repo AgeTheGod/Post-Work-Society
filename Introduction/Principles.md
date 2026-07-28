@@ -20,7 +20,7 @@ However, with designing a Post Work Society it's not quite that simple because w
 
 | Principle                                         | Summary |
 |---------------------------------------------------|---------|
-| [Quick, Good, Cheap](./QuickGoodCheap)            |         | 
+| [Fast, Good, Cheap](./FastGoodCheap)              |         | 
 | [Sustainable Services](./SustainableServices)     |         |
 | [Reproducible Solutions](./ReproducibleSolutions) |         |
 | [Scalable Solutions](./ScalableSolutions)         |         | 
