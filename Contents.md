@@ -7,11 +7,11 @@ nav_order: 1
 
 This section provides a complete hierarchical set of links to each distinct page in order to provide quick navigation to a specific document.   
 
-1. Contents (this sexction)
+1. Contents (this section)
 2. [Introduction](./Introduction/IntroductionSummary)
    3. [Principles](./Introduction/Principles)
       1. [Functional Principles](./Introduction/FunctionalPrinciples) 
-         1. [Quick Good Cheap](./Introduction/QuickGoodCheap)
+         1. [Quick Good Cheap](./Introduction/FastGoodCheap)
          2. [Sustainable Services](./Introduction/SustainableServices)
          3. [Reproducible Solutions](./Introduction/ReproducibleSolutions)
          4. [Minimized Maintenance](./Introduction/MinimizedMaintenance)
