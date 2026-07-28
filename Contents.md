@@ -1,13 +1,14 @@
 ---
 title: Contents
 layout: default
-nav_order: 0
+nav_order: 1
 ---
 #   Contents
 
 This section provides a complete hierarchical set of links to each distinct page in order to provide quick navigation to a specific document.   
 
-1. [Introduction](./Introduction/IntroductionSummary)
+1. Contents (this sexction)
+2. [Introduction](./Introduction/IntroductionSummary)
    3. [Principles](./Introduction/Principles)
       1. [Functional Principles](./Introduction/FunctionalPrinciples) 
          1. [Quick Good Cheap](./Introduction/QuickGoodCheap)
