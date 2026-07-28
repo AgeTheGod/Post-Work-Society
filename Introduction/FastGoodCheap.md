@@ -26,16 +26,18 @@ The key point being that when trying to attain a particular "Quality" level for 
 
 ##  The Venn Alternative
 
-[Fast Good Cheap Venn Diagram](FastGoodCheapVennDiagram.png)
 
 ```mermaid
 venn-beta
     set Fast 
-        style fill:#f9f,stroke:red,stroke-width:4px
+        style Fast stroke:red,stroke-width:4px
+
     set Good 
-        style fill:#9f9,stroke:blue,stroke-width:4px
+        style Good stroke:blue,stroke-width:4px
+
     set Cheap
-        style fill:#f9f,stroke:green,stroke-width:4px
+        style Cheap stroke:green, stroke-width:4px
+
     union Fast,Good["Expensive"]
     union Fast,Cheap["Low Quality"]
     union Good,Cheap["Slow"]
