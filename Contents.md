@@ -22,6 +22,8 @@ This section provides a complete hierarchical set of links to each distinct page
          3. [You Ain't Gonna Need It](./Introduction/YouAintGonnaNeedIt)
          4. [Iterate Don't Procrastinate](./Introduction/IterateDontProcrastinate)
          5. [Keep It Simple, Stupid](./Introduction/KeepItSimple)
+         6. [Minimum Viable Product](./Introduction/MinimumViableProduct)
+         7. [Design For Change](./Introduction/DesignForChange)
 2. [Definition Of Terms](./DefinitionOfTerms/DefinitionOfTermsOverview)
    4. [Political Concepts](./DefinitionOfTerms/PoliticalConcepts)
       1. [What Is Society](./DefinitionOfTerms/WhatISSociety)
