@@ -6,7 +6,7 @@ nav_order: 4
 ---
 #   Workers Rights
 
-One of the side benefits of a Post Work Society where nobody is forced to work for some prodit-making corporation if they don't want to would be improved "**Workers Rights**".
+One of the side benefits of a Post Work Society where nobody is forced to work for some profit-making corporation if they don't want to would be improved "**Workers Rights**".
 
 Basically if a corporation wants to be able to employ people then they will have to make the work either desirable or very well paid (and likely both) otherwise people will simply not "volunteer" to do the work.
 

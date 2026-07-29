@@ -30,7 +30,7 @@ However, with designing a Post Work Society it's not quite that simple because w
 
 I'm a big fan of Iterative Development ([Wikipedia](https://en.wikipedia.org/wiki/Iterative_and_incremental_development)) in the belief that long running projects will be subject to many changes during their lifecycle so not conducive to "**Big Design Up-Front**" ([Wikipedia](https://en.wikipedia.org/wiki/Big_design_up_front)).
 
-However, to make Iterative Development work it's important to estab;lish and follow a number of key principles as part of the development process.
+However, to make Iterative Development work it's important to establish and follow a number of key principles as part of the development process.
 The single most fundamental principle is...
 
     The only sign of success is a working solution that is being used by real people in the real world.

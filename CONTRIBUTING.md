@@ -14,7 +14,7 @@ Also, feel free to share it with anyone and everyone.
 ##  Use of Markdown
 
 The bulk of this is written in GitHub Markdown with Mermaid used for technical diagrams. 
-I use IntelliJ IDEA for locally writing and editing the content but any plain text editor wuith Git integration would do the same thing.
+I use IntelliJ IDEA for locally writing and editing the content but any plain text editor with Git integration would do the same thing.
 
 Where graphics are used, especially when used for statistical representation of data, then the underlying data is also included in the Analysis section of the repository, 
 Ideally the graphics are generated from that data and the generation code also included in this repository.
@@ -26,7 +26,7 @@ Tables are simple Markdown tables - do not use HTML unless absolutely necessary.
 2. The name of the MD file should be the SnakeCase version of the title of the file, and the file should be placed in the appropriate folder based on its topic.
 3. Each sub-folder should have a file called "Overview.md" which contains an overview of the content of that folder and links to the other files in that folder.
 4. The README.md file should contain a table of contents with links to each of the files in the repository, organized by topic.
-5. The first entry under erach topic should be the overview file for that topic, followed by the other files in that topic.
+5. The first entry under each topic should be the overview file for that topic, followed by the other files in that topic.
 
 ### Markdown Page Links
 

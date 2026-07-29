@@ -4,5 +4,5 @@ layout: default
 parent: Development Principles
 nav_order: 3
 ---
-#   You Ain't Gonna Need It (YAGNI)
+#   You Aint Gonna Need It (YAGNI)
 
