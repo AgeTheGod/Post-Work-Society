@@ -1,7 +1,7 @@
 ---
 title: Trends In Society
 layout: default
-nav_order: 2
+nav_order: 5
 ---
 #   Trends In Society
 
@@ -10,6 +10,23 @@ Mostly this is about explaining certain current trends in Society that I think n
 Societies change over time and how they change affects how a Society organizes and manages itself.
 
 "Managing Change" itself is a "Cause & Effect" activity i.e. proposing and making changes should be the result of analysing existing trends, identifying the consequences of those trends and proposing changes to mitigate the impact of a trend continuing in whatever direction it's going in.  
+
+This is particularly important when we see something as being "a problem.
+
+Back in the days before I retired one of my main jobs was to design solutions to problems.
+The first step in doing that is to identify what the problem actually is - this is "root cause analysis" because frequently the stated problem is actually just a symptom and the real problem tuirns out to be something else entirely.
+
+However, once you know what the problem is the next question is not "How do we fix it?" but "Is it a stable problem?" i.e. is it currently as bad as it's going to be or is the problem going to get worse over time until eventually there is a catastrophic system failure. Obviously, if it's the latter then the priority is to stabilize the system and avoid the catastrophe.
+
+You'd be surprised how many people I've had to explain this to over t he years because they haven't bothered to extrapolate the trend and see where it ends up.
+
+What's the trend for Energy Consumption? What's the trend for Wealth Disparity? What's the trend for Population Growth? What's the trend for Employment? What's the trend for Happiness?
+
+For these kinds of questions it's not just a matter of looking at the current state of affairs but also looking at the trend and extrapolating it into the future to see where it ends up.
+If it then ends up somewhere that we don't want to be then we need to ask our root cause questions again...
+- What is causing the problem?
+- Is it a stable problem?
+- How do we fix it?
 
 Unfortunately from a Society point of view I don't believe that we have really made much progress towards creating a more equitable society.
 In fact in many cases exactly the opposite has happened, with...
@@ -46,4 +63,10 @@ That, I think, just would not work simply because people need reasons for doing 
 We also have to bear in mind that the answer to "_How can I make best use of what time I have?_" is going to be a very individual answer with an almost infinite set of potential answers.
 The answer to an infinitely extensible problem requires an infinitely extensible solution - such things don't exist (yet) so I'm not even going to try to address that problem on Day-1.
 
+##  A Note on Accuracy
+
+One of the things about dealing with very large number is that accuracy becomes less important compare to the overall trend. 
+For example, if you are looking at a population of 7 billion people and you are trying to determine the overall trend in population growth, it doesn't really matter if the population is 6.9 billion or 7.1 billion.
+The difference between them are fractions of a percent i.e. if we're talking about a billion and we're out by a million then the variance is only 0.1% or to put ot another way, we're 99.9% accurate.
+It's accurate enough for the overall trend to still be usable.
 

@@ -1,7 +1,7 @@
 ---
 title: Enabling Technologies
 layout: default
-nav_order: 3
+nav_order: 6
 ---
 #   Enabling Technologies Summary
 
@@ -14,7 +14,7 @@ Consequently, this is not a definitive list of everything that is currently avai
 
 Another key point is that everything included in this section is either already here (and implemented somewhere in the world) or it's the subject of major research & development projects.
 
-As per the [Principles](../Introduction/Principles) laid out earlier, when deciding what to include in this section the major considerations were...
+As per the [Principles](../Principles/Principles.md) laid out earlier, when deciding what to include in this section the major considerations were...
 - Is it Sustainable i.e. does it rely on a finite resource that is likely to run out in the near future?
 - Is it Scalable i.e. can it be incrementally built or expanded over time?
 - Is it Maintainable or does it require a high level of regular physical maintenance? 
@@ -36,7 +36,7 @@ Of course, we have to be careful about the Gartner "Technology Hype Cycle"...
 
 ... because new technology is often over-hyped when it first comes out and then it takes a while for the technology to mature and for people to figure out how to use it effectively.
 
-Fortunately the Technology Hype Cycle isn't a concern for this project because we are planning for the future but focussing on a lot of already well esatblished technology and the hyped-up new technologies should reach the "Plateau of Productivity" by the time we actually need them.
+Fortunately the Technology Hype Cycle isn't a concern for this project because we are planning for the future but focussing on a lot of already well established technology and the hyped-up new technologies should reach the "Plateau of Productivity" by the time we actually need them.
 
 A secondary reason for this section is to highlight "**Human Ingenuity**".
 I've always found it fascinating how humans have been able to come up with all kinds of different technologies to solve all kinds of different problems.
