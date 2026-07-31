@@ -1,8 +1,8 @@
 ---
 title: Minimum Viable Product
 layout: default
-parent: Development Principles
-nav_order: 6
+parent: Design Principles
+nav_order: 7
 ---
 #   Minimum Viable Product (MVP)
 
@@ -38,7 +38,7 @@ flowchart LR
 The key point of the process is that it is iterative and continuous. 
 You never stop learning, and you never stop improving.
 
-It also means that we should always be building on top of something that already works and, hence the "Improve" step is always following the "[Evolution Not Revolution](./EvolutionNotRevolution)" principle.
+It also means that we should always be building on top of something that already works and, hence the "Improve" step is always following the "[Evolution Not Revolution](EvolutionNotRevolution.md)" principle.
 
 ## MVP vs. YAGNI
 

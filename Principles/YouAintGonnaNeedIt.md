@@ -1,7 +1,7 @@
 ---
 title: You Aint Gonna Need It
 layout: default
-parent: Development Principles
+parent: Design Principles
 nav_order: 3
 ---
 #   You Aint Gonna Need It (YAGNI)
@@ -15,7 +15,7 @@ When Software Engineers try to predict the future, they often over-engineer the 
 - Delayed Releases: Spending time on "future-proofing" slows down the launch of essential, current requirements.
 
 In Business Analysis (BA) and Requirements Definition, YAGNI means analysing and documenting _only the requirements for the stated needs of the business_. 
-This prevents "Analysis Paralysis" (see [Iterate Don't Procrastinate](./IterateDontProcrastinate)) and keeps the focus strictly on the [Minimum Viable Product (MVP)](./MinimumViableProduct).
+This prevents "Analysis Paralysis" (see [Iterate Don't Procrastinate](IterateDontProcrastinate.md)) and keeps the focus strictly on the [Minimum Viable Product (MVP)](MinimumViableProduct.md).
 
 |                              |                                                                                                                         |
 |------------------------------|-------------------------------------------------------------------------------------------------------------------------|
@@ -44,6 +44,6 @@ However, and this might not bed immediately obvious, option 3 is also a violatio
 ## Related Principles
 
 YAGNI is frequently paired with two other foundational software guidelines:
-- [Keep It Simple](./KeepItSimple)focuses on simplicity of design.
-- [Design For Change](./DesignForChange) encourages creating systems that can easily adapt to future requirements without major rewrites.
+- [Keep It Simple](KeepItSimple.md)focuses on simplicity of design.
+- [Design For Change](DesignForChange.md) encourages creating systems that can easily adapt to future requirements without major rewrites.
 

@@ -37,10 +37,3 @@ This presents a significant problem when it comes to preserving the "cultural id
 Neither problem is a long-term blocker to progress but they do make the analysis more complex and less focused on the core issues that I want to explore in this project.
 (I'll also be honest and say that Macro-Sociology is not something that I'm very knowledgeable about.)
 
-##  Principles
-
-Finally the [Principles](./Principles) section outlines "**Non-Functional Requirements**" (a term used widely in Application Development Methodologies) that should apply to any proposed solution.
-
-This tends to be "_buzzword heavy_" with terms such as "Sustainable Solutions" and "Iterative Development" that are well established in the Application Development world but very rarely appear in wider conversations.
-This omission seems odd to me because there should be some means of judging the appropriateness of some proposed solution other than just arguing about it.  
-

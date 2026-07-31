@@ -1,7 +1,7 @@
 ---
 title: Evolution Not Revolution
 layout: default
-parent: Development Principles
+parent: Design Principles
 nav_order: 1
 ---
 #   Evolution Not Revolution
@@ -33,7 +33,7 @@ The table below highlights the key differences between evolutionary and revoluti
 ## Related Principles
 
 This principle completes the lean product cycle...
-- [Minimum Viable Product](./MinimumViableProduct) helps you launch the bare minimum to get started.
-- [YAGNI](./YouAintGonnaNeedIt) stops you from bloating that launch with speculative features.
-- [Design For Change](./DesignForChange) encourages creating systems that can easily adapt to future requirements without major rewrites.
+- [Minimum Viable Product](MinimumViableProduct.md) helps you launch the bare minimum to get started.
+- [YAGNI](YouAintGonnaNeedIt.md) stops you from bloating that launch with speculative features.
+- [Design For Change](DesignForChange.md) encourages creating systems that can easily adapt to future requirements without major rewrites.
 - Evolution Not Revolution ensures that as you grow, you build on top of that foundation incrementally rather than panic-building massive new systems.

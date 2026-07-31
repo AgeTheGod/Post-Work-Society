@@ -1,7 +1,7 @@
 ---
 title: Iterate Don't Procrastinate
 layout: default
-parent: Development Principles
+parent: Design Principles
 nav_order: 4
 ---
 #   Iterate Don't Procrastinate
@@ -22,7 +22,7 @@ In the Agile Development world this is counteracted by the concept of "**Iterate
 Instead, you make a decision and then iterate on it as you learn more. _Don't try to get everything right the first time_, but instead iterate and improve over time.
 
 The side-effect of this is that you will make mistakes, but that's OK because you can learn from them and improve your solution.
-It also means accepting that in some cases a "[Just Good Enough](./JustGoodEnough)" solution is the most desirable solution.
+It also means accepting that in some cases a "[Just Good Enough](JustGoodEnough.md)" solution is the most desirable solution.
 
 ##  The "Known Unknowns" Matrix
 

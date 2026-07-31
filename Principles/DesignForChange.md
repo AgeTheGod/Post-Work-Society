@@ -1,8 +1,8 @@
 ---
 title: Design For Change
 layout: default
-parent: Development Principles
-nav_order: 7
+parent: Design Principles
+nav_order: 6
 ---
 #   Design For Change
 
@@ -33,7 +33,7 @@ The larger and more complex the application is then the more desirable it is to 
 
 ## Related Principles
 
-- [Minimum Viable Product](./MinimumViableProduct) An MVP must evolve into a mature product so if you do not design for change from day one, your MVP will become unmaintainable forcing a costly, risky "revolutionary" redesign later.
-- [YAGNI](./YouAintGonnaNeedIt) says "Don't build features for tomorrow." Design for Change says "But build today's features so they are easy to change tomorrow."
-- [Evolution Not Revolution](./EvolutionNotRevolution) ensures that as you grow, you build on top of that foundation incrementally rather than panic-building massive new systems.
+- [Minimum Viable Product](MinimumViableProduct.md) An MVP must evolve into a mature product so if you do not design for change from day one, your MVP will become unmaintainable forcing a costly, risky "revolutionary" redesign later.
+- [YAGNI](YouAintGonnaNeedIt.md) says "Don't build features for tomorrow." Design for Change says "But build today's features so they are easy to change tomorrow."
+- [Evolution Not Revolution](EvolutionNotRevolution.md) ensures that as you grow, you build on top of that foundation incrementally rather than panic-building massive new systems.
 
