@@ -134,22 +134,22 @@ A central bank creates money primarily through digital electronic entries, buyin
 It does this by expanding its own balance sheet by the value of the money it wants to create and then distributing that money into the economy through commercial banks, government spending, or other channels.
 
 Methods of Central Bank Money Creation include...
-- Electronic Reserves: The central bank credits digital reserve accounts held by commercial banks, usually when it buys assets like government bonds. [1, 2, 5]
-- Asset Purchases (Quantitative Easing): The central bank purchases securities from financial institutions and pays for them by typing new electronic funds into the seller's bank account. [4, 6]
-- Physical Currency: It authorizes the production of physical banknotes and coins, exchanging them with commercial banks when they need cash for public withdrawals. [1, 3, 7, 8, 9]
+- Electronic Reserves: The central bank credits digital reserve accounts held by commercial banks, usually when it buys assets like government bonds.
+- Asset Purchases (Quantitative Easing): The central bank purchases securities from financial institutions and pays for them by typing new electronic funds into the seller's bank account.
+- Physical Currency: It authorizes the production of physical banknotes and coins, exchanging them with commercial banks when they need cash for public withdrawals.
 
 How a Central Bank decides how much Money to issue is generally defined by monetary targets by continuously analyzing economic data like inflation, GDP growth, and employment to adjust the money supply dynamically.
-Central banks use specific metrics, economic equations, and frameworks to determine how much money needs to circulate. 
 
+Central banks use specific metrics, economic equations, and frameworks to determine how much money needs to circulate such as...
 1. Monitor Key Economic Indicators
    - Inflation Rate: Banks track price indexes against a strict target, usually 2%.
    - GDP Growth: They measure economic output to see if it requires more liquidity.
-   - Employment Data: They assess labor market health to balance growth and inflation. [5]
-3. Estimate Commercial Bank Demand
+   - Employment Data: They assess labor market health to balance growth and inflation.
+2. Estimate Commercial Bank Demand
    - Reserve Requirements: Central banks calculate the minimum cash commercial banks must hold against their deposits.
    - Public Cash Demand: They use historical trends to predict seasonal spikes in physical cash usage, such as during holidays.
    - Interbank Lending Rates: They monitor how much banks borrow from each other to inject or absorb liquidity as needed.
-4. Set Policy Frameworks
+3. Set Policy Frameworks
    - Macroeconomic Modeling: Economists run complex computer simulations to project how different levels of money creation will impact future prices.
    - Forward Guidance: They align their asset purchases and money issuance with long-term economic forecasts rather than rigid, static calculations.
 
