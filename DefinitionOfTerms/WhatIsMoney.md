@@ -51,7 +51,6 @@ At least that is the case within a Society but of course isn't so simply across 
 When that happens we have to take into consideration issues such as...
 - Foreign Exchange Rates - how much one kind of Money is worth in another kind of Money
 - Purchasing Price Parity - how much can one unit of Money buy in a particular Society
-- 
 
 All of these are "technical issues" 
 
@@ -183,9 +182,11 @@ The difference between the nominal market values of the shares and the actual Ne
 
 It effectively became new money that did not exist before the IPO and was created by the Market Exchange and the market valuation of the shares.
 
-In addition, each time the share price changes the total market value of the company also changes. 
+In addition, each time the share price changes the total market value of the company also changes. For example, in this graph of the SpaceX share price...
 
 ![SpaceX Share Price Over Time](SPCXSharePriceOverTime.png)
+
+... we can see that the share price has ranged up to $225 and down to $107 with similar fluctuations in the overall market value of the company even though the company itself has not changed its Net Asset Value.
 
 ##  Non-Traditional Forms of Money
 
