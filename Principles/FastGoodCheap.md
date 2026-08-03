@@ -1,7 +1,7 @@
 ---
 title: Fast, Good, Cheap
 layout: default
-parent: Design Principles
+parent: Principles
 nav_order: 8
 ---
 #   Fast, Good, Cheap - Pick Any Two
@@ -13,7 +13,7 @@ It is generally used as a funny, direct way to explain the mathematical reality 
 
 The credit for formalising this concept goes to a British civil engineer and management consultant named Dr Martin Barnes who first proposed the visual "Iron Triangle" model in 1969 during a course he designed called "Time and Cost in Contract Control" and was originally a traiagle but nowadays looks more like this...
 
-![ProjectManagementTriagle.png](ProjectManagementTriagle.png)
+![ProjectManagementTriangle.png](ProjectManagementTriagle.png)
 
 Where...
 - **Cost** is the amount of resources (generally people) and money available to spend on developing the product
