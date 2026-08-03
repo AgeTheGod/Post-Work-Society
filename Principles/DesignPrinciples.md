@@ -1,7 +1,8 @@
 ---
-title: Development Principles
+title: Design Principles
 layout: default
 parent: Principles
 nav_order: 2
 ---
-#   Development Principles
+#   Design Principles
+
