@@ -89,6 +89,8 @@ This section provides a complete hierarchical set of links to each distinct page
          3. [Reducing Wealth Hoarding](./ReformingSociety/EconomicReform/WealthHoarding)
          4. [Removing Corporate Accounting Loopholes](./ReformingSociety/EconomicReform/AccountingLoopholes)
    3. [Social Reform](./ReformingSociety/SocialReform/SocialReformSummary)
+      1. Education
+      2. 
 9. [Getting There](./GettingThere/GettingThere)
    1. [A National Plan](./GettingThere/NationalPlan)
    2. [Timeline](./GettingThere/GettingThereTimeline)

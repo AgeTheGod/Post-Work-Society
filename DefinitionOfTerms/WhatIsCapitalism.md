@@ -80,12 +80,11 @@ It is however worth bearing in mind that not all forms of Capitalism are equal a
 
 Unconstrained Capitalism i.e. the pursuit of profit above all other considerations is not a good thing.
 
-Most debate centers on reforming capitalism through regulation, taxation, social safety nets, public investment, and governance reforms rather than outright abolition.
-
-Responses to capitalism’s shortcomings, usually instigated by a Government managing a particular Society, include...
+Most debate centers on reforming capitalism through regulation, taxation, social safety nets, public investment, and governance reforms rather than the outright abolition of Capitalism (which, let's be honest, is just not going to happen).
+These responses are usually instigated by a Government managing a particular Society and include...
 - progressive taxation to curb the ability to make excessive profits from a market 
 - stronger labour rights to balance the rights of capitalists
 - anti-trust enforcement to protect consumers by keeping market competition alive, ensuring that companies must compete with each other rather than collude to form a cartel or monopoly.
-- environmental regulation, e.g., carbon pricing and "clean water" regulations, to ensure that the enterprise does not harm the environment in the pursuit of profit. 
 - democratic ownership like Cooperatives and State Owned Enterprises. 
 
+These I'll be exploring in more detail in the section on [Economic Reform](../ReformingSociety/EconomicReform/EconomicReformSummary)
