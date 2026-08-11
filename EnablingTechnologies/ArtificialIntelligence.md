@@ -16,7 +16,7 @@ I was working on Natural Language Processing in the early 2000's and Expert Syst
 So that's not exactly new when it comes to Information Technology! 
 
 The ultimate, long-term goal that gets mentioned a lot is **Artificial General Intelligence (AGI)** a theoretical software that can think, learn, and apply knowledge across any subject just like a human being. 
-This is still theoretical and _nobody is currently anywhere near being able to achieve Artificial General Intelligence_ so this is not part of the technology beingh considered.
+This is still theoretical and _nobody is currently anywhere near being able to achieve Artificial General Intelligence_ so this is not part of the technology being considered.
 
 Ultimately, AI like every other kind of software running on a computer, serves to...
 - automate repetitive work,
@@ -25,7 +25,7 @@ Ultimately, AI like every other kind of software running on a computer, serves t
 
 ##  Why This Matters
 
-Because AI like every other kind of software, is simply algorithms (albeit comnplex algorithms) running on a computer it has the potential to be very flexible and hence useful.
+Because AI like every other kind of software, is simply algorithms (albeit complex algorithms) running on a computer it has the potential to be very flexible and hence useful.
 
 With AI the flexibility is defined by the data-sets that are used to create the Large or Small Large Models that are then used
 
@@ -52,7 +52,7 @@ Predictive Data Analytics itself is not a new science - when I was at school we 
 
 * Data Processing: It sweeps through huge datasets much faster than any human team could.
 * Pattern Recognition: It links random data points together to see subtle correlations.
-* Continuous Learning: Every time new information arrives, the AI updates its logic to make its future guesses even more accurate. [1, 2, 8, 9, 10]
+* Continuous Learning: Every time new information arrives, the AI updates its logic to make its future guesses even more accurate.
 
 This matters because traditional data analysis applications (and I've built many of these) required input data to be thoroughly cleaned are rigorously structured, usually as "relational data", in order to be usable in traditional data analysis applications.  
 

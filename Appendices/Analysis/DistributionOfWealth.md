@@ -7,6 +7,9 @@ parent: Data Analysis
 
 It's no secret that there is significant wealth in the UK so the questions here are really about how much, who has it and how is it passed from one generation to another.
 
+    Prompt: How much personal wealth in the UK is held in financial vehicle such as pension schemes, ISA, Trusts etc?
+    Prompt: What percentage of the population holds each of those dinancial vehiicles?
+
 ##  Accumulated Personal Wealth Held In Financial Vehicles
 
     Prompt: How much personal wealth in the UK is held in financial vehicle such as pension schemes, ISA, Trusts etc?

@@ -12,10 +12,10 @@ It serves as the authoritative blueprint for certifications, academic curricula,
 Each Book of Knowledge represents everything that is known about some tightly bounded subject area and represents the definitive set of standard methodologies, workflows, and technical terms to ensure consistency across that subject area.
 
 For example in Information Technology (IT) & Engineering the following are existing Books Of Knowledge...
-- PMBOK (Project Management Body of Knowledge): Maintained by the Project Management Institute (PMI), this is the global standard for managing IT and software projects.
-- SWEBOK (Software Engineering Body of Knowledge): Published by the IEEE Computer Society, it outlines the accepted boundaries and disciplines of software engineering.
-- BABOK (Business Analysis Body of Knowledge): Created by the International Institute of Business Analysis (IIBA), it guides IT business analysts in software requirements gathering.
-- CyBOK (Cyber Security Body of Knowledge): Funded by the UK government, the CyBOK project maps out the entire landscape of cybersecurity concepts and tools.
+- Project Management Body of Knowledge (PMBOK): Maintained by the Project Management Institute , this is the global standard for managing IT and software projects.
+- Software Engineering Body of Knowledge (SWEBOK): Published by the IEEE Computer Society, it outlines the various boundaries and disciplines of software engineering.
+- Business Analysis Body of Knowledge (BABOK): Created by the International Institute of Business Analysis , it guides IT business analysts in software requirements gathering.
+- Cyber Security Body of Knowledge (CYBOK)): Funded by the UK government, the CyBOK project provides guidelines and standards for cybersecurity concepts and tools.
 
 These Books of Knowledge are maintained separately (by different organizations) but also integrate together to form the more comprehensive Information Technology BOK.
 

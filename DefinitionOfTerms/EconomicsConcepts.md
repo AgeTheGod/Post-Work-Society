@@ -47,7 +47,7 @@ This is done via various metrics such as...
 - Inflation: The rate at which the prices of everyday items increase over time.
 
 
-    Note: Another warning heer.
+    Note: Another warning here.
         Macro-Economics does not take into account things like "happiness" or "equitability" so an Economy can appear to be thriving whilst all members of the Society being measured are "unhappy" or the resources are not being equiatble distributed.
         This is a particular problem to address. 
         The metrics need to be different.

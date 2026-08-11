@@ -7,14 +7,14 @@ nav_order: 1
 
 So instead, I'm going to focus on some basic criteria
 
-| Criteria         | Criteria                                                                              |
-|------------------------|---------------------------------------------------------------------------------------|
-| Voter Inclusivity      |                                                                                       |
-| Plurality              |                                                                                       |
-| Candidate Eligibility  | Defines which members of a Society are eligible to stanf as a condidate in an election |
-| Financial Restrictions |                                                                                       |
-| Representation         | How representative is the result                                                      |
-| Applicability          |                                                                                       |
+| Criteria         | Criteria                                                                               |
+|------------------------|----------------------------------------------------------------------------------------|
+| Voter Inclusivity      |                                                                                        |
+| Plurality              |                                                                                        |
+| Candidate Eligibility  | Defines which members of a Society are eligible to stand as a candidate in an election |
+| Financial Restrictions |                                                                                        |
+| Representation         | How representative is the result                                                       |
+| Applicability          |                                                                                        |
 
 There are both types (how people are elected) and degrees of Democracy (the scope of who can be elected).
 

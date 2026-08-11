@@ -52,7 +52,7 @@ Setting up a Post Work Society would normally cost a lot of Money to transfer cr
 80 years ago the solution would be easy - simply "nationalize" the industries that we need to take control over.
 However, it's not as simple as that nowadays because most of the key industries are actually now owned by external parties and to simply confiscate them would cause all kinds of problems with many other countries.
 
-Basically, we should not underestimate the political power that existing Wealth Management Corporations such as Blackrock and State Street have and their abolity to exercise that political power to retaliate against any attempt "steal their property" from them.
+Basically, we should not underestimate the political power that existing Wealth Management Corporations such as Blackrock and State Street have and their ability to exercise that political power to retaliate against any attempt "steal their property" from them.
 
 Even though it's a challenge to convert existing companies we can still make decisions about how we want the market to function and define constraints on future suppliers into that market.
 

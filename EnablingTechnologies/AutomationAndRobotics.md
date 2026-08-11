@@ -50,5 +50,5 @@ Autonomous Vehicles & Drones (AV) allows us to transport goods from the Factory 
 
 ### Humanoid Robots and Drones
 
-I've grouped these two together because the dsistinction between a Robot and a Drone is not always apparent and not very well defined.
+I've grouped these two together because the distinction between a Robot and a Drone is not always apparent and not very well defined.
 

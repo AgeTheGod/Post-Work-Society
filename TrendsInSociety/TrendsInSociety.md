@@ -14,7 +14,7 @@ Societies change over time and how they change affects how a Society organizes a
 This is particularly important when we see something as being "a problem.
 
 Back in the days before I retired one of my main jobs was to design solutions to problems.
-The first step in doing that is to identify what the problem actually is - this is "root cause analysis" because frequently the stated problem is actually just a symptom and the real problem tuirns out to be something else entirely.
+The first step in doing that is to identify what the problem actually is - this is "root cause analysis" because frequently the stated problem is actually just a symptom and the real problem turns out to be something else entirely.
 
 However, once you know what the problem is the next question is not "How do we fix it?" but "Is it a stable problem?" i.e. is it currently as bad as it's going to be or is the problem going to get worse over time until eventually there is a catastrophic system failure. Obviously, if it's the latter then the priority is to stabilize the system and avoid the catastrophe.
 
@@ -46,7 +46,7 @@ We are also more stressed and less happy than ever before as shown in the [World
 [Population Growth and Decline](./PopulationTrends)
 
 [The Concentration of Wealth](./WealthTrends) looks at how "Wealth" (the accumulation of long-term assets) is becoming more and more concentrated into the hands of fewer and fewer people.
-"_Wealth Disparity_" has long been considered a fundamental problem in a progressive society but the analysis shows that this disparity is beginning to readch some critical inflection points.
+"_Wealth Disparity_" has long been considered a fundamental problem in a progressive society but the analysis shows that this disparity is beginning to reach some critical inflection points.
 
 [Employment Trends](./EmploymentTrends)
 

@@ -17,11 +17,11 @@ As a result the role that each plays as either a baseload generator and the main
 | Hydro-electric     | Very High (~$3,000–$7,000+) | $62          | 5+ years   | 50 - 100+ years  | Baseload / Dispatchable | Massive civil engineering costs, highly reliable with low opex.             |
 | Nuclear            | Extreme (~$8,000–$14,000+)  | $140 – $220+ | 10+ years  | 60 - 80 years    | Baseload (24/7)         | Massive regulatory and construction hurdles, highly complex maintenance.    |
 
-However, as regularly noted elsewhere, technology keeps improving over time with new discoveries and onnovations continuously making thewor way into production.
-This frequently results in the Capital Expenditure costs or the Levelised Cost of Energy decreasing.
+However, as regularly noted elsewhere, technology keeps improving over time with new discoveries and innovations continuously making their way into production.
+This frequently results in the Capital Expenditure costs or the Levelized Cost of Energy decreasing.
 Based on the latest planned technologies these two values are projected to change as follows...
 
-| Energy Source & Technology Variant              | Capital Cost (CAPEX / kW) | Levelised Cost (LCOE / MWh) | Average Build Time | Average Lifespan | Grid Role & Primary Characteristic                                        |
+| Energy Source & Technology Variant              | Capital Cost (CAPEX / kW) | Levelized Cost (LCOE / MWh) | Average Build Time | Average Lifespan | Grid Role & Primary Characteristic                                        |
 |-------------------------------------------------|---------------------------|-----------------------------|--------------------|------------------|---------------------------------------------------------------------------|
 | Solar PV (Standard Mono-Si)                     | $900 – $1,200             | $24 – $60                   | 6 – 18 Months      | 25 – 30 Years    | Intermittent (Day). Cheap upfront, limited by standard cell efficiencies. |
 | Solar PV (Next-Gen Perovskite Tandem)           | $800 – $1,100             | $18 – $35                   | 3 – 9 Months       | 25 – 30 Years    | Intermittent (Day). Stacking materials yields 30%+ energy output.         |
@@ -36,7 +36,7 @@ Based on the latest planned technologies these two values are projected to chang
 | Nuclear (Standard Giga-scale Reactor)           | $8,000 – $14,000+         | $140 – $220+                | 8 – 14+ Years      | 60 – 80 Years    | Baseload (24/7). Prone to intense regulatory and on-site delays.          |
 | Nuclear (Next-Gen Small Modular / SMR)          | $8,500 – $13,000+         | $110 – $140                 | 3 – 5 Years        | 60 – 80 Years    | Baseload (24/7). Factory-fabricated parts avoid field construction lags.  |
 
-As always we have the balance between [Quick, Good and Cheap](../../Introduction/QuickGoodCheap) to consider where the most predictable energy sources also happen to be the most expensive and generally take longer to build but last longer once built.
+As always we have the balance between [Quick, Good and Cheap](../../Principles/FastGoodCheap.md) to consider where the most predictable energy sources also happen to be the most expensive and generally take longer to build but last longer once built.
 
 However the critical trends are worth pointing out...
 - The Baseload Compression: When looking at the rows for Enhanced Geothermal (Next-Gen Horizontal) and Nuclear (Next-Gen SMR), you can see a massive paradigm shift. Instead of waiting up to 14 years for 24/7 carbon-free grid power, utilities can now deploy continuous energy generation solutions in under 5 years.

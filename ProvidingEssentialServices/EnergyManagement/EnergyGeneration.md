@@ -10,7 +10,7 @@ There are a lot of different technologies that are being developed and deployed 
 
 ##  Nuclear Energy
 
-Nowadays, full-scale Nuclear Power Stations provide the "_Baseline Capacity_" generation for many countries around the world and they are a significant source of low-carbon electricity generation.
+Nowadays, full-scale Nuclear Power Stations provide the "_Baseline Capacity_" generation for many countries around the world and are a significant source of low-carbon electricity generation.
 
 > Note:   "Baseline Capacity" is the minimum level of demand on an electrical grid over a span of time, and it is typically met by power plants that can run continuously and reliably over that time-frame.
 
@@ -18,7 +18,7 @@ In fact, worldwide, many countries continue to base their future energy generati
 
 This is simply because of all the Sustainable Energy Generation capabilities Nuclear Power is...
 - The most established technology - Traditional Nuclear Fission Reactors have been around since the 1950's
-- Provides the most predictable output because it dos not rely on unpredictable weather to provide the power source.
+- Provides the most predictable output because it does not rely on unpredictable weather to provide the power source.
 - It is very cost-effective once the Nuclear Power Station is built and has one of the lowest "_operational costs per KWh/H_" amongst all the sustainable energy generation technologies. (On the other hand, the Capital Investment cost is very high in comparison)    
 
 ###    Traditional Nuclear Fission Reactors
@@ -35,7 +35,7 @@ Thorium solves all three and the main reason why it's not been used extensively 
 
 However, Thorium Reactors are now being built again (China has a number of them both operational and planned) and most of the recent publications on "safe & clean" Nuclear Power is because of the planned use of Thorium instead of Uranium.
 
-A side benefit is that Thorium is much more abundant than Uranium and not radioactive in it's natural form
+A side benefit is that Thorium is much more abundant than Uranium and not radioactive in its natural form
 
 ###    Small Modular Reactors (SMRs)
 
@@ -130,14 +130,14 @@ We can split this into three types of water power...
 
 Seems odd to include this here because the first practical hydroelectric generator was built in 1878 (150 years ago) by William Armstrong at his estate in Northumberland, England.
 
-However, its technology that really works and it is still being used today to generate electricity in many parts of the world and very efficient given the right geography.
+However, it is technology that really works and is still being used today to generate electricity in many parts of the world and very efficient given the right geography.
 
 ###    Ocean Water Power
 
 Until recently this was the least popular of the Sustainable Energy solutions simply because salt water destroys machines, rusts metal, seizes bearings, and fatigues blades. 
 Every time we try to pull energy from the ocean, the ocean fights back and eventually wins (this has always been a truism).
 
-That is why tidal energy has always been more theory than reality because, over time, maintenance costs eventually eventually make any kind of Ocean Power uneconomical.
+That is why tidal energy has always been more theory than reality because, over time, maintenance costs eventually make any kind of Ocean Power uneconomical.
 
 However, engineers have now bypassed the problem by using **Magneto-Hydro-Dynamics** (MHD) to build a generator with zero moving parts that just sits in the ocean or river current and converts the water's kinetic force directly into electricity without a single piece of rotating machinery.
 
@@ -157,7 +157,7 @@ The idea behind Droplet Electricity Generation is to capture this electric charg
 When a raindrop hits the specially coated panel, it bridges two electrodes which creates a closed-loop system that instantly releases the droplet's stored surface charge.
 
 Earlier prototypes of this technology have existed since 2014 but the electricity capture was very inefficient. 
-However recent breakthroughs in materials Science have increased the efficiency by a factor of 1,000 making this a viable solution to small-scale (e.g. residential) electricity generation.
+However, recent breakthroughs in materials Science have increased the efficiency by a factor of 1,000 making this a viable solution to small-scale (e.g. residential) electricity generation.
 More details at [Science Direct](https://www.sciencedirect.com/science/article/pii/S2589004224005121)
 
 ##  Geo-Thermal Power

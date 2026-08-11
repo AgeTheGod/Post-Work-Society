@@ -25,10 +25,10 @@ Others are just tangential that I included because they present interesting info
 
 However, because there is such a huge amount of data and information available I've split this into multiple section rather than just provide a list of links.
 
-|                                                               |                                                                                                                                                                                  |
-|---------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Wikipedia Knowledge Articles](./WikipediaKnowledgeArticles) | I use a lot of references to Wikipedia pages because, in my opinion, Wikipedia is the berst on-line encyclopediaa and a great start point for digging into definitions of things. |
-| [Further Reading](./FurtherReading)                        | Links to miscellaneous articles exprtessing ideas and opiniosn that I found interesting                                                                                          |
-| [Data Sources](./DataSources)                                |                                                                                                                                                                                  |
-| [Analysis](./AnalysisOverview)                               |                                                                                                                                                                                  |
+|                                                              |                                                                                                                                                                                 |
+|--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Wikipedia Knowledge Articles](./WikipediaKnowledgeArticles) | I use a lot of references to Wikipedia pages because, in my opinion, Wikipedia is the best on-line encyclopedia and a great start point for digging into definitions of things. |
+| [Further Reading](./FurtherReading)                          | Links to miscellaneous articles expressing ideas and opinions that I found interesting                                                                                          |
+| [Data Sources](./DataSources)                                |                                                                                                                                                                                 |
+| [Analysis](./AnalysisOverview)                               |                                                                                                                                                                                 |
 
