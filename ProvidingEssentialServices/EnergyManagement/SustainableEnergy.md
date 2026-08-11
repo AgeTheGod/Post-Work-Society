@@ -32,16 +32,10 @@ For the purpose of documenting the enabling technologies for Sustainable Energy 
 2. How to store Electricity until it is required?
 3. How to distribute Electricity to where it is needed?
 
-The main reason for separating these three concerns is that [Energy Generation](./EnergyGeneration) is not a single solution and whilst there are many, many deployable technologies for generating energy. 
-On the other hand, both [Energy Storage](./EnergyStorage) but [Energy Distribution](./EnergyDistribution) is much more limited.
-In addition [Energy Distribution](./EnergyDistribution) is, or should be, a natural monopoly from the viewpoint of the consumer. 
-
-Hopefully, the significance of this split will become very apparent when discussing [Delivering Energy](./DeliveringEnergyGenerationCapacity) and [Funding Energy Management](./FundingEnergyManagement).
-
 ```mermaid
 architecture-beta
 service generation(server)[National Energy Generation]
-service distribution(cloud)[Grid]
+service distribution(cloud)[National Grid]
 service storage(database)[National Storage]
 
 group consumption(server)[Consumers]
@@ -63,3 +57,9 @@ distribution:B --> T:essential
 service local(server)[Local Solar]
 local:T --> B:domestic
 ```
+The main reason for separating these three concerns is that [Energy Generation](./EnergyGeneration) is not a single solution and whilst there are many, many deployable technologies for generating energy.
+On the other hand, both [Energy Storage](./EnergyStorage) but [Energy Distribution](./EnergyDistribution) is much more limited.
+In addition [Energy Distribution](./EnergyDistribution) is, or should be, a natural monopoly from the viewpoint of the consumer.
+
+Hopefully, the significance of this split will become very apparent when discussing [Delivering Energy](./DeliveringEnergyGenerationCapacity) and [Funding Energy Management](./FundingEnergyManagement).
+
