@@ -16,7 +16,7 @@ To the vast majority of people **_Money is the means by which things are paid fo
 - Standard of Deferred Payment
 - A reference point for Prices
 
-"What Is Money?" is also the title of the first chapter of Karl Marx's "Das Kapital" which is well worth reading on its own (reading the other 2,000 pages is really only for the die-hards). 
+"What Is Money?" is also the title of the first chapter of Karl Marx's "Das Capital" which is well worth reading on its own (reading the other 2,000 pages is really only for the die-hard economists). 
 That's where he defines the forms, purpose and function of Money mentioned above.
 Even saying that it's worth bearing in mind that he was writing it around 1850 in the days when all Money, as a Promissory Note, had real value because it was based on ownership of precious commodities such as Gold. 
 A Currency Issuer could only issue Money up to the value of the Gold that they had in reserve (the Gold Reserve) and, in theory at least, a Person could take their Money to the National Reserve Bank (Bank of England in the UK) and ask for it to be exchanged into the equivalent amount of Gold.
@@ -33,7 +33,7 @@ For example...
 - On a smaller scale it's also what Banks do when they extend credit to a borrower such as lend money for a Mortgage. The Money created to fund the Debt is another number in a ledger but doesn't actually exist physically.
 - It's also the reason why the value of the Financial Markets can vastly exceed the wealth of a Nation and keep growing even though no more Money is actually in circulation.
 
-This aspect of Fiat Money is critical to understand because it becomes very important later one when we consider subjects like [how society funds itself](../ReformingSociety/EconomicReform/FundingPublicServices) and [Universal Basic Income](../ReformingSociety/EconomicReform/GuaranteedMinimumIncome).
+This aspect of Fiat Money is critical to understand because it becomes very important later one when we consider subjects like [Modern Monetary Theory](./ModernMonetaryTheory) [how society funds itself](../ReformingSociety/EconomicReform/FundingPublicServices) and [Universal Basic Income](../ReformingSociety/EconomicReform/GuaranteedMinimumIncome).
 
 ##  The Uses of Money
 
@@ -204,7 +204,7 @@ For smaller day-to-day financial activity it's difficult to see any value in Dig
 
 The exception to this is the emerging Central Bank Digital Currencies (CBDCs) which are state-issued digital liabilities.
 
-If there is a use for Digital Money then it's in the world of International Trading because the single biggest advantage of Digital Money has over Promissory Money or Fiat Money is that it's Politically Independent i.e. not controlled by any single National Government or the National Politics of any sdingle Nation.
+If there is a use for Digital Money then it's in the world of International Trading because the single biggest advantage of Digital Money has over Promissory Money or Fiat Money is that it's Politically Independent i.e. not controlled by any single National Government or the National Politics of any single Nation.
 This is potentially very useful.
 
 ### Time Credits
