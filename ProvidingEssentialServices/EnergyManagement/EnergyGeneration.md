@@ -6,7 +6,9 @@ nav_order: 1
 ---
 #  Electricity Generation Technologies
 
-There are a lot of different technologies that are being developed and deployed in this area because world-wide power consumption is projected to massively increase over the next decade (and probably will do in every decade) and fossil fuel generation is not going to be able to meet that demand.
+There are a lot of different technologies that are being developed and deployed in this area because world-wide power consumption is projected to massively increase over the next decade (and probably will do in every decade going forward) and fossil fuel generation is not going to be able to meet that demand in a sustainable way.
+
+It's also the case that outside of Nuclear Power all of the other sustainable Energy Generation technologies are highly dependent on geographic conditions and hence are not usable everywhere.
 
 ##  Nuclear Energy
 
@@ -14,26 +16,27 @@ Nowadays, full-scale Nuclear Power Stations provide the "_Baseline Capacity_" ge
 
 > Note:   "Baseline Capacity" is the minimum level of demand on an electrical grid over a span of time, and it is typically met by power plants that can run continuously and reliably over that time-frame.
 
-In fact, worldwide, many countries continue to base their future energy generation strategy on using Nuclear Power to provide the baseline electricity generation capability.
+In fact, worldwide, many countries are continuing to base their future energy generation strategy on using Nuclear Power to provide the baseline electricity generation capability.
 
 This is simply because of all the Sustainable Energy Generation capabilities Nuclear Power is...
 - The most established technology - Traditional Nuclear Fission Reactors have been around since the 1950's
 - Provides the most predictable output because it does not rely on unpredictable weather to provide the power source.
-- It is very cost-effective once the Nuclear Power Station is built and has one of the lowest "_operational costs per KWh/H_" amongst all the sustainable energy generation technologies. (On the other hand, the Capital Investment cost is very high in comparison)    
+- It is very cost-effective once the Nuclear Power Station is built and has one of the lowest "_operational costs per KWh/H_" amongst all the sustainable energy generation technologies. (On the other hand, the Capital Investment cost is very high in comparison)
 
 ###    Traditional Nuclear Fission Reactors
 
-Even though Nuclear Fission is still being pursued what is changing is the switch away from Uranium towards Thorium Nuclear Reactors.
+Even though Nuclear Fission is still being pursued what is mostly changing with Nuclear Energy is the switch away from Uranium towards Thorium Nuclear Reactors.
 
 Uranium has three main problems...
-1. It creates weapons-grade plutonium.
-2. It melts down under pressure.
+1. It melts down under pressure and potentially explodes e.g. Three Mile Island, Chernobyl, Fukushima and other more minor ones.
+2. It creates weapons-grade plutonium
 3. Its radioactive waste lasts for tens of thousands of years.
 
-Thorium solves all three and the main reason why it's not been used extensively in the past is because of (1) above - from the 1950's through to the 1990's most countries that pursued a Nuclear Power strategy also wanted the resulting Plutonium for potentially use in Nuclear Weapons.
-(This was the case in the USA where the Molten Salt Reactor Experiment at Oak Ridge National Laboratory ran for 4 years before it was abandoned in 1969 in favour of Uranium Reactors.)
+Thorium solves all three and the main reason why it's not been used extensively in the past is because of (2) above. 
+From the 1950's through to the 1990's most countries that pursued a Nuclear Power strategy also wanted the resulting Plutonium to potentially use in Nuclear Weapons.
+This was the case in the USA where the Molten Salt Reactor Experiment (a Thorium Reactor) at Oak Ridge National Laboratory ran for 4 years before it was abandoned in 1969 in favour of Uranium Reactors.
 
-However, Thorium Reactors are now being built again (China has a number of them both operational and planned) and most of the recent publications on "safe & clean" Nuclear Power is because of the planned use of Thorium instead of Uranium.
+However, Thorium Reactors are now being built again (China has a number of them both operational and planned) and most of the recent publications on "safe & clean" Nuclear Power is based on the planned use of Thorium instead of Uranium.
 
 A side benefit is that Thorium is much more abundant than Uranium and not radioactive in its natural form
 
@@ -88,7 +91,7 @@ However, if all the problems are solved then this is definitely a very usable an
 
 Solar Power is the most abundant and widely available source of renewable energy, and it has been growing rapidly in recent years because, let's face it, the sun isn't going anywhere anytime soon so sunshine is ubiquitous and free.
 
-Although there has been a lot of improvement in the efficiency of solar panels, the main reason for the rapid growth of solar power is the dramatic decrease in the cost of solar panels and the associated infrastructure, such as inverters and mounting systems.
+Although there has been a lot of improvement in the efficiency of solar panels, the main reasons for the rapid growth of solar power are the dramatic decrease in the cost of solar panels and the associated infrastructure, such as inverters and mounting systems.
 
 There has also been a lot of innovation in the design and materials used in solar panels, such as...
 - the development of thin-film solar panels, which are lighter and more flexible than traditional silicon-based panels
@@ -96,8 +99,9 @@ There has also been a lot of innovation in the design and materials used in sola
 
 Finally, Solar Panels can be manufactured in all shapes and sizes and easily installed on a wide variety of surfaces so, as well as being efficient they are also the most versatile means of generating electricity.
 
-Solar Power is also the Electricity Generation of choice in outer space where the intensity of solar radiation is significantly higher than it is on the Earth's surface.
+Solar Power is also currently the Electricity Generator of choice in outer space where the intensity of solar radiation is significantly higher than it is on the Earth's surface.
 Pretty much all spacecraft, satellites, and space stations rely on solar panels to generate electricity, and these solar panels have been designed to withstand the harsh conditions of space, such as extreme temperatures, radiation, and micrometeoroid impacts.
+(Note: this might change once Nuclear Micro-Batteries enter mass production.)
 
 ## Wind Power
 
@@ -130,35 +134,20 @@ We can split this into three types of water power...
 
 Seems odd to include this here because the first practical hydroelectric generator was built in 1878 (150 years ago) by William Armstrong at his estate in Northumberland, England.
 
-However, it is technology that really works and is still being used today to generate electricity in many parts of the world and very efficient given the right geography.
+However, it is technology that really works and is still being used today to generate electricity in many parts of the world and is very efficient given the right geography i.e. natural valley's being fed by one of more rivers.
 
 ###    Ocean Water Power
 
-Until recently this was the least popular of the Sustainable Energy solutions simply because salt water destroys machines, rusts metal, seizes bearings, and fatigues blades. 
-Every time we try to pull energy from the ocean, the ocean fights back and eventually wins (this has always been a truism).
+Until recently this was the least popular of the Sustainable Energy solutions simply because salt water is highly abrasive so destroys machines, rusts metal, seizes bearings, and fatigues blades. 
+Every time we try to pull energy from the ocean, the ocean fights back and eventually wins (this has always been a truism and is the reason every coastline is subject to continuous coastal erosion).
 
-That is why tidal energy has always been more theory than reality because, over time, maintenance costs eventually make any kind of Ocean Power uneconomical.
+That is why sustainable tidal energy has previously been more theory than reality because, over time, maintenance costs eventually make any kind of Ocean Power uneconomical.
 
-However, engineers have now bypassed the problem by using **Magneto-Hydro-Dynamics** (MHD) to build a generator with zero moving parts that just sits in the ocean or river current and converts the water's kinetic force directly into electricity without a single piece of rotating machinery.
+However, engineers have now bypassed this problem by using **Magneto-Hydro-Dynamics** (MHD) to build a generator with zero moving parts that just sits in the ocean or river current and converts the water's kinetic force directly into electricity.
 
 By using magnetic fields, the naturally conductive saltwater itself acts as the moving part, inducing an electrical current as salt-water flows through the device.
 
-In addition, because there is no mechanical turbine, marine life can pass safely near or through the generator without getting caught in spinning blades.
-
-So, given that the oceans are relentless and the ebb & flow of the tides never stops (because gravity never stops) large scale Ocean Water Power becomes a candidate for baseline energy generation in any country that has a significant coastline. 
-
-###    Droplet Electricity Generation (DEG)
-
-This is an emerging technology for geographic areas that experience a lot of rainfall. 
-In The British Isles this would be Ireland and North-West of Britain and, world-wide, an awful lot South-East Asian and the South American regions.
-
-Raindrops have a naturally stored surface charge the normally dissipates on contact with the ground. 
-The idea behind Droplet Electricity Generation is to capture this electric charge before it dissipates.
-When a raindrop hits the specially coated panel, it bridges two electrodes which creates a closed-loop system that instantly releases the droplet's stored surface charge.
-
-Earlier prototypes of this technology have existed since 2014 but the electricity capture was very inefficient. 
-However, recent breakthroughs in materials Science have increased the efficiency by a factor of 1,000 making this a viable solution to small-scale (e.g. residential) electricity generation.
-More details at [Science Direct](https://www.sciencedirect.com/science/article/pii/S2589004224005121)
+So, given that the oceans are relentless and the ebb & flow of the tides never stop (because gravity never stops) large scale Ocean Water Power becomes a candidate for baseline energy generation in any country that has a significant coastline.
 
 ##  Geo-Thermal Power
 
@@ -173,3 +162,17 @@ Geo-Thermal Power, Like Ocean Water Power, runs on a continuous, sustainable loo
 
 Traditionally, Geo-Thermal Power relied on access to Geo-Thermal Resources near to the surface such as they have in Iceland but recent developments in drilling technology, such as millimeter-wave drilling, allows much deeper drilling up to 10km.
 As a result this allows access to superhot energy (300--500°C) almost anywhere globally, removing geographic limitations.
+
+###    Droplet Electricity Generation (DEG)
+
+This is an emerging technology for geographic areas that experience a lot of rainfall.
+In The British Isles this would be Ireland and North-West of Britain and, world-wide, an awful lot South-East Asian and the South American regions.
+
+Raindrops have a naturally stored surface charge the normally dissipates on contact with the ground.
+The idea behind Droplet Electricity Generation is to capture this electric charge before it dissipates.
+When a raindrop hits the specially coated panel, it bridges two electrodes which creates a closed-loop system that instantly releases the droplet's stored surface charge.
+
+Earlier prototypes of this technology have existed since 2014 but the electricity capture was very inefficient.
+However, recent breakthroughs in materials Science have increased the efficiency by a factor of 1,000 making this a viable solution to small-scale (e.g. residential) electricity generation.
+More details at [Science Direct](https://www.sciencedirect.com/science/article/pii/S2589004224005121)
+
