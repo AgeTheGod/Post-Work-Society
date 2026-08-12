@@ -8,8 +8,8 @@ nav_order: 1
 
 **Sustainable Energy Management** is (or should be) pretty much the top priority in any modern society (some would say the single most important requirement) and when we talk about Energy Generation we're really talking about "Electricity" because that's what powers pretty much everything that most of us care about.
 
-Fortunately, because of the current focus on "Renewable Energy" and "Sustainable Energy", this is an area that has been exploding wioth new technologies in recent years to the externt that 100% renewable and sustainable electricity generation is pretty much a reality.
-Some Countries are already there (e.g. Costa Rica, Iceland, Norway) and many more, including the UK, are on the way andf not far short of being completely self-sustainable.
+Fortunately, because of the current focus on "Renewable Energy" and "Sustainable Energy", this is an area that has been exploding with new technologies in recent years to the extent that 100% renewable and sustainable electricity generation is pretty much a reality.
+Some Countries are already there (e.g. Costa Rica, Iceland, Norway) and many more, including the UK, are on the way and not far short of being completely self-sustainable.
 The cost of renewable energy is now cheaper than fossil fuels in many parts of the world.
 
 >    Note: I'm deliberately not addressing the Climate Change issue in this section.
@@ -57,8 +57,8 @@ distribution:B --> T:essential
 service local(server)[Local Solar]
 local:T --> B:domestic
 ```
-The main reason for separating these three concerns is that [Energy Generation](./EnergyGeneration) is not a single solution and whilst there are many, many deployable technologies for generating energy.
-On the other hand, both [Energy Storage](./EnergyStorage) but [Energy Distribution](./EnergyDistribution) is much more limited.
+The main reason for separating these three concerns is that [Energy Generation](./EnergyGeneration) is not a single solution and there are many, many deployable technologies for generating energy.
+On the other hand, both [Energy Storage](./EnergyStorage) but [Energy Distribution](./EnergyDistribution) are much more limited in their potential solutions.
 In addition [Energy Distribution](./EnergyDistribution) is, or should be, a natural monopoly from the viewpoint of the consumer.
 
 Hopefully, the significance of this split will become very apparent when discussing [Delivering Energy](./DeliveringEnergyGenerationCapacity) and [Funding Energy Management](./FundingEnergyManagement).
