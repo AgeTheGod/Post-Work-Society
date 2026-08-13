@@ -91,7 +91,7 @@ This section provides a complete hierarchical set of links to each distinct page
          4. [Removing Corporate Accounting Loopholes](./ReformingSociety/EconomicReform/AccountingLoopholes)
       5. [Job Guarantees](./ReformingSociety/EconomicReform/JobGuarantee.md)
    3. [Social Reform](./ReformingSociety/SocialReform/SocialReformSummary)
-      1. Education
+      1. Life-Long Education
 9. [Getting There](./GettingThere/GettingThere)
    1. [A National Plan](./GettingThere/NationalPlan)
    2. [Timeline](./GettingThere/GettingThereTimeline)
@@ -102,7 +102,6 @@ This section provides a complete hierarchical set of links to each distinct page
     2. [Global Closed Society](./FurtherThoughts/GlobalClosedSociety)
     3. Geo-Political Issues
     4. Crimes Against Society
-    5. [Prioritizing People](./FurtherThoughts/PrioritizingPeople)
     6. [Books of Knowledge](./FurtherThoughts/BooksOfKnowledge)
 11. [Appendices](./Appendices/AppendicesSummary)
     1. [Wikipedia Knowledge Articles](./Appendices/WikipediaKnowledgeArticles)
