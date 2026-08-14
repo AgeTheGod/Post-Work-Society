@@ -18,8 +18,8 @@ What we have to do to do this is...
 Luckily enough we probably don;t have tro do this because a Nationwide Communication Back-Bone already exists in the UK. It's OpenReach from BT which operates the vast majority of the communication cables in the UK.
 
 So we could Buy OpenReach from BT which would cost approximately £15 Billion to buy outright based on...
-- BT's total market value is around £24 Billion pounds ()as at 11/May-2026)
-- OpenReach contributes less than 50% to BT's EBITA
+- British Telecoms total market value is around £24 Billion pounds ()as at 11/May-2026)
+- OpenReach contributes less than 50% to British Telecoms EBITA
 - It would require a premium on top of that to keep the BT Shareholders happy (though don;t have to because the Government could just enforce it)
 
 With the back-bone in place and the cost spread over a 10 year period (not long in terms of infrastructure operations) then the cost would be in the region of £21.50 per year or £1.80 per month per person. 

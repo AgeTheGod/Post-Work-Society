@@ -37,7 +37,7 @@ This is significant fron the Sustainable Energy perspective because it means tha
 ## Wireless Power Transmission
 
 Since the first electrical grid was switched on, one physical rule has dictated the design of every city, home, and appliance. 
-Electricity needs a wire to connect an electrocal device to a power source. 
+Electricity needs a wire to connect an electrical device to a power source. 
 That requirement is why billions of tons of copper are buried under our streets and strung between wooden poles and every house is wired up with multiple electric power sockets. 
 
 Wireless Power Transmission (WPT) is a technology that allows electrical energy to be transferred from a power source to an electrical load across an air gap without using physical wires or cables.
