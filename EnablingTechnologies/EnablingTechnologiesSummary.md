@@ -23,12 +23,15 @@ As per the [Principles](../Principles/Principles.md) laid out earlier, when deci
 It's a huge area so doing a deep-dive into each of them isn't really possible and so, in most cases, I've just summarized the technology capability and only provided additional information where the detail is particularly relevant.
 
 I've also tried to group the Technology together where there are multiple technologies that roughly solve the same problem. These are...
-- [Sustainable Energy Generation](../ProvidingEssentialServices/EnergyManagement/SustainableEnergy)
-- [Internet Communications](../ProvidingEssentialServices/Telecommunications/InternetCommunications)
-- [Artificial Intelligence](./ArtificialIntelligence)
-- [Automation](./AutomationAndRobotics)
-- [Computerized Systems](./ComputerizedSystems)
-- [Interplanetary Mining](./InterPlanetaryMining)
+
+||                                                                      |
+|-----|----------------------------------------------------------------------|
+| [Sustainable Energy Generation](EnergyProduction/EnergyProduction.md)| The generation, distribution, storage and consumption of electricity |
+| [Internet Communications](../EssentialBasicServices/Telecommunications/InternetCommunications)|                                                                      |
+| [Artificial Intelligence](ComputerizedSystems/ArtificialIntelligence.md)|                                                                      |
+| [Automation](./AutomatedProduction)|                                                                      |
+| [Computerized Systems](./ComputerizedSystems)|                                                                      |
+| [Interplanetary Mining](./InterPlanetaryMining)|                                                                      |
 
 Of course, we have to be careful about the Gartner "Technology Hype Cycle"...
 

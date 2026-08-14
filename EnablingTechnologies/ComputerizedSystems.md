@@ -6,9 +6,7 @@ nav_order: 3
 ---
 #   Computerized Systems   
 
-This is really a catch-all bucket of ideas rather than a distinct technology. 
-
-Computerized Systems covers all kinds of software that uses computers to process data to carry out some activity.
+This is really a catch-all bucket of ideas rather than a distinct technology. Computerized Systems covers all kinds of software that executes on a computer to process data to carry out some activity.
 
 ##   Predictive Analytics
 
@@ -85,7 +83,7 @@ That research is primarily being continued by the Chinese (they have more Data C
 
 The underlying thinking is that the ocean provides continuous, immense cooling that no land-based system can rival.
 
-Essentially, these are self-contained data servers locked inside a pressurized cyclinder that is then sunk onto the ocean floor. 
+Essentially, these are self-contained data servers locked inside a pressurized cylinder that is then sunk onto the ocean floor. 
 Beyond a certain depth water temperature is constant (4 Celsius) and the constant flow of the ocean naturally dissipates heat away from the data centre without incurring any energy cost.  
 
 Another, significant side-effect discovered by Microsoft is that replacing the air in the data centre with an inert gas like Nitrogen and stabilising temperature fluctuations significantly extended the "_mean time between failure_" (an important metric for maintaining computer components) by a factor of eight.

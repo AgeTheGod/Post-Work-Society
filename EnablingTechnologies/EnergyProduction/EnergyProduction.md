@@ -25,8 +25,6 @@ Hence, how maintainable a technology is becomes a significant criteria when disc
 This is the difference between Capital Costs and Operating Costs.
 The Capital Cost is the cost of initially building the things we need, and once built the Operating Costs are the on-going costs required to keep a solution running once it starts producing
 
-As outlined in [Delivering Energy Generation](./DeliveringEnergyGenerationCapacity) the maintenance of Sustainable Energy generation is decreasing significantly due to the durability of modern materials, such as ceramics, compared to historically significant  materials. 
-
 For the purpose of documenting the enabling technologies for Sustainable Energy Management I've split this into a three part problem...
 1. How to generate Electricity from sustainable sources?
 2. How to store Electricity until it is required?
@@ -57,9 +55,8 @@ distribution:B --> T:essential
 service local(server)[Local Solar]
 local:T --> B:domestic
 ```
-The main reason for separating these three concerns is that [Energy Generation](./EnergyGeneration) is not a single solution and there are many, many deployable technologies for generating energy.
-On the other hand, both [Energy Storage](./EnergyStorage) but [Energy Distribution](./EnergyDistribution) are much more limited in their potential solutions.
-In addition [Energy Distribution](./EnergyDistribution) is, or should be, a natural monopoly from the viewpoint of the consumer.
+The main reason for separating these three concerns is that [Energy Generation](EnergyGeneration.md) is not a single solution and there are many, many deployable technologies for generating energy.
+On the other hand, both [Energy Storage](EnergyStorage.md) but [Energy Distribution](EnergyDistribution.md) are much more limited in their potential solutions.
+In addition [Energy Distribution](EnergyDistribution.md) is, or should be, a natural monopoly from the viewpoint of the consumer.
 
-Hopefully, the significance of this split will become very apparent when discussing [Delivering Energy](./DeliveringEnergyGenerationCapacity) and [Funding Energy Management](./FundingEnergyManagement).
-
+Hopefully, the significance of this split will become very apparent when discussing [Delivering Energy](../../EssentialBasicServices/EnergyManagement/DeliveringEnergyGenerationCapacity) and [Funding Energy Management](../../EssentialBasicServices/EnergyManagement/FundingEnergyManagement).
