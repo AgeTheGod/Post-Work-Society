@@ -2,7 +2,7 @@
 title: You Aint Gonna Need It
 layout: default
 parent: Design Principles
-nav_order: 3
+nav_order: 11
 ---
 #   You Aint Gonna Need It (YAGNI)
 
@@ -24,7 +24,7 @@ This prevents "Analysis Paralysis" (see [Iterate Don't Procrastinate](IterateDon
  
 In all cases the constantly asked question should be "Do we need this now or can it wait?"  
 
-## YAGNI vs. Good Design
+## YAGNI vs. Design For Change
 
 Of course this doesn't mean that we should not be thinking ahead and planning for future changes i.e. Design for Change. 
 However, any future-proofing should be based on _known_ requirements, not speculative ones and backed up with evidence.

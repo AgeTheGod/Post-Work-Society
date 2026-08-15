@@ -2,7 +2,7 @@
 title: Iterate Don't Procrastinate
 layout: default
 parent: Design Principles
-nav_order: 4
+nav_order: 12
 ---
 #   Iterate Don't Procrastinate
 

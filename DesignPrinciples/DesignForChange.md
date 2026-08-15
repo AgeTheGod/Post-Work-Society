@@ -2,13 +2,15 @@
 title: Design For Change
 layout: default
 parent: Design Principles
-nav_order: 6
+nav_order: 7
 ---
 #   Design For Change
 
-Design for Change (also known as Evolutionary Design) is a software engineering and system design principle that states software should be built to accommodate future, unpredictable changes with minimal effort and disruption.
+Design for Change (also known as Evolutionary Design and Flexible Design) is a Design Principle that states 
 
-Since business requirements, technologies, and user needs constantly evolve, a good design assumes that change is inevitable and structures code so it can adapt easily without requiring a complete rewrite.
+    software should be built to accommodate future, unpredictable changes with minimal effort and disruption.
+
+Since business requirements and technologies constantly evolve, a good design assumes that change is inevitable and structures code so it can adapt easily without requiring a complete rewrite.
 
 To successfully design for change, a system must isolate its different parts so that altering one piece does not break another. This is achieved through two main concepts:
 - Low Coupling: Independent components. Changing the code inside your payment system should not break the code in your user profile system. [7]

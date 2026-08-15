@@ -2,7 +2,7 @@
 title: Just Good Enough
 layout: default
 parent: Design Principles
-nav_order: 2
+nav_order: 10
 ---
 #   Just Good Enough
 

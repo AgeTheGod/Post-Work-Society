@@ -1,7 +1,7 @@
 ---
 title: Reproducible Solutions
 layout: default
-parent: Principles
-nav_order: 3
+parent: Design Principles
+nav_order: 4
 ---
 #   Reproducible Solutions

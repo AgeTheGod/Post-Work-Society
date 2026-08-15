@@ -2,7 +2,7 @@
 title: Minimum Viable Product
 layout: default
 parent: Design Principles
-nav_order: 7
+nav_order: 14
 ---
 #   Minimum Viable Product (MVP)
 
