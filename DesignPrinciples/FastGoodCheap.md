@@ -6,8 +6,10 @@ nav_order: 8
 ---
 #   Fast, Good, Cheap - Pick Any Two
 
-This classic business rule is formally known as the Project Management Triangle or the "**Iron Triangle**" though I've only ever heard the the blunt phrase "Fast, Good, Cheap — Pick Any Two" used in Software Engineering and Application Development teams.
-It is generally used as a funny, direct way to explain the mathematical reality to anyone who wants the impossible.
+Formally known as the Project Management Triangle or the "**Iron Triangle**" though I've only ever heard the term "Fast, Good, Cheap — Pick Any Two" used when discussing Software Engineering and Application Development. 
+Every other time I've used it people just look at me blankly and ask "What the hell are you talking about?" but I'm including it here because it is a key principle to be aware of when designing and developing any solution.
+
+Essentially it boils down to "_nothing is perfect_" so you have to decide what is most important (time to market, quality of solution or cost paid to develop and maintain it) and then trade-off the consequences of that decision.
 
 ##  The Iron Triangle
 
