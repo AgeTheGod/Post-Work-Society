@@ -5,43 +5,35 @@ nav_order: 5
 ---
 #   Trends In Society
 
-Mostly this is about explaining certain current trends in Society that I think need to be addressed sooner rather than later in order to (at risk of being over-dramatic) avoid a collapse in Society and some horrible Dystopian future.
+Why do I think we need to move towards a Post Work Society?
 
-Societies change over time and how they change affects how a Society organizes and manages itself.
+This isn't some arbitrary "I think it would be nice to have" idea, it's based on a lot of research and analysis of current trends in Society and how I think those trends are likely to affect the future of Society.
+As noted elsewhere this is also something that has been percolating in the back of my mind for decades.
 
-"Managing Change" itself is a "Cause & Effect" activity i.e. proposing and making changes should be the result of analysing existing trends, identifying the consequences of those trends and proposing changes to mitigate the impact of a trend continuing in whatever direction it's going in.  
+The various trends I looked at (and they are not the only trends that we should be concerned about) indicate a very real cause for concern that I think need to be addressed sooner rather than later in order to avoid a collapse in Society and descent into some horrible Dystopian future.
+That might seems a bit over-dramatic (I've probably read too many post-apocalyptic sci-fi books) but I think that the evidence is there to support that conclusion.
 
-This is particularly important when we see something as being "a problem.
+##  Why Trends Are Important
 
-Back in the days before I retired one of my main jobs was to design solutions to problems.
-The first step in doing that is to identify what the problem actually is - this is "root cause analysis" because frequently the stated problem is actually just a symptom and the real problem turns out to be something else entirely.
+Societies, like any other fluid system, change over time and how they change affects how a Society organizes and manages itself and ultimately whether that society is of net benefit to the people that live in it.
 
-However, once you know what the problem is the next question is not "How do we fix it?" but "Is it a stable problem?" i.e. is it currently as bad as it's going to be or is the problem going to get worse over time until eventually there is a catastrophic system failure. Obviously, if it's the latter then the priority is to stabilize the system and avoid the catastrophe.
+To ensure the beneficial outcome change needs to be monitored and managed to ensure that the change is in a desired direction.
+"Trend Analysis", produced from by applying statistical analysis to historical data, is how we monitor the changes that we're interested in.
 
-You'd be surprised how many people I've had to explain this to over t he years because they haven't bothered to extrapolate the trend and see where it ends up.
+Once we have an Historical Trend Analysis we can then apply Predictive Analytics to project those trends forward into the future.
+The predicted trend can then be used to decide whether we have a problem that needs to be corrected to change the predicted trend or, if the predicted trend cannot be changed (i.e. it inevitable), decide what we can do to mitigate the consequences of the trend.
 
-What's the trend for Energy Consumption? What's the trend for Wealth Disparity? What's the trend for Population Growth? What's the trend for Employment? What's the trend for Happiness?
+This is the art of **Change Management**, a well established "Cause & Effect" activity i.e. proposing and making changes should be the result of...
+- analysing an existing trend
+- ... and identifying the consequences of those trends 
+- ... and proposing changes to mitigate the impact of a trend continuing in whatever direction it's going in.  
 
-For these kinds of questions it's not just a matter of looking at the current state of affairs but also looking at the trend and extrapolating it into the future to see where it ends up.
-If it then ends up somewhere that we don't want to be then we need to ask our root cause questions again...
-- What is causing the problem?
-- Is it a stable problem?
-- How do we fix it?
+Like any other data analysis activity "Trends In Society" then becomes a question of deciding which trends are the most significant ones to monitor i.e. which gives uis the most significant information for the least amount of analytical effort.
 
-Unfortunately from a Society point of view I don't believe that we have really made much progress towards creating a more equitable society.
-In fact in many cases exactly the opposite has happened, with...
-- the gap between the rich and the poor getting wider and wider
-- the majority of people being stuck in jobs that they don't enjoy and that don't really add any value to society
-- the political system being dominated by special interests and the wealthy, rather than being responsive to the needs of the people
-- the environment being destroyed at an alarming rate, with little regard for the long-term consequences of our actions
-- the social fabric of our society being torn apart by polarization and division, with people being more interested in fighting with each other than in working together to create a better future for everyone
-- ... and I could go on
+##  Interesting Trends
 
-##  Economic Trends
-
-Weirdly, technology was supposed to reduce the amount of work that each person had to do and promised to allow us to live more fulfilling lives, but instead it seems to have done the opposite.
-We have more technology than ever before, but we are also working harder than ever before (those that are actually working) just to achieve the basics of life.
-We are also more stressed and less happy than ever before as shown in the [World Happiness Report](./HappinessTrends) long-term trends.
+[Happiness Trends](./HappinessTrends) focuses on the **World Happiness Report** - an annual publication that surveys the state of global happiness across more than 140 countries.
+It is published in partnership with the UN Sustainable Development Solutions Network (SDSN) and considered to be a major non-economic benchmark for how well National Societies are meeting the needs of their citizens.
 
 [Population Growth and Decline](./PopulationTrends)
 
@@ -52,21 +44,16 @@ We are also more stressed and less happy than ever before as shown in the [World
 
 [The Rise of Automation](./ProductionTrends)
 
-##  Social Trends
-
-[Happiness Trends](./HappinessTrends) focuses on the **World Happiness Report** - an annual publication that surveys the state of global happiness across more than 140 countries.
-It is published in partnership with the UN Sustainable Development Solutions Network (SDSN) and considered to be a major non-economic benchmark for how well National Societies are meeting the needs of their citizens.
-
-This is not intended as some Socialist utopia where "The State" provides everything and "The People" simply consume what The State provides.
-That, I think, just would not work simply because people need reasons for doing things ("_...because I can_" is a common one) and without reasons for making progress everything would just stagnate and eventually decay.
-
-We also have to bear in mind that the answer to "_How can I make best use of what time I have?_" is going to be a very individual answer with an almost infinite set of potential answers.
-The answer to an infinitely extensible problem requires an infinitely extensible solution - such things don't exist (yet) so I'm not even going to try to address that problem on Day-1.
+[Financial Market Trends]
 
 ##  A Note on Accuracy
 
-One of the things about dealing with very large number is that accuracy becomes less important compare to the overall trend. 
+One of the things about dealing with very large data-sets is that accuracy becomes less important compare to the overall trend.
 For example, if you are looking at a population of 7 billion people and you are trying to determine the overall trend in population growth, it doesn't really matter if the population is 6.9 billion or 7.1 billion.
 The difference between them are fractions of a percent i.e. if we're talking about a billion and we're out by a million then the variance is only 0.1% or to put ot another way, we're 99.9% accurate.
 It's accurate enough for the overall trend to still be usable.
 
+Unfortunately, being a private citizen working outside of government or academia, it's also the case that I don't have access to all the underlying highly granular data required to do a deep-dive into some of the trends.
+Consequently even though I might have asked a particular question and tried to arrive at an answer but the answer itself is unverifiable without having direct access to the data.
+
+There are also the various data quality issues described in [Analysis Overview](../Appendices/AnalysisOverview) appendix to bear in mind. 

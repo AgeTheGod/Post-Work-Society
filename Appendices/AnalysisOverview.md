@@ -4,21 +4,24 @@ layout: default
 parent: Appendices
 nav_order: 4
 ---
-#   Analysis Summary
+#   Data Analysis
 
 One of the benefits of the **Information Age** is that there really is a lot of information and data available about all kinds of interesting things.
 
-Pretty much every government publishes national statistics about a wide range of topics they think are economically or socially useful and several other organizations that publish analysis about therse statistics.
+Pretty much every government publishes national statistics about a wide range of topics they think are economically or socially useful and several other organizations that publish analysis about these statistics.
+I've included a list of the primary data sources I have used in the [Data Sources](./DataSources) appendix.
 
-##  The Problem With Research and Data Analysis
+##  The Problems With Research and Data Analysis
 
-The main problem is that most of it is online as unstructured data so joining it all together is a bit of a challenge because we tend to get summarized reports on the data rather than the raw data itself to analyze. 
+### Non-Standardized Data
+
+The main problem is that most of online data is either unstructured or semi-structured data so joining it all together is a bit of a challenge because we tend to get summarized reports on the data rather than the raw data itself to analyze. 
 
 In addition data gets out of date very quickly and replaced with new data so when we look at "current point in time" we're generally comparing different snapshots of the same data.
 
 Finally (and this has long been a bug-bear of mine) there is pretty much no standardization of how data is classified and categorized, so we have to do a lot of work to try to join different datasets together to get a more complete picture of the topic we are looking at.
 
-For example, if we were looking at Industrial Classification (which sectors of the economy an organization workls in) then we have different classification schemes used in different regions...
+For example, if we were looking at Industrial Classification (which sectors of the economy an organization works in) then we have different classification schemes used in different regions...
 - the UK SIC (Standard Industrial Classification) codes
 - the US uses NAICS (North American Industry Classification System) codes
 - the EU uses NACE (Nomenclature of Economic Activities) codes
@@ -32,14 +35,35 @@ Given all that any analysis tends to be approximately correct rather than precis
 
 So, it's worth bearing these points in mind when reading through the topics in this section.
 
-##  Accuracy vs Approximation
+###  Accuracy vs Approximation
 
-##   Using Artificial Intelligence
+Not many people appreciate this point (and I've had to explain it dozens of times over the years) but when analyzing data all results should be treated as approximations rather than precise answers.
 
-As outlined in the Enabling Technology section I am a firm believer that [Artificial Intelligence](../EnablingTechnologies/ArtificialIntelligence) is one of the most significant technology developments of the past few decades.
+This is not only due to the data standardization issues mentioned above but also because data published from different sources is rarely consistent because two data-sets may have been published at two very different point in time.
+It may also be the case that the data was collected using different methods or that the data was collected from different populations.
 
-"**Generative Artificial Intelligence**", officially "**Retrieval Augmented Generation Artificial Intelligence**" (RAG-AI), in particular is very, very useful in exploring complex topics and producing analysis of trends.
-I've used RAG-AI, particularly Google-AI, extensively in the production of the Analysis section.
+In general, this is OK because we are usually interested in understanding broader trends and patterns rather than obtaining exact figures.
+
+We also have a tendency to be working in "rounded numbers" e.g. UK GDP is not published as a specific value like £2,123,456,789.12 but rather to a rounded value like £2.1 trillion. 
+This inevitably leads to "rounding errors" where a one or more rounded numbers are used in a calculation which is itself then rounded. 
+
+Consequently, when analyzing data we should always be looking for trends and patterns rather than precise numbers.
+In addition, any number that looks like it is a precise number should be treated with caution.
+
+##   Using Generative Artificial Intelligence
+
+As outlined in the Enabling Technology section I am a firm believer that [Artificial Intelligence](../EnablingTechnologies/ComputerizedSystems/ArtificialIntelligence.md) is one of the most significant technology developments of the past few decades.
+
+Back in the days when I used to build Big-Data Analytics applications I used to spend a lot of time writing code, mostly SQL & Python, to extract and analyze data to produce reports.
+This was always many hours work and very rarely did anyone get the answer they expected on the first pas through so lots of iterations to refine complex queries.  
+
+"**Generative Artificial Intelligence**", officially "**Retrieval Augmented Generation Artificial Intelligence**" (RAG-AI), in particular is a game changer simply because it...
+1. Supports Natural Language Programming removing the need for syntactically correct queries to be written
+2. Maintains the context of a conversation so that additional questions can be asked to refine the answer
+3. Does not require structured pre-conformed data in order to produced a result
+4. Can integrate information from multiple sources to provide a more comprehensive answer
+
+This makes RAG-AI very, very useful in exploring complex topics and producing analysis of trends so, consequently, I've used RAG-AI, particularly Google-AI, extensively in the production of the Analysis section.
 
 The best way to use RAG-AI is to start a conversation on some particular subject by asking a question and then, based on the response, asking additional questions or requesting to extend the answer with more information.
 
@@ -59,3 +83,4 @@ Finally, when keeping the transcript of the conversation I always write a short 
 It's also tempting to then get RAG-AI to write a summary of whatever the results were but I'm not really a fan of that approach. 
 It's fair enough using RAG-AI to explore a complex subject but I do believe that any interpretation of the results should be produced by me.
 That's really because writing things down is how I commit the significant points to memory.
+
