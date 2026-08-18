@@ -14,21 +14,30 @@ The points of the quotes being that...
 - Everyday words and ideas seem clear to us only because we use them loosely.
 - The moment you try to define a concept or a word with absolute scientific precision, you realize how fuzzy and "vague" the boundaries of human thought actually are.
 
-Bth of these points are worth bearing in mind when reading this "Definition of Terms" section.
+Both of these points are worth bearing in mind when reading this "Definition of Terms" section because, unfortunately, what a word means is generally dependent on the context in which the word is being used.
 
-Throughout this work there are a number of fundamental concepts, such as "_Society_"; "_Economy_", "_Technology_" that are repeatedly used but whose meanings may not be clear.
+Academia has a need to be precise when presenting theories with a tendency to argue over exact definitions of individual words. 
+That's how it should be because Academics are trying to prove or disprove a theory.
 
-Unfortunately, what a word means is generally dependent on the context in which the word is being used. 
-So, calling these "Definitions of Terms" is really a bit of a misnomer because they are really explanations about what I personally think a word means and how I'm using it.
+However communication with non-academics needs to be clear and use words that the general population would know the meaning of usually with a much looser definition.
+For example, I see lots of people regularly use the word "Capitalism" in conversations when they mostly mean "Corporate Capitalism" that is quite different to other kinds such as "State Capitalism" or "Cooperative Capitalism".
+I could argue over that distinction but rarely do because so long as I get the point being made (clarity) then the words being used become less important.
 
-In most cases this is because the term is an "_umbrella term_" with no single universally agreed definition that is generally used to group specific variations together into a common classification.
+Throughout this work there are a number of fundamental concepts, such as "_Society_"; "_Economy_", "_Technology_" that are repeatedly used but whose meanings may not be clear and I'm likely using them in a very loose way because I want to be clear rather than precise.
+This is not intended to be an academic work.
+
+So, calling these "Definitions of Terms" is really a bit of a misnomer because they are really explanations about my personal understanding of what that concept is and how I'm using using it.
+
+In most cases this is because the term is an "_umbrella term_" with no single universally agreed definition and is generally used to group specific variations together into a common classification.
 For example, "_Democracy_" is a means of electing people to manage a Society but there are many, many different ways that Democracy has been implemented in different kinds of Society. 
+Where there are significant variations that I think should be highlighted then I include them but almost certainly will not include a detailed and precise definition of what the term means.
 
 Concepts also tend to evolve over time so that what the term meant when it was originally coined (in some cases centuries ago) is not necessarily what it means nowadays. "_Money_" is an example of this.
 
 Finally, many of these terms are inter-related so the definition may contextually change depending on the definition of some other term.
 
-This leads to complicated set of inter-related concepts, represented in a Concept Map, such as...
+This leads to complicated set of inter-related concepts (we used to call these Concept Maps when I did Information Modelling for a living), represented as a set of objects (the concepts) and the relationships (lines) between them such as...
+
 ```mermaid
 classDiagram
     class Society
