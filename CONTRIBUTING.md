@@ -3,7 +3,7 @@
 If you have any thoughts on the subject of building a Post-Work Society or if you would like to contribute to this project then please feel free to reach out to me.
 
 The reason I put it on GitHub (rather than somewhere like SubStack) is that GitHub supports open-source collaborative projects.
-The source code is at : https://github.com/AgeTheGod/Post-Work-Society
+The source code is at : https://github.com/AdrianMiley/Post-Work-Society
 
 So, anyone with a GitHub account can...
 -	add themselves as a watcher and be notified whenever an update is merged into the main branch

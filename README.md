@@ -16,7 +16,7 @@ Theoretically, we should easily have the production capacity to meet all the wor
 So that is what we have here.
 This entire repository is focussed on how we might improve Society so that **working just to live is no longer the primary activity for most people**.
 
-The entry point to the text is the [**_index.md_**](./index) file which represents the root homepage used by "Just The Docs" theme when published into the [Post Work Society](https://agethegod.github.io/Post-Work-Society/) GitHub Pages.
+The entry point to the text is the [**_index.md_**](./index) file which represents the root homepage used by "Just The Docs" theme when published into the [Post Work Society](https://AdrianMiley.github.io/Post-Work-Society/) GitHub Pages.
 
 ##  Making Contributions
 
