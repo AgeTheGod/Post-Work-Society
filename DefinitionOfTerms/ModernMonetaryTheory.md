@@ -23,13 +23,6 @@ The core assumptions (some would say "principles" but they really aren't) of Mod
 
 Given these assumptions Modern Monetary Theory asserts that a Currency-issuing Nation can simply create new money to fund public expenditure as the need arises.
 
-## Key Criticisms and Risks
-
-* Hyperinflation Risks: Excessive money printing can trigger rapid inflation.
-* Political Pressure: Politicians may overspend without raising stabilizing taxes.
-* Currency Devaluation: Massive supply increases can weaken international exchange rates.
-* Central Bank Independence: Merging fiscal and monetary policy risks political interference.
-
 ##  Who Uses Modern Monetary Theory
 
 No country explicitly states that it officially practices Modern Monetary Theory (MMT) as a formal policy framework (same as no Country is officially "_Socialist_" or "_Capitalist_"). 
@@ -73,7 +66,19 @@ Modern Monetary Theory views government spending as constrained solely by real e
 
 Despite these friction points, both schools belong to the post-Keynesian lineage in that they both reject classical supply-side theories, agree that free markets fail to create automatic full employment, and view active government spending as the primary engine for economic growth.
 
-##  Inflation
+## Key Risks
+
+Implementing Modern Monetary Theory, especially if it's just blindly applied to all money supply issues, is not without risk including... 
+- Inflation Risks: Excessive money printing can trigger rapid inflation.
+- Currency Devaluation: Massive supply increases can weaken international exchange rates.
+- Political Pressure: Politicians may overspend without raising stabilizing taxes.
+- Central Bank Independence: Merging fiscal and monetary policy risks political interference.
+
+However, of these risks the only one that I think to be specifically addressed is the Inflation Risk and Currency Devaluation. 
+
+The Political Pressure and Central Bank Independence are easily mitigated through defining a process, such as Direct Democracy, and constraints that limit the unilateral decisions that governments can make.  
+
+###  Inflation Risks
 
 The surge of global inflation over recent years—sparked by the COVID-19 pandemic, supply chain shocks, and geopolitical crises—has intensified the debate over Modern Monetary Theory (MMT), shifting it from a theoretical academic discussion to a real-world policy battleground. [1, 2, 3, 4, 5]
 Mainstream economists argue that recent price spikes prove MMT is dangerously flawed, while MMT advocates claim the crisis actually validates their framework.
@@ -90,17 +95,28 @@ On the other hand, MMT advocates argue that recent inflation has actually played
 
 Either way, the debate has permanently altered the macroeconomic landscape and mainstream economic policy has increasingly acknowledged that supply-side capacities and physical limits (like green energy and AI infrastructure constraints) dictate economic success far more than arbitrary debt numbers.
 
-However, MMT has lost considerable political momentum as a prescriptive policy tool, as the public and policymakers remain highly risk-averse to any theories associated with cash expansion.
-
-##  Some Caveats
+###  Central Bank Independence
 
 Having said all that I'll opening admit that I'm definitely a Modern Monetary Theory advocate but with some additional caveats to restrict what can be done...
 - Governments should only create new money to fund the creation of other national assets i.e. building long-term infrastructure
 - Ideally Government Debt should be sold into the traditional Bond Markets to be funded by Private Investment (which would then reverse it out from the government funded National Monetary Ledger).
 - Government Debt that is not sold into the Bond Market needs to be income generating so that there is a measurable "**Return on Investment**". "_What's the benefit?_" should always be a question with a known quantifiable answer before investment takes place 
-- The repayment term of the Debt should be less than the life expectancy of the asset being funded i.e. no point in taking 10 years to repay the finance on an asset with a 5-year life expectancy. Any asset needs to at least pay for itself whilst still operational. 
+- The repayment term of the Debt should be less than the life expectancy of the asset being funded i.e. no point in taking 10 years to repay the finance on an asset with a 5-year life expectancy. Any asset needs to at least pay for itself whilst still operational.
+- Finally, using debt to fund day-to-day operational costs is a recipe for financial disaster - it always has been and always will be.
 
-Finally, using debt to fund day-to-day operational costs is a recipe for financial disaster - it always has been and always will be. 
+There's a bit more complexity in the details (there always is) but fundamentally it comes down to... 
+1. is the money being used to purchase an asset? 
+2. what's the related income stream to pay down the capital cost over time? 
+3. does the purchased asset have an inherent resale value that can be used to recover the debt if necessary?
+
+These are essentially the same questions that the commercial banks ask when they decide to create new money for lending to any other borrower.
+The only difference is that the borrower and the lender are the same entity i.e. Society itself via the Government of that Society.
+
+##  Some Examples
+
+### Building Social Housing
+
+### Building a Nuclear Power Station
 
 ## The Job Guarantee
 

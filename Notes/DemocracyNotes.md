@@ -78,3 +78,22 @@ quadrantChart
     Authoritarian: [0.5, 0.5]
     Direct Democracy: [0.9, 0.9]
 ```
+##  The importance of context
+
+On eof the reasons I tend not to reproduce quotes from academic works is that context matters when understanding the meaning of some statement.
+
+For example, in a conversation as a reply to a point I was making about democracy in the UK someone posted these two quotes by Karl Marx...
+
+>   _What all socialists understand by anarchism is this: as soon as the goal of the proletarian movement, the abolition of classes, is attained, the power of the State... will disappear and governmental [or political] functions will be transformed into simple administrative functions"._ 
+
+... and this...
+
+>   _The emancipation of the working classes must be conquered by the working classes themselves; that, the struggle for the emancipation of the working classes means not a struggle for class privileges and monopolies, but for equal rights and duties, and the abolition of all class rule"_ 
+
+Both of these quotes may well have been right 150 years ago but things have moved on quite a bit since then. 
+For example, back in 1850 Women and most Working Class Men (who didn't own property of sufficient value) could not vote and hence had no say in who was elected to parliament.
+
+However, that is not true nowadays and, if democracy works as intended (a big "if") then "...equal rights and duties, and the abolition of all class rule" has already been achieved without the power of the state disappearing or being transformed into administrative functions.
+
+So quite clearly those kind of quotes can no longer be taken verbatim because the modern context is significantly different. 
+Consequently, I much prefer a more modern less literal interpretation of those early works.

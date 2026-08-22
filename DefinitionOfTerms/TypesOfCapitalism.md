@@ -10,6 +10,10 @@ Capitalism has evolved significantly over the centuries since Adam Smith first l
 
 This section list some of the better known forms of Capitalism (but is definitely not a definitive list of them all) and tries to enumerate the significant differences between each variant.  
 
+```mermaid
+
+```
+
 ### Laissez-faire or Classical Capitalism
 
 Laissez-Faire Capitalism emphasizes minimal government intervention: property rights are tightly enforced, markets are largely free, and the state’s role is limited to protecting contracts and national defense. This model—associated with thinkers like Adam Smith—assumes that decentralized market interactions will efficiently allocate resources. 

@@ -1,7 +1,7 @@
 ---
 title: Water Pollution 
 layout: default
-parent: Analysis
+parent: Data Analysis
 nav_order: 4
 ---
 #   Water Pollution Analysis

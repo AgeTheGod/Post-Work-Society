@@ -3,8 +3,15 @@ title: Analysis Of Debt
 layout: default
 parent: Data Analysis
 ---
+#   Analysis Of Debt
 
-##  Q1 : What is the total wealth and total debt of the UK, EU and US?
+##  Prompts
+
+    What is the total wealth and total debt of the UK, EU and US?
+    ...Also include corporate and personal debt estimates
+    Subtract estimated assets held by external owners from analysis
+
+#  What is the total wealth and total debt of the UK, EU and US?
 
 Total wealth and total debt for the UK, EU, and US vary significantly by metric, with the US holding the largest absolute wealth and debt, while the UK and EU carry higher debt-to-GDP ratios relative to their overall economic output. [1, 2, 3, 4]
 
@@ -46,10 +53,10 @@ Total wealth and total debt for the UK, EU, and US vary significantly by metric,
 [commonslibrary.parliament.uk](https://commonslibrary.parliament.uk/research-briefings/cbp-10842/)
 [www.bbc.co.uk](https://www.bbc.co.uk/news/articles/c4g2rky498wo)
 
-##  Q2 : ...Also include corporate and personal debt estimates
+#  ...Also include corporate and personal debt estimates
 
-    Expanding the balance sheet data to include private liabilities shows that corporate and personal (household) debt 
-    adds tens of trillions to the total financial profiles of the US, EU, and UK. [1, 2, 3]
+Expanding the balance sheet data to include private liabilities shows that corporate and personal (household) debt 
+adds tens of trillions to the total financial profiles of the US, EU, and UK. [1, 2, 3]
 
 ## United States
 The US holds the highest absolute volume of both corporate and personal debt globally. [2, 4]
@@ -85,7 +92,7 @@ The UK features a heavily financialised economy where personal debt represents a
 ## Macro-Financial Comparison Table
 All figures are presented in USD ($ Trillion) for direct comparison (using approximate exchange rates of £1 = $1.28 and €1 = $1.08).
 
-| Metric [3, 6, 8, 12, 13, 15] | 🇺🇸 United States | 🇪🇺 European Union | 🇬🇧 United Kingdom |
+| Metric [3, 6, 8, 12, 13, 15] | United States | European Union | United Kingdom |
 |---|---|---|---|
 | Household Wealth (Net) | $181.6T | $45.0T+ | $13.8T (£10.8T) |
 | Personal (Household) Debt | $18.79T | $8.16T | $2.50T (£1.95T) |
@@ -93,13 +100,13 @@ All figures are presented in USD ($ Trillion) for direct comparison (using appro
 | Government/Public Debt | $39.00T | $16.84T (€15.59T) | $3.72T (£2.91T) |
 | Total Debt (All Sectors) | $83.29T | $36.80T | $8.97T |
 
-##  Q3 : Subtract estimated assets held by external owners from analysis
+#  Subtract estimated assets held by external owners from analysis
 
 Subtracting foreign ownership transforms the analysis by measuring domestic net debt exposure (how much the residents and governments actually owe to the outside world, vs. what they own abroad). [1, 2]
 To calculate this, macroeconomists use the Net International Investment Position (NIIP). The NIIP subtracts all domestic assets owned by foreigners (external liabilities) from all foreign assets owned by domestic residents. [2, 3]
 If the resulting number is negative, the nation is a net debtor to the rest of the world. If it is positive, the nation is a net creditor.
-------------------------------
-## 🇺🇸 [United States](https://www.google.com/search?kgmid=/m/09c7w0)
+
+## [United States](https://www.google.com/search?kgmid=/m/09c7w0)
 The US is the largest net debtor nation in human history because foreign investors heavily back American debt and equities. [4, 5]
 
 * Total Debt (All Sectors): $83.29 trillion
@@ -109,7 +116,7 @@ The US is the largest net debtor nation in human history because foreign investo
 * Net External Deficit (NIIP): -$27.54 trillion
 * Adjusted Net Debt Status: When accounting for cross-border holdings, the US economy owes a net $27.54 trillion to the rest of the world. The remaining internal debt (~$55.75 trillion) is money that American citizens, corporations, and government entities owe to each other. [2, 3, 4]
 
-## 🇪🇺 [European Union](https://www.google.com/search?kgmid=/m/0_6t_z8)
+## [European Union](https://www.google.com/search?kgmid=/m/0_6t_z8)
 The [European Union](https://www.google.com/search?kgmid=/m/0_6t_z8) acts differently because it contains massive structural creditor nations (like [Germany](https://www.google.com/search?kgmid=/m/0345h) and the [Netherlands](https://www.google.com/search?kgmid=/m/059j2)) that offset debtor nations (like [Italy](https://www.google.com/search?kgmid=/m/03rjj) and [Spain](https://www.google.com/search?kgmid=/m/06mkj)).
 
 * Total Debt (All Sectors): $36.80 trillion
@@ -117,7 +124,7 @@ The [European Union](https://www.google.com/search?kgmid=/m/0_6t_z8) acts differ
 * Context: The Eurozone and broader EU historically maintain a positive net international investment position. European residents and institutions own more factories, stocks, and bonds outside the EU than foreign investors own inside the EU.
 * Adjusted Net Debt Status: The EU is a net creditor to the rest of the world. Subtracting external ownership reduces the EU's true total economic debt burden below its domestic face value, meaning the region holds an approximate $3.5 trillion financial surplus relative to the global economy. [2]
 
-## 🇬🇧 United Kingdom
+## United Kingdom
 The UK operates on a high-turnover financial ledger. It has a massive gross volume of foreign assets and liabilities relative to its economic size, which leaves it with a moderate net deficit. [6, 7]
 
 * Total Debt (All Sectors): $8.97 trillion (£7.01 trillion)
@@ -126,7 +133,7 @@ The UK operates on a high-turnover financial ledger. It has a massive gross volu
 * Net External Deficit (NIIP): -$840 billion (~£658 billion)
 * Adjusted Net Debt Status: Roughly $840 billion of the UK's overall economic leverage is a net obligation to external owners. The overwhelming majority of the UK's massive corporate and public debt is held domestically by UK pension funds, local insurance companies, and domestic banks. [2, 6, 7, 8, 9]
 
-------------------------------
+
 ## Final Balance Sheet: Gross Debt vs. Net International Position
 All figures are converted to USD ($ Trillion). [9]
 

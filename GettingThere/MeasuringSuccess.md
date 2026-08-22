@@ -25,6 +25,8 @@ It doesn't matter how much wealth a country has if the majority of its populatio
 
 GDP is a measure of the total value of goods and services produced in a country, but it doesn't take into account the distribution of wealth or the quality of life of the people living in that country.
 
+For example, if a country has a greedy healthcare system that charges people twice as much as any other country, your GDP is actually higher. Or if you pay more for things like National Parks that are free in other countries, you also have a higher GDP. Actually, even if your population is sicker than those in other countries and needs more medical services, your GDP is higher. So, GDP is a measure of goods and services people pay for, not a measure of wealth. And it is definitely not a measure of happiness or contentment.
+
 A country could have a high GDP but if the wealth is concentrated in the hands of a few and the majority of the population is living in poverty, then it's not really a successful society.
 Unfortunately this asymmetry of wealth is a common problem in many countries around the world, including the UK, and the asymmetry is getting worse over time.
 

@@ -31,7 +31,20 @@ How far along that road they are depends on which Essential Services are already
 
 So identifying what needs doing is essentially a Gap Analysis comparing "_what we have_" with "_what we want_" and filling in the gaps are the tasks that need doing. 
 
-### The Order to do them in
+##  Defining Solutions To Problems
+
+Back in the days before I retired one of my main jobs was to design solutions to problems.
+The first step in doing that is to identify what the problem actually is - this is "root cause analysis" because frequently the stated problem is actually just a symptom and the real problem turns out to be something else entirely.
+
+However, once you know what the problem is the next question is not "How do we fix it?" but "Is it a stable problem?" i.e. is it currently as bad as it's going to be or is the problem going to get worse over time until eventually there is a catastrophic system failure. Obviously, if it's the latter then the priority is to stabilize the system and avoid the catastrophe.
+
+This is not intended as some Socialist utopia where "The State" provides everything and "The People" simply consume what The State provides.
+That, I think, just would not work simply because people need reasons for doing things ("_...because I can_" is a common one) and without reasons for making progress everything would just stagnate and eventually decay.
+
+We also have to bear in mind that the answer to "_How can I make best use of what time I have?_" is going to be a very individual answer with an almost infinite set of potential answers.
+The answer to an infinitely extensible problem requires an infinitely extensible solution - such things don't exist (yet) so I'm not even going to try to address that problem on Day-1.
+
+### The Order To Do Things In
 
 In Iterative Application Development there are two main approaches to planning and executing changes once the Minimum Viable Product (MVP) has been established.
 In many cases the Minimum Viable Product is whatever application already exists (if any) that provides the basic functionality that's required in the target-state application.

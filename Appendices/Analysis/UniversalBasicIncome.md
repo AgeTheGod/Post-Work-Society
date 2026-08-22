@@ -1,11 +1,33 @@
 ---
-title: Analysis Of UBI 
+title: Analysis Of Universal Basic Income 
 layout: default
 parent: Data Analysis
 ---
 #   Analysis of Universal Basic Income
 
-    prompt: What would be the cost of the Universal Basic Income for every eligible persdon in the UK?
+    What would be the cost of the Universal Basic Income for every eligible person in the UK?
+    Use Minimum Wage figures based on a 35 hour working week and assume only Adults receive it
+    Does any country already operate a UBI scheme and how does that example work?
+    Outline the Finland trial
+    If we assume a UBI that only meets basic living costs (feed, water, electricity, etc) then how would that affect the results?
+    What would be the tax implications of that?
+    Provide an illustration
+    What does the financing look like if we 
+        (1) keep the tax current allowances, 
+        (2) introduce a 2% wealth tax, 
+        (3) raise capital gains tax to align with income tax and 
+        (4) replace inheritance tax with a European style asset acquisition tax?
+    Change Wealth tax threshold to be £5M not £10M
+    Also Add a 2% land tax
+    How are these increases spread across income brackets?
+    What NHS savings might there be?
+    How much would be raised by (1) increasing VAT by 2% and increasing Corporation Tax?
+    Produce a timeline for progressive introduction of the changes.
+    Detail the required legal safeguards needed to prevent movement of capital abroad
+    Produce an estimate cash-flow forecast for the projected timeline
+    
+
+#   What would be the cost of the Universal Basic Income for every eligible person in the UK?
 
 The real cost of a Universal Basic Income (UBI) for every eligible person in the UK varies heavily depending on the model, but central research estimates a net cost of £45 billion to £67 billion per year (roughly 2% to 3.4% of GDP) for a scheme designed to alleviate poverty. [1, 2]
 When assessing UBI costs, economists distinguish between the gross cost (the total money distributed) and the net cost (the actual additional money the government must raise). Because UBI is universal, much of the money given to middle- and high-income earners is immediately reclaimed through changes to the tax system. [2, 3, 4, 5]
@@ -48,7 +70,7 @@ To pay for the net cost without crippling the national budget, proposals general
 [14] [https://ajustsociety.uk](https://ajustsociety.uk/policy/universal-basic-income-and-services)
 [15] [https://restless.co.uk](https://restless.co.uk/money/government-benefits/benefit-changes-how-the-revised-welfare-bill-affects-pip-and-universal-credit/)
 
-    Prompt: Use Minimum Wafe figures based on a 35 hour working week and adsume only Adults receive it
+# Use Minimum Wage figures based on a 35 hour working week and assume only Adults receive it
 
 If a Universal Basic Income (UBI) were paid to every adult in the UK using the legal National Living Wage as the benchmark for a 35-hour working week, the gross cost would be staggering.
 The National Living Wage stands at £12.71 per hour. Based on a 35-hour week over 52 weeks, the annual UBI payment for a single adult would be £23,132.20. [1]
@@ -76,7 +98,7 @@ Would you like to explore what flat tax rate would be required across the UK to 
 [5] [https://www.libdems.org.uk](https://www.libdems.org.uk/fileadmin/groups/2_Federal_Party/Documents/Conference/Spring_2023/UBI_vs_GBI_Explainer.docx.pdf)
 [6] [https://www.centreforsocialjustice.org.uk](https://www.centreforsocialjustice.org.uk/wp-content/uploads/2018/08/CSJ_UBI_August-2018.pdf)
 
-    Pronpt: Does any counrtry already operate a UBI scheme and how does that example work?
+#   Does any country already operate a UBI scheme and how does that example work?
 
 No country currently operates a permanent, full-scale nationwide Universal Basic Income (UBI). To qualify as a true UBI, payments must be universal (given to everyone), unconditional (no work or income requirements), and regular (paid indefinitely). [1, 2, 3]
 While no major economy has fully met this threshold, a few regional governments, nations, and non-governmental organizations (NGOs) run highly prominent, active programs that function as partial or localized UBI schemes. [1, 2, 4]
@@ -128,7 +150,7 @@ If you want to look at how these international examples apply closer to home, I 
 [15] [https://www.jrf.org.uk](https://www.jrf.org.uk/social-security/is-universal-basic-income-a-good-idea)
 [16] [https://www.weforum.org](https://www.weforum.org/stories/2023/06/children-care-guaranteed-income/)
 
-    Promnpt: Outline the Finland trial
+#   Outline the Finland trial
 
 The Finnish basic income experiment was a world-famous, two-year government trial that ran from 1 January 2017 to 31 December 2018. It remains one of the most rigorously evaluated UBI studies conducted by a Western nation.
 ## How the Trial Worked
@@ -160,7 +182,7 @@ While highly publicised, economists note that the Finland trial was not a pure U
 
 Would you like to see how the UK's own recent UBI micro-pilots in England and Wales compare to the Finnish results?
 
-    Prompt: If we assume a UBI that only meets basic living costs (feed, water, electricity, etc) then how would that affect the results?
+#   If we assume a UBI that only meets basic living costs (feed, water, electricity, etc) then how would that affect the results?
 
 Adjusting a Universal Basic Income (UBI) trial to cover only basic physical survival costs—food, water, power, and basic utilities, excluding housing or discretionary spending—changes both the economic math and the behavioral outcomes significantly. [1, 2]
 According to data from the [Joseph Rowntree Foundation's Minimum Income Standard](https://www.jrf.org.uk/a-minimum-income-standard-for-the-united-kingdom-in-2025), a single UK adult requires roughly £120 to £130 per week (~£550 a month) specifically to cover food, water, and fuel/electricity. Coincidentally, this matches the €560 per month used in the Finland trial. [3, 4]
@@ -195,7 +217,7 @@ Would you like to analyze the tax adjustments that would be required to fund a n
 [5] [https://www.bruegel.org](https://www.bruegel.org/blog-post/universal-basic-income-and-finnish-experiment)
 [6] [https://www.rsnonline.org.uk](https://www.rsnonline.org.uk/minimum-income-standard-2025-highlights-continuing-shortfalls)
 
-    Prompt: What would be the tax implications of that?
+#   What would be the tax implications of that?
 
 To fund a nationwide "survival UBI" of £130 per week (~£563 a month or £6,760 a year) for all 55.2 million UK adults, the government would face a gross annual cost of £373 billion [1, 2, 3].
 Because this is equivalent to roughly one-third of all current UK government spending, implementing it would require a complete overhaul of the British tax system.
@@ -226,7 +248,7 @@ To keep income tax rates from rising to politically impossible levels (e.g., abo
 
 If you would like, we can look at a specific case study—such as how a worker earning £25,000 versus an executive earning £80,000 would see their monthly pay packets change under this tax model. Would that help illustrate the shift?
 
-    Prompt: Provide an illustration
+#   Provide an illustration
 
 To see how a £130-a-week survival UBI alters the British economy, we can compare monthly payslips under the current 2026/2027 UK tax system against a hypothetical 45% flat income tax model that funds the UBI from "pound one". [1, 2]
 The fixed UBI payment translates to £563.33 per month for every adult.
@@ -316,7 +338,7 @@ print("Executive £80,000 UBI:", calculate_ubi_net(80000))
 [6] [https://www.bdo.co.uk](https://www.bdo.co.uk/en-gb/insights/tax/global-employer-services/national-insurance-how-it-works)
 [7] [https://www.taxresearch.org.uk](https://www.taxresearch.org.uk/Blog/2019/03/11/a-step-towards-a-universal-basic-income/)
 
-    Prompt: What does the financing look like if we (1) keep the tax current allowances, (2) introduce a 2% wealth tax, (3) raise capital gains tax to align with income tax and (4) replace inheritranced tax witgh a eropean style asset aquisition tax?
+#   What does the financing look like if we (1) keep the tax current allowances, (2) introduce a 2% wealth tax, (3) raise capital gains tax to align with income tax and (4) replace inheritranced tax witgh a eropean style asset aquisition tax?
 
 If you modify the proposal by keeping the current personal tax allowances while introducing the four progressive capital and wealth taxes specified, you completely change how the UBI is distributed and funded.
 The baseline cost to fund a £130-a-week survival UBI remains £373 billion. DWP benefit consolidation covers roughly £150 billion, leaving a net funding deficit of £223 billion.
@@ -366,7 +388,7 @@ If you would like to explore this further, I can map out exactly how much an ind
 [4] [https://www.fidelity.co.uk](https://www.fidelity.co.uk/markets-insights/personal-finance/inheritance-legacy/autumn-budget-inheritance-tax-and-other-possible-changes/)
 [5] [https://taxjustice.uk](https://taxjustice.uk/blog/six-wealth-tax-policies-that-could-raise-50-billion/)
 
-    Prompt: Wealth tax threshold should be £5M not £10M
+#   Change Wealth tax threshold to be £5M not £10M
 
 Lowering the annual wealth tax threshold from £10 million down to £5 million expands the tax base significantly. Based on microsimulation data from the [Wealth Tax Commission](https://www.tax.org.uk/survey-finds-strong-support-for-a-high-threshold-wealth-tax) and economic models from the [Institute for Government](https://www.instituteforgovernment.org.uk/explainer/wealth-taxes), a 2% levy on net assets above £5 million would generate approximately £37 billion per year. [1, 2, 3]
 This injects an extra £13 billion annually into the Treasury compared to the £10 million model. However, it also changes the administrative scale and the overall budget deficit for the survival UBI. [4]
@@ -404,7 +426,7 @@ Would you like to explore how this tax package would impact the incentives for p
 [9] [https://taxjustice.uk](https://taxjustice.uk/blog/how-would-a-wealth-tax-work-in-practice/)
 [10] [https://www.lse.ac.uk](https://www.lse.ac.uk/International-Inequalities/Assets/Documents/OLDWealthTaxCommission-Final-reportold.pdf)
 
-    Prompt: Also Add a 2% land tax
+#   Also Add a 2% land tax
 
 Introducing an annual 2% Land Value Tax (LVT) alongside your existing progressive package completely transforms the financial viability of the survival UBI. In fact, it bridges the remaining gap so effectively that the funding deficit is nearly eliminated. [1]
 According to the [Office for National Statistics (ONS) National Balance Sheet](https://blog.ons.gov.uk/2022/03/10/beneath-our-feet-improving-estimates-of-uk-land-value/), the total net financial value of all land in the UK stands at approximately £7.0 trillion. [2, 3]
@@ -454,7 +476,7 @@ To see the final, complete picture of this layout, we could analyze exactly how 
 [7] [https://tomforth.co.uk](https://tomforth.co.uk/landvaluetax/)
 [8] [https://www.youtube.com](https://www.youtube.com/watch?v=rEwxawl8NAU)
 
-    Prompt: How are these increases spread across income brackets?
+#   How are these increases spread across income brackets?
 
 The progressive tax package you designed—introducing a 2% wealth tax above £5 million, a 2% land tax, equalising capital gains with income tax, and replacing inheritance tax—shifts the tax burden almost entirely onto the top 20% of earners, with the absolute heaviest burden falling squarely on the top 1% to 5%. [1, 2, 3]
 Because you protected the Personal Allowance, the bottom 50% of the UK population faces £0 in new taxes, while receiving a full, life-changing financial net gain from the UBI voucher. [4]
@@ -512,7 +534,7 @@ Would you like to examine how this tax framework would specifically impact pensi
 [9] [https://www.ons.gov.uk](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/distributionofindividualtotalwealthbycharacteristicingreatbritain/april2018tomarch2020)
 [10] [https://www.ons.gov.uk](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/smallareamodelbasedincomeestimates/financialyearending2023)
 
-    Prompt: What MHS savings might there be?
+#   What NHS savings might there be?
 
 Implementing a guaranteed "survival UBI" of £130 a week would trigger sweeping structural savings for the National Health Service (NHS).
 Research by the [British Medical Association (BMA)](https://www.bma.org.uk/what-we-do/population-health/addressing-social-determinants-that-influence-health/health-at-a-price-reducing-the-impact-of-poverty) and the [King's Fund](https://www.kingsfund.org.uk/insight-and-analysis/press-releases/poverty-health-nhs-services) shows that poverty, health inequality, and poor housing cost the NHS over £35 billion a year. By establishing an absolute financial floor under food, water, and electricity, the state would systematically alleviate the root socioeconomic triggers of both mental and physical illness. [1, 2, 3]
@@ -565,7 +587,7 @@ If you are interested, we can explore how these massive healthcare savings could
 [13] [https://resolvepoverty.org](https://resolvepoverty.org/the-relationship-between-poverty-and-the-nhs-whats-happening-and-what-part-can-the-nhs-play/)
 [14] [https://www.healthwatch.co.uk](https://www.healthwatch.co.uk/blog/2025-06-12/whats-it-getting-care-when-you-dont-have-much-money)
 
-    Prompt: How much would be raised by (1) increasing VAT by 2% and increasing Corporation Tax?
+#   How much would be raised by (1) increasing VAT by 2% and increasing Corporation Tax?
 
 Adding these two major fiscal changes to your existing revenue model successfully generates an additional £35.6 billion. This extra funding completely eliminates the remaining budget gap and leaves the Treasury with a substantial £11.3 billion annual budget surplus. [1, 2, 3]
 According to the latest [HMRC and Institute for Fiscal Studies (IFS) illustrative tax models](https://ifs.org.uk/publications/options-tax-increases): [1, 2, 3, 4]
@@ -620,7 +642,7 @@ With the full economic model fully funded and generating an £11.3 billion surpl
 [8] [https://www.instituteforgovernment.org.uk](https://www.instituteforgovernment.org.uk/explainer/labours-tax-pledges)
 [9] [https://ifs.org.uk](https://ifs.org.uk/publications/whats-been-happening-corporation-tax)
 
-    Prompt: Produce a timeline for progressive introduction of the changes.
+#   Produce a timeline for progressive introduction of the changes.
 
 To safely deploy a fiscal overhaul of this magnitude without triggering economic shock waves or overwhelming HMRC, the package must be introduced in stages.
 The greatest operational bottleneck is the Land Value Tax (LVT), which requires updating the Land Registry and valuing every plot of land in the UK [ONS, 2022]. Meanwhile, consumption, corporate, and investment taxes can be adjusted almost immediately.
@@ -686,7 +708,7 @@ Focus: Achieve the full survival UBI, realise NHS savings, and allocate the budg
 ------------------------------
 To complete this blueprint, we could detail the specific legal safeguards needed in Year 1 to prevent high-net-worth individuals from moving their capital offshore before the Wealth Tax activates in Year 3. Would you like to map out those anti-avoidance measures?
 
-    Prompt: Detail the required legal safeguards needed to prevent movement of capital abroad
+#   Detail the required legal safeguards needed to prevent movement of capital abroad
 
 To prevent high-net-worth individuals from moving liquid assets offshore before the Year 3 Wealth Tax activates, the government must pass a comprehensive Anti-Asset Flight Act on Day 1 of Phase 1 [Tax Justice UK, Wealth Tax Commission].
 Relying on traditional post-hoc audits will result in billions in lost revenue. Instead, the legal framework must enforce automatic friction, global tracking, and exit penalties to secure the tax base.
@@ -731,7 +753,7 @@ The UK already participates in the OECD's Common Reporting Standard (CRS), which
 
 If you are interested, we can explore how the government would legally handle non-compliance from foreign nations or uncooperative tax havens that refuse to share asset data. Would you like to map out those international enforcement protocols?
 
-    Prompt: Produce an estimate cashflow forecast for the projexcted timeline
+#   Produce an estimate cash-flow forecast for the projected timeline
 
 This estimated 10-year cashflow forecast maps out the incremental rollout of the survival UBI alongside the staggered activation of your proposed tax framework.
 All figures are presented in billions of pounds (£bn). The "Net UBI Cost" already accounts for the gradual absorption of standard DWP welfare schemes as the weekly payout values scale up.
